@@ -1,0 +1,26 @@
+#                                                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Condensation         PF00668.23   457 ERR4065CAT_bins.3.fa_antismash_k141_3923.region001_ORF1:gid::pid::loc:0:6753:strand:+ -           2250  1.3e-221  736.3   8.8   1   2  5.2e-114  2.6e-110  369.4   0.4     4   456   119   557   116   558 0.94 Condensation domain
+Condensation         PF00668.23   457 ERR4065CAT_bins.3.fa_antismash_k141_3923.region001_ORF1:gid::pid::loc:0:6753:strand:+ -           2250  1.3e-221  736.3   8.8   2   2  2.1e-114  1.1e-110  370.7   2.7     5   457  1180  1621  1177  1621 0.95 Condensation domain
+AMP-binding          PF00501.31   424 ERR4065CAT_bins.3.fa_antismash_k141_3923.region001_ORF1:gid::pid::loc:0:6753:strand:+ -           2250  1.6e-183  610.3   0.0   1   2   3.9e-95   1.9e-91  306.9   0.0     1   424   577   986   577   986 0.89 AMP-binding enzyme
+AMP-binding          PF00501.31   424 ERR4065CAT_bins.3.fa_antismash_k141_3923.region001_ORF1:gid::pid::loc:0:6753:strand:+ -           2250  1.6e-183  610.3   0.0   2   2   1.8e-93   8.7e-90  301.5   0.0     2   424  1642  2048  1641  2048 0.86 AMP-binding enzyme
+PP-binding           PF00550.28    67 ERR4065CAT_bins.3.fa_antismash_k141_3923.region001_ORF1:gid::pid::loc:0:6753:strand:+ -           2250   3.4e-52  174.7   5.1   1   3   2.1e-17     1e-13   51.5   0.2     1    65    36    98    36   100 0.93 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 ERR4065CAT_bins.3.fa_antismash_k141_3923.region001_ORF1:gid::pid::loc:0:6753:strand:+ -           2250   3.4e-52  174.7   5.1   2   3   6.8e-19   3.3e-15   56.2   0.1     1    66  1096  1159  1096  1160 0.94 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 ERR4065CAT_bins.3.fa_antismash_k141_3923.region001_ORF1:gid::pid::loc:0:6753:strand:+ -           2250   3.4e-52  174.7   5.1   3   3     9e-21   4.4e-17   62.3   0.1     1    67  2160  2224  2160  2224 0.96 Phosphopantetheine attachment site
+AMP-binding_C        PF13193.9     76 ERR4065CAT_bins.3.fa_antismash_k141_3923.region001_ORF1:gid::pid::loc:0:6753:strand:+ -           2250   1.1e-28  100.1   0.0   1   2   1.1e-16   5.3e-13   49.9   0.0     1    76   994  1069   994  1069 0.92 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.9     76 ERR4065CAT_bins.3.fa_antismash_k141_3923.region001_ORF1:gid::pid::loc:0:6753:strand:+ -           2250   1.1e-28  100.1   0.0   2   2   9.5e-16   4.7e-12   46.8   0.0     1    76  2056  2133  2056  2133 0.90 AMP-binding enzyme C-terminal domain
+RHS_repeat           PF05593.17    38 ERR4065CAT_bins.3.fa_antismash_k141_3923.region001_ORF2:gid::pid::loc:6901:9283:strand:+ -            794   8.7e-27   93.3  35.4   1   2   7.7e-11   5.1e-07   30.2   1.2     4    37   627   660   623   661 0.95 RHS Repeat
+RHS_repeat           PF05593.17    38 ERR4065CAT_bins.3.fa_antismash_k141_3923.region001_ORF2:gid::pid::loc:6901:9283:strand:+ -            794   8.7e-27   93.3  35.4   2   2   1.5e-11     1e-07   32.5   0.4     1    34   688   721   688   725 0.95 RHS Repeat
+DUF6531              PF20148.2     74 ERR4065CAT_bins.3.fa_antismash_k141_3923.region001_ORF2:gid::pid::loc:6901:9283:strand:+ -            794   5.8e-19   68.3   1.3   1   1     8e-21   5.2e-17   62.0   0.0     1    73   286   366   286   367 0.87 Domain of unknown function (DUF6531)
+PAAR_motif           PF05488.16    70 ERR4065CAT_bins.3.fa_antismash_k141_3923.region001_ORF2:gid::pid::loc:6901:9283:strand:+ -            794   5.9e-12   45.7   6.7   1   1   3.2e-14   2.1e-10   40.8   0.4    30    68   191   233   189   235 0.88 PAAR motif
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/ERR4065CAT_bins.3.fa_antismash_k141_3923.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/ERR4065CAT_bins.3.fa_antismash_k141_3923.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/ERR4065CAT_bins.3.fa_antismash_k141_3923.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 21:59:35 2024
+# [ok]

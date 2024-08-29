@@ -1,0 +1,22 @@
+#                                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DAHP_synth_2         PF01474.19   437 SRR14196804.3.fa_antismash_k141_72456.region001_ORF1:gid::pid::loc:117:1455:strand:- -            445  1.2e-194  646.9   0.0   1   1  7.2e-199  1.4e-194  646.8   0.0     4   437     9   439     6   439 0.99 Class-II DAHP synthetase family
+Acyltransferase      PF01553.24   135 SRR14196804.3.fa_antismash_k141_72456.region001_ORF2:gid::pid::loc:1459:2167:strand:- -            235   2.4e-24   85.6   0.0   1   1   1.7e-28   3.3e-24   85.2   0.0     4   134    18   146    15   147 0.94 Acyltransferase
+AMP-binding          PF00501.31   424 SRR14196804.3.fa_antismash_k141_72456.region001_ORF3:gid::pid::loc:2329:4177:strand:+ -            615   3.7e-88  296.1   0.0   1   1   2.2e-92   4.4e-88  295.8   0.0     3   423    30   473    28   474 0.85 AMP-binding enzyme
+Pep_deformylase      PF01327.24   159 SRR14196804.3.fa_antismash_k141_72456.region001_ORF4:gid::pid::loc:4228:4720:strand:- -            163   8.3e-33  113.3   0.0   1   1     5e-37   9.8e-33  113.1   0.0     3   157     5   149     3   151 0.96 Polypeptide deformylase
+CbiA                 PF01656.26   127 SRR14196804.3.fa_antismash_k141_72456.region001_ORF5:gid::pid::loc:4723:6184:strand:- -            486     1e-10   41.9   0.0   1   1   1.5e-13   1.5e-09   38.1   0.0     1   116   239   448   239   452 0.70 CobQ/CobB/MinD/ParA nucleotide binding domain
+AAA_31               PF13614.9    177 SRR14196804.3.fa_antismash_k141_72456.region001_ORF5:gid::pid::loc:4723:6184:strand:- -            486   1.4e-07   31.7   0.0   1   1   2.3e-11   2.3e-07   31.0   0.0     2    86   237   325   236   350 0.70 AAA domain
+PYC_OADA             PF02436.21   201 SRR14196804.3.fa_antismash_k141_72456.region001_ORF6:gid::pid::loc:6234:7854:strand:- -            539   3.9e-51  173.7   0.0   1   1   1.2e-54   5.8e-51  173.2   0.0     1   198   229   417   229   420 0.93 Conserved carboxylase domain
+HMGL-like            PF00682.22   264 SRR14196804.3.fa_antismash_k141_72456.region001_ORF6:gid::pid::loc:6234:7854:strand:- -            539   8.8e-23   81.3   0.5   1   1   3.1e-26   1.5e-22   80.5   0.5    73   259    24   203     7   207 0.91 HMGL-like
+Biotin_lipoyl        PF00364.25    73 SRR14196804.3.fa_antismash_k141_72456.region001_ORF6:gid::pid::loc:6234:7854:strand:- -            539   9.8e-15   54.3   1.3   1   1   4.6e-18   2.3e-14   53.1   1.3    15    73   477   535   466   535 0.92 Biotin-requiring enzyme
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/SRR14196804.3.fa_antismash_k141_72456.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/SRR14196804.3.fa_antismash_k141_72456.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/SRR14196804.3.fa_antismash_k141_72456.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 18:18:45 2024
+# [ok]

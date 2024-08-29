@@ -1,0 +1,114 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="383.03333333333336" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="373.03333333333336" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg30_36)</title>
+			<polygon class=" (ctg30_36)" points="49,40 71,10 71,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg30_37)</title>
+			<polygon class=" (ctg30_37)" points="77,40 97,10 97,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short_C2 (PF13561)
+"Enoyl-(Acyl carrier protein) reductase"</title>
+				<polygon class="PF13561" points="81,40 89,28 95,28 95,52 89,52" stroke-linejoin="round" width="18" height="24" fill="rgb(73,205,127)" stroke="rgb(58,164,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg30_38)</title>
+			<polygon class=" (ctg30_38)" points="101,25 101,25 101,10 131,40 101,70 101,55 101,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_1 (PF00126)
+"Bacterial regulatory helix-turn-helix protein, lysR family"</title>
+				<rect class="PF00126" x="101" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(125,227,79)" stroke="rgb(99,181,63)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LysR_substrate (PF03466)
+"LysR substrate binding domain"</title>
+				<polygon class="PF03466" points="109,28 114,28 126,40 114,52 109,52" stroke-linejoin="round" width="20" height="24" fill="rgb(55,136,195)" stroke="rgb(44,108,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg30_39)</title>
+			<polygon class=" (ctg30_39)" points="134,40 151,10 151,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DoxX (PF07681)
+"DoxX"</title>
+				<polygon class="PF07681" points="138,38 144,28 148,28 148,52 144,52 138,42" stroke-linejoin="round" width="10" height="24" fill="rgb(93,188,216)" stroke="rgb(74,150,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg30_40)</title>
+			<polygon class=" (ctg30_40)" points="151,40 176,10 176,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2063 (PF09836)
+"Putative DNA-binding domain"</title>
+				<rect class="PF09836" x="167" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(88,194,190)" stroke="rgb(70,155,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg30_41)</title>
+			<polygon class=" (ctg30_41)" points="176,40 205,10 205,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF692 (PF05114)
+"Protein of unknown function (DUF692)"</title>
+				<polygon class="PF05114" points="180,40 192,28 202,28 202,52 192,52" stroke-linejoin="round" width="26" height="24" fill="rgb(63,196,127)" stroke="rgb(50,156,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg30_42)</title>
+			<polygon class=" (ctg30_42)" points="207,40 217,10 217,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2282 (PF10048)
+"Predicted integral membrane protein (DUF2282)"</title>
+				<polygon class="PF10048" points="210,40 212,34 212,46" stroke-linejoin="round" width="5" height="24" fill="rgb(58,205,168)" stroke="rgb(46,164,134)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg30_43)</title>
+			<polygon class=" (ctg30_43)" points="222,40 245,10 245,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="229,36 235,28 243,28 243,52 235,52 229,44" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg30_44)</title>
+			<polygon class=" (ctg30_44)" points="245,40 270,10 270,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BCA_ABC_TP_C (PF12399)
+"Branched-chain amino acid ATP-binding cassette transporter"</title>
+				<polygon class="PF12399" points="249,40 247,42 247,38" stroke-linejoin="round" width="2" height="24" fill="rgb(205,68,53)" stroke="rgb(164,54,42)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="252,36 259,28 268,28 268,52 259,52 252,44" stroke-linejoin="round" width="16" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg30_45)</title>
+			<polygon class=" (ctg30_45)" points="312,25 301,25 301,10 271,40 301,70 301,55 312,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BPD_transp_2 (PF02653)
+"Branched-chain amino acid transport system / permease component"</title>
+				<polygon class="PF02653" points="275,40 287,28 301,28 301,52 287,52" stroke-linejoin="round" width="28" height="24" fill="rgb(69,130,196)" stroke="rgb(55,104,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF3382 (PF11862)
+"Domain of unknown function (DUF3382)"</title>
+				<rect class="PF11862" x="302" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(186,152,63)" stroke="rgb(148,121,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg30_46)</title>
+			<polygon class=" (ctg30_46)" points="343,25 343,25 343,10 313,40 343,70 343,55 343,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BPD_transp_2 (PF02653)
+"Branched-chain amino acid transport system / permease component"</title>
+				<polygon class="PF02653" points="317,40 329,28 342,28 342,52 329,52" stroke-linejoin="round" width="28" height="24" fill="rgb(69,130,196)" stroke="rgb(55,104,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,139 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="633.9" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="623.9" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg2_294)</title>
+			<polygon class=" (ctg2_294)" points="21,25 64,25 64,10 94,40 64,70 64,55 21,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Plug (PF07715)
+"TonB-dependent Receptor Plug Domain"</title>
+				<rect class="PF07715" x="26" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(99,133,214)" stroke="rgb(79,106,171)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TonB_dep_Rec (PF00593)
+"TonB dependent receptor"</title>
+				<polygon class="PF00593" points="45,28 77,28 89,40 77,52 45,52" stroke-linejoin="round" width="48" height="24" fill="rgb(171,200,51)" stroke="rgb(136,160,40)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_295)</title>
+			<polygon class=" (ctg2_295)" points="106,40 126,10 126,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_8 (PF13523)
+"Acetyltransferase (GNAT) domain"</title>
+				<polygon class="PF13523" points="110,40 118,28 123,28 123,52 118,52" stroke-linejoin="round" width="14" height="24" fill="rgb(106,224,203)" stroke="rgb(84,179,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_296)</title>
+			<polygon class=" (ctg2_296)" points="127,40 147,10 147,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RraA-like (PF03737)
+"Aldolase/RraA"</title>
+				<polygon class="PF03737" points="131,40 139,28 146,28 146,52 139,52 131,40" stroke-linejoin="round" width="15" height="24" fill="rgb(59,211,194)" stroke="rgb(47,168,155)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_297)</title>
+			<polygon class=" (ctg2_297)" points="148,40 177,10 177,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FhuF_C (PF11575)
+"FhuF 2Fe-2S C-terminal domain"</title>
+				<polygon class="PF11575" points="152,40 151,41 151,39" stroke-linejoin="round" width="2" height="24" fill="rgb(216,71,91)" stroke="rgb(172,56,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_298)</title>
+			<polygon class=" (ctg2_298)" points="238,25 206,25 206,10 176,40 206,70 206,55 238,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="180,40 192,28 192,28 192,52 192,52" stroke-linejoin="round" width="15" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<rect class="PF04183" x="197" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_299)</title>
+			<polygon class=" (ctg2_299)" points="301,25 270,25 270,10 240,40 270,70 270,55 301,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="244,40 256,28 258,28 258,52 256,52" stroke-linejoin="round" width="17" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<rect class="PF04183" x="260" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_300)</title>
+			<polygon class=" (ctg2_300)" points="350,25 332,25 332,10 302,40 332,70 332,55 350,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="308,38 318,28 347,28 347,52 318,52 308,42" stroke-linejoin="round" width="39" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_301)</title>
+			<polygon class=" (ctg2_301)" points="397,25 381,25 381,10 351,40 381,70 381,55 397,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lys_Orn_oxgnase (PF13434)
+"L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase"</title>
+				<polygon class="PF13434" points="363,32 367,28 397,28 397,52 367,52 363,48" stroke-linejoin="round" width="34" height="24" fill="rgb(81,213,119)" stroke="rgb(64,170,95)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_302)</title>
+			<polygon class=" (ctg2_302)" points="456,25 427,25 427,10 397,40 427,70 427,55 456,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="401,40 413,28 415,28 415,52 413,52" stroke-linejoin="round" width="16" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<rect class="PF04183" x="418" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_303)</title>
+			<polygon class=" (ctg2_303)" points="479,25 523,25 523,10 553,40 523,70 523,55 479,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Plug (PF07715)
+"TonB-dependent Receptor Plug Domain"</title>
+				<rect class="PF07715" x="485" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(99,133,214)" stroke="rgb(79,106,171)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TonB_dep_Rec (PF00593)
+"TonB dependent receptor"</title>
+				<polygon class="PF00593" points="505,28 537,28 549,40 537,52 505,52" stroke-linejoin="round" width="48" height="24" fill="rgb(171,200,51)" stroke="rgb(136,160,40)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_304)</title>
+			<polygon class=" (ctg2_304)" points="562,25 576,25 576,10 606,40 576,70 576,55 562,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>IMS (PF00817)
+"impB/mucB/samB family"</title>
+				<rect class="PF00817" x="563" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(187,207,75)" stroke="rgb(149,165,60)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>IMS_C (PF11799)
+"impB/mucB/samB family C-terminal domain"</title>
+				<polygon class="PF11799" points="587,28 589,28 598,37 598,43 589,52 587,52" stroke-linejoin="round" width="11" height="24" fill="rgb(68,195,187)" stroke="rgb(54,156,149)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF4113 (PF13438)
+"Domain of unknown function (DUF4113)"</title>
+				<polygon class="PF13438" points="600,39 601,40 600,41" stroke-linejoin="round" width="5" height="24" fill="rgb(228,106,127)" stroke="rgb(182,84,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

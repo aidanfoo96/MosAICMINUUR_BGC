@@ -1,0 +1,28 @@
+#                                                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MIase                PF02426.19    90 AS116_contigs.fa_antismash_contig00001.region001_ORF1:gid::pid::loc:1004:1295:strand:- -             96   2.5e-41  139.8   0.2   1   1   1.4e-45   2.8e-41  139.7   0.2     1    90     1    90     1    90 0.99 Muconolactone delta-isomerase
+MR_MLE_C             PF13378.9    220 AS116_contigs.fa_antismash_contig00001.region001_ORF2:gid::pid::loc:1307:2423:strand:- -            371   1.3e-42  146.0   0.0   1   1   1.9e-46   1.9e-42  145.5   0.0     4   219   149   362   146   363 0.96 Enolase C-terminal domain-like
+MR_MLE_N             PF02746.19   117 AS116_contigs.fa_antismash_contig00001.region001_ORF2:gid::pid::loc:1307:2423:strand:- -            371   1.4e-31  109.2   0.1   1   1     3e-35     3e-31  108.2   0.1     2   117     5   126     4   126 0.93 Mandelate racemase / muconate lactonizing enzyme, N-terminal domain
+LysR_substrate       PF03466.23   209 AS116_contigs.fa_antismash_contig00001.region001_ORF3:gid::pid::loc:2534:3467:strand:+ -            310   1.6e-37  129.0   0.5   1   1   2.5e-41   2.5e-37  128.5   0.5     4   204    88   288    86   292 0.95 LysR substrate binding domain
+HTH_1                PF00126.30    60 AS116_contigs.fa_antismash_contig00001.region001_ORF3:gid::pid::loc:2534:3467:strand:+ -            310   3.1e-24   84.8   0.3   1   1   1.2e-27   1.2e-23   82.9   0.2     1    60     3    62     3    62 0.97 Bacterial regulatory helix-turn-helix protein, lysR family
+Amidohydro_2         PF04909.17   288 AS116_contigs.fa_antismash_contig00001.region001_ORF4:gid::pid::loc:3665:4739:strand:+ -            357   3.9e-20   72.9   0.1   1   1   2.7e-24   5.3e-20   72.5   0.1     2   287    10   353     9   354 0.87 Amidohydrolase
+YcaO                 PF02624.19   322 AS116_contigs.fa_antismash_contig00001.region001_ORF5:gid::pid::loc:5000:7196:strand:+ -            731   3.5e-74  250.2   0.0   1   1   7.9e-78   5.2e-74  249.6   0.0     1   321   205   540   205   541 0.91 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+YcaO_C               PF18381.4    172 AS116_contigs.fa_antismash_contig00001.region001_ORF5:gid::pid::loc:5000:7196:strand:+ -            731   2.3e-74  249.1   3.7   1   1     7e-78   4.6e-74  248.1   3.7     1   172   557   728   557   728 0.99 YcaO cyclodehydratase C-terminal domain
+OsmC                 PF02566.22   100 AS116_contigs.fa_antismash_contig00001.region001_ORF5:gid::pid::loc:5000:7196:strand:+ -            731   1.6e-08   35.1   0.0   1   1   1.7e-11   1.1e-07   32.3   0.0     1    99    32   126    32   127 0.85 OsmC-like protein
+DUF6670              PF20375.1    294 AS116_contigs.fa_antismash_contig00001.region001_ORF6:gid::pid::loc:7418:8504:strand:+ -            361   1.7e-78  263.8   1.6   1   1   1.1e-82   2.1e-78  263.6   1.6     1   284    77   358    77   361 0.97 Family of unknown function (DUF6670)
+adh_short            PF00106.28   195 AS116_contigs.fa_antismash_contig00001.region001_ORF7:gid::pid::loc:8520:9315:strand:+ -            264   1.6e-51  174.7   0.1   1   1   4.4e-55   2.9e-51  173.9   0.0     1   189     6   196     6   201 0.96 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 AS116_contigs.fa_antismash_contig00001.region001_ORF7:gid::pid::loc:8520:9315:strand:+ -            264   8.8e-37  127.0   0.0   1   1   1.7e-40   1.1e-36  126.7   0.0     1   188    12   203    12   223 0.88 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.13   180 AS116_contigs.fa_antismash_contig00001.region001_ORF7:gid::pid::loc:8520:9315:strand:+ -            264   7.9e-09   35.8   0.0   1   1   1.8e-12   1.2e-08   35.2   0.0     2   163     7   170     6   188 0.79 KR domain
+DUF1989              PF09347.13   167 AS116_contigs.fa_antismash_contig00001.region001_ORF8:gid::pid::loc:9692:10430:strand:+ -            245   3.9e-43  147.1   0.1   1   1   2.8e-47   5.4e-43  146.7   0.1     2   167    14   184    13   184 0.98 Domain of unknown function (DUF1989)
+DUF1989              PF09347.13   167 AS116_contigs.fa_antismash_contig00001.region001_ORF9:gid::pid::loc:10447:11101:strand:+ -            217   4.3e-62  208.8   0.0   1   1   2.6e-66   5.1e-62  208.6   0.0     2   167    15   186    14   186 0.97 Domain of unknown function (DUF1989)
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/AS116_contigs.fa_antismash_contig00001.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/AS116_contigs.fa_antismash_contig00001.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/AS116_contigs.fa_antismash_contig00001.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 18:16:20 2024
+# [ok]

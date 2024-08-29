@@ -1,0 +1,20 @@
+#                                                                                                                                         --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                        accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                              -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+IucA_IucC            PF04183.15   239 SRR14196806.2.fa_antismash_k141_37950.region001_ORF2:gid::pid::loc:223:2140:strand:- -            638   1.1e-54  185.7   0.0   1   1   2.2e-58   2.1e-54  184.7   0.0     4   238   193   430   190   431 0.94 IucA / IucC family
+FhuF                 PF06276.15   163 SRR14196806.2.fa_antismash_k141_37950.region001_ORF2:gid::pid::loc:223:2140:strand:- -            638   1.6e-21   77.5   2.9   1   1   1.6e-25   1.6e-21   77.5   2.9     3   157   459   619   457   624 0.85 Ferric iron reductase FhuF-like transporter
+MCPsignal            PF00015.24   172 SRR14196806.2.fa_antismash_k141_37950.region001_ORF5:gid::pid::loc:4080:5709:strand:+ -            542   7.6e-55  185.5  22.3   1   1   1.2e-58   7.6e-55  185.5  22.3     1   172   318   475   318   475 0.98 Methyl-accepting chemotaxis protein (MCP) signalling domain
+sCache_2             PF17200.7    156 SRR14196806.2.fa_antismash_k141_37950.region001_ORF5:gid::pid::loc:4080:5709:strand:+ -            542   8.3e-17   61.7   0.1   1   1   1.3e-20   8.3e-17   61.7   0.1     3   152    35   179    33   182 0.85 Single Cache domain 2
+dCache_2             PF08269.14   296 SRR14196806.2.fa_antismash_k141_37950.region001_ORF5:gid::pid::loc:4080:5709:strand:+ -            542   6.6e-11   42.1   0.1   1   1     1e-14   6.6e-11   42.1   0.1    45   194    36   182    28   185 0.87 Cache domain
+DUF695               PF05117.15   134 SRR14196806.2.fa_antismash_k141_37950.region001_ORF6:gid::pid::loc:5840:6623:strand:+ -            260   2.9e-38  131.2   0.1   1   1   2.2e-41   2.2e-37  128.4   0.0     1   134     3   143     3   143 0.92 Family of unknown function (DUF695)
+RraB                 PF06877.14   102 SRR14196806.2.fa_antismash_k141_37950.region001_ORF6:gid::pid::loc:5840:6623:strand:+ -            260   1.5e-19   70.6   0.1   1   1   3.6e-23   3.6e-19   69.4   0.1     2   102   152   251   151   251 0.97 Regulator of ribonuclease activity B
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/SRR14196806.2.fa_antismash_k141_37950.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/SRR14196806.2.fa_antismash_k141_37950.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/SRR14196806.2.fa_antismash_k141_37950.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 22:35:27 2024
+# [ok]

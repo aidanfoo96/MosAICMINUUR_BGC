@@ -1,0 +1,127 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="381.23333333333335" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="371.23333333333335" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg2_609)</title>
+			<polygon class=" (ctg2_609)" points="31,25 40,25 40,10 70,40 40,70 40,55 31,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Arm-DNA-bind_3 (PF13356)
+"Arm DNA-binding domain"</title>
+				<rect class="PF13356" x="31" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(47,183,132)" stroke="rgb(37,146,105)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Phage_integrase (PF00589)
+"Phage integrase family"</title>
+				<polygon class="PF00589" points="51,28 54,28 66,40 66,40 54,52 51,52" stroke-linejoin="round" width="15" height="24" fill="rgb(91,96,195)" stroke="rgb(72,76,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_610)</title>
+			<polygon class=" (ctg2_610)" points="94,40 111,10 111,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AhpC-TSA (PF00578)
+"AhpC/TSA family"</title>
+				<polygon class="PF00578" points="97,40 104,28 110,28 110,52 104,52 97,40" stroke-linejoin="round" width="13" height="24" fill="rgb(166,71,190)" stroke="rgb(132,56,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_611)</title>
+			<polygon class=" (ctg2_611)" points="119,40 133,10 133,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF6789 (PF20587)
+"Family of unknown function (DUF6789)"</title>
+				<polygon class="PF20587" points="122,40 128,28 133,28 133,52 128,52" stroke-linejoin="round" width="14" height="24" fill="rgb(66,64,188)" stroke="rgb(52,51,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_612)</title>
+			<polygon class=" (ctg2_612)" points="136,40 151,10 151,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DoxX (PF07681)
+"DoxX"</title>
+				<polygon class="PF07681" points="139,40 145,28 147,28 147,52 145,52 139,40" stroke-linejoin="round" width="8" height="24" fill="rgb(93,188,216)" stroke="rgb(74,150,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_613)</title>
+			<polygon class=" (ctg2_613)" points="152,40 176,10 176,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2063 (PF09836)
+"Putative DNA-binding domain"</title>
+				<rect class="PF09836" x="167" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(88,194,190)" stroke="rgb(70,155,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_614)</title>
+			<polygon class=" (ctg2_614)" points="176,40 203,10 203,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF692 (PF05114)
+"Protein of unknown function (DUF692)"</title>
+				<polygon class="PF05114" points="180,40 191,28 202,28 202,52 191,52" stroke-linejoin="round" width="26" height="24" fill="rgb(63,196,127)" stroke="rgb(50,156,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_615)</title>
+			<polygon class=" (ctg2_615)" points="204,40 213,10 213,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2282 (PF10048)
+"Predicted integral membrane protein (DUF2282)"</title>
+				<polygon class="PF10048" points="207,40 209,34 209,46" stroke-linejoin="round" width="5" height="24" fill="rgb(58,205,168)" stroke="rgb(46,164,134)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_616)</title>
+			<polygon class=" (ctg2_616)" points="219,10 237,40 219,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sigma70_r2 (PF04542)
+"Sigma-70 region 2"</title>
+				<polygon class="PF04542" points="222,28 226,28 228,31 228,49 226,52 222,52" stroke-linejoin="round" width="6" height="24" fill="rgb(184,59,197)" stroke="rgb(147,47,157)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sigma70_r4_2 (PF08281)
+"Sigma-70, region 4"</title>
+				<polygon class="PF08281" points="231,36 234,40 231,44" stroke-linejoin="round" width="5" height="24" fill="rgb(222,103,144)" stroke="rgb(177,82,115)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_617)</title>
+			<polygon class=" (ctg2_617)" points="237,10 258,40 237,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NrsF (PF06532)
+"Negative regulator of sigma F"</title>
+				<polygon class="PF06532" points="238,28 246,28 254,40 246,52 238,52" stroke-linejoin="round" width="20" height="24" fill="rgb(100,222,119)" stroke="rgb(80,177,95)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_618)</title>
+			<polygon class=" (ctg2_618)" points="258,10 269,40 258,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2_619)</title>
+			<polygon class=" (ctg2_619)" points="275,10 287,40 275,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Thioredoxin (PF00085)
+"Thioredoxin"</title>
+				<polygon class="PF00085" points="277,28 279,28 284,40 279,52 277,52" stroke-linejoin="round" width="10" height="24" fill="rgb(220,109,180)" stroke="rgb(176,87,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_620)</title>
+			<polygon class=" (ctg2_620)" points="287,10 311,40 287,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DsbD (PF02683)
+"Cytochrome C biogenesis protein transmembrane region"</title>
+				<polygon class="PF02683" points="287,28 297,28 307,40 307,40 297,52 287,52" stroke-linejoin="round" width="20" height="24" fill="rgb(89,192,111)" stroke="rgb(71,153,88)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_621)</title>
+			<polygon class=" (ctg2_621)" points="314,10 340,40 314,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HAD_2 (PF13419)
+"Haloacid dehalogenase-like hydrolase"</title>
+				<polygon class="PF13419" points="323,28 325,28 335,39 335,41 325,52 323,52" stroke-linejoin="round" width="12" height="24" fill="rgb(60,223,188)" stroke="rgb(48,178,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,29 @@
+#                                                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MarR_2               PF12802.10    61 MMO-68_contigs.fa_antismash_contig00001.region002_ORF10:gid::pid::loc:4062:4713:strand:+ -            216   3.2e-07   30.4   0.0   1   1   7.4e-11   7.3e-07   29.3   0.0     4    61    91   147    89   147 0.97 MarR family
+CarbopepD_reg_2      PF13715.9     88 MMO-68_contigs.fa_antismash_contig00001.region002_ORF11:gid::pid::loc:4944:7269:strand:+ -            774   1.4e-17   63.6   2.0   1   1   2.2e-21   1.4e-17   63.6   2.0     1    88    26   110    26   110 0.94 CarboxypepD_reg-like domain
+Plug                 PF07715.18   108 MMO-68_contigs.fa_antismash_contig00001.region002_ORF11:gid::pid::loc:4944:7269:strand:+ -            774   2.6e-10   41.0   0.2   1   1   1.2e-13     8e-10   39.4   0.1    21   103   142   220   128   223 0.93 TonB-dependent Receptor Plug Domain
+CarboxypepD_reg      PF13620.9     82 MMO-68_contigs.fa_antismash_contig00001.region002_ORF11:gid::pid::loc:4944:7269:strand:+ -            774   1.7e-08   34.7   0.3   1   1   2.7e-12   1.7e-08   34.7   0.3     2    76    26    95    25    99 0.90 Carboxypeptidase regulatory-like domain
+DUF4249              PF14054.9    276 MMO-68_contigs.fa_antismash_contig00001.region002_ORF12:gid::pid::loc:7273:8077:strand:+ -            267   8.9e-25   87.9   8.7   1   1   5.4e-29   1.1e-24   87.6   8.7     1   272    20   251    20   254 0.79 Domain of unknown function (DUF4249)
+Transthyretin        PF00576.24   110 MMO-68_contigs.fa_antismash_contig00001.region002_ORF13:gid::pid::loc:8116:8506:strand:+ -            129   1.1e-35  122.8   0.0   1   1   6.5e-40   1.3e-35  122.6   0.0     1   110    20   128    20   128 0.98 HIUase/Transthyretin family
+Amino_oxidase        PF01593.27   452 MMO-68_contigs.fa_antismash_contig00001.region002_ORF14:gid::pid::loc:8511:9996:strand:+ -            494   9.3e-28   97.8   0.0   1   1   3.5e-31   1.1e-27   97.5   0.0     1   451    14   487    14   488 0.78 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.9     68 MMO-68_contigs.fa_antismash_contig00001.region002_ORF14:gid::pid::loc:8511:9996:strand:+ -            494   3.4e-16   59.3   0.0   1   1     3e-19   9.8e-16   57.9   0.0     1    56     9    65     9    74 0.90 NAD(P)-binding Rossmann-like domain
+DAO                  PF01266.27   353 MMO-68_contigs.fa_antismash_contig00001.region002_ORF14:gid::pid::loc:8511:9996:strand:+ -            494   3.3e-11   43.5   0.0   1   1   3.3e-10   1.1e-06   28.7   0.0     1    37     6    41     6   139 0.82 FAD dependent oxidoreductase
+FAD_binding_2        PF00890.27   417 MMO-68_contigs.fa_antismash_contig00001.region002_ORF14:gid::pid::loc:8511:9996:strand:+ -            494   1.3e-06   27.9   0.3   1   1   2.5e-08   8.2e-05   22.0   0.2     2    36     7    41     6    48 0.89 FAD binding domain
+SQS_PSY              PF00494.22   263 MMO-68_contigs.fa_antismash_contig00001.region002_ORF15:gid::pid::loc:10000:10837:strand:+ -            278     9e-38  130.4   0.0   1   1   1.1e-38   2.2e-34  119.3   0.0     2   181    18   195    17   207 0.93 Squalene/phytoene synthase
+FA_hydroxylase       PF04116.16   133 MMO-68_contigs.fa_antismash_contig00001.region002_ORF16:gid::pid::loc:10845:11304:strand:+ -            152   8.7e-11   42.4  13.3   1   1   5.6e-15   1.1e-10   42.1  13.3     2   120     7   133     6   141 0.67 Fatty acid hydroxylase
+Lycopene_cyc         PF18916.3     92 MMO-68_contigs.fa_antismash_contig00001.region002_ORF17:gid::pid::loc:11300:12023:strand:+ -            240     2e-33  114.8  34.7   1   2   8.3e-20   1.6e-15   57.5  11.4     2    91     4    95     3    96 0.90 Lycopene cyclase
+Lycopene_cyc         PF18916.3     92 MMO-68_contigs.fa_antismash_contig00001.region002_ORF17:gid::pid::loc:11300:12023:strand:+ -            240     2e-33  114.8  34.7   2   2   1.4e-23   2.8e-19   69.5   8.5     1    92   129   224   129   224 0.91 Lycopene cyclase
+Isochorismatase      PF00857.23   175 MMO-68_contigs.fa_antismash_contig00001.region002_ORF18:gid::pid::loc:12115:12628:strand:+ -            170     1e-28  100.8   0.0   1   1   5.7e-33   1.1e-28  100.7   0.0    22   153    14   133     1   149 0.93 Isochorismatase family
+Colicin_immun        PF09204.13    88 MMO-68_contigs.fa_antismash_contig00001.region002_ORF20:gid::pid::loc:12833:13046:strand:+ -             70   1.6e-08   35.2   0.0   1   1     1e-12     2e-08   34.9   0.0     3    53     7    56     4    59 0.93 Bacterial self-protective colicin-like immunity
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/MMO-68_contigs.fa_antismash_contig00001.region002.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/MMO-68_contigs.fa_antismash_contig00001.region002.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/MMO-68_contigs.fa_antismash_contig00001.region002.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 20:55:14 2024
+# [ok]

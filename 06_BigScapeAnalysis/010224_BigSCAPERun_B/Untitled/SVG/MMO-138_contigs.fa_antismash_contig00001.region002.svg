@@ -1,0 +1,127 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="380.03333333333336" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="370.03333333333336" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg1_145)</title>
+			<polygon class=" (ctg1_145)" points="16,40 43,10 43,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MLTR_LBD (PF17765)
+"MmyB-like transcription regulator ligand binding domain"</title>
+				<polygon class="PF17765" points="20,40 31,28 32,28 32,52 31,52" stroke-linejoin="round" width="15" height="24" fill="rgb(190,109,59)" stroke="rgb(152,87,47)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_31 (PF13560)
+"Helix-turn-helix domain"</title>
+				<rect class="PF13560" x="35" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(207,145,90)" stroke="rgb(165,116,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_146)</title>
+			<polygon class=" (ctg1_146)" points="86,25 76,25 76,10 46,40 76,70 76,55 86,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_30 (PF13556)
+"PucR C-terminal helix-turn-helix domain"</title>
+				<polygon class="PF13556" points="50,40 52,38 52,42" stroke-linejoin="round" width="5" height="24" fill="rgb(180,199,81)" stroke="rgb(144,159,64)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GGDEF_2 (PF17853)
+"GGDEF-like domain"</title>
+				<polygon class="PF17853" points="58,32 62,28 69,28 69,52 62,52 58,48" stroke-linejoin="round" width="11" height="24" fill="rgb(202,193,91)" stroke="rgb(161,154,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_147)</title>
+			<polygon class=" (ctg1_147)" points="96,10 104,40 96,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_148)</title>
+			<polygon class=" (ctg1_148)" points="105,10 134,40 105,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Epimerase (PF01370)
+"NAD dependent epimerase/dehydratase family"</title>
+				<polygon class="PF01370" points="105,28 118,28 126,36 126,44 118,52 105,52" stroke-linejoin="round" width="21" height="24" fill="rgb(98,102,214)" stroke="rgb(78,81,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_149)</title>
+			<polygon class=" (ctg1_149)" points="141,25 145,25 145,10 175,40 145,70 145,55 141,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Dyp_perox (PF04261)
+"Dyp-type peroxidase family"</title>
+				<polygon class="PF04261" points="141,28 158,28 170,40 170,40 158,52 141,52" stroke-linejoin="round" width="29" height="24" fill="rgb(189,65,79)" stroke="rgb(151,51,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_150)</title>
+			<polygon class=" (ctg1_150)" points="176,10 202,40 176,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Linocin_M18 (PF04454)
+"Encapsulating protein for peroxidase"</title>
+				<polygon class="PF04454" points="176,28 187,28 198,40 187,52 176,52" stroke-linejoin="round" width="25" height="24" fill="rgb(89,100,181)" stroke="rgb(71,80,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_151)</title>
+			<polygon class=" (ctg1_151)" points="203,10 215,40 203,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF488 (PF04343)
+"Protein of unknown function, DUF488"</title>
+				<polygon class="PF04343" points="204,28 207,28 212,40 207,52 204,52" stroke-linejoin="round" width="11" height="24" fill="rgb(200,173,51)" stroke="rgb(160,138,40)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_152)</title>
+			<polygon class=" (ctg1_152)" points="216,40 221,10 221,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_153)</title>
+			<polygon class=" (ctg1_153)" points="228,10 243,40 228,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Hemerythrin (PF01814)
+"Hemerythrin HHE cation binding domain"</title>
+				<polygon class="PF01814" points="229,28 233,28 240,40 233,52 229,52" stroke-linejoin="round" width="12" height="24" fill="rgb(120,91,227)" stroke="rgb(95,72,181)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_154)</title>
+			<polygon class=" (ctg1_154)" points="248,10 263,40 248,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YCII (PF03795)
+"YCII-related domain"</title>
+				<polygon class="PF03795" points="250,28 253,28 260,40 253,52 250,52" stroke-linejoin="round" width="11" height="24" fill="rgb(54,71,186)" stroke="rgb(43,56,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_155)</title>
+			<polygon class=" (ctg1_155)" points="269,25 274,25 274,10 304,40 274,70 274,55 269,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sigma70_r2 (PF04542)
+"Sigma-70 region 2"</title>
+				<rect class="PF04542" x="270" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(184,59,197)" stroke="rgb(147,47,157)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF6596 (PF20239)
+"Family of unknown function (DUF6596)"</title>
+				<polygon class="PF20239" points="288,28 288,28 298,38 298,42 288,52 288,52" stroke-linejoin="round" width="10" height="24" fill="rgb(199,149,60)" stroke="rgb(159,119,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_156)</title>
+			<polygon class=" (ctg1_156)" points="312,10 321,40 312,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PhdYeFM_antitox (PF02604)
+"Antitoxin Phd_YefM, type II toxin-antitoxin system"</title>
+				<polygon class="PF02604" points="312,28 314,28 318,40 314,52 312,52" stroke-linejoin="round" width="8" height="24" fill="rgb(204,60,69)" stroke="rgb(163,48,55)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_157)</title>
+			<polygon class=" (ctg1_157)" points="321,10 334,40 321,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PIN (PF01850)
+"PIN domain"</title>
+				<polygon class="PF01850" points="321,28 325,28 331,40 325,52 321,52" stroke-linejoin="round" width="12" height="24" fill="rgb(91,217,126)" stroke="rgb(72,173,100)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

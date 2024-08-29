@@ -1,0 +1,78 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="431.8333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="421.8333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg4_360)</title>
+			<polygon class=" (ctg4_360)" points="18,25 33,25 33,10 63,40 33,70 33,55 18,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>EIIC-GAT (PF03611)
+"PTS system sugar-specific permease component"</title>
+				<polygon class="PF03611" points="19,28 47,28 58,39 58,41 47,52 19,52" stroke-linejoin="round" width="39" height="24" fill="rgb(119,80,183)" stroke="rgb(95,64,146)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4_361)</title>
+			<polygon class=" (ctg4_361)" points="81,25 103,25 103,10 133,40 103,70 103,55 81,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pyridoxal_deC (PF00282)
+"Pyridoxal-dependent decarboxylase conserved domain"</title>
+				<polygon class="PF00282" points="88,28 116,28 124,36 124,44 116,52 88,52" stroke-linejoin="round" width="36" height="24" fill="rgb(100,218,166)" stroke="rgb(80,174,132)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4_362)</title>
+			<polygon class=" (ctg4_362)" points="133,25 146,25 146,10 176,40 146,70 146,55 133,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lys_Orn_oxgnase (PF13434)
+"L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase"</title>
+				<polygon class="PF13434" points="133,28 159,28 166,35 166,45 159,52 133,52" stroke-linejoin="round" width="33" height="24" fill="rgb(81,213,119)" stroke="rgb(64,170,95)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4_363)</title>
+			<polygon class=" (ctg4_363)" points="176,25 224,25 224,10 254,40 224,70 224,55 176,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_8 (PF13523)
+"Acetyltransferase (GNAT) domain"</title>
+				<rect class="PF13523" x="178" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(106,224,203)" stroke="rgb(84,179,162)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<rect class="PF04183" x="209" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="236,28 238,28 250,40 238,52 236,52" stroke-linejoin="round" width="15" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4_364)</title>
+			<polygon class=" (ctg4_364)" points="257,25 268,25 268,10 298,40 268,70 268,55 257,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="259,28 281,28 293,40 293,40 281,52 259,52" stroke-linejoin="round" width="34" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4_365)</title>
+			<polygon class=" (ctg4_365)" points="348,25 331,25 331,10 301,40 331,70 331,55 348,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NAD_binding_9 (PF13454)
+"FAD-NAD(P)-binding"</title>
+				<rect class="PF13454" x="333" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(102,219,118)" stroke="rgb(81,175,94)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4_366)</title>
+			<polygon class=" (ctg4_366)" points="361,25 369,25 369,10 399,40 369,70 369,55 361,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M20 (PF01546)
+"Peptidase family M20/M25/M40"</title>
+				<polygon class="PF01546" points="367,28 382,28 394,40 382,52 367,52" stroke-linejoin="round" width="30" height="24" fill="rgb(88,213,108)" stroke="rgb(70,170,86)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

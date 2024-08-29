@@ -1,0 +1,25 @@
+#                                                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FAD_binding_9        PF08021.14   121 MMO-141_contigs.fa_antismash_contig00007.region001_ORF1:gid::pid::loc:384:1212:strand:- -            275   1.2e-23   83.7   0.0   1   1   2.1e-27   2.1e-23   83.0   0.0     3   114    29   139    27   145 0.92 Siderophore-interacting FAD-binding domain
+SIP                  PF04954.16   119 MMO-141_contigs.fa_antismash_contig00007.region001_ORF1:gid::pid::loc:384:1212:strand:- -            275     4e-22   79.1   0.1   1   1   8.7e-26   8.6e-22   78.0   0.1     3   117   154   269   152   271 0.96 Siderophore-interacting protein
+Pyridoxal_deC        PF00282.22   375 MMO-141_contigs.fa_antismash_contig00007.region001_ORF2:gid::pid::loc:1436:3032:strand:+ -            531   1.6e-59  201.6   0.0   1   1   1.1e-63   2.1e-59  201.3   0.0    13   374    54   411    46   412 0.95 Pyridoxal-dependent decarboxylase conserved domain
+Lys_Orn_oxgnase      PF13434.9    341 MMO-141_contigs.fa_antismash_contig00007.region001_ORF3:gid::pid::loc:3028:4354:strand:+ -            441   5.9e-96  321.7   0.0   1   1  7.7e-100   7.5e-96  321.3   0.0     5   341    11   350     9   350 0.95 L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase
+Acetyltransf_8       PF13523.9    145 MMO-141_contigs.fa_antismash_contig00007.region001_ORF4:gid::pid::loc:4350:5004:strand:+ -            217   5.2e-43  146.3   0.7   1   1   3.4e-47   6.7e-43  146.0   0.7     4   144    30   170    28   171 0.97 Acetyltransferase (GNAT) domain
+IucA_IucC            PF04183.15   239 MMO-141_contigs.fa_antismash_contig00007.region001_ORF5:gid::pid::loc:5000:6836:strand:+ -            611   2.4e-61  207.5   0.1   1   1   3.6e-65   3.5e-61  206.9   0.1     1   239   146   399   146   399 0.90 IucA / IucC family
+FhuF                 PF06276.15   163 MMO-141_contigs.fa_antismash_contig00007.region001_ORF5:gid::pid::loc:5000:6836:strand:+ -            611     1e-22   81.4   0.3   1   1   2.3e-26   2.2e-22   80.3   0.1     2   161   421   574   420   576 0.86 Ferric iron reductase FhuF-like transporter
+Acetyltransf_8       PF13523.9    145 MMO-141_contigs.fa_antismash_contig00007.region001_ORF7:gid::pid::loc:9011:9533:strand:+ -            173   1.6e-32  112.3   0.1   1   1   9.4e-37   1.9e-32  112.1   0.1     3   145    19   160    17   160 0.97 Acetyltransferase (GNAT) domain
+AFG1_ATPase          PF03969.19   361 MMO-141_contigs.fa_antismash_contig00007.region001_ORF8:gid::pid::loc:9607:10663:strand:- -            351   2.3e-64  217.7   0.1   1   2   2.8e-51   5.6e-47  160.6   0.0    20   227    44   234    37   241 0.94 AFG1-like ATPase
+AFG1_ATPase          PF03969.19   361 MMO-141_contigs.fa_antismash_contig00007.region001_ORF8:gid::pid::loc:9607:10663:strand:- -            351   2.3e-64  217.7   0.1   2   2   3.3e-19   6.5e-15   55.1   0.3   260   353   246   340   238   345 0.92 AFG1-like ATPase
+Rhodanese            PF00581.23   107 MMO-141_contigs.fa_antismash_contig00007.region001_ORF9:gid::pid::loc:10885:11779:strand:+ -            297   2.4e-34  118.2   0.1   1   2   2.2e-17   4.4e-13   49.8   0.0     2   106    20   128    19   129 0.81 Rhodanese-like domain
+Rhodanese            PF00581.23   107 MMO-141_contigs.fa_antismash_contig00007.region001_ORF9:gid::pid::loc:10885:11779:strand:+ -            297   2.4e-34  118.2   0.1   2   2   1.3e-22   2.6e-18   66.6   0.0     3   106   160   279   158   280 0.92 Rhodanese-like domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/MMO-141_contigs.fa_antismash_contig00007.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/MMO-141_contigs.fa_antismash_contig00007.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/MMO-141_contigs.fa_antismash_contig00007.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 22:34:11 2024
+# [ok]

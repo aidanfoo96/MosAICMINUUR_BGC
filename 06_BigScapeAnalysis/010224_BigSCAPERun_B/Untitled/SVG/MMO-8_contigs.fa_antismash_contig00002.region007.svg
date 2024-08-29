@@ -1,0 +1,78 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="379.73333333333335" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="369.73333333333335" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg2_712)</title>
+			<polygon class=" (ctg2_712)" points="14,25 17,25 17,10 47,40 17,70 17,55 14,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>EamA (PF00892)
+"EamA-like transporter family"</title>
+				<polygon class="PF00892" points="28,28 31,28 41,38 41,42 31,52 28,52" stroke-linejoin="round" width="13" height="24" fill="rgb(105,217,77)" stroke="rgb(84,173,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_713)</title>
+			<polygon class=" (ctg2_713)" points="117,25 83,25 83,10 53,40 83,70 83,55 117,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="60,37 69,28 74,28 74,52 69,52 60,43" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="81" y="28" stroke-linejoin="round" width="31" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_714)</title>
+			<polygon class=" (ctg2_714)" points="174,25 147,25 147,10 117,40 147,70 147,55 174,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="124,37 133,28 138,28 138,52 133,52 124,43" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="146" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_715)</title>
+			<polygon class=" (ctg2_715)" points="176,40 202,10 202,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Linocin_M18 (PF04454)
+"Encapsulating protein for peroxidase"</title>
+				<polygon class="PF04454" points="180,40 191,28 201,28 201,52 191,52" stroke-linejoin="round" width="24" height="24" fill="rgb(89,100,181)" stroke="rgb(71,80,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_716)</title>
+			<polygon class=" (ctg2_716)" points="237,25 234,25 234,10 204,40 234,70 234,55 237,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Dyp_perox (PF04261)
+"Dyp-type peroxidase family"</title>
+				<polygon class="PF04261" points="208,40 220,28 237,28 237,52 220,52" stroke-linejoin="round" width="30" height="24" fill="rgb(189,65,79)" stroke="rgb(151,51,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_717)</title>
+			<polygon class=" (ctg2_717)" points="273,25 271,25 271,10 241,40 271,70 271,55 273,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Esterase (PF00756)
+"Putative esterase"</title>
+				<polygon class="PF00756" points="245,40 257,28 268,28 268,52 257,52" stroke-linejoin="round" width="27" height="24" fill="rgb(217,132,77)" stroke="rgb(173,105,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_718)</title>
+			<polygon class=" (ctg2_718)" points="333,25 309,25 309,10 279,40 309,70 309,55 333,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PorA (PF11271)
+"Porin PorA"</title>
+				<rect class="PF11271" x="296" y="28" stroke-linejoin="round" width="36" height="24" fill="rgb(86,204,101)" stroke="rgb(68,163,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

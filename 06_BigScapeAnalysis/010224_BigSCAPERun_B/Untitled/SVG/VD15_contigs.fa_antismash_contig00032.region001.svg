@@ -1,0 +1,103 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="426.23333333333335" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="416.23333333333335" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg32_7)</title>
+			<polygon class=" (ctg32_7)" points="77,25 63,25 63,10 33,40 63,70 63,55 77,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cytochrome_CBB3 (PF13442)
+"Cytochrome C oxidase, cbb3-type, subunit III"</title>
+				<polygon class="PF13442" points="37,40 44,33 44,47" stroke-linejoin="round" width="8" height="24" fill="rgb(49,184,120)" stroke="rgb(39,147,96)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Cytochrom_C (PF00034)
+"Cytochrome c"</title>
+				<polygon class="PF00034" points="47,30 49,28 58,28 58,52 49,52 47,50" stroke-linejoin="round" width="11" height="24" fill="rgb(130,184,61)" stroke="rgb(104,147,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg32_8)</title>
+			<polygon class=" (ctg32_8)" points="153,25 108,25 108,10 78,40 108,70 108,55 153,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MoCoBD_2 (PF20256)
+"Molybdopterin cofactor-binding domain"</title>
+				<polygon class="PF20256" points="83,39 94,28 94,28 94,52 94,52 83,41" stroke-linejoin="round" width="11" height="24" fill="rgb(50,138,186)" stroke="rgb(39,110,148)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MoCoBD_1 (PF02738)
+"Molybdopterin cofactor-binding domain"</title>
+				<rect class="PF02738" x="95" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(194,143,89)" stroke="rgb(155,114,71)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MoCoBD_2 (PF20256)
+"Molybdopterin cofactor-binding domain"</title>
+				<rect class="PF20256" x="128" y="28" stroke-linejoin="round" width="22" height="24" fill="rgb(50,138,186)" stroke="rgb(39,110,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg32_9)</title>
+			<polygon class=" (ctg32_9)" points="153,40 168,10 168,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Fer2_2 (PF01799)
+"[2Fe-2S] binding domain"</title>
+				<polygon class="PF01799" points="156,40 160,32 160,48" stroke-linejoin="round" width="7" height="24" fill="rgb(67,193,124)" stroke="rgb(53,154,99)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Fer2 (PF00111)
+"2Fe-2S iron-sulfur cluster binding domain"</title>
+				<polygon class="PF00111" points="161,30 162,28 167,28 167,52 162,52 161,50" stroke-linejoin="round" width="6" height="24" fill="rgb(60,59,191)" stroke="rgb(48,47,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg32_10)</title>
+			<polygon class=" (ctg32_10)" points="176,25 218,25 218,10 248,40 218,70 218,55 176,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OsmC (PF02566)
+"OsmC-like protein"</title>
+				<rect class="PF02566" x="179" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(161,56,212)" stroke="rgb(128,44,169)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>YcaO (PF02624)
+"YcaO cyclodehydratase, ATP-ad Mg2+-binding"</title>
+				<rect class="PF02624" x="196" y="28" stroke-linejoin="round" width="33" height="24" fill="rgb(76,84,185)" stroke="rgb(60,67,148)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>YcaO_C (PF18381)
+"YcaO cyclodehydratase C-terminal domain"</title>
+				<polygon class="PF18381" points="231,28 232,28 244,40 232,52 231,52" stroke-linejoin="round" width="17" height="24" fill="rgb(125,91,193)" stroke="rgb(99,72,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg32_11)</title>
+			<polygon class=" (ctg32_11)" points="310,25 279,25 279,10 249,40 279,70 279,55 310,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_2 (PF00890)
+"FAD binding domain"</title>
+				<polygon class="PF00890" points="253,40 265,28 304,28 304,52 265,52" stroke-linejoin="round" width="52" height="24" fill="rgb(63,199,116)" stroke="rgb(50,159,92)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg32_12)</title>
+			<polygon class=" (ctg32_12)" points="311,10 329,40 311,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>IclR (PF01614)
+"Bacterial transcriptional regulator"</title>
+				<polygon class="PF01614" points="316,28 318,28 325,40 318,52 316,52" stroke-linejoin="round" width="12" height="24" fill="rgb(58,93,180)" stroke="rgb(46,74,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg32_13)</title>
+			<polygon class=" (ctg32_13)" points="391,25 360,25 360,10 330,40 360,70 360,55 391,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="338,36 346,28 353,28 353,52 346,52 338,44" stroke-linejoin="round" width="15" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="360" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,25 @@
+#                                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MMPL                 PF03176.18   333 VD8_contigs.fa_antismash_contig00142.region001_ORF2:gid::pid::loc:1159:4729:strand:+ -           1189   5.1e-28   98.1   6.5   1   2   9.1e-23     9e-19   67.7   0.0    76   297   168   379    20   383 0.77 MMPL family
+MMPL                 PF03176.18   333 VD8_contigs.fa_antismash_contig00142.region001_ORF2:gid::pid::loc:1159:4729:strand:+ -           1189   5.1e-28   98.1   6.5   2   2     3e-10   2.9e-06   26.6   7.9   148   296   633   769   619   787 0.86 MMPL family
+Acyltransferase      PF01553.24   135 VD8_contigs.fa_antismash_contig00142.region001_ORF2:gid::pid::loc:1159:4729:strand:+ -           1189   1.3e-17   63.8   0.1   1   1   5.4e-21   5.3e-17   61.8   0.0    13   134   859   968   842   969 0.90 Acyltransferase
+ACP_syn_III_C        PF08541.13    90 VD8_contigs.fa_antismash_contig00142.region001_ORF4:gid::pid::loc:5687:6827:strand:+ -            379   9.3e-10   38.7   0.0   1   1   1.9e-13   1.9e-09   37.7   0.0     2    80   284   367   283   377 0.86 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal
+Thiolase_N           PF00108.26   260 VD8_contigs.fa_antismash_contig00142.region001_ORF4:gid::pid::loc:5687:6827:strand:+ -            379   7.4e-08   32.2   0.0   1   1   9.6e-11   9.4e-07   28.6   0.1    26   125    67   165    56   177 0.85 Thiolase, N-terminal domain
+DUF4872              PF16169.8    174 VD8_contigs.fa_antismash_contig00142.region001_ORF8:gid::pid::loc:8283:9279:strand:+ -            331   2.9e-57  193.3   0.0   1   1     5e-61   4.9e-57  192.6   0.0     2   174   155   327   154   327 0.98 Domain of unknown function (DUF4872)
+BtrH_N               PF14399.9    134 VD8_contigs.fa_antismash_contig00142.region001_ORF8:gid::pid::loc:8283:9279:strand:+ -            331   8.7e-48  162.1   0.0   1   1     2e-51     2e-47  160.9   0.0     1   134    12   143    12   143 0.99 Butirosin biosynthesis protein H, N-terminal
+ABC_tran             PF00005.30   137 VD8_contigs.fa_antismash_contig00142.region001_ORF9:gid::pid::loc:9280:10036:strand:+ -            251   7.5e-32  110.8   0.0   1   1   1.2e-35   1.2e-31  110.2   0.0     1   136    22   165    22   166 0.97 ABC transporter
+ABC2_membrane_3      PF12698.10   346 VD8_contigs.fa_antismash_contig00142.region001_ORF10:gid::pid::loc:10028:11291:strand:+ -            420   5.5e-35  121.2  20.9   1   1   9.8e-39   6.4e-35  121.0  20.9     3   345    21   411    19   412 0.77 ABC-2 family transporter protein
+ABC2_membrane        PF01061.27   210 VD8_contigs.fa_antismash_contig00142.region001_ORF10:gid::pid::loc:10028:11291:strand:+ -            420   1.5e-19   70.4  10.9   1   1   2.3e-23   1.5e-19   70.4  10.9    48   209   217   383   192   384 0.89 ABC-2 type transporter
+ABC2_membrane_2      PF12679.10   288 VD8_contigs.fa_antismash_contig00142.region001_ORF10:gid::pid::loc:10028:11291:strand:+ -            420   5.8e-11   42.3   0.3   1   1     2e-14   1.3e-10   41.1   0.3     4   280     8   411     5   417 0.80 ABC-2 family transporter protein
+PDDEXK_3             PF13366.9    118 VD8_contigs.fa_antismash_contig00142.region001_ORF11:gid::pid::loc:11406:11709:strand:+ -            101     2e-33  115.3   1.0   1   1   1.1e-37   2.2e-33  115.2   1.0     2    97     5   100     4   101 0.98 PD-(D/E)XK nuclease superfamily
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/VD8_contigs.fa_antismash_contig00142.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/VD8_contigs.fa_antismash_contig00142.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/VD8_contigs.fa_antismash_contig00142.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 23:21:12 2024
+# [ok]

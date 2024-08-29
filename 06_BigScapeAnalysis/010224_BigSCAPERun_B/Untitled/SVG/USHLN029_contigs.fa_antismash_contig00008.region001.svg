@@ -1,0 +1,147 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="603.4333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="593.4333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg8_156)</title>
+			<polygon class=" (ctg8_156)" points="115,10 140,40 115,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg8_157)</title>
+			<polygon class=" (ctg8_157)" points="146,25 151,25 151,10 181,40 151,70 151,55 146,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<rect class="PF00535" x="146" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(224,122,96)" stroke="rgb(179,97,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_158)</title>
+			<polygon class=" (ctg8_158)" points="182,40 185,10 185,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg8_159)</title>
+			<polygon class=" (ctg8_159)" points="263,25 220,25 220,10 190,40 220,70 220,55 263,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Topoisom_bac (PF01131)
+"DNA topoisomerase"</title>
+				<polygon class="PF01131" points="204,30 206,28 247,28 247,52 206,52 204,50" stroke-linejoin="round" width="43" height="24" fill="rgb(136,196,98)" stroke="rgb(108,156,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Toprim (PF01751)
+"Toprim domain"</title>
+				<rect class="PF01751" x="249" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(95,212,145)" stroke="rgb(76,169,116)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_160)</title>
+			<polygon class=" (ctg8_160)" points="275,10 295,40 275,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TetR_N (PF00440)
+"Bacterial regulatory proteins, tetR family"</title>
+				<rect class="PF00440" x="276" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(73,212,190)" stroke="rgb(58,169,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TetR_C_24 (PF17932)
+"Tetracyclin repressor-like, C-terminal domain"</title>
+				<polygon class="PF17932" points="282,28 283,28 291,40 283,52 282,52" stroke-linejoin="round" width="11" height="24" fill="rgb(165,217,107)" stroke="rgb(132,173,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_161)</title>
+			<polygon class=" (ctg8_161)" points="299,25 308,25 308,10 338,40 308,70 308,55 299,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyl-CoA_dh_N (PF02771)
+"Acyl-CoA dehydrogenase, N-terminal domain"</title>
+				<rect class="PF02771" x="300" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(105,135,218)" stroke="rgb(84,108,174)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl-CoA_dh_M (PF02770)
+"Acyl-CoA dehydrogenase, middle domain"</title>
+				<rect class="PF02770" x="312" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(225,186,97)" stroke="rgb(180,148,77)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl-CoA_dh_1 (PF00441)
+"Acyl-CoA dehydrogenase, C-terminal domain"</title>
+				<polygon class="PF00441" points="323,30 333,40 323,50" stroke-linejoin="round" width="14" height="24" fill="rgb(85,191,117)" stroke="rgb(68,152,93)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_162)</title>
+			<polygon class=" (ctg8_162)" points="343,25 367,25 367,10 397,40 367,70 367,55 343,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="344,28 381,28 387,34 387,46 381,52 344,52" stroke-linejoin="round" width="43" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<polygon class="PF13193" points="388,35 393,40 388,45" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_163)</title>
+			<polygon class=" (ctg8_163)" points="398,25 413,25 413,10 443,40 413,70 413,55 398,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Biotin_carb_N (PF00289)
+"Biotin carboxylase, N-terminal domain"</title>
+				<rect class="PF00289" x="398" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(59,114,187)" stroke="rgb(47,91,149)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>CPSase_L_D2 (PF02786)
+"Carbamoyl-phosphate synthase L chain, ATP binding domain"</title>
+				<polygon class="PF02786" points="409,28 427,28 429,30 429,50 427,52 409,52" stroke-linejoin="round" width="20" height="24" fill="rgb(190,97,205)" stroke="rgb(151,77,164)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Biotin_carb_C (PF02785)
+"Biotin carboxylase C-terminal domain"</title>
+				<polygon class="PF02785" points="431,32 439,40 431,48" stroke-linejoin="round" width="10" height="24" fill="rgb(82,186,211)" stroke="rgb(65,148,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_164)</title>
+			<polygon class=" (ctg8_164)" points="445,10 452,40 445,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Biotin_lipoyl (PF00364)
+"Biotin-requiring enzyme"</title>
+				<polygon class="PF00364" points="445,28 445,28 449,40 445,52 445,52" stroke-linejoin="round" width="6" height="24" fill="rgb(67,214,213)" stroke="rgb(53,171,170)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_165)</title>
+			<polygon class=" (ctg8_165)" points="453,25 453,25 453,10 483,40 453,70 453,55 453,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HMGL-like (PF00682)
+"HMGL-like"</title>
+				<polygon class="PF00682" points="453,28 467,28 479,40 467,52 453,52" stroke-linejoin="round" width="27" height="24" fill="rgb(84,228,141)" stroke="rgb(67,182,112)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_166)</title>
+			<polygon class=" (ctg8_166)" points="484,10 510,40 484,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ECH_1 (PF00378)
+"Enoyl-CoA hydratase/isomerase"</title>
+				<polygon class="PF00378" points="485,28 496,28 506,40 496,52 485,52" stroke-linejoin="round" width="25" height="24" fill="rgb(218,72,181)" stroke="rgb(174,57,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_167)</title>
+			<polygon class=" (ctg8_167)" points="514,25 535,25 535,10 565,40 535,70 535,55 514,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Carboxyl_trans (PF01039)
+"Carboxyl transferase domain"</title>
+				<polygon class="PF01039" points="516,28 549,28 561,40 549,52 516,52" stroke-linejoin="round" width="48" height="24" fill="rgb(180,136,60)" stroke="rgb(144,108,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_168)</title>
+			<polygon class=" (ctg8_168)" points="569,10 589,40 569,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>VanZ (PF04892)
+"VanZ like family"</title>
+				<polygon class="PF04892" points="573,28 577,28 585,40 577,52 573,52" stroke-linejoin="round" width="14" height="24" fill="rgb(81,187,70)" stroke="rgb(64,149,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

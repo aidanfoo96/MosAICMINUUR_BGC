@@ -1,0 +1,24 @@
+#                                                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TonB_dep_Rec         PF00593.27   470 USHLN010_contigs.fa_antismash_contig00005.region001_ORF1:gid::pid::loc:1313:3431:strand:- -            705   2.3e-49  169.7  39.6   1   1   2.3e-53   2.3e-49  169.7  39.6    25   469   256   703   238   704 0.73 TonB dependent receptor
+Plug                 PF07715.18   108 USHLN010_contigs.fa_antismash_contig00005.region001_ORF1:gid::pid::loc:1313:3431:strand:- -            705   4.2e-19   69.2   0.2   1   1   4.3e-23   4.2e-19   69.2   0.2     4   107    64   167    61   168 0.93 TonB-dependent Receptor Plug Domain
+MFS_1                PF07690.19   353 USHLN010_contigs.fa_antismash_contig00005.region001_ORF2:gid::pid::loc:3673:4909:strand:- -            411   1.7e-34  119.5  37.9   1   1   1.7e-38   1.7e-34  119.5  37.9     4   348    24   363    21   367 0.85 Major Facilitator Superfamily
+Sugar_tr             PF00083.27   452 USHLN010_contigs.fa_antismash_contig00005.region001_ORF2:gid::pid::loc:3673:4909:strand:- -            411   6.5e-06   25.4   8.0   1   1   6.6e-10   6.5e-06   25.4   8.0    48   194    53   194    47   195 0.90 Sugar (and other) transporter
+IucA_IucC            PF04183.15   239 USHLN010_contigs.fa_antismash_contig00005.region001_ORF3:gid::pid::loc:5000:7355:strand:- -            784   8.1e-78  261.4   0.0   1   1   3.6e-81   1.7e-77  260.3   0.0     1   239   332   582   332   582 0.97 IucA / IucC family
+Acetyltransf_8       PF13523.9    145 USHLN010_contigs.fa_antismash_contig00005.region001_ORF3:gid::pid::loc:5000:7355:strand:- -            784   1.8e-47  160.8   0.4   1   1   7.9e-51   3.9e-47  159.7   0.4     4   145    24   165    22   165 0.99 Acetyltransferase (GNAT) domain
+FhuF                 PF06276.15   163 USHLN010_contigs.fa_antismash_contig00005.region001_ORF3:gid::pid::loc:5000:7355:strand:- -            784   8.9e-43  146.7   0.9   1   1   7.2e-46   3.5e-42  144.7   0.7     1   161   603   760   603   762 0.98 Ferric iron reductase FhuF-like transporter
+Lys_Orn_oxgnase      PF13434.9    341 USHLN010_contigs.fa_antismash_contig00005.region001_ORF4:gid::pid::loc:7357:8650:strand:- -            430  1.8e-118  395.7   0.0   1   1  1.1e-122  2.2e-118  395.4   0.0     2   340     5   340     4   341 0.98 L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase
+Pyridoxal_deC        PF00282.22   375 USHLN010_contigs.fa_antismash_contig00005.region001_ORF5:gid::pid::loc:8660:10214:strand:- -            517   4.5e-61  206.7   0.0   1   1   5.4e-65   5.3e-61  206.5   0.0    35   374    97   437    62   438 0.91 Pyridoxal-dependent decarboxylase conserved domain
+SepSecS              PF05889.16   389 USHLN010_contigs.fa_antismash_contig00005.region001_ORF5:gid::pid::loc:8660:10214:strand:- -            517   1.9e-05   23.7   0.0   1   1   2.9e-09   2.9e-05   23.1   0.0   108   246   211   351   198   380 0.79 O-phosphoseryl-tRNA(Sec) selenium transferase, SepSecS
+PPK2                 PF03976.17   229 USHLN010_contigs.fa_antismash_contig00005.region001_ORF6:gid::pid::loc:10623:11532:strand:- -            302  1.4e-109  365.2   0.9   1   1    9e-114  1.8e-109  364.8   0.9     6   226    51   271    46   274 0.98 Polyphosphate kinase 2 (PPK2)
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/USHLN010_contigs.fa_antismash_contig00005.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/USHLN010_contigs.fa_antismash_contig00005.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/USHLN010_contigs.fa_antismash_contig00005.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 19:45:11 2024
+# [ok]

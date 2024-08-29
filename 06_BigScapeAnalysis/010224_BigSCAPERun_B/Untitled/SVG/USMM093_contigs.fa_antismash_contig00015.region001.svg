@@ -1,0 +1,72 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="362.93333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="352.93333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg15_69)</title>
+			<polygon class=" (ctg15_69)" points="11,10 34,40 11,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="11,28 21,28 22,30 22,50 21,52 11,52" stroke-linejoin="round" width="11" height="24" fill="rgb(100,107,203)" stroke="rgb(80,85,162)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Trans_reg_C (PF00486)
+"Transcriptional regulatory protein, C terminal"</title>
+				<polygon class="PF00486" points="25,34 30,40 25,46" stroke-linejoin="round" width="7" height="24" fill="rgb(204,153,57)" stroke="rgb(163,122,45)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg15_70)</title>
+			<polygon class=" (ctg15_70)" points="43,10 53,40 43,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YbjQ_1 (PF01906)
+"Putative heavy-metal-binding"</title>
+				<polygon class="PF01906" points="43,28 45,28 50,40 45,52 43,52" stroke-linejoin="round" width="10" height="24" fill="rgb(61,192,177)" stroke="rgb(48,153,141)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg15_71)</title>
+			<polygon class=" (ctg15_71)" points="72,10 80,40 72,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_5 (PF01022)
+"Bacterial regulatory protein, arsR family"</title>
+				<polygon class="PF01022" points="73,28 73,28 77,38 77,42 73,52 73,52" stroke-linejoin="round" width="4" height="24" fill="rgb(95,208,123)" stroke="rgb(76,166,98)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg15_72)</title>
+			<polygon class=" (ctg15_72)" points="112,10 122,40 112,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg15_73)</title>
+			<polygon class=" (ctg15_73)" points="150,40 154,10 154,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg15_74)</title>
+			<polygon class=" (ctg15_74)" points="176,10 185,40 176,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lactococcin_972 (PF09683)
+"Bacteriocin (Lactococcin_972)"</title>
+				<polygon class="PF09683" points="179,30 182,40 179,50" stroke-linejoin="round" width="6" height="24" fill="rgb(202,100,222)" stroke="rgb(161,80,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg15_75)</title>
+			<polygon class=" (ctg15_75)" points="192,25 236,25 236,10 266,40 236,70 236,55 192,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1430 (PF07242)
+"Protein of unknown function (DUF1430)"</title>
+				<polygon class="PF07242" points="255,34 261,40 255,46" stroke-linejoin="round" width="10" height="24" fill="rgb(183,55,187)" stroke="rgb(146,44,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg15_76)</title>
+			<polygon class=" (ctg15_76)" points="266,10 286,40 266,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="267,28 275,28 281,37 281,43 275,52 267,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

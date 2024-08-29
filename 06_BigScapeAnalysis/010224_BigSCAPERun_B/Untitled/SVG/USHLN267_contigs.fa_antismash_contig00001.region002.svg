@@ -1,0 +1,108 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="389.03333333333336" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="379.03333333333336" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg1_716)</title>
+			<polygon class=" (ctg1_716)" points="13,10 35,40 13,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_30 (PF05430)
+"S-adenosyl-L-methionine-dependent methyltransferase"</title>
+				<polygon class="PF05430" points="23,28 23,28 31,40 23,52 23,52" stroke-linejoin="round" width="11" height="24" fill="rgb(70,106,183)" stroke="rgb(55,84,146)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_717)</title>
+			<polygon class=" (ctg1_717)" points="43,10 56,40 43,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NUDIX (PF00293)
+"NUDIX domain"</title>
+				<polygon class="PF00293" points="43,28 47,28 53,40 47,52 43,52" stroke-linejoin="round" width="12" height="24" fill="rgb(92,56,187)" stroke="rgb(73,44,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_718)</title>
+			<polygon class=" (ctg1_718)" points="58,40 82,10 82,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4294 (PF14127)
+"Domain of unknown function (DUF4294)"</title>
+				<polygon class="PF14127" points="62,40 72,28 75,28 75,52 72,52" stroke-linejoin="round" width="15" height="24" fill="rgb(223,95,168)" stroke="rgb(178,76,134)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_719)</title>
+			<polygon class=" (ctg1_719)" points="83,25 88,25 88,10 118,40 88,70 88,55 83,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M42 (PF05343)
+"M42 glutamyl aminopeptidase"</title>
+				<polygon class="PF05343" points="87,28 102,28 114,40 102,52 87,52" stroke-linejoin="round" width="29" height="24" fill="rgb(201,153,60)" stroke="rgb(160,122,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_720)</title>
+			<polygon class=" (ctg1_720)" points="119,10 129,40 119,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_721)</title>
+			<polygon class=" (ctg1_721)" points="130,10 151,40 130,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ribul_P_3_epim (PF00834)
+"Ribulose-phosphate 3 epimerase family"</title>
+				<polygon class="PF00834" points="130,28 139,28 147,40 139,52 130,52" stroke-linejoin="round" width="19" height="24" fill="rgb(51,162,202)" stroke="rgb(40,129,161)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_722)</title>
+			<polygon class=" (ctg1_722)" points="159,40 175,10 175,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Anthrone_oxy (PF08592)
+"Anthrone oxygenase"</title>
+				<polygon class="PF08592" points="162,40 169,28 170,28 170,52 169,52" stroke-linejoin="round" width="10" height="24" fill="rgb(75,196,107)" stroke="rgb(60,156,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_723)</title>
+			<polygon class=" (ctg1_723)" points="211,25 206,25 206,10 176,40 206,70 206,55 211,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF692 (PF05114)
+"Protein of unknown function (DUF692)"</title>
+				<polygon class="PF05114" points="184,36 192,28 210,28 210,52 192,52 184,44" stroke-linejoin="round" width="26" height="24" fill="rgb(63,196,127)" stroke="rgb(50,156,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_724)</title>
+			<polygon class=" (ctg1_724)" points="213,40 220,10 220,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_725)</title>
+			<polygon class=" (ctg1_725)" points="225,25 256,25 256,10 286,40 256,70 256,55 225,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Alpha_L_fucos (PF01120)
+"Alpha-L-fucosidase"</title>
+				<rect class="PF01120" x="226" y="28" stroke-linejoin="round" width="32" height="24" fill="rgb(165,80,195)" stroke="rgb(132,64,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_726)</title>
+			<polygon class=" (ctg1_726)" points="290,40 303,10 303,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NDK (PF00334)
+"Nucleoside diphosphate kinase"</title>
+				<polygon class="PF00334" points="293,40 299,28 303,28 303,52 299,52" stroke-linejoin="round" width="13" height="24" fill="rgb(197,210,70)" stroke="rgb(157,168,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_727)</title>
+			<polygon class=" (ctg1_727)" points="354,25 353,25 353,10 323,40 353,70 353,55 354,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RsgA_GTPase (PF03193)
+"RsgA GTPase"</title>
+				<polygon class="PF03193" points="329,38 339,28 346,28 346,52 339,52 329,42" stroke-linejoin="round" width="17" height="24" fill="rgb(89,182,98)" stroke="rgb(71,145,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>RsgA_N (PF16745)
+"RsgA N-terminal domain"</title>
+				<rect class="PF16745" x="347" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(205,142,100)" stroke="rgb(164,113,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

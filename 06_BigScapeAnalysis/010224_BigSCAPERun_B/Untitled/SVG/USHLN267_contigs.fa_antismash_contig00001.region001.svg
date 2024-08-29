@@ -1,0 +1,101 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="537.9" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="527.9" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg1_351)</title>
+			<polygon class=" (ctg1_351)" points="121,25 105,25 105,10 75,40 105,70 105,55 121,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="84,35 91,28 118,28 118,52 91,52 84,45" stroke-linejoin="round" width="34" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_352)</title>
+			<polygon class=" (ctg1_352)" points="121,40 129,10 129,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_353)</title>
+			<polygon class=" (ctg1_353)" points="176,25 160,25 160,10 130,40 160,70 160,55 176,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MatE (PF01554)
+"MatE"</title>
+				<polygon class="PF01554" points="134,40 146,28 149,28 149,52 146,52 134,40" stroke-linejoin="round" width="15" height="24" fill="rgb(187,69,173)" stroke="rgb(149,55,138)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MatE (PF01554)
+"MatE"</title>
+				<rect class="PF01554" x="156" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(187,69,173)" stroke="rgb(149,55,138)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_354)</title>
+			<polygon class=" (ctg1_354)" points="236,25 206,25 206,10 176,40 206,70 206,55 236,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="180,40 192,28 194,28 194,52 192,52" stroke-linejoin="round" width="16" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<rect class="PF04183" x="197" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_355)</title>
+			<polygon class=" (ctg1_355)" points="280,25 267,25 267,10 237,40 267,70 267,55 280,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lys_Orn_oxgnase (PF13434)
+"L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase"</title>
+				<polygon class="PF13434" points="246,35 253,28 279,28 279,52 253,52 246,45" stroke-linejoin="round" width="33" height="24" fill="rgb(81,213,119)" stroke="rgb(64,170,95)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_356)</title>
+			<polygon class=" (ctg1_356)" points="360,25 310,25 310,10 280,40 310,70 310,55 360,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_8 (PF13523)
+"Acetyltransferase (GNAT) domain"</title>
+				<polygon class="PF13523" points="284,40 296,28 297,28 297,52 296,52" stroke-linejoin="round" width="14" height="24" fill="rgb(106,224,203)" stroke="rgb(84,179,162)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<rect class="PF06276" x="303" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<rect class="PF04183" x="321" y="28" stroke-linejoin="round" width="22" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_357)</title>
+			<polygon class=" (ctg1_357)" points="410,25 390,25 390,10 360,40 390,70 390,55 410,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pyridoxal_deC (PF00282)
+"Pyridoxal-dependent decarboxylase conserved domain"</title>
+				<polygon class="PF00282" points="367,37 376,28 404,28 404,52 376,52 367,43" stroke-linejoin="round" width="37" height="24" fill="rgb(100,218,166)" stroke="rgb(80,174,132)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_358)</title>
+			<polygon class=" (ctg1_358)" points="418,25 424,25 424,10 454,40 424,70 424,55 418,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TauD (PF02668)
+"Taurine catabolism dioxygenase TauD, TfdA family"</title>
+				<polygon class="PF02668" points="425,28 438,28 450,40 450,40 438,52 425,52" stroke-linejoin="round" width="25" height="24" fill="rgb(180,79,217)" stroke="rgb(144,63,173)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_359)</title>
+			<polygon class=" (ctg1_359)" points="463,25 479,25 479,10 509,40 479,70 479,55 463,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Beta-lactamase (PF00144)
+"Beta-lactamase"</title>
+				<polygon class="PF00144" points="466,28 493,28 499,34 499,46 493,52 466,52" stroke-linejoin="round" width="33" height="24" fill="rgb(92,159,200)" stroke="rgb(73,127,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

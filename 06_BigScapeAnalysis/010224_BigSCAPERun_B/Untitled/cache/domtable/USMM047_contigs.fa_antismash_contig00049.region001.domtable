@@ -1,0 +1,24 @@
+#                                                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GntR                 PF00392.24    64 USMM047_contigs.fa_antismash_contig00049.region001_ORF1:gid::pid::loc:380:1091:strand:+ -            236     1e-18   66.8   0.4   1   1   2.5e-22   2.5e-18   65.6   0.4     4    64    25    84    22    84 0.96 Bacterial regulatory proteins, gntR family
+FCD                  PF07729.15   125 USMM047_contigs.fa_antismash_contig00049.region001_ORF1:gid::pid::loc:380:1091:strand:+ -            236   2.5e-17   63.6   1.6   1   1   4.1e-21     4e-17   62.9   1.6     1   123    94   213    94   215 0.96 FCD domain
+DUF3050              PF11251.11   232 USMM047_contigs.fa_antismash_contig00049.region001_ORF3:gid::pid::loc:1468:2227:strand:+ -            252   3.7e-87  291.9   0.0   1   1   2.1e-91   4.2e-87  291.7   0.0     2   232    14   243    13   243 0.98 Protein of unknown function (DUF3050)
+AurF                 PF11583.11   283 USMM047_contigs.fa_antismash_contig00049.region001_ORF4:gid::pid::loc:2223:3171:strand:+ -            315   7.1e-21   74.8   0.5   1   1   4.9e-25   9.7e-21   74.4   0.5    12   240    10   244     4   269 0.90 P-aminobenzoate N-oxygenase AurF
+AMP-binding          PF00501.31   424 USMM047_contigs.fa_antismash_contig00049.region001_ORF5:gid::pid::loc:3167:6545:strand:+ -           1125   4.8e-65  219.9   0.0   1   1   1.4e-68   6.7e-65  219.5   0.0     4   424   175   561   172   561 0.86 AMP-binding enzyme
+NAD_binding_4        PF07993.15   257 USMM047_contigs.fa_antismash_contig00049.region001_ORF5:gid::pid::loc:3167:6545:strand:+ -           1125   1.1e-48  165.7   0.0   1   1   4.1e-52     2e-48  164.9   0.0     1   257   772  1008   772  1008 0.92 Male sterility protein
+PP-binding           PF00550.28    67 USMM047_contigs.fa_antismash_contig00049.region001_ORF5:gid::pid::loc:3167:6545:strand:+ -           1125   2.4e-13   50.3   0.1   1   1   1.4e-16   6.8e-13   48.8   0.1     2    66   668   732   667   733 0.97 Phosphopantetheine attachment site
+Epimerase            PF01370.24   241 USMM047_contigs.fa_antismash_contig00049.region001_ORF5:gid::pid::loc:3167:6545:strand:+ -           1125   3.1e-07   30.2   0.0   1   1     1e-10   4.9e-07   29.6   0.0     2   161   771   950   770  1023 0.81 NAD dependent epimerase/dehydratase family
+MCPsignal            PF00015.24   172 USMM047_contigs.fa_antismash_contig00049.region001_ORF6:gid::pid::loc:6608:8489:strand:- -            626   2.7e-43  147.9  24.7   1   1   4.1e-47   2.7e-43  147.9  24.7     2   169   409   590   408   593 0.98 Methyl-accepting chemotaxis protein (MCP) signalling domain
+dCache_1             PF02743.21   241 USMM047_contigs.fa_antismash_contig00049.region001_ORF6:gid::pid::loc:6608:8489:strand:- -            626   1.1e-26   93.9   0.5   1   1   1.7e-30   1.1e-26   93.9   0.5     2   239    35   256    34   258 0.89 Cache domain
+HAMP                 PF00672.28    53 USMM047_contigs.fa_antismash_contig00049.region001_ORF6:gid::pid::loc:6608:8489:strand:- -            626   3.1e-14   53.2   1.9   1   1   1.9e-16   1.2e-12   48.1   0.1     2    52   293   345   292   346 0.92 HAMP domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/USMM047_contigs.fa_antismash_contig00049.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/USMM047_contigs.fa_antismash_contig00049.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/USMM047_contigs.fa_antismash_contig00049.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 18:39:55 2024
+# [ok]

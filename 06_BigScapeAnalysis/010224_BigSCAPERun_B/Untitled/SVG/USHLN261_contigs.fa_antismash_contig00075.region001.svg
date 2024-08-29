@@ -1,0 +1,129 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="492.06666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="482.06666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg75_1)</title>
+			<polygon class=" (ctg75_1)" points="10,40 18,10 18,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg75_2)</title>
+			<polygon class=" (ctg75_2)" points="77,25 47,25 47,10 17,40 47,70 47,55 77,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_S9 (PF00326)
+"Prolyl oligopeptidase family"</title>
+				<polygon class="PF00326" points="21,40 33,28 37,28 37,52 33,52" stroke-linejoin="round" width="20" height="24" fill="rgb(77,97,209)" stroke="rgb(61,77,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg75_3)</title>
+			<polygon class=" (ctg75_3)" points="114,25 106,25 106,10 76,40 106,70 106,55 114,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SPASM (PF13186)
+"Iron-sulfur cluster-binding domain"</title>
+				<polygon class="PF13186" points="82,38 88,32 88,48 82,42" stroke-linejoin="round" width="6" height="24" fill="rgb(183,66,65)" stroke="rgb(146,52,51)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<rect class="PF04055" x="96" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg75_4)</title>
+			<polygon class=" (ctg75_4)" points="114,40 123,10 123,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg75_5)</title>
+			<polygon class=" (ctg75_5)" points="123,40 148,10 148,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TENA_THI-4 (PF03070)
+"TENA/THI-4/PQQC family"</title>
+				<polygon class="PF03070" points="127,40 137,28 146,28 146,52 137,52" stroke-linejoin="round" width="21" height="24" fill="rgb(95,149,219)" stroke="rgb(76,119,175)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg75_6)</title>
+			<polygon class=" (ctg75_6)" points="184,25 184,25 184,10 154,40 184,70 184,55 184,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lactamase_B_2 (PF12706)
+"Beta-lactamase superfamily domain"</title>
+				<polygon class="PF12706" points="158,40 170,28 179,28 179,52 170,52" stroke-linejoin="round" width="22" height="24" fill="rgb(62,169,197)" stroke="rgb(49,135,157)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg75_7)</title>
+			<polygon class=" (ctg75_7)" points="184,10 192,40 184,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg75_8)</title>
+			<polygon class=" (ctg75_8)" points="270,25 224,25 224,10 194,40 224,70 224,55 270,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M16 (PF00675)
+"Insulinase (Peptidase family M16)"</title>
+				<rect class="PF00675" x="254" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(70,225,127)" stroke="rgb(56,180,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg75_9)</title>
+			<polygon class=" (ctg75_9)" points="276,40 302,10 302,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CN_hydrolase (PF00795)
+"Carbon-nitrogen hydrolase"</title>
+				<polygon class="PF00795" points="280,40 291,28 301,28 301,52 291,52" stroke-linejoin="round" width="24" height="24" fill="rgb(213,76,196)" stroke="rgb(170,60,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg75_10)</title>
+			<polygon class=" (ctg75_10)" points="359,25 333,25 333,10 303,40 333,70 333,55 359,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="307,40 319,28 352,28 352,52 319,52" stroke-linejoin="round" width="47" height="24" fill="rgb(184,74,52)" stroke="rgb(147,59,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg75_11)</title>
+			<polygon class=" (ctg75_11)" points="361,10 364,40 361,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg75_12)</title>
+			<polygon class=" (ctg75_12)" points="375,10 380,40 375,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg75_13)</title>
+			<polygon class=" (ctg75_13)" points="380,10 389,40 380,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg75_14)</title>
+			<polygon class=" (ctg75_14)" points="390,40 405,10 405,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AsnC_trans_reg (PF01037)
+"Lrp/AsnC ligand binding domain"</title>
+				<polygon class="PF01037" points="393,40 397,32 397,48" stroke-linejoin="round" width="7" height="24" fill="rgb(134,72,182)" stroke="rgb(107,57,145)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_AsnC-type (PF13404)
+"AsnC-type helix-turn-helix domain"</title>
+				<rect class="PF13404" x="400" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(190,195,86)" stroke="rgb(152,156,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg75_15)</title>
+			<polygon class=" (ctg75_15)" points="406,40 412,10 412,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg75_16)</title>
+			<polygon class=" (ctg75_16)" points="452,25 444,25 444,10 414,40 444,70 444,55 452,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Fic (PF02661)
+"Fic/DOC family"</title>
+				<polygon class="PF02661" points="428,30 430,28 439,28 439,52 430,52 428,50" stroke-linejoin="round" width="11" height="24" fill="rgb(225,135,106)" stroke="rgb(180,108,84)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF4172 (PF13776)
+"Domain of unknown function (DUF4172)"</title>
+				<rect class="PF13776" x="442" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(181,201,77)" stroke="rgb(144,160,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

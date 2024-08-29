@@ -1,0 +1,25 @@
+#                                                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GFO_IDH_MocA_C       PF02894.20   220 MMO-59_contigs.fa_antismash_contig00010.region002_ORF1:gid::pid::loc:456:1530:strand:- -            357   9.1e-11   42.1   0.1   1   1   1.7e-14   1.7e-10   41.2   0.0     2   150   157   308   157   344 0.84 Oxidoreductase family, C-terminal alpha/beta domain
+GFO_IDH_MocA         PF01408.25   120 MMO-59_contigs.fa_antismash_contig00010.region002_ORF1:gid::pid::loc:456:1530:strand:- -            357   1.1e-05   26.2   0.0   1   1   2.2e-09   2.2e-05   25.3   0.0    26   120    48   143    31   143 0.90 Oxidoreductase family, NAD-binding Rossmann fold
+GFO_IDH_MocA         PF01408.25   120 MMO-59_contigs.fa_antismash_contig00010.region002_ORF2:gid::pid::loc:1587:2748:strand:- -            386   7.7e-29  101.0   0.1   1   1   2.2e-32   1.4e-28  100.1   0.1     1   118     2   121     2   123 0.97 Oxidoreductase family, NAD-binding Rossmann fold
+GFO_IDH_MocA_C       PF02894.20   220 MMO-59_contigs.fa_antismash_contig00010.region002_ORF2:gid::pid::loc:1587:2748:strand:- -            386   9.4e-24   84.5   0.2   1   1     2e-27   1.3e-23   84.0   0.2     2   220   136   341   135   341 0.83 Oxidoreductase family, C-terminal alpha/beta domain
+HTH_AraC             PF00165.26    42 MMO-59_contigs.fa_antismash_contig00010.region002_ORF3:gid::pid::loc:2951:3821:strand:+ -            289   2.3e-21   75.5   0.0   1   2   5.2e-13   2.6e-09   37.1   0.0     1    41   195   235   195   235 0.97 Bacterial regulatory helix-turn-helix proteins, AraC family
+HTH_AraC             PF00165.26    42 MMO-59_contigs.fa_antismash_contig00010.region002_ORF3:gid::pid::loc:2951:3821:strand:+ -            289   2.3e-21   75.5   0.0   2   2   1.2e-12   5.8e-09   35.9   0.0     6    42   249   286   247   286 0.95 Bacterial regulatory helix-turn-helix proteins, AraC family
+HTH_18               PF12833.10    81 MMO-59_contigs.fa_antismash_contig00010.region002_ORF3:gid::pid::loc:2951:3821:strand:+ -            289   4.1e-19   68.7   0.0   1   1   1.9e-22   9.5e-19   67.6   0.0     2    81   209   287   208   287 0.97 Helix-turn-helix domain
+AraC_binding         PF02311.22   136 MMO-59_contigs.fa_antismash_contig00010.region002_ORF3:gid::pid::loc:2951:3821:strand:+ -            289   6.4e-11   42.4   2.2   1   1   2.5e-14   1.2e-10   41.5   2.2    12   126    22   150    12   162 0.81 AraC-like ligand binding domain
+Cupin_2              PF07883.14    71 MMO-59_contigs.fa_antismash_contig00010.region002_ORF3:gid::pid::loc:2951:3821:strand:+ -            289   3.2e-07   30.1   0.1   1   1   1.4e-10   7.1e-07   29.0   0.1    10    59    27    75    21    82 0.91 Cupin domain
+YcaO                 PF02624.19   322 MMO-59_contigs.fa_antismash_contig00010.region002_ORF5:gid::pid::loc:5000:6932:strand:- -            643   2.2e-78  264.0   0.0   1   1   1.4e-82   2.8e-78  263.6   0.0     2   321   260   598   259   599 0.89 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+BPD_transp_1         PF00528.25   185 MMO-59_contigs.fa_antismash_contig00010.region002_ORF8:gid::pid::loc:9534:10458:strand:- -            307   1.1e-13   51.4  30.7   1   1   1.8e-16   3.4e-12   46.6  30.7    39   183    96   300    11   302 0.82 Binding-protein-dependent transport system inner membrane component
+BPD_transp_1         PF00528.25   185 MMO-59_contigs.fa_antismash_contig00010.region002_ORF9:gid::pid::loc:10470:11448:strand:- -            325   4.6e-15   56.0  10.9   1   1   2.3e-19   4.6e-15   56.0  10.9     2   184   111   320   110   321 0.86 Binding-protein-dependent transport system inner membrane component
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/MMO-59_contigs.fa_antismash_contig00010.region002.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/MMO-59_contigs.fa_antismash_contig00010.region002.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/MMO-59_contigs.fa_antismash_contig00010.region002.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Fri Feb  2 00:13:25 2024
+# [ok]

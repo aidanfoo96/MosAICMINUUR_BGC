@@ -1,0 +1,167 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="708.1333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="698.1333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg24_1)</title>
+			<polygon class=" (ctg24_1)" points="51,25 47,25 47,10 17,40 47,70 47,55 51,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peripla_BP_1 (PF00532)
+"Periplasmic binding proteins and sugar binding domain of LacI family"</title>
+				<polygon class="PF00532" points="21,40 33,28 44,28 44,52 33,52" stroke-linejoin="round" width="27" height="24" fill="rgb(170,185,72)" stroke="rgb(136,148,57)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LacI (PF00356)
+"Bacterial regulatory proteins, lacI family"</title>
+				<rect class="PF00356" x="46" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(66,188,63)" stroke="rgb(52,150,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg24_2)</title>
+			<polygon class=" (ctg24_2)" points="57,25 80,25 80,10 110,40 80,70 80,55 57,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PTS_EIIC (PF02378)
+"Phosphotransferase system, EIIC"</title>
+				<rect class="PF02378" x="58" y="28" stroke-linejoin="round" width="34" height="24" fill="rgb(73,199,212)" stroke="rgb(58,159,169)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PTS_EIIB (PF00367)
+"phosphotransferase system, EIIB"</title>
+				<polygon class="PF00367" points="102,37 105,40 105,40 102,43" stroke-linejoin="round" width="3" height="24" fill="rgb(188,77,92)" stroke="rgb(150,61,73)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg24_3)</title>
+			<polygon class=" (ctg24_3)" points="113,25 122,25 122,10 152,40 122,70 122,55 113,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_1_2 (PF00155)
+"Aminotransferase class I and II"</title>
+				<polygon class="PF00155" points="115,28 135,28 147,40 135,52 115,52" stroke-linejoin="round" width="35" height="24" fill="rgb(89,113,198)" stroke="rgb(71,90,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg24_4)</title>
+			<polygon class=" (ctg24_4)" points="157,25 174,25 174,10 204,40 174,70 174,55 157,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg24_5)</title>
+			<polygon class=" (ctg24_5)" points="211,25 230,25 230,10 260,40 230,70 230,55 211,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PTR2 (PF00854)
+"POT family"</title>
+				<polygon class="PF00854" points="219,28 243,28 255,40 255,40 243,52 219,52" stroke-linejoin="round" width="36" height="24" fill="rgb(90,189,52)" stroke="rgb(71,151,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg24_6)</title>
+			<polygon class=" (ctg24_6)" points="273,25 278,25 278,10 308,40 278,70 278,55 273,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_2 (PF00891)
+"O-methyltransferase domain"</title>
+				<polygon class="PF00891" points="286,28 292,28 304,40 292,52 286,52" stroke-linejoin="round" width="20" height="24" fill="rgb(50,51,190)" stroke="rgb(39,40,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg24_7)</title>
+			<polygon class=" (ctg24_7)" points="321,10 329,40 321,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NUDIX (PF00293)
+"NUDIX domain"</title>
+				<polygon class="PF00293" points="321,28 322,28 326,40 326,40 322,52 321,52" stroke-linejoin="round" width="5" height="24" fill="rgb(92,56,187)" stroke="rgb(73,44,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg24_8)</title>
+			<polygon class=" (ctg24_8)" points="329,25 334,25 334,10 364,40 334,70 334,55 329,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Terpene_syn_C_2 (PF19086)
+"Terpene synthase family 2, C-terminal metal binding"</title>
+				<polygon class="PF19086" points="336,28 348,28 355,35 355,45 348,52 336,52" stroke-linejoin="round" width="19" height="24" fill="rgb(55,207,154)" stroke="rgb(43,165,123)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg24_9)</title>
+			<polygon class=" (ctg24_9)" points="374,10 401,40 374,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_11 (PF08241)
+"Methyltransferase domain"</title>
+				<polygon class="PF08241" points="380,28 386,28 389,31 389,49 386,52 380,52" stroke-linejoin="round" width="9" height="24" fill="rgb(106,219,159)" stroke="rgb(84,175,127)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg24_10)</title>
+			<polygon class=" (ctg24_10)" points="415,40 420,10 420,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg24_11)</title>
+			<polygon class=" (ctg24_11)" points="425,25 428,25 428,10 458,40 428,70 428,55 425,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>A_deaminase (PF00962)
+"Adenosine deaminase"</title>
+				<polygon class="PF00962" points="425,28 442,28 454,40 442,52 425,52" stroke-linejoin="round" width="32" height="24" fill="rgb(226,153,81)" stroke="rgb(180,122,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg24_12)</title>
+			<polygon class=" (ctg24_12)" points="492,25 489,25 489,10 459,40 489,70 489,55 492,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SBF_like (PF13593)
+"SBF-like CPA transporter family (DUF4137)"</title>
+				<polygon class="PF13593" points="463,40 475,28 490,28 490,52 475,52" stroke-linejoin="round" width="30" height="24" fill="rgb(154,198,90)" stroke="rgb(123,158,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg24_13)</title>
+			<polygon class=" (ctg24_13)" points="508,40 520,10 520,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg24_14)</title>
+			<polygon class=" (ctg24_14)" points="537,40 551,10 551,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg24_15)</title>
+			<polygon class=" (ctg24_15)" points="553,25 580,25 580,10 610,40 580,70 580,55 553,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>POTRA_2 (PF08479)
+"POTRA domain, ShlB-type"</title>
+				<rect class="PF08479" x="559" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(99,69,180)" stroke="rgb(79,55,144)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ShlB (PF03865)
+"Haemolysin secretion/activation protein ShlB/FhaC/HecB"</title>
+				<polygon class="PF03865" points="589,28 593,28 605,40 605,40 593,52 589,52" stroke-linejoin="round" width="16" height="24" fill="rgb(110,71,215)" stroke="rgb(87,56,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg24_16)</title>
+			<polygon class=" (ctg24_16)" points="646,25 642,25 642,10 612,40 642,70 642,55 646,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GFO_IDH_MocA_C (PF02894)
+"Oxidoreductase family, C-terminal alpha/beta domain"</title>
+				<polygon class="PF02894" points="616,40 628,28 633,28 633,52 628,52" stroke-linejoin="round" width="21" height="24" fill="rgb(195,223,82)" stroke="rgb(155,178,65)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GFO_IDH_MocA (PF01408)
+"Oxidoreductase family, NAD-binding Rossmann fold"</title>
+				<rect class="PF01408" x="634" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(76,117,190)" stroke="rgb(60,93,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg24_17)</title>
+			<polygon class=" (ctg24_17)" points="658,10 665,40 658,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HHA (PF05321)
+"Haemolysin expression modulating protein"</title>
+				<polygon class="PF05321" points="659,28 659,28 662,40 659,52 659,52" stroke-linejoin="round" width="6" height="24" fill="rgb(218,190,106)" stroke="rgb(174,152,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg24_18)</title>
+			<polygon class=" (ctg24_18)" points="668,10 682,40 668,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2569 (PF10754)
+"Protein of unknown function (DUF2569)"</title>
+				<polygon class="PF10754" points="668,28 673,28 679,40 673,52 668,52" stroke-linejoin="round" width="13" height="24" fill="rgb(71,79,181)" stroke="rgb(56,63,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

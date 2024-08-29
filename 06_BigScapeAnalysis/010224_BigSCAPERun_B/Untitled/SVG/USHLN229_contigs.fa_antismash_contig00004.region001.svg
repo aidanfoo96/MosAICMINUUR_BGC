@@ -1,0 +1,88 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="365.73333333333335" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="355.73333333333335" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg4_54)</title>
+			<polygon class=" (ctg4_54)" points="110,25 43,25 43,10 13,40 43,70 43,55 110,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GDC-P (PF02347)
+"Glycine cleavage system P-protein"</title>
+				<rect class="PF02347" x="33" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(54,115,215)" stroke="rgb(43,92,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GDC-P (PF02347)
+"Glycine cleavage system P-protein"</title>
+				<rect class="PF02347" x="64" y="28" stroke-linejoin="round" width="43" height="24" fill="rgb(54,115,215)" stroke="rgb(43,92,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4_55)</title>
+			<polygon class=" (ctg4_55)" points="169,25 157,25 157,10 127,40 157,70 157,55 169,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Nramp (PF01566)
+"Natural resistance-associated macrophage protein"</title>
+				<polygon class="PF01566" points="131,40 143,28 165,28 165,52 143,52" stroke-linejoin="round" width="35" height="24" fill="rgb(155,80,205)" stroke="rgb(123,64,164)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4_56)</title>
+			<polygon class=" (ctg4_56)" points="176,10 188,40 176,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ectoine_synth (PF06339)
+"Ectoine synthase"</title>
+				<polygon class="PF06339" points="176,28 179,28 185,40 179,52 176,52" stroke-linejoin="round" width="12" height="24" fill="rgb(225,176,81)" stroke="rgb(180,140,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4_57)</title>
+			<polygon class=" (ctg4_57)" points="192,10 216,40 192,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1275 (PF06912)
+"Protein of unknown function (DUF1275)"</title>
+				<polygon class="PF06912" points="193,28 203,28 212,40 203,52 193,52" stroke-linejoin="round" width="21" height="24" fill="rgb(87,188,62)" stroke="rgb(69,150,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4_58)</title>
+			<polygon class=" (ctg4_58)" points="255,25 245,25 245,10 215,40 245,70 245,55 255,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyl-CoA_dh_1 (PF00441)
+"Acyl-CoA dehydrogenase, C-terminal domain"</title>
+				<polygon class="PF00441" points="219,40 229,30 229,50" stroke-linejoin="round" width="14" height="24" fill="rgb(85,191,117)" stroke="rgb(68,152,93)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl-CoA_dh_M (PF02770)
+"Acyl-CoA dehydrogenase, middle domain"</title>
+				<polygon class="PF02770" points="231,28 231,28 240,28 240,52 231,52 231,52" stroke-linejoin="round" width="9" height="24" fill="rgb(225,186,97)" stroke="rgb(180,148,77)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl-CoA_dh_N (PF02771)
+"Acyl-CoA dehydrogenase, N-terminal domain"</title>
+				<rect class="PF02771" x="241" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(105,135,218)" stroke="rgb(84,108,174)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4_59)</title>
+			<polygon class=" (ctg4_59)" points="261,25 290,25 290,10 320,40 290,70 290,55 261,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="266,28 304,28 307,31 307,49 304,52 266,52" stroke-linejoin="round" width="41" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<polygon class="PF13193" points="309,33 316,40 316,40 309,47" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4_60)</title>
+			<polygon class=" (ctg4_60)" points="323,10 341,40 323,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MarR_2 (PF12802)
+"MarR family"</title>
+				<polygon class="PF12802" points="328,28 330,28 334,34 334,46 330,52 328,52" stroke-linejoin="round" width="6" height="24" fill="rgb(46,89,185)" stroke="rgb(36,71,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

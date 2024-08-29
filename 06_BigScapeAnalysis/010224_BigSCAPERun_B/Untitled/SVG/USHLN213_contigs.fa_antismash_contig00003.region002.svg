@@ -1,0 +1,95 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="365.43333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="355.43333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg3_343)</title>
+			<polygon class=" (ctg3_343)" points="17,25 56,25 56,10 86,40 56,70 56,55 17,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NERD (PF08378)
+"Nuclease-related domain"</title>
+				<rect class="PF08378" x="20" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(81,85,195)" stroke="rgb(64,68,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AAA_19 (PF13245)
+"AAA domain"</title>
+				<rect class="PF13245" x="42" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(80,199,91)" stroke="rgb(64,159,72)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>UvrD_C (PF13361)
+"UvrD-like helicase C-terminal domain"</title>
+				<polygon class="PF13361" points="78,36 82,40 78,44" stroke-linejoin="round" width="7" height="24" fill="rgb(211,102,116)" stroke="rgb(168,81,92)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_344)</title>
+			<polygon class=" (ctg3_344)" points="90,40 111,10 111,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="94,40 103,28 108,28 108,52 103,52 94,40" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_345)</title>
+			<polygon class=" (ctg3_345)" points="175,25 142,25 142,10 112,40 142,70 142,55 175,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3_346)</title>
+			<polygon class=" (ctg3_346)" points="176,40 188,10 188,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lactococcin_972 (PF09683)
+"Bacteriocin (Lactococcin_972)"</title>
+				<polygon class="PF09683" points="179,40 182,33 182,47" stroke-linejoin="round" width="6" height="24" fill="rgb(202,100,222)" stroke="rgb(161,80,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_347)</title>
+			<polygon class=" (ctg3_347)" points="223,25 222,25 222,10 192,40 222,70 222,55 223,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADH_zinc_N_2 (PF13602)
+"Zinc-binding dehydrogenase"</title>
+				<polygon class="PF13602" points="196,40 204,32 204,48" stroke-linejoin="round" width="12" height="24" fill="rgb(101,131,226)" stroke="rgb(80,104,180)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ADH_N (PF08240)
+"Alcohol dehydrogenase GroES-like domain"</title>
+				<rect class="PF08240" x="213" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(211,65,138)" stroke="rgb(168,51,110)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_348)</title>
+			<polygon class=" (ctg3_348)" points="258,25 257,25 257,10 227,40 257,70 257,55 258,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_18 (PF12833)
+"Helix-turn-helix domain"</title>
+				<polygon class="PF12833" points="231,40 235,36 235,44" stroke-linejoin="round" width="7" height="24" fill="rgb(216,58,224)" stroke="rgb(172,46,179)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AraC_N (PF06719)
+"AraC-type transcriptional regulator N-terminus"</title>
+				<polygon class="PF06719" points="239,32 243,28 254,28 254,52 243,52 239,48" stroke-linejoin="round" width="15" height="24" fill="rgb(112,52,192)" stroke="rgb(89,41,153)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_349)</title>
+			<polygon class=" (ctg3_349)" points="263,10 288,40 263,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short (PF00106)
+"short chain dehydrogenase"</title>
+				<polygon class="PF00106" points="264,28 274,28 283,38 283,42 274,52 264,52" stroke-linejoin="round" width="19" height="24" fill="rgb(182,219,73)" stroke="rgb(145,175,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_350)</title>
+			<polygon class=" (ctg3_350)" points="289,40 300,10 300,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3_351)</title>
+			<polygon class=" (ctg3_351)" points="315,40 328,10 328,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3_352)</title>
+			<polygon class=" (ctg3_352)" points="332,40 347,10 347,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

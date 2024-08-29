@@ -1,0 +1,191 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="708.1333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="698.1333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg19_1)</title>
+			<polygon class=" (ctg19_1)" points="20,25 32,25 32,10 62,40 32,70 32,55 20,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GGDEF (PF00990)
+"Diguanylate cyclase, GGDEF domain"</title>
+				<polygon class="PF00990" points="44,28 46,28 58,40 46,52 44,52" stroke-linejoin="round" width="16" height="24" fill="rgb(62,170,199)" stroke="rgb(49,135,159)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19_2)</title>
+			<polygon class=" (ctg19_2)" points="69,25 97,25 97,10 127,40 97,70 97,55 69,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AcylCoA_DH_N (PF12418)
+"Acyl-CoA dehydrogenase N terminal"</title>
+				<rect class="PF12418" x="69" y="28" stroke-linejoin="round" width="2" height="24" fill="rgb(209,59,129)" stroke="rgb(167,47,103)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl-CoA_dh_N (PF02771)
+"Acyl-CoA dehydrogenase, N-terminal domain"</title>
+				<rect class="PF02771" x="71" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(105,135,218)" stroke="rgb(84,108,174)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl-CoA_dh_M (PF02770)
+"Acyl-CoA dehydrogenase, middle domain"</title>
+				<rect class="PF02770" x="84" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(225,186,97)" stroke="rgb(180,148,77)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl-CoA_dh_1 (PF00441)
+"Acyl-CoA dehydrogenase, C-terminal domain"</title>
+				<polygon class="PF00441" points="96,28 111,28 113,30 113,50 111,52 96,52" stroke-linejoin="round" width="17" height="24" fill="rgb(85,191,117)" stroke="rgb(68,152,93)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl-CoA_dh_C (PF12806)
+"Acetyl-CoA dehydrogenase C-terminal like"</title>
+				<polygon class="PF12806" points="114,31 123,40 114,49" stroke-linejoin="round" width="12" height="24" fill="rgb(208,149,57)" stroke="rgb(166,119,45)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19_3)</title>
+			<polygon class=" (ctg19_3)" points="140,40 169,10 169,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LysR_substrate (PF03466)
+"LysR substrate binding domain"</title>
+				<polygon class="PF03466" points="144,40 156,28 161,28 161,52 156,52" stroke-linejoin="round" width="20" height="24" fill="rgb(55,136,195)" stroke="rgb(44,108,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_1 (PF00126)
+"Bacterial regulatory helix-turn-helix protein, lysR family"</title>
+				<rect class="PF00126" x="164" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(125,227,79)" stroke="rgb(99,181,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19_4)</title>
+			<polygon class=" (ctg19_4)" points="178,25 190,25 190,10 220,40 190,70 190,55 178,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_3 (PF00202)
+"Aminotransferase class-III"</title>
+				<polygon class="PF00202" points="181,28 204,28 216,40 204,52 181,52" stroke-linejoin="round" width="37" height="24" fill="rgb(49,163,189)" stroke="rgb(39,130,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19_5)</title>
+			<polygon class=" (ctg19_5)" points="225,10 230,40 225,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pmp3 (PF01679)
+"Proteolipid membrane potential modulator"</title>
+				<polygon class="PF01679" points="225,28 227,40 225,52" stroke-linejoin="round" width="4" height="24" fill="rgb(102,214,171)" stroke="rgb(81,171,136)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19_6)</title>
+			<polygon class=" (ctg19_6)" points="293,25 263,25 263,10 233,40 263,70 263,55 293,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_S9 (PF00326)
+"Prolyl oligopeptidase family"</title>
+				<polygon class="PF00326" points="237,40 249,28 253,28 253,52 249,52" stroke-linejoin="round" width="20" height="24" fill="rgb(77,97,209)" stroke="rgb(61,77,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19_7)</title>
+			<polygon class=" (ctg19_7)" points="331,25 323,25 323,10 293,40 323,70 323,55 331,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SPASM (PF13186)
+"Iron-sulfur cluster-binding domain"</title>
+				<polygon class="PF13186" points="299,38 305,32 305,48 299,42" stroke-linejoin="round" width="6" height="24" fill="rgb(183,66,65)" stroke="rgb(146,52,51)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<rect class="PF04055" x="313" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19_8)</title>
+			<polygon class=" (ctg19_8)" points="330,40 339,10 339,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg19_9)</title>
+			<polygon class=" (ctg19_9)" points="339,40 364,10 364,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TENA_THI-4 (PF03070)
+"TENA/THI-4/PQQC family"</title>
+				<polygon class="PF03070" points="343,40 353,28 362,28 362,52 353,52" stroke-linejoin="round" width="21" height="24" fill="rgb(95,149,219)" stroke="rgb(76,119,175)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19_10)</title>
+			<polygon class=" (ctg19_10)" points="395,25 395,25 395,10 365,40 395,70 395,55 395,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lactamase_B_2 (PF12706)
+"Beta-lactamase superfamily domain"</title>
+				<polygon class="PF12706" points="369,40 381,28 390,28 390,52 381,52" stroke-linejoin="round" width="22" height="24" fill="rgb(62,169,197)" stroke="rgb(49,135,157)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19_11)</title>
+			<polygon class=" (ctg19_11)" points="483,25 436,25 436,10 406,40 436,70 436,55 483,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M16 (PF00675)
+"Insulinase (Peptidase family M16)"</title>
+				<rect class="PF00675" x="467" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(70,225,127)" stroke="rgb(56,180,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19_12)</title>
+			<polygon class=" (ctg19_12)" points="485,40 511,10 511,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CN_hydrolase (PF00795)
+"Carbon-nitrogen hydrolase"</title>
+				<polygon class="PF00795" points="489,40 499,28 510,28 510,52 499,52" stroke-linejoin="round" width="24" height="24" fill="rgb(213,76,196)" stroke="rgb(170,60,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19_13)</title>
+			<polygon class=" (ctg19_13)" points="568,25 542,25 542,10 512,40 542,70 542,55 568,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="516,40 528,28 561,28 561,52 528,52" stroke-linejoin="round" width="47" height="24" fill="rgb(184,74,52)" stroke="rgb(147,59,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19_14)</title>
+			<polygon class=" (ctg19_14)" points="568,40 577,10 577,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg19_15)</title>
+			<polygon class=" (ctg19_15)" points="589,10 598,40 589,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF3077 (PF11275)
+"Protein of unknown function (DUF3077)"</title>
+				<polygon class="PF11275" points="590,28 591,28 595,40 591,52 590,52" stroke-linejoin="round" width="7" height="24" fill="rgb(183,86,190)" stroke="rgb(146,68,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19_16)</title>
+			<polygon class=" (ctg19_16)" points="599,40 614,10 614,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AsnC_trans_reg (PF01037)
+"Lrp/AsnC ligand binding domain"</title>
+				<polygon class="PF01037" points="602,40 606,32 606,48" stroke-linejoin="round" width="7" height="24" fill="rgb(134,72,182)" stroke="rgb(107,57,145)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_AsnC-type (PF13404)
+"AsnC-type helix-turn-helix domain"</title>
+				<rect class="PF13404" x="609" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(190,195,86)" stroke="rgb(152,156,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19_17)</title>
+			<polygon class=" (ctg19_17)" points="620,10 643,40 620,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Hexapep (PF00132)
+"Bacterial transferase hexapeptide (six repeats)"</title>
+				<polygon class="PF00132" points="631,30 634,34 634,46 631,50" stroke-linejoin="round" width="3" height="24" fill="rgb(89,131,202)" stroke="rgb(71,104,161)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19_18)</title>
+			<polygon class=" (ctg19_18)" points="645,40 657,10 657,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg19_19)</title>
+			<polygon class=" (ctg19_19)" points="685,40 696,10 696,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

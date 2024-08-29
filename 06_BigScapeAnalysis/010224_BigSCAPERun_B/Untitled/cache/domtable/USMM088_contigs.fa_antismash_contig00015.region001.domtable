@@ -1,0 +1,28 @@
+#                                                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF3959              PF13105.9    238 USMM088_contigs.fa_antismash_contig00015.region001_ORF1:gid::pid::loc:352:1123:strand:- -            256   7.7e-78  261.2   2.2   1   1   4.5e-82   8.9e-78  261.0   2.2     1   238    10   252    10   252 0.93 Protein of unknown function (DUF3959)
+pPIWI_RE_X           PF13111.9    400 USMM088_contigs.fa_antismash_contig00015.region001_ORF2:gid::pid::loc:1327:3715:strand:- -            795     2e-20   73.5   0.0   1   1   4.5e-24     3e-20   72.9   0.0    11   365    17   351    11   369 0.80 pPIWI_RE module N-terminal domain
+RNaseH_pPIWI_RE      PF13032.9    292 USMM088_contigs.fa_antismash_contig00015.region001_ORF2:gid::pid::loc:1327:3715:strand:- -            795     1e-18   68.3   0.0   1   1   1.6e-17   1.1e-13   51.8   0.0    16   200   540   702   535   712 0.89 RNaseH domain of pPIWI_RE
+MID_pPIWI_RE         PF18157.4    142 USMM088_contigs.fa_antismash_contig00015.region001_ORF2:gid::pid::loc:1327:3715:strand:- -            795   3.5e-07   30.7   0.0   1   1   9.7e-11   6.3e-07   29.8   0.0    32   107   424   494   405   521 0.86 MID domain of pPIWI_RE
+DUF3937              PF13073.9     72 USMM088_contigs.fa_antismash_contig00015.region001_ORF5:gid::pid::loc:5783:6047:strand:- -             87   1.1e-51  173.0   4.2   1   1   6.2e-56   1.2e-51  172.8   4.2     1    72     8    79     8    79 1.00 Protein of unknown function (DUF3937)
+TENA_THI-4           PF03070.19   210 USMM088_contigs.fa_antismash_contig00015.region001_ORF6:gid::pid::loc:6444:7134:strand:- -            229   1.5e-57  195.0   5.3   1   1   8.5e-62   1.7e-57  194.8   5.3     2   209     9   214     8   215 0.99 TENA/THI-4/PQQC family
+Dala_Dala_lig_C      PF07478.16   204 USMM088_contigs.fa_antismash_contig00015.region001_ORF7:gid::pid::loc:7440:8355:strand:- -            304   9.3e-53  178.9   0.2   1   1   3.8e-56   1.3e-52  178.4   0.2    11   204   103   293    95   293 0.91 D-ala D-ala ligase C-terminus
+Dala_Dala_lig_N      PF01820.24   108 USMM088_contigs.fa_antismash_contig00015.region001_ORF7:gid::pid::loc:7440:8355:strand:- -            304   2.6e-23   82.7   0.8   1   1   9.4e-25   3.1e-21   76.0   0.8     1   108     2    84     2    84 0.93 D-ala D-ala ligase N-terminus
+ATP-grasp_3          PF02655.17   161 USMM088_contigs.fa_antismash_contig00015.region001_ORF7:gid::pid::loc:7440:8355:strand:- -            304   9.8e-15   55.1   0.8   1   1   1.1e-16   3.7e-13   50.0   0.2     1   156    92   263    92   267 0.83 ATP-grasp domain
+GARS_A               PF01071.22   194 USMM088_contigs.fa_antismash_contig00015.region001_ORF7:gid::pid::loc:7440:8355:strand:- -            304     1e-08   35.4   0.1   1   1   1.5e-11   4.9e-08   33.1   0.1     2   105    94   190    93   266 0.91 Phosphoribosylglycinamide synthetase, ATP-grasp (A) domain
+RimK                 PF08443.14   188 USMM088_contigs.fa_antismash_contig00015.region001_ORF7:gid::pid::loc:7440:8355:strand:- -            304   2.1e-08   34.1   0.0   1   1   1.2e-11   4.1e-08   33.2   0.0     3   173    94   271    92   282 0.79 RimK-like ATP-grasp domain
+CPSase_L_D2          PF02786.20   211 USMM088_contigs.fa_antismash_contig00015.region001_ORF7:gid::pid::loc:7440:8355:strand:- -            304   1.8e-07   31.0   0.0   1   1   7.4e-11   2.4e-07   30.6   0.0     1   178    94   263    94   282 0.88 Carbamoyl-phosphate synthase L chain, ATP binding domain
+Aminotran_1_2        PF00155.24   363 USMM088_contigs.fa_antismash_contig00015.region001_ORF8:gid::pid::loc:8359:9808:strand:- -            482   4.8e-28   98.5   0.0   1   1   9.4e-32   6.2e-28   98.1   0.0    32   360   146   469   122   472 0.90 Aminotransferase class I and II
+GntR                 PF00392.24    64 USMM088_contigs.fa_antismash_contig00015.region001_ORF8:gid::pid::loc:8359:9808:strand:- -            482   2.2e-14   53.0   0.0   1   1   8.8e-18   5.8e-14   51.6   0.0     3    64    15    76    13    76 0.97 Bacterial regulatory proteins, gntR family
+Asp_aminotransf      PF12897.10   421 USMM088_contigs.fa_antismash_contig00015.region001_ORF8:gid::pid::loc:8359:9808:strand:- -            482   6.4e-11   41.8   0.0   1   1   2.3e-14   1.5e-10   40.6   0.0   122   318   202   390   181   455 0.81 Aspartate amino-transferase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/USMM088_contigs.fa_antismash_contig00015.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/USMM088_contigs.fa_antismash_contig00015.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/USMM088_contigs.fa_antismash_contig00015.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Fri Feb  2 00:12:37 2024
+# [ok]

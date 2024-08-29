@@ -1,0 +1,29 @@
+#                                                                                                                                          --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                         accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                               -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Poly_export          PF02563.19    82 SRR14196810.2.fa_antismash_k141_176587.region001_ORF2:gid::pid::loc:468:1266:strand:- -            265   3.9e-20   72.0   0.6   1   1   1.5e-23     3e-19   69.2   0.1     3    81    40   144    38   145 0.93 Polysaccharide biosynthesis/export protein
+ABC_membrane         PF00664.26   274 SRR14196810.2.fa_antismash_k141_176587.region001_ORF4:gid::pid::loc:2210:3833:strand:- -            540   7.3e-26   91.5  18.2   1   1   9.9e-30   9.8e-26   91.1  18.2     1   270    23   288    23   292 0.91 ABC transporter transmembrane region
+ABC_tran             PF00005.30   137 SRR14196810.2.fa_antismash_k141_176587.region001_ORF4:gid::pid::loc:2210:3833:strand:- -            540   1.3e-25   90.6   0.0   1   1   3.6e-29   3.5e-25   89.2   0.0     2   137   351   498   350   498 0.85 ABC transporter
+NTP_transf_5         PF14907.9    250 SRR14196810.2.fa_antismash_k141_176587.region001_ORF5:gid::pid::loc:3839:4934:strand:- -            364   4.7e-36  124.7   0.1   1   1   3.1e-40   6.1e-36  124.3   0.1     2   234    34   267    33   281 0.95 Uncharacterised nucleotidyltransferase
+PqqD                 PF05402.15    67 SRR14196810.2.fa_antismash_k141_176587.region001_ORF6:gid::pid::loc:4936:5206:strand:- -             89   2.7e-15   56.5   0.4   1   1   1.7e-19   3.3e-15   56.3   0.4     1    67    15    87    15    87 0.96 Coenzyme PQQ synthesis protein D (PqqD)
+Peptidase_S24        PF00717.26   116 SRR14196810.2.fa_antismash_k141_176587.region001_ORF7:gid::pid::loc:5210:5651:strand:- -            146   9.4e-09   35.2   0.2   1   1   6.3e-13   1.2e-08   34.8   0.2    36    96    30    93     9   110 0.81 Peptidase S24-like
+Glycos_transf_1      PF00534.23   172 SRR14196810.2.fa_antismash_k141_176587.region001_ORF8:gid::pid::loc:5846:6980:strand:- -            377   6.3e-38  130.1   0.2   1   1     2e-41     1e-37  129.5   0.2     7   172   189   354   183   354 0.94 Glycosyl transferases group 1
+Glyco_trans_1_4      PF13692.9    135 SRR14196810.2.fa_antismash_k141_176587.region001_ORF8:gid::pid::loc:5846:6980:strand:- -            377   6.7e-25   88.1   0.0   1   1   2.3e-28   1.1e-24   87.4   0.0     3   135   199   340   197   340 0.88 Glycosyl transferases group 1
+Glyco_transf_4       PF13439.9    170 SRR14196810.2.fa_antismash_k141_176587.region001_ORF8:gid::pid::loc:5846:6980:strand:- -            377     2e-12   47.6   0.0   1   1   6.8e-16   3.3e-12   46.9   0.0     2   167    20   178    19   179 0.82 Glycosyltransferase Family 4
+Glyco_trans_4_2      PF13477.9    139 SRR14196810.2.fa_antismash_k141_176587.region001_ORF8:gid::pid::loc:5846:6980:strand:- -            377   6.2e-07   29.7   0.2   1   1   2.6e-10   1.3e-06   28.7   0.2    56   136    72   150    28   153 0.78 Glycosyl transferase 4-like
+Glycos_transf_1      PF00534.23   172 SRR14196810.2.fa_antismash_k141_176587.region001_ORF9:gid::pid::loc:6981:8097:strand:- -            371   5.4e-12   45.7   0.2   1   1   1.5e-15   1.5e-11   44.3   0.0    17   165   197   346   179   350 0.88 Glycosyl transferases group 1
+Glyco_trans_1_4      PF13692.9    135 SRR14196810.2.fa_antismash_k141_176587.region001_ORF9:gid::pid::loc:6981:8097:strand:- -            371     1e-06   29.2   0.0   1   1   1.7e-10   1.7e-06   28.5   0.0    13   133   206   337   196   339 0.80 Glycosyl transferases group 1
+Glycos_transf_1      PF00534.23   172 SRR14196810.2.fa_antismash_k141_176587.region001_ORF10:gid::pid::loc:8096:9230:strand:- -            377   1.4e-35  122.5   0.0   1   1   5.7e-39   2.8e-35  121.5   0.0    14   167   197   348   187   352 0.96 Glycosyl transferases group 1
+Glyco_trans_1_4      PF13692.9    135 SRR14196810.2.fa_antismash_k141_176587.region001_ORF10:gid::pid::loc:8096:9230:strand:- -            377   1.2e-25   90.6   0.0   1   1   3.8e-29   1.8e-25   89.9   0.0     3   135   200   339   198   339 0.93 Glycosyl transferases group 1
+Glyco_transf_4       PF13439.9    170 SRR14196810.2.fa_antismash_k141_176587.region001_ORF10:gid::pid::loc:8096:9230:strand:- -            377   4.1e-09   36.8   0.0   1   1   1.3e-12   6.5e-09   36.2   0.0     2   164    14   184    13   185 0.79 Glycosyltransferase Family 4
+Glyco_trans_1_2      PF13524.9     92 SRR14196810.2.fa_antismash_k141_176587.region001_ORF10:gid::pid::loc:8096:9230:strand:- -            377   4.2e-06   27.2   0.0   1   1   1.9e-09   9.2e-06   26.1   0.0     3    71   277   348   275   368 0.91 Glycosyl transferases group 1
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/SRR14196810.2.fa_antismash_k141_176587.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/SRR14196810.2.fa_antismash_k141_176587.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/SRR14196810.2.fa_antismash_k141_176587.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 17:57:52 2024
+# [ok]

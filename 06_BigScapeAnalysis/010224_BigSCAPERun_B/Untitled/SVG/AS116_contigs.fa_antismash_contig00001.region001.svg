@@ -1,0 +1,106 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="426.53333333333336" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="416.53333333333336" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg1_8)</title>
+			<polygon class=" (ctg1_8)" points="43,40 52,10 52,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MIase (PF02426)
+"Muconolactone delta-isomerase"</title>
+				<polygon class="PF02426" points="46,40 50,28 51,28 51,52 50,52" stroke-linejoin="round" width="8" height="24" fill="rgb(214,164,56)" stroke="rgb(171,131,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_9)</title>
+			<polygon class=" (ctg1_9)" points="90,25 83,25 83,10 53,40 83,70 83,55 90,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MR_MLE_C (PF13378)
+"Enolase C-terminal domain-like"</title>
+				<polygon class="PF13378" points="57,40 69,28 74,28 74,52 69,52" stroke-linejoin="round" width="21" height="24" fill="rgb(191,184,94)" stroke="rgb(152,147,75)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MR_MLE_N (PF02746)
+"Mandelate racemase / muconate lactonizing enzyme, N-terminal domain"</title>
+				<rect class="PF02746" x="77" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(63,73,226)" stroke="rgb(50,58,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_10)</title>
+			<polygon class=" (ctg1_10)" points="94,25 95,25 95,10 125,40 95,70 95,55 94,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_1 (PF00126)
+"Bacterial regulatory helix-turn-helix protein, lysR family"</title>
+				<rect class="PF00126" x="94" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(125,227,79)" stroke="rgb(99,181,63)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LysR_substrate (PF03466)
+"LysR substrate binding domain"</title>
+				<polygon class="PF03466" points="102,28 108,28 120,40 108,52 102,52" stroke-linejoin="round" width="20" height="24" fill="rgb(55,136,195)" stroke="rgb(44,108,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_11)</title>
+			<polygon class=" (ctg1_11)" points="132,25 137,25 137,10 167,40 137,70 137,55 132,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amidohydro_2 (PF04909)
+"Amidohydrolase"</title>
+				<polygon class="PF04909" points="132,28 151,28 163,40 151,52 132,52" stroke-linejoin="round" width="34" height="24" fill="rgb(95,225,123)" stroke="rgb(76,180,98)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_12)</title>
+			<polygon class=" (ctg1_12)" points="176,25 219,25 219,10 249,40 219,70 219,55 176,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OsmC (PF02566)
+"OsmC-like protein"</title>
+				<rect class="PF02566" x="179" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(161,56,212)" stroke="rgb(128,44,169)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>YcaO (PF02624)
+"YcaO cyclodehydratase, ATP-ad Mg2+-binding"</title>
+				<rect class="PF02624" x="196" y="28" stroke-linejoin="round" width="33" height="24" fill="rgb(76,84,185)" stroke="rgb(60,67,148)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>YcaO_C (PF18381)
+"YcaO cyclodehydratase C-terminal domain"</title>
+				<polygon class="PF18381" points="231,28 232,28 244,40 232,52 231,52" stroke-linejoin="round" width="17" height="24" fill="rgb(125,91,193)" stroke="rgb(99,72,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_13)</title>
+			<polygon class=" (ctg1_13)" points="257,25 263,25 263,10 293,40 263,70 263,55 257,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF6670 (PF20375)
+"Family of unknown function (DUF6670)"</title>
+				<polygon class="PF20375" points="264,28 276,28 288,40 276,52 264,52" stroke-linejoin="round" width="28" height="24" fill="rgb(204,100,212)" stroke="rgb(163,80,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_14)</title>
+			<polygon class=" (ctg1_14)" points="294,10 320,40 294,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short (PF00106)
+"short chain dehydrogenase"</title>
+				<polygon class="PF00106" points="294,28 305,28 313,37 313,43 305,52 294,52" stroke-linejoin="round" width="19" height="24" fill="rgb(182,219,73)" stroke="rgb(145,175,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_15)</title>
+			<polygon class=" (ctg1_15)" points="333,10 357,40 333,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1989 (PF09347)
+"Domain of unknown function (DUF1989)"</title>
+				<polygon class="PF09347" points="334,28 344,28 351,37 351,43 344,52 334,52" stroke-linejoin="round" width="17" height="24" fill="rgb(190,52,203)" stroke="rgb(151,41,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_16)</title>
+			<polygon class=" (ctg1_16)" points="358,10 379,40 358,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1989 (PF09347)
+"Domain of unknown function (DUF1989)"</title>
+				<polygon class="PF09347" points="359,28 367,28 376,40 376,40 367,52 359,52" stroke-linejoin="round" width="17" height="24" fill="rgb(190,52,203)" stroke="rgb(151,41,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,19 @@
+#                                                                                                                                         --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                        accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                              -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+IucA_IucC            PF04183.15   239 LB15_contigs.fa_antismash_contig00037.region001_ORF3:gid::pid::loc:1606:3427:strand:- -            606   4.7e-75  252.4   0.0   1   1     1e-78     1e-74  251.3   0.0     2   239   151   400   150   400 0.97 IucA / IucC family
+FhuF                 PF06276.15   163 LB15_contigs.fa_antismash_contig00037.region001_ORF3:gid::pid::loc:1606:3427:strand:- -            606   1.3e-34  120.1   0.0   1   1   2.3e-38   2.2e-34  119.3   0.0     2   161   422   578   421   580 0.95 Ferric iron reductase FhuF-like transporter
+Acetyltransf_8       PF13523.9    145 LB15_contigs.fa_antismash_contig00037.region001_ORF4:gid::pid::loc:3423:4008:strand:- -            194   3.1e-44  150.3   0.4   1   1   1.9e-48   3.8e-44  150.0   0.4     2   145    28   170    27   170 0.98 Acetyltransferase (GNAT) domain
+Lys_Orn_oxgnase      PF13434.9    341 LB15_contigs.fa_antismash_contig00037.region001_ORF5:gid::pid::loc:3991:5317:strand:- -            441  1.6e-121  405.7   0.2   1   1  9.9e-126  1.9e-121  405.5   0.2     1   340     5   340     5   341 0.97 L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase
+Pyridoxal_deC        PF00282.22   375 LB15_contigs.fa_antismash_contig00037.region001_ORF6:gid::pid::loc:5336:6848:strand:- -            503   6.9e-64  216.0   0.0   1   1   9.7e-68   9.6e-64  215.6   0.0    41   374    97   430    69   431 0.92 Pyridoxal-dependent decarboxylase conserved domain
+Beta_elim_lyase      PF01212.24   291 LB15_contigs.fa_antismash_contig00037.region001_ORF6:gid::pid::loc:5336:6848:strand:- -            503   1.2e-06   28.2   0.0   1   1   2.1e-10     2e-06   27.4   0.0    70   232   196   349   117   412 0.76 Beta-eliminating lyase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/LB15_contigs.fa_antismash_contig00037.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/LB15_contigs.fa_antismash_contig00037.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/LB15_contigs.fa_antismash_contig00037.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 20:15:51 2024
+# [ok]

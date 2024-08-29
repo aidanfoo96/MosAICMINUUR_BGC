@@ -1,0 +1,120 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="462.56666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="452.56666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg2_499)</title>
+			<polygon class=" (ctg2_499)" points="23,40 52,10 52,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GyrI-like (PF06445)
+"GyrI-like small molecule binding domain"</title>
+				<polygon class="PF06445" points="27,40 39,28 39,28 39,52 39,52" stroke-linejoin="round" width="16" height="24" fill="rgb(61,183,118)" stroke="rgb(48,146,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_18 (PF12833)
+"Helix-turn-helix domain"</title>
+				<rect class="PF12833" x="42" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(216,58,224)" stroke="rgb(172,46,179)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_500)</title>
+			<polygon class=" (ctg2_500)" points="64,25 78,25 78,10 108,40 78,70 78,55 64,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Branch_AA_trans (PF05525)
+"Branched-chain amino acid transport protein"</title>
+				<polygon class="PF05525" points="64,28 92,28 104,40 92,52 64,52" stroke-linejoin="round" width="42" height="24" fill="rgb(192,58,193)" stroke="rgb(153,46,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_501)</title>
+			<polygon class=" (ctg2_501)" points="116,25 135,25 135,10 165,40 135,70 135,55 116,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_18 (PF12833)
+"Helix-turn-helix domain"</title>
+				<rect class="PF12833" x="130" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(216,58,224)" stroke="rgb(172,46,179)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Peripla_BP_2 (PF01497)
+"Periplasmic binding protein"</title>
+				<polygon class="PF01497" points="147,28 149,28 161,40 149,52 147,52" stroke-linejoin="round" width="15" height="24" fill="rgb(183,226,104)" stroke="rgb(146,180,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_502)</title>
+			<polygon class=" (ctg2_502)" points="176,25 202,25 202,10 232,40 202,70 202,55 176,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<rect class="PF04183" x="189" y="28" stroke-linejoin="round" width="21" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="213,28 216,28 228,40 216,52 213,52" stroke-linejoin="round" width="16" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_503)</title>
+			<polygon class=" (ctg2_503)" points="231,25 255,25 255,10 285,40 255,70 255,55 231,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<rect class="PF04183" x="242" y="28" stroke-linejoin="round" width="22" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="266,28 268,28 280,40 268,52 266,52" stroke-linejoin="round" width="17" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_504)</title>
+			<polygon class=" (ctg2_504)" points="285,25 294,25 294,10 324,40 294,70 294,55 285,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="293,28 308,28 312,32 312,48 308,52 293,52" stroke-linejoin="round" width="19" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<polygon class="PF13193" points="316,36 320,40 316,44" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_505)</title>
+			<polygon class=" (ctg2_505)" points="324,10 332,40 324,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<polygon class="PF00550" points="324,28 325,28 329,40 325,52 324,52" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_506)</title>
+			<polygon class=" (ctg2_506)" points="333,25 336,25 336,10 366,40 336,70 336,55 333,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF6005 (PF19468)
+"Family of unknown function (DUF6005)"</title>
+				<polygon class="PF19468" points="333,28 350,28 362,40 350,52 333,52" stroke-linejoin="round" width="32" height="24" fill="rgb(160,201,100)" stroke="rgb(128,160,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_507)</title>
+			<polygon class=" (ctg2_507)" points="364,10 391,40 364,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AP_endonuc_2 (PF01261)
+"Xylose isomerase-like TIM barrel"</title>
+				<polygon class="PF01261" points="366,28 376,28 387,40 376,52 366,52" stroke-linejoin="round" width="24" height="24" fill="rgb(69,222,207)" stroke="rgb(55,177,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_508)</title>
+			<polygon class=" (ctg2_508)" points="395,25 402,25 402,10 432,40 402,70 402,55 395,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Fe-ADH (PF00465)
+"Iron-containing alcohol dehydrogenase"</title>
+				<polygon class="PF00465" points="395,28 415,28 427,40 415,52 395,52" stroke-linejoin="round" width="34" height="24" fill="rgb(73,179,216)" stroke="rgb(58,143,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

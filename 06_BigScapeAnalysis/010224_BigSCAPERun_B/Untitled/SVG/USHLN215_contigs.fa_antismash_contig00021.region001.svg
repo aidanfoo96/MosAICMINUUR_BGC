@@ -1,0 +1,109 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="511.03333333333336" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="501.03333333333336" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg21_4)</title>
+			<polygon class=" (ctg21_4)" points="92,25 96,25 96,10 126,40 96,70 96,55 92,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PRC (PF05239)
+"PRC-barrel domain"</title>
+				<rect class="PF05239" x="92" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(89,112,204)" stroke="rgb(71,89,163)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF2382 (PF09557)
+"Domain of unknown function (DUF2382)"</title>
+				<polygon class="PF09557" points="112,30 122,40 122,40 112,50" stroke-linejoin="round" width="10" height="24" fill="rgb(86,197,59)" stroke="rgb(68,157,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg21_5)</title>
+			<polygon class=" (ctg21_5)" points="168,25 159,25 159,10 129,40 159,70 159,55 168,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="133,40 143,30 143,50" stroke-linejoin="round" width="14" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="144,29 145,28 166,28 166,52 145,52 144,51" stroke-linejoin="round" width="22" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg21_6)</title>
+			<polygon class=" (ctg21_6)" points="175,25 215,25 215,10 245,40 215,70 215,55 175,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>tRNA_SAD (PF07973)
+"Threonyl and Alanyl tRNA synthetase second additional domain"</title>
+				<rect class="PF07973" x="194" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(220,97,228)" stroke="rgb(176,77,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>tRNA-synt_2b (PF00587)
+"tRNA synthetase class II core domain (G, H, P, S and T)"</title>
+				<polygon class="PF00587" points="211,28 229,28 232,31 232,49 229,52 211,52" stroke-linejoin="round" width="21" height="24" fill="rgb(228,96,220)" stroke="rgb(182,76,176)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HGTP_anticodon (PF03129)
+"Anticodon binding domain"</title>
+				<polygon class="PF03129" points="233,32 241,40 233,48" stroke-linejoin="round" width="9" height="24" fill="rgb(115,202,95)" stroke="rgb(92,161,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg21_7)</title>
+			<polygon class=" (ctg21_7)" points="246,10 265,40 246,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HIT (PF01230)
+"HIT domain"</title>
+				<polygon class="PF01230" points="252,28 254,28 261,39 261,41 254,52 252,52" stroke-linejoin="round" width="9" height="24" fill="rgb(77,81,180)" stroke="rgb(61,64,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg21_8)</title>
+			<polygon class=" (ctg21_8)" points="335,25 296,25 296,10 266,40 296,70 296,55 335,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M3 (PF01432)
+"Peptidase family M3"</title>
+				<polygon class="PF01432" points="270,40 282,28 313,28 313,52 282,52" stroke-linejoin="round" width="45" height="24" fill="rgb(56,183,126)" stroke="rgb(44,146,100)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg21_9)</title>
+			<polygon class=" (ctg21_9)" points="343,25 350,25 350,10 380,40 350,70 350,55 343,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lycopene_cycl (PF05834)
+"Lycopene cyclase protein"</title>
+				<polygon class="PF05834" points="343,28 364,28 376,40 364,52 343,52" stroke-linejoin="round" width="36" height="24" fill="rgb(212,80,200)" stroke="rgb(169,64,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg21_10)</title>
+			<polygon class=" (ctg21_10)" points="381,10 388,40 381,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_7 (PF02796)
+"Helix-turn-helix domain of resolvase"</title>
+				<polygon class="PF02796" points="381,28 381,28 385,40 385,40 381,52 381,52" stroke-linejoin="round" width="4" height="24" fill="rgb(223,208,93)" stroke="rgb(178,166,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg21_11)</title>
+			<polygon class=" (ctg21_11)" points="391,40 406,10 406,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SnoaL_3 (PF13474)
+"SnoaL-like domain"</title>
+				<polygon class="PF13474" points="394,40 400,28 403,28 403,52 400,52" stroke-linejoin="round" width="12" height="24" fill="rgb(182,82,66)" stroke="rgb(145,65,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg21_12)</title>
+			<polygon class=" (ctg21_12)" points="431,10 441,40 431,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg21_13)</title>
+			<polygon class=" (ctg21_13)" points="450,40 477,10 477,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg21_14)</title>
+			<polygon class=" (ctg21_14)" points="498,10 500,40 498,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

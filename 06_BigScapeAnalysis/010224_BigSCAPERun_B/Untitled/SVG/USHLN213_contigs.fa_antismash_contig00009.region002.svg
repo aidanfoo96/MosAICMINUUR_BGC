@@ -1,0 +1,81 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="352.3333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="342.3333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg9_167)</title>
+			<polygon class=" (ctg9_167)" points="14,25 24,25 24,10 54,40 24,70 24,55 14,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HisKA_3 (PF07730)
+"Histidine kinase"</title>
+				<polygon class="PF07730" points="33,28 37,28 39,30 39,50 37,52 33,52" stroke-linejoin="round" width="6" height="24" fill="rgb(190,53,146)" stroke="rgb(152,42,116)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg9_168)</title>
+			<polygon class=" (ctg9_168)" points="59,25 95,25 95,10 125,40 95,70 95,55 59,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LPG_synthase_C (PF09924)
+"Phosphatidylglycerol lysyltransferase, C-terminal"</title>
+				<polygon class="PF09924" points="90,28 108,28 119,39 119,41 108,52 90,52" stroke-linejoin="round" width="29" height="24" fill="rgb(212,197,83)" stroke="rgb(169,157,66)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg9_169)</title>
+			<polygon class=" (ctg9_169)" points="125,25 137,25 137,10 167,40 137,70 137,55 125,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Esterase (PF00756)
+"Putative esterase"</title>
+				<polygon class="PF00756" points="143,28 151,28 163,40 151,52 143,52" stroke-linejoin="round" width="23" height="24" fill="rgb(217,132,77)" stroke="rgb(173,105,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg9_170)</title>
+			<polygon class=" (ctg9_170)" points="168,10 173,40 168,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg9_171)</title>
+			<polygon class=" (ctg9_171)" points="176,10 189,40 176,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lactococcin_972 (PF09683)
+"Bacteriocin (Lactococcin_972)"</title>
+				<polygon class="PF09683" points="182,32 185,40 182,48" stroke-linejoin="round" width="6" height="24" fill="rgb(202,100,222)" stroke="rgb(161,80,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg9_172)</title>
+			<polygon class=" (ctg9_172)" points="190,25 227,25 227,10 257,40 227,70 227,55 190,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg9_173)</title>
+			<polygon class=" (ctg9_173)" points="258,10 279,40 258,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="259,28 267,28 273,37 273,43 267,52 259,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg9_174)</title>
+			<polygon class=" (ctg9_174)" points="279,40 298,10 298,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_3 (PF13302)
+"Acetyltransferase (GNAT) domain"</title>
+				<polygon class="PF13302" points="283,40 291,28 295,28 295,52 291,52" stroke-linejoin="round" width="13" height="24" fill="rgb(105,146,215)" stroke="rgb(84,116,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg9_175)</title>
+			<polygon class=" (ctg9_175)" points="341,25 331,25 331,10 301,40 331,70 331,55 341,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>2-oxoacid_dh (PF00198)
+"2-oxoacid dehydrogenases acyltransferase (catalytic domain)"</title>
+				<polygon class="PF00198" points="305,40 317,28 323,28 323,52 317,52" stroke-linejoin="round" width="22" height="24" fill="rgb(204,74,202)" stroke="rgb(163,59,161)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>E3_binding (PF02817)
+"e3 binding domain"</title>
+				<rect class="PF02817" x="325" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(217,136,99)" stroke="rgb(173,108,79)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

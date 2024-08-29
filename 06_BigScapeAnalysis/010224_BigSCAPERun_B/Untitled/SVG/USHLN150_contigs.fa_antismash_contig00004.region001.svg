@@ -1,0 +1,82 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="366.6333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="356.6333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg4_112)</title>
+			<polygon class=" (ctg4_112)" points="39,40 67,10 67,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SIR2 (PF02146)
+"Sir2 family"</title>
+				<polygon class="PF02146" points="44,39 54,28 64,28 64,52 54,52 44,41" stroke-linejoin="round" width="20" height="24" fill="rgb(83,217,165)" stroke="rgb(66,173,132)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4_113)</title>
+			<polygon class=" (ctg4_113)" points="72,25 114,25 114,10 144,40 114,70 114,55 72,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2075 (PF09848)
+"Schlafen group 3, DNA/RNA helicase domain"</title>
+				<rect class="PF09848" x="90" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(173,201,69)" stroke="rgb(138,160,55)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4_114)</title>
+			<polygon class=" (ctg4_114)" points="176,25 175,25 175,10 145,40 175,70 175,55 176,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>2-Hacid_dh_C (PF02826)
+"D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain"</title>
+				<polygon class="PF02826" points="149,40 161,28 165,28 165,52 161,52" stroke-linejoin="round" width="17" height="24" fill="rgb(192,197,93)" stroke="rgb(153,157,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4_115)</title>
+			<polygon class=" (ctg4_115)" points="176,40 189,10 189,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ectoine_synth (PF06339)
+"Ectoine synthase"</title>
+				<polygon class="PF06339" points="179,40 184,28 188,28 188,52 184,52" stroke-linejoin="round" width="12" height="24" fill="rgb(225,176,81)" stroke="rgb(180,140,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4_116)</title>
+			<polygon class=" (ctg4_116)" points="232,25 220,25 220,10 190,40 220,70 220,55 232,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_3 (PF00202)
+"Aminotransferase class-III"</title>
+				<polygon class="PF00202" points="194,40 206,28 229,28 229,52 206,52" stroke-linejoin="round" width="39" height="24" fill="rgb(49,163,189)" stroke="rgb(39,130,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4_117)</title>
+			<polygon class=" (ctg4_117)" points="234,40 251,10 251,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_1 (PF00583)
+"Acetyltransferase (GNAT) family"</title>
+				<polygon class="PF00583" points="237,40 244,28 248,28 248,52 244,52 237,40" stroke-linejoin="round" width="11" height="24" fill="rgb(121,183,50)" stroke="rgb(96,146,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4_118)</title>
+			<polygon class=" (ctg4_118)" points="326,25 286,25 286,10 256,40 286,70 286,55 326,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Helicase_C (PF00271)
+"Helicase conserved C-terminal domain"</title>
+				<rect class="PF00271" x="291" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(104,224,158)" stroke="rgb(83,179,126)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DEAD (PF00270)
+"DEAD/DEAH box helicase"</title>
+				<rect class="PF00270" x="305" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(195,100,62)" stroke="rgb(156,80,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4_119)</title>
+			<polygon class=" (ctg4_119)" points="327,40 342,10 342,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GyrI-like (PF06445)
+"GyrI-like small molecule binding domain"</title>
+				<polygon class="PF06445" points="330,40 336,28 342,28 342,52 336,52" stroke-linejoin="round" width="15" height="24" fill="rgb(61,183,118)" stroke="rgb(48,146,94)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

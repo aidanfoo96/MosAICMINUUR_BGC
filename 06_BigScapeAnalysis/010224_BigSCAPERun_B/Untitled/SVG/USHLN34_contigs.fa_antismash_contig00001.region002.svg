@@ -1,0 +1,204 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="699.1" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="689.1" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg1_626)</title>
+			<polygon class=" (ctg1_626)" points="56,25 40,25 40,10 10,40 40,70 40,55 56,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aldedh (PF00171)
+"Aldehyde dehydrogenase family"</title>
+				<polygon class="PF00171" points="14,40 26,28 55,28 55,52 26,52" stroke-linejoin="round" width="45" height="24" fill="rgb(105,213,139)" stroke="rgb(84,170,111)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_627)</title>
+			<polygon class=" (ctg1_627)" points="57,40 64,10 64,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YccJ (PF13993)
+"YccJ-like protein"</title>
+				<polygon class="PF13993" points="60,40 63,28 63,28 63,52 63,52" stroke-linejoin="round" width="6" height="24" fill="rgb(115,91,201)" stroke="rgb(91,72,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_628)</title>
+			<polygon class=" (ctg1_628)" points="66,40 86,10 86,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FMN_red (PF03358)
+"NADPH-dependent FMN reductase"</title>
+				<polygon class="PF03358" points="71,38 78,28 85,28 85,52 78,52 71,42" stroke-linejoin="round" width="14" height="24" fill="rgb(90,228,61)" stroke="rgb(72,182,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_629)</title>
+			<polygon class=" (ctg1_629)" points="104,25 104,25 104,10 134,40 104,70 104,55 104,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>EamA (PF00892)
+"EamA-like transporter family"</title>
+				<rect class="PF00892" x="105" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(105,217,77)" stroke="rgb(84,173,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>EamA (PF00892)
+"EamA-like transporter family"</title>
+				<polygon class="PF00892" points="119,29 130,40 119,51" stroke-linejoin="round" width="13" height="24" fill="rgb(105,217,77)" stroke="rgb(84,173,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_630)</title>
+			<polygon class=" (ctg1_630)" points="141,10 162,40 141,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TetR_N (PF00440)
+"Bacterial regulatory proteins, tetR family"</title>
+				<rect class="PF00440" x="143" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(73,212,190)" stroke="rgb(58,169,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TetR_C_3 (PF08362)
+"YcdC-like protein, C-terminal region"</title>
+				<polygon class="PF08362" points="147,28 150,28 158,40 150,52 147,52" stroke-linejoin="round" width="14" height="24" fill="rgb(208,186,82)" stroke="rgb(166,148,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_631)</title>
+			<polygon class=" (ctg1_631)" points="163,25 165,25 165,10 195,40 165,70 165,55 163,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YdjM (PF04307)
+"LexA-binding, inner membrane-associated putative hydrolase"</title>
+				<polygon class="PF04307" points="163,28 179,28 180,29 180,51 179,52 163,52" stroke-linejoin="round" width="17" height="24" fill="rgb(140,223,68)" stroke="rgb(112,178,54)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_632)</title>
+			<polygon class=" (ctg1_632)" points="243,25 227,25 227,10 197,40 227,70 227,55 243,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AA_permease (PF00324)
+"Amino acid permease"</title>
+				<polygon class="PF00324" points="201,40 213,28 240,28 240,52 213,52" stroke-linejoin="round" width="43" height="24" fill="rgb(82,225,201)" stroke="rgb(65,180,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_633)</title>
+			<polygon class=" (ctg1_633)" points="253,10 276,40 253,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Extensin-like_C (PF06904)
+"Extensin-like protein C-terminus"</title>
+				<polygon class="PF06904" points="258,28 263,28 272,40 263,52 258,52" stroke-linejoin="round" width="17" height="24" fill="rgb(158,179,61)" stroke="rgb(126,143,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_634)</title>
+			<polygon class=" (ctg1_634)" points="307,10 331,40 307,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Autoind_bind (PF03472)
+"Autoinducer binding domain"</title>
+				<polygon class="PF03472" points="309,28 317,28 323,35 323,45 317,52 309,52" stroke-linejoin="round" width="14" height="24" fill="rgb(99,181,52)" stroke="rgb(79,144,41)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GerE (PF00196)
+"Bacterial regulatory proteins, luxR family"</title>
+				<polygon class="PF00196" points="324,36 327,40 324,44" stroke-linejoin="round" width="5" height="24" fill="rgb(219,94,82)" stroke="rgb(175,75,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_635)</title>
+			<polygon class=" (ctg1_635)" points="335,10 355,40 335,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Autoind_synth (PF00765)
+"Autoinducer synthase"</title>
+				<polygon class="PF00765" points="335,28 343,28 351,39 351,41 343,52 335,52" stroke-linejoin="round" width="16" height="24" fill="rgb(197,72,80)" stroke="rgb(157,57,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_636)</title>
+			<polygon class=" (ctg1_636)" points="357,40 364,10 364,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2594 (PF10769)
+"Protein of unknown function (DUF2594)"</title>
+				<polygon class="PF10769" points="360,40 363,28 364,28 364,52 363,52" stroke-linejoin="round" width="7" height="24" fill="rgb(61,191,181)" stroke="rgb(48,152,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_637)</title>
+			<polygon class=" (ctg1_637)" points="378,10 400,40 378,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="378,28 387,28 389,31 389,49 387,52 378,52" stroke-linejoin="round" width="11" height="24" fill="rgb(100,107,203)" stroke="rgb(80,85,162)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GerE (PF00196)
+"Bacterial regulatory proteins, luxR family"</title>
+				<polygon class="PF00196" points="392,35 396,40 392,45" stroke-linejoin="round" width="5" height="24" fill="rgb(219,94,82)" stroke="rgb(175,75,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_638)</title>
+			<polygon class=" (ctg1_638)" points="400,25 431,25 431,10 461,40 431,70 431,55 400,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GIY-YIG (PF01541)
+"GIY-YIG catalytic domain"</title>
+				<rect class="PF01541" x="401" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(77,220,57)" stroke="rgb(61,176,45)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>UVR (PF02151)
+"UvrB/uvrC motif"</title>
+				<rect class="PF02151" x="420" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(179,74,81)" stroke="rgb(143,59,64)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>UvrC_RNaseH_dom (PF08459)
+"UvrC RNAse H endonuclease domain"</title>
+				<polygon class="PF08459" points="438,28 444,28 453,37 453,43 444,52 438,52" stroke-linejoin="round" width="15" height="24" fill="rgb(207,95,75)" stroke="rgb(165,75,60)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HHH_5 (PF14520)
+"Helix-hairpin-helix domain"</title>
+				<polygon class="PF14520" points="455,39 456,40 455,41" stroke-linejoin="round" width="5" height="24" fill="rgb(118,220,87)" stroke="rgb(94,176,69)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_639)</title>
+			<polygon class=" (ctg1_639)" points="464,10 482,40 464,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CDP-OH_P_transf (PF01066)
+"CDP-alcohol phosphatidyltransferase"</title>
+				<polygon class="PF01066" points="464,28 471,28 478,40 471,52 464,52" stroke-linejoin="round" width="16" height="24" fill="rgb(100,201,161)" stroke="rgb(80,160,128)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_640)</title>
+			<polygon class=" (ctg1_640)" points="511,10 517,40 511,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_641)</title>
+			<polygon class=" (ctg1_641)" points="551,10 564,40 551,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_642)</title>
+			<polygon class=" (ctg1_642)" points="616,25 608,25 608,10 578,40 608,70 608,55 616,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyl_transf_3 (PF01757)
+"Acyltransferase family"</title>
+				<polygon class="PF01757" points="582,40 594,28 611,28 611,52 594,52" stroke-linejoin="round" width="32" height="24" fill="rgb(50,152,200)" stroke="rgb(40,121,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_643)</title>
+			<polygon class=" (ctg1_643)" points="628,10 631,40 628,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_644)</title>
+			<polygon class=" (ctg1_644)" points="631,10 654,40 631,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_645)</title>
+			<polygon class=" (ctg1_645)" points="669,10 678,40 669,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YrhK (PF14145)
+"YrhK-like protein"</title>
+				<polygon class="PF14145" points="671,28 671,28 675,40 671,52 671,52" stroke-linejoin="round" width="5" height="24" fill="rgb(102,190,225)" stroke="rgb(81,152,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_646)</title>
+			<polygon class=" (ctg1_646)" points="683,10 689,40 683,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

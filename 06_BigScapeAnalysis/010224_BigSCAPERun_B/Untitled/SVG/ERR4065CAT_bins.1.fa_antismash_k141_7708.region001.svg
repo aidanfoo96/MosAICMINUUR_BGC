@@ -1,0 +1,28 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="72.96666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="62.96666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg65_1)</title>
+			<polygon class=" (ctg65_1)" points="10,10 29,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OprD (PF03573)
+"outer membrane porin, OprD family"</title>
+				<polygon class="PF03573" points="10,28 18,28 25,40 18,52 10,52" stroke-linejoin="round" width="19" height="24" fill="rgb(73,170,186)" stroke="rgb(58,135,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg65_2)</title>
+			<polygon class=" (ctg65_2)" points="37,10 62,40 37,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OsmC (PF02566)
+"OsmC-like protein"</title>
+				<polygon class="PF02566" points="40,28 48,28 49,30 49,50 48,52 40,52" stroke-linejoin="round" width="9" height="24" fill="rgb(161,56,212)" stroke="rgb(128,44,169)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>YcaO (PF02624)
+"YcaO cyclodehydratase, ATP-ad Mg2+-binding"</title>
+				<polygon class="PF02624" points="57,39 58,40 57,41" stroke-linejoin="round" width="4" height="24" fill="rgb(76,84,185)" stroke="rgb(60,67,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

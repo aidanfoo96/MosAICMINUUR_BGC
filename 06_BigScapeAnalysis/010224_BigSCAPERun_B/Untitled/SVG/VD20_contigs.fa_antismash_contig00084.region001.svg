@@ -1,0 +1,41 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="222.96666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="212.96666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg84_1)</title>
+			<polygon class=" (ctg84_1)" points="46,25 40,25 40,10 10,40 40,70 40,55 46,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YcaO (PF02624)
+"YcaO cyclodehydratase, ATP-ad Mg2+-binding"</title>
+				<polygon class="PF02624" points="14,40 26,28 40,28 40,52 26,52" stroke-linejoin="round" width="30" height="24" fill="rgb(76,84,185)" stroke="rgb(60,67,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg84_2)</title>
+			<polygon class=" (ctg84_2)" points="57,25 63,25 63,10 93,40 63,70 63,55 57,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_5 (PF00266)
+"Aminotransferase class-V"</title>
+				<polygon class="PF00266" points="57,28 76,28 88,40 76,52 57,52" stroke-linejoin="round" width="34" height="24" fill="rgb(214,54,122)" stroke="rgb(171,43,97)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg84_3)</title>
+			<polygon class=" (ctg84_3)" points="96,25 108,25 108,10 138,40 108,70 108,55 96,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>EPSP_synthase (PF00275)
+"EPSP synthase (3-phosphoshikimate 1-carboxyvinyltransferase)"</title>
+				<polygon class="PF00275" points="96,28 122,28 134,40 122,52 96,52" stroke-linejoin="round" width="41" height="24" fill="rgb(217,213,85)" stroke="rgb(173,170,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg84_4)</title>
+			<polygon class=" (ctg84_4)" points="145,10 167,40 145,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cytidylate_kin (PF02224)
+"Cytidylate kinase"</title>
+				<polygon class="PF02224" points="145,28 155,28 164,40 155,52 145,52" stroke-linejoin="round" width="21" height="24" fill="rgb(85,78,199)" stroke="rgb(68,62,159)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

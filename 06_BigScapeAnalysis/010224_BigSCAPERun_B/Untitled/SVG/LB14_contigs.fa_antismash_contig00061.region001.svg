@@ -1,0 +1,60 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="356.56666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="346.56666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg61_1)</title>
+			<polygon class=" (ctg61_1)" points="50,25 40,25 40,10 10,40 40,70 40,55 50,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg61_2)</title>
+			<polygon class=" (ctg61_2)" points="116,25 81,25 81,10 51,40 81,70 81,55 116,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YcaO (PF02624)
+"YcaO cyclodehydratase, ATP-ad Mg2+-binding"</title>
+				<polygon class="PF02624" points="55,40 67,28 89,28 89,52 67,52 55,40" stroke-linejoin="round" width="34" height="24" fill="rgb(76,84,185)" stroke="rgb(60,67,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg61_3)</title>
+			<polygon class=" (ctg61_3)" points="179,25 145,25 145,10 115,40 145,70 145,55 179,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg61_4)</title>
+			<polygon class=" (ctg61_4)" points="226,25 214,25 214,10 184,40 214,70 214,55 226,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>2-oxoacid_dh (PF00198)
+"2-oxoacid dehydrogenases acyltransferase (catalytic domain)"</title>
+				<polygon class="PF00198" points="188,40 200,28 207,28 207,52 200,52" stroke-linejoin="round" width="23" height="24" fill="rgb(204,74,202)" stroke="rgb(163,59,161)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>E3_binding (PF02817)
+"e3 binding domain"</title>
+				<rect class="PF02817" x="210" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(217,136,99)" stroke="rgb(173,108,79)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Biotin_lipoyl (PF00364)
+"Biotin-requiring enzyme"</title>
+				<rect class="PF00364" x="218" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(67,214,213)" stroke="rgb(53,171,170)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg61_5)</title>
+			<polygon class=" (ctg61_5)" points="325,25 260,25 260,10 230,40 260,70 260,55 325,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OxoGdeHyase_C (PF16870)
+"2-oxoglutarate dehydrogenase C-terminal"</title>
+				<polygon class="PF16870" points="234,40 245,29 245,51" stroke-linejoin="round" width="14" height="24" fill="rgb(176,82,224)" stroke="rgb(140,65,179)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Transket_pyr (PF02779)
+"Transketolase, pyrimidine binding domain"</title>
+				<polygon class="PF02779" points="246,28 246,28 265,28 265,52 246,52 246,52" stroke-linejoin="round" width="19" height="24" fill="rgb(189,186,84)" stroke="rgb(151,148,67)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>E1_dh (PF00676)
+"Dehydrogenase E1 component"</title>
+				<rect class="PF00676" x="272" y="28" stroke-linejoin="round" width="33" height="24" fill="rgb(180,115,48)" stroke="rgb(144,92,38)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

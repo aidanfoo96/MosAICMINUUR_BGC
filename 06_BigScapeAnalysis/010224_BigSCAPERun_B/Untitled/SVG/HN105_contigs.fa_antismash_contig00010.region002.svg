@@ -1,0 +1,98 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="426.8333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="416.8333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg10_121)</title>
+			<polygon class=" (ctg10_121)" points="73,25 72,25 72,10 42,40 72,70 72,55 73,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LysR_substrate (PF03466)
+"LysR substrate binding domain"</title>
+				<polygon class="PF03466" points="46,40 58,28 63,28 63,52 58,52" stroke-linejoin="round" width="20" height="24" fill="rgb(55,136,195)" stroke="rgb(44,108,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_1 (PF00126)
+"Bacterial regulatory helix-turn-helix protein, lysR family"</title>
+				<rect class="PF00126" x="66" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(125,227,79)" stroke="rgb(99,181,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10_122)</title>
+			<polygon class=" (ctg10_122)" points="83,25 88,25 88,10 118,40 88,70 88,55 83,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Rieske (PF00355)
+"Rieske [2Fe-2S] domain"</title>
+				<rect class="PF00355" x="85" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(186,77,145)" stroke="rgb(148,61,115)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>VanA_C (PF19112)
+"Vanillate O-demethylase oxygenase C-terminal domain"</title>
+				<polygon class="PF19112" points="99,28 101,28 113,40 101,52 99,52" stroke-linejoin="round" width="17" height="24" fill="rgb(95,196,187)" stroke="rgb(76,156,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10_123)</title>
+			<polygon class=" (ctg10_123)" points="154,25 154,25 154,10 124,40 154,70 154,55 154,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>EamA (PF00892)
+"EamA-like transporter family"</title>
+				<polygon class="PF00892" points="128,40 138,30 138,50" stroke-linejoin="round" width="13" height="24" fill="rgb(105,217,77)" stroke="rgb(84,173,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10_124)</title>
+			<polygon class=" (ctg10_124)" points="176,25 219,25 219,10 249,40 219,70 219,55 176,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OsmC (PF02566)
+"OsmC-like protein"</title>
+				<rect class="PF02566" x="179" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(161,56,212)" stroke="rgb(128,44,169)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>YcaO (PF02624)
+"YcaO cyclodehydratase, ATP-ad Mg2+-binding"</title>
+				<rect class="PF02624" x="196" y="28" stroke-linejoin="round" width="33" height="24" fill="rgb(76,84,185)" stroke="rgb(60,67,148)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>YcaO_C (PF18381)
+"YcaO cyclodehydratase C-terminal domain"</title>
+				<polygon class="PF18381" points="231,28 233,28 245,40 233,52 231,52" stroke-linejoin="round" width="17" height="24" fill="rgb(125,91,193)" stroke="rgb(99,72,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10_125)</title>
+			<polygon class=" (ctg10_125)" points="253,40 282,10 282,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LysR_substrate (PF03466)
+"LysR substrate binding domain"</title>
+				<polygon class="PF03466" points="257,40 269,28 273,28 273,52 269,52" stroke-linejoin="round" width="20" height="24" fill="rgb(55,136,195)" stroke="rgb(44,108,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_1 (PF00126)
+"Bacterial regulatory helix-turn-helix protein, lysR family"</title>
+				<rect class="PF00126" x="276" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(125,227,79)" stroke="rgb(99,181,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10_126)</title>
+			<polygon class=" (ctg10_126)" points="287,25 307,25 307,10 337,40 307,70 307,55 287,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aldedh (PF00171)
+"Aldehyde dehydrogenase family"</title>
+				<polygon class="PF00171" points="289,28 321,28 333,40 321,52 289,52" stroke-linejoin="round" width="46" height="24" fill="rgb(105,213,139)" stroke="rgb(84,170,111)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10_127)</title>
+			<polygon class=" (ctg10_127)" points="339,10 368,40 339,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NAD_binding_2 (PF03446)
+"NAD binding domain of 6-phosphogluconate dehydrogenase"</title>
+				<polygon class="PF03446" points="339,28 352,28 354,30 354,50 352,52 339,52" stroke-linejoin="round" width="15" height="24" fill="rgb(205,164,98)" stroke="rgb(164,131,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>NAD_binding_11 (PF14833)
+"NAD-binding of NADP-dependent 3-hydroxyisobutyrate dehydrogenase"</title>
+				<polygon class="PF14833" points="355,31 364,40 355,49" stroke-linejoin="round" width="12" height="24" fill="rgb(141,199,89)" stroke="rgb(112,159,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

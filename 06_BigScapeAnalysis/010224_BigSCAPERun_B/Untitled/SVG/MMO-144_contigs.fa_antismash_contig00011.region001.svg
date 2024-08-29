@@ -1,0 +1,110 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="366.8333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="356.8333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg11_41)</title>
+			<polygon class=" (ctg11_41)" points="86,25 82,25 82,10 52,40 82,70 82,55 86,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SIS (PF01380)
+"SIS domain"</title>
+				<polygon class="PF01380" points="58,38 68,28 69,28 69,52 68,52 58,42" stroke-linejoin="round" width="11" height="24" fill="rgb(212,106,227)" stroke="rgb(169,84,181)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11_42)</title>
+			<polygon class=" (ctg11_42)" points="92,10 110,40 92,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MarR (PF01047)
+"MarR family"</title>
+				<polygon class="PF01047" points="96,28 99,28 101,31 101,49 99,52 96,52" stroke-linejoin="round" width="5" height="24" fill="rgb(60,185,86)" stroke="rgb(48,148,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11_43)</title>
+			<polygon class=" (ctg11_43)" points="110,10 128,40 110,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_1 (PF00583)
+"Acetyltransferase (GNAT) family"</title>
+				<polygon class="PF00583" points="113,28 117,28 124,39 124,41 117,52 113,52" stroke-linejoin="round" width="11" height="24" fill="rgb(121,183,50)" stroke="rgb(96,146,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11_44)</title>
+			<polygon class=" (ctg11_44)" points="133,25 146,25 146,10 176,40 146,70 146,55 133,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_3 (PF00202)
+"Aminotransferase class-III"</title>
+				<polygon class="PF00202" points="134,28 160,28 172,40 160,52 134,52" stroke-linejoin="round" width="40" height="24" fill="rgb(49,163,189)" stroke="rgb(39,130,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11_45)</title>
+			<polygon class=" (ctg11_45)" points="176,10 189,40 176,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ectoine_synth (PF06339)
+"Ectoine synthase"</title>
+				<polygon class="PF06339" points="176,28 180,28 186,40 180,52 176,52" stroke-linejoin="round" width="12" height="24" fill="rgb(225,176,81)" stroke="rgb(180,140,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11_46)</title>
+			<polygon class=" (ctg11_46)" points="190,25 190,25 190,10 220,40 190,70 190,55 190,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PhyH (PF05721)
+"Phytanoyl-CoA dioxygenase (PhyH)"</title>
+				<polygon class="PF05721" points="194,28 204,28 215,39 215,41 204,52 194,52" stroke-linejoin="round" width="21" height="24" fill="rgb(72,132,214)" stroke="rgb(57,105,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11_47)</title>
+			<polygon class=" (ctg11_47)" points="228,10 257,40 228,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MOSC_N (PF03476)
+"MOSC N-terminal beta barrel domain"</title>
+				<rect class="PF03476" x="228" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(209,103,209)" stroke="rgb(167,82,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MOSC (PF03473)
+"MOSC domain"</title>
+				<polygon class="PF03473" points="243,30 252,40 243,50" stroke-linejoin="round" width="12" height="24" fill="rgb(96,194,162)" stroke="rgb(76,155,129)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11_48)</title>
+			<polygon class=" (ctg11_48)" points="259,40 269,10 269,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Multi_Drug_Res (PF00893)
+"Small Multidrug Resistance protein"</title>
+				<polygon class="PF00893" points="262,40 266,28 269,28 269,52 266,52" stroke-linejoin="round" width="9" height="24" fill="rgb(199,75,202)" stroke="rgb(159,60,161)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11_49)</title>
+			<polygon class=" (ctg11_49)" points="278,10 290,40 278,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Asp_decarbox (PF02261)
+"Aspartate decarboxylase"</title>
+				<polygon class="PF02261" points="278,28 281,28 287,40 281,52 278,52" stroke-linejoin="round" width="11" height="24" fill="rgb(223,94,196)" stroke="rgb(178,75,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11_50)</title>
+			<polygon class=" (ctg11_50)" points="293,25 297,25 297,10 327,40 297,70 297,55 293,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Fer2 (PF00111)
+"2Fe-2S iron-sulfur cluster binding domain"</title>
+				<rect class="PF00111" x="293" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(60,59,191)" stroke="rgb(48,47,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FAD_binding_6 (PF00970)
+"Oxidoreductase FAD-binding domain"</title>
+				<polygon class="PF00970" points="303,28 311,28 312,29 312,51 311,52 303,52" stroke-linejoin="round" width="9" height="24" fill="rgb(212,194,103)" stroke="rgb(169,155,82)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>NAD_binding_1 (PF00175)
+"Oxidoreductase NAD-binding domain"</title>
+				<polygon class="PF00175" points="314,31 323,40 314,49" stroke-linejoin="round" width="10" height="24" fill="rgb(177,211,96)" stroke="rgb(141,168,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

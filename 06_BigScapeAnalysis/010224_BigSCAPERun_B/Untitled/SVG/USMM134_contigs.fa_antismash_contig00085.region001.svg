@@ -1,0 +1,70 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="344.8" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="334.8" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg85_3)</title>
+			<polygon class=" (ctg85_3)" points="91,25 72,25 72,10 42,40 72,70 72,55 91,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PPK2 (PF03976)
+"Polyphosphate kinase 2 (PPK2)"</title>
+				<polygon class="PF03976" points="46,40 58,28 64,28 64,52 58,52" stroke-linejoin="round" width="22" height="24" fill="rgb(57,123,215)" stroke="rgb(45,98,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PPK2 (PF03976)
+"Polyphosphate kinase 2 (PPK2)"</title>
+				<rect class="PF03976" x="67" y="28" stroke-linejoin="round" width="22" height="24" fill="rgb(57,123,215)" stroke="rgb(45,98,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg85_4)</title>
+			<polygon class=" (ctg85_4)" points="98,25 133,25 133,10 163,40 133,70 133,55 98,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_30 (PF05430)
+"S-adenosyl-L-methionine-dependent methyltransferase"</title>
+				<rect class="PF05430" x="109" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(70,106,183)" stroke="rgb(55,84,146)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DAO (PF01266)
+"FAD dependent oxidoreductase"</title>
+				<polygon class="PF01266" points="124,28 147,28 159,40 147,52 124,52" stroke-linejoin="round" width="36" height="24" fill="rgb(123,179,59)" stroke="rgb(98,143,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg85_5)</title>
+			<polygon class=" (ctg85_5)" points="176,25 199,25 199,10 229,40 199,70 199,55 176,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GATase_7 (PF13537)
+"Glutamine amidotransferase domain"</title>
+				<rect class="PF13537" x="176" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(200,63,57)" stroke="rgb(160,50,45)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Asn_synthase (PF00733)
+"Asparagine synthase"</title>
+				<polygon class="PF00733" points="195,28 213,28 225,40 213,52 195,52" stroke-linejoin="round" width="34" height="24" fill="rgb(97,201,176)" stroke="rgb(77,160,140)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg85_6)</title>
+			<polygon class=" (ctg85_6)" points="230,25 258,25 258,10 288,40 258,70 258,55 230,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_1 (PF00583)
+"Acetyltransferase (GNAT) family"</title>
+				<rect class="PF00583" x="243" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(121,183,50)" stroke="rgb(96,146,39)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>RimK (PF08443)
+"RimK-like ATP-grasp domain"</title>
+				<polygon class="PF08443" points="262,28 271,28 273,30 273,50 271,52 262,52" stroke-linejoin="round" width="11" height="24" fill="rgb(192,59,192)" stroke="rgb(153,47,153)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg85_7)</title>
+			<polygon class=" (ctg85_7)" points="291,25 300,25 300,10 330,40 300,70 300,55 291,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M42 (PF05343)
+"M42 glutamyl aminopeptidase"</title>
+				<polygon class="PF05343" points="296,28 314,28 324,38 324,42 314,52 296,52" stroke-linejoin="round" width="28" height="24" fill="rgb(201,153,60)" stroke="rgb(160,122,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

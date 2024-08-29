@@ -1,0 +1,126 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="370.06666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="360.06666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg37_1)</title>
+			<polygon class=" (ctg37_1)" points="31,10 52,40 31,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Autoind_synth (PF00765)
+"Autoinducer synthase"</title>
+				<polygon class="PF00765" points="32,28 40,28 48,40 40,52 32,52" stroke-linejoin="round" width="18" height="24" fill="rgb(197,72,80)" stroke="rgb(157,57,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg37_2)</title>
+			<polygon class=" (ctg37_2)" points="52,40 75,10 75,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GerE (PF00196)
+"Bacterial regulatory proteins, luxR family"</title>
+				<polygon class="PF00196" points="56,40 58,37 58,43" stroke-linejoin="round" width="5" height="24" fill="rgb(219,94,82)" stroke="rgb(175,75,65)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Autoind_bind (PF03472)
+"Autoinducer binding domain"</title>
+				<polygon class="PF03472" points="60,35 65,28 74,28 74,52 65,52 60,45" stroke-linejoin="round" width="14" height="24" fill="rgb(99,181,52)" stroke="rgb(79,144,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg37_3)</title>
+			<polygon class=" (ctg37_3)" points="81,40 102,10 102,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Nitroreductase (PF00881)
+"Nitroreductase family"</title>
+				<polygon class="PF00881" points="85,40 94,28 101,28 101,52 94,52" stroke-linejoin="round" width="18" height="24" fill="rgb(79,118,187)" stroke="rgb(63,94,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg37_4)</title>
+			<polygon class=" (ctg37_4)" points="105,40 115,10 115,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABM (PF03992)
+"Antibiotic biosynthesis monooxygenase"</title>
+				<polygon class="PF03992" points="108,40 112,28 114,28 114,52 112,52" stroke-linejoin="round" width="7" height="24" fill="rgb(193,84,127)" stroke="rgb(154,67,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg37_5)</title>
+			<polygon class=" (ctg37_5)" points="148,25 145,25 145,10 115,40 145,70 145,55 148,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADH_zinc_N_2 (PF13602)
+"Zinc-binding dehydrogenase"</title>
+				<polygon class="PF13602" points="119,40 129,30 129,50" stroke-linejoin="round" width="14" height="24" fill="rgb(101,131,226)" stroke="rgb(80,104,180)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ADH_N (PF08240)
+"Alcohol dehydrogenase GroES-like domain"</title>
+				<rect class="PF08240" x="138" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(211,65,138)" stroke="rgb(168,51,110)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg37_6)</title>
+			<polygon class=" (ctg37_6)" points="152,25 152,25 152,10 182,40 152,70 152,55 152,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_1 (PF00126)
+"Bacterial regulatory helix-turn-helix protein, lysR family"</title>
+				<rect class="PF00126" x="152" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(125,227,79)" stroke="rgb(99,181,63)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LysR_substrate (PF03466)
+"LysR substrate binding domain"</title>
+				<polygon class="PF03466" points="160,28 166,28 178,40 166,52 160,52" stroke-linejoin="round" width="20" height="24" fill="rgb(55,136,195)" stroke="rgb(44,108,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg37_7)</title>
+			<polygon class=" (ctg37_7)" points="237,25 213,25 213,10 183,40 213,70 213,55 237,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MCPsignal (PF00015)
+"Methyl-accepting chemotaxis protein (MCP) signalling domain"</title>
+				<polygon class="PF00015" points="189,38 199,28 204,28 204,52 199,52 189,42" stroke-linejoin="round" width="15" height="24" fill="rgb(104,174,223)" stroke="rgb(83,139,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TarH (PF02203)
+"Tar ligand binding domain homologue"</title>
+				<rect class="PF02203" x="220" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(190,78,86)" stroke="rgb(152,62,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg37_8)</title>
+			<polygon class=" (ctg37_8)" points="244,25 262,25 262,10 292,40 262,70 262,55 244,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMNp_N (PF10423)
+"Bacterial AMP nucleoside phosphorylase N-terminus"</title>
+				<rect class="PF10423" x="245" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(63,95,223)" stroke="rgb(50,76,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PNP_UDP_1 (PF01048)
+"Phosphorylase superfamily"</title>
+				<polygon class="PF01048" points="269,28 276,28 288,40 276,52 269,52" stroke-linejoin="round" width="20" height="24" fill="rgb(75,186,148)" stroke="rgb(60,148,118)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg37_9)</title>
+			<polygon class=" (ctg37_9)" points="293,25 322,25 322,10 352,40 322,70 322,55 293,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Creatinase_N (PF01321)
+"Creatinase/Prolidase N-terminal domain"</title>
+				<rect class="PF01321" x="293" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(125,184,70)" stroke="rgb(100,147,56)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Creatinase_N_2 (PF16189)
+"Creatinase/Prolidase N-terminal domain"</title>
+				<rect class="PF16189" x="307" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(101,206,92)" stroke="rgb(80,164,73)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Peptidase_M24 (PF00557)
+"Metallopeptidase family M24"</title>
+				<polygon class="PF00557" points="323,28 336,28 345,37 345,43 336,52 323,52" stroke-linejoin="round" width="22" height="24" fill="rgb(217,177,88)" stroke="rgb(173,141,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Peptidase_M24_C (PF16188)
+"C-terminal region of peptidase_M24"</title>
+				<polygon class="PF16188" points="345,37 348,40 345,43" stroke-linejoin="round" width="6" height="24" fill="rgb(86,220,93)" stroke="rgb(68,176,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

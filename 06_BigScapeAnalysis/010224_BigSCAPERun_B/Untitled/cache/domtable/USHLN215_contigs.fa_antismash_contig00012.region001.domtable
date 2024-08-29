@@ -1,0 +1,21 @@
+#                                                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Peripla_BP_2         PF01497.21   237 USHLN215_contigs.fa_antismash_contig00012.region001_ORF1:gid::pid::loc:877:1984:strand:- -            368   1.6e-27   96.7   3.6   1   1   1.1e-31   2.2e-27   96.2   3.6     1   229    83   326    83   332 0.86 Periplasmic binding protein
+Pyridoxal_deC        PF00282.22   375 USHLN215_contigs.fa_antismash_contig00012.region001_ORF2:gid::pid::loc:2197:3667:strand:+ -            489     2e-69  234.3   0.0   1   1   1.1e-73   2.2e-69  234.1   0.0    19   374    60   409    41   410 0.94 Pyridoxal-dependent decarboxylase conserved domain
+Lys_Orn_oxgnase      PF13434.9    341 USHLN215_contigs.fa_antismash_contig00012.region001_ORF3:gid::pid::loc:3666:5004:strand:+ -            445  1.2e-109  366.7   0.0   1   1  7.2e-114  1.4e-109  366.5   0.0     1   340     7   345     7   346 0.96 L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase
+IucA_IucC            PF04183.15   239 USHLN215_contigs.fa_antismash_contig00012.region001_ORF4:gid::pid::loc:5000:7400:strand:+ -            799   9.9e-77  257.8   0.1   1   1   2.3e-80   1.5e-76  257.2   0.1     2   239   345   598   344   598 0.98 IucA / IucC family
+Acetyltransf_8       PF13523.9    145 USHLN215_contigs.fa_antismash_contig00012.region001_ORF4:gid::pid::loc:5000:7400:strand:+ -            799   2.9e-41  140.6   0.4   1   1   1.1e-44     7e-41  139.4   0.4     6   143    29   166    25   168 0.97 Acetyltransferase (GNAT) domain
+FhuF                 PF06276.15   163 USHLN215_contigs.fa_antismash_contig00012.region001_ORF4:gid::pid::loc:5000:7400:strand:+ -            799   6.3e-27   95.1   0.8   1   1   2.7e-30   1.8e-26   93.7   0.8     2   157   620   768   619   774 0.87 Ferric iron reductase FhuF-like transporter
+Topoisom_I           PF01028.23   230 USHLN215_contigs.fa_antismash_contig00012.region001_ORF6:gid::pid::loc:8697:9714:strand:+ -            338   1.1e-31  110.0   0.0   1   1   7.4e-36   1.4e-31  109.6   0.0     4   204    98   304    95   322 0.87 Eukaryotic DNA topoisomerase I, catalytic core
+FG-GAP_3             PF13517.9     61 USHLN215_contigs.fa_antismash_contig00012.region001_ORF8:gid::pid::loc:10552:10993:strand:- -            146   1.6e-12   47.9  14.0   1   1     4e-14   7.9e-10   39.3   5.9     1    60    55   120    55   121 0.90 FG-GAP-like repeat
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/USHLN215_contigs.fa_antismash_contig00012.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/USHLN215_contigs.fa_antismash_contig00012.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/USHLN215_contigs.fa_antismash_contig00012.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 18:46:02 2024
+# [ok]

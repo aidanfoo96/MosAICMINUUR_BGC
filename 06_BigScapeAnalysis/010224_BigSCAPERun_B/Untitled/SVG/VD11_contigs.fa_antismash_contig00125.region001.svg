@@ -1,0 +1,55 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="239.26666666666668" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="229.26666666666668" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg125_1)</title>
+			<polygon class=" (ctg125_1)" points="62,25 40,25 40,10 10,40 40,70 40,55 62,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YcaO_C (PF18381)
+"YcaO cyclodehydratase C-terminal domain"</title>
+				<polygon class="PF18381" points="14,40 21,33 21,47" stroke-linejoin="round" width="11" height="24" fill="rgb(125,91,193)" stroke="rgb(99,72,154)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>YcaO (PF02624)
+"YcaO cyclodehydratase, ATP-ad Mg2+-binding"</title>
+				<polygon class="PF02624" points="23,31 26,28 56,28 56,52 26,52 23,49" stroke-linejoin="round" width="33" height="24" fill="rgb(76,84,185)" stroke="rgb(60,67,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg125_2)</title>
+			<polygon class=" (ctg125_2)" points="67,10 90,40 67,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF421 (PF04239)
+"Protein of unknown function (DUF421)"</title>
+				<polygon class="PF04239" points="77,28 77,28 85,39 85,41 77,52 77,52" stroke-linejoin="round" width="8" height="24" fill="rgb(165,197,85)" stroke="rgb(132,157,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg125_3)</title>
+			<polygon class=" (ctg125_3)" points="95,25 101,25 101,10 131,40 101,70 101,55 95,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_5 (PF00266)
+"Aminotransferase class-V"</title>
+				<polygon class="PF00266" points="95,28 114,28 126,40 114,52 95,52" stroke-linejoin="round" width="34" height="24" fill="rgb(214,54,122)" stroke="rgb(171,43,97)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg125_4)</title>
+			<polygon class=" (ctg125_4)" points="134,25 146,25 146,10 176,40 146,70 146,55 134,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>EPSP_synthase (PF00275)
+"EPSP synthase (3-phosphoshikimate 1-carboxyvinyltransferase)"</title>
+				<polygon class="PF00275" points="134,28 160,28 172,40 160,52 134,52" stroke-linejoin="round" width="41" height="24" fill="rgb(217,213,85)" stroke="rgb(173,170,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg125_5)</title>
+			<polygon class=" (ctg125_5)" points="183,10 205,40 183,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cytidylate_kin (PF02224)
+"Cytidylate kinase"</title>
+				<polygon class="PF02224" points="183,28 193,28 202,40 193,52 183,52" stroke-linejoin="round" width="21" height="24" fill="rgb(85,78,199)" stroke="rgb(68,62,159)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

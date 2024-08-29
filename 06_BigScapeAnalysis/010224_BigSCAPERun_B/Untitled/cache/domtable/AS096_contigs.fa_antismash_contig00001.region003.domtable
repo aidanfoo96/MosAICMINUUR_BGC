@@ -1,0 +1,27 @@
+#                                                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+adh_short            PF00106.28   195 AS096_contigs.fa_antismash_contig00001.region003_ORF1:gid::pid::loc:2881:3676:strand:- -            264   1.4e-50  171.6   0.1   1   1   4.4e-54   2.9e-50  170.6   0.0     1   189     6   196     6   201 0.95 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 AS096_contigs.fa_antismash_contig00001.region003_ORF1:gid::pid::loc:2881:3676:strand:- -            264   5.6e-36  124.4   0.0   1   1   1.1e-39   7.3e-36  124.0   0.0     1   189    12   204    12   225 0.89 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.13   180 AS096_contigs.fa_antismash_contig00001.region003_ORF1:gid::pid::loc:2881:3676:strand:- -            264   7.9e-10   39.0   0.0   1   1   1.7e-13   1.1e-09   38.5   0.0     2   164     7   171     6   190 0.78 KR domain
+DUF6670              PF20375.1    294 AS096_contigs.fa_antismash_contig00001.region003_ORF2:gid::pid::loc:3691:4228:strand:- -            178     3e-40  138.3   0.4   1   1   1.7e-44   3.3e-40  138.2   0.4   108   284     1   175     1   178 0.96 Family of unknown function (DUF6670)
+DUF6670              PF20375.1    294 AS096_contigs.fa_antismash_contig00001.region003_ORF3:gid::pid::loc:4240:4777:strand:- -            178   8.5e-24   84.3   0.4   1   1     6e-28   1.2e-23   83.8   0.4     1   102    77   178    77   178 0.99 Family of unknown function (DUF6670)
+YcaO_C               PF18381.4    172 AS096_contigs.fa_antismash_contig00001.region003_ORF4:gid::pid::loc:5000:7196:strand:- -            731     3e-75  252.0   4.1   1   1   4.5e-79     3e-75  252.0   4.1     1   172   557   728   557   728 0.99 YcaO cyclodehydratase C-terminal domain
+YcaO                 PF02624.19   322 AS096_contigs.fa_antismash_contig00001.region003_ORF4:gid::pid::loc:5000:7196:strand:- -            731   3.9e-72  243.4   0.0   1   1   8.6e-76   5.6e-72  242.9   0.0     1   321   205   540   205   541 0.91 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+OsmC                 PF02566.22   100 AS096_contigs.fa_antismash_contig00001.region003_ORF4:gid::pid::loc:5000:7196:strand:- -            731   1.1e-08   35.5   0.0   1   1   1.7e-11   1.1e-07   32.3   0.0     1    99    32   126    32   127 0.85 OsmC-like protein
+adh_short            PF00106.28   195 AS096_contigs.fa_antismash_contig00001.region003_ORF5:gid::pid::loc:7466:8306:strand:- -            279   2.5e-50  170.8   0.4   1   1   4.6e-54     3e-50  170.5   0.4     1   191     7   199     7   203 0.98 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 AS096_contigs.fa_antismash_contig00001.region003_ORF5:gid::pid::loc:7466:8306:strand:- -            279   1.2e-38  133.1   0.1   1   1   2.5e-42   1.6e-38  132.7   0.1     1   190    13   206    13   234 0.88 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.13   180 AS096_contigs.fa_antismash_contig00001.region003_ORF5:gid::pid::loc:7466:8306:strand:- -            279   1.5e-13   51.2   0.2   1   1   3.5e-17   2.3e-13   50.6   0.2     5   166    11   172     8   186 0.86 KR domain
+Amidohydro_2         PF04909.17   288 AS096_contigs.fa_antismash_contig00001.region003_ORF6:gid::pid::loc:8307:9384:strand:- -            358     6e-18   65.7   0.8   1   1   7.2e-22   1.4e-17   64.5   0.4   128   288   167   354    59   354 0.85 Amidohydrolase
+OEP                  PF02321.21   188 AS096_contigs.fa_antismash_contig00001.region003_ORF8:gid::pid::loc:10799:12134:strand:- -            444   9.9e-44  149.5  29.1   1   2     2e-23     4e-19   69.3   8.7     1   188    35   225    35   225 0.98 Outer membrane efflux protein
+OEP                  PF02321.21   188 AS096_contigs.fa_antismash_contig00001.region003_ORF8:gid::pid::loc:10799:12134:strand:- -            444   9.9e-44  149.5  29.1   2   2   1.1e-28   2.1e-24   86.5  12.4     9   184   251   423   245   427 0.95 Outer membrane efflux protein
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/AS096_contigs.fa_antismash_contig00001.region003.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/AS096_contigs.fa_antismash_contig00001.region003.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/AS096_contigs.fa_antismash_contig00001.region003.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 21:02:10 2024
+# [ok]

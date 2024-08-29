@@ -1,0 +1,93 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="348.73333333333335" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="338.73333333333335" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg12_1)</title>
+			<polygon class=" (ctg12_1)" points="10,40 14,10 14,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4096 (PF13340)
+"Putative transposase of IS4/5 family (DUF4096)"</title>
+				<polygon class="PF13340" points="13,40 13,40 13,40" stroke-linejoin="round" width="3" height="24" fill="rgb(196,73,104)" stroke="rgb(156,58,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12_2)</title>
+			<polygon class=" (ctg12_2)" points="77,25 48,25 48,10 18,40 48,70 48,55 77,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<polygon class="PF13193" points="22,40 28,34 28,46" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="30,32 34,28 71,28 71,52 34,52 30,48" stroke-linejoin="round" width="41" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12_3)</title>
+			<polygon class=" (ctg12_3)" points="82,25 92,25 92,10 122,40 92,70 92,55 82,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyl-CoA_dh_N (PF02771)
+"Acyl-CoA dehydrogenase, N-terminal domain"</title>
+				<rect class="PF02771" x="85" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(105,135,218)" stroke="rgb(84,108,174)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl-CoA_dh_M (PF02770)
+"Acyl-CoA dehydrogenase, middle domain"</title>
+				<rect class="PF02770" x="96" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(225,186,97)" stroke="rgb(180,148,77)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl-CoA_dh_1 (PF00441)
+"Acyl-CoA dehydrogenase, C-terminal domain"</title>
+				<polygon class="PF00441" points="107,29 118,40 107,51" stroke-linejoin="round" width="14" height="24" fill="rgb(85,191,117)" stroke="rgb(68,152,93)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12_4)</title>
+			<polygon class=" (ctg12_4)" points="122,40 146,10 146,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1275 (PF06912)
+"Protein of unknown function (DUF1275)"</title>
+				<polygon class="PF06912" points="126,40 136,28 145,28 145,52 136,52" stroke-linejoin="round" width="21" height="24" fill="rgb(87,188,62)" stroke="rgb(69,150,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12_5)</title>
+			<polygon class=" (ctg12_5)" points="149,40 171,10 171,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ectoine_synth (PF06339)
+"Ectoine synthase"</title>
+				<polygon class="PF06339" points="153,40 161,29 161,51" stroke-linejoin="round" width="12" height="24" fill="rgb(225,176,81)" stroke="rgb(180,140,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12_6)</title>
+			<polygon class=" (ctg12_6)" points="178,25 245,25 245,10 275,40 245,70 245,55 178,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GDC-P (PF02347)
+"Glycine cleavage system P-protein"</title>
+				<rect class="PF02347" x="181" y="28" stroke-linejoin="round" width="43" height="24" fill="rgb(54,115,215)" stroke="rgb(43,92,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GDC-P (PF02347)
+"Glycine cleavage system P-protein"</title>
+				<rect class="PF02347" x="225" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(54,115,215)" stroke="rgb(43,92,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12_7)</title>
+			<polygon class=" (ctg12_7)" points="276,25 284,25 284,10 314,40 284,70 284,55 276,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GCV_T (PF01571)
+"Aminomethyltransferase folate-binding domain"</title>
+				<polygon class="PF01571" points="277,28 298,28 304,34 304,46 298,52 277,52" stroke-linejoin="round" width="27" height="24" fill="rgb(112,228,161)" stroke="rgb(89,182,128)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GCV_T_C (PF08669)
+"Glycine cleavage T-protein C-terminal barrel domain"</title>
+				<polygon class="PF08669" points="306,36 310,40 306,44" stroke-linejoin="round" width="7" height="24" fill="rgb(184,178,54)" stroke="rgb(147,142,43)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

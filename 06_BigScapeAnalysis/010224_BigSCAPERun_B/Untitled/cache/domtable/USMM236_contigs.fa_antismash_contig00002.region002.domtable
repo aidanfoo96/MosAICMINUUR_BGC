@@ -1,0 +1,21 @@
+#                                                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PAC2                 PF09754.12   215 USMM236_contigs.fa_antismash_contig00002.region002_ORF1:gid::pid::loc:351:1206:strand:+ -            284   2.1e-54  184.9   0.0   1   1   1.3e-58   2.6e-54  184.6   0.0     1   214    15   233    15   234 0.97 PAC2 family
+tRNA-synt_1e         PF01406.22   301 USMM236_contigs.fa_antismash_contig00002.region002_ORF3:gid::pid::loc:1562:2807:strand:- -            414   5.4e-85  285.5   0.0   1   1     7e-89   6.9e-85  285.2   0.0    10   299    38   336    29   338 0.95 tRNA synthetases class I (C) catalytic domain
+tRNA-synt_1g         PF09334.14   391 USMM236_contigs.fa_antismash_contig00002.region002_ORF3:gid::pid::loc:1562:2807:strand:- -            414   6.2e-10   38.5   0.0   1   1   6.9e-09   6.7e-05   21.9   0.0    12    83    49   120    40   148 0.92 tRNA synthetases class I (M)
+DUF692               PF05114.16   263 USMM236_contigs.fa_antismash_contig00002.region002_ORF6:gid::pid::loc:5000:5870:strand:+ -            289   2.2e-79  266.5   0.0   1   1   2.5e-83   2.5e-79  266.3   0.0     2   261    15   274    14   276 0.95 Protein of unknown function (DUF692)
+AP_endonuc_2         PF01261.27   250 USMM236_contigs.fa_antismash_contig00002.region002_ORF6:gid::pid::loc:5000:5870:strand:+ -            289   9.7e-10   38.7   0.2   1   1   1.3e-13   1.2e-09   38.4   0.2    29   239    50   263    35   274 0.74 Xylose isomerase-like TIM barrel
+DUF3090              PF11290.11   171 USMM236_contigs.fa_antismash_contig00002.region002_ORF9:gid::pid::loc:6849:7431:strand:- -            193   1.6e-68  230.0   0.2   1   1   9.3e-73   1.8e-68  229.8   0.2     1   171     6   176     6   176 0.97 Protein of unknown function (DUF3090)
+His_Phos_1           PF00300.25   194 USMM236_contigs.fa_antismash_contig00002.region002_ORF10:gid::pid::loc:7427:8087:strand:- -            219   9.2e-45  152.8   0.2   1   1   5.3e-49     1e-44  152.7   0.2     1   192     3   198     3   200 0.95 Histidine phosphatase superfamily (branch 1)
+DHDPS                PF00701.25   289 USMM236_contigs.fa_antismash_contig00002.region002_ORF12:gid::pid::loc:9354:10251:strand:- -            298   3.2e-60  203.4   0.0   1   1     2e-64   3.9e-60  203.2   0.0     2   277     3   283     2   293 0.93 Dihydrodipicolinate synthetase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/USMM236_contigs.fa_antismash_contig00002.region002.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/USMM236_contigs.fa_antismash_contig00002.region002.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/USMM236_contigs.fa_antismash_contig00002.region002.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 19:17:45 2024
+# [ok]

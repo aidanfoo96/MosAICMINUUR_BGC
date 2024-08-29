@@ -1,0 +1,23 @@
+#                                                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PTR2                 PF00854.24   397 USMM093_contigs.fa_antismash_contig00020.region001_ORF1:gid::pid::loc:312:1806:strand:- -            497   1.8e-74  251.1  26.0   1   1   3.3e-78   3.3e-74  250.2  26.0     2   388    96   463    95   472 0.86 POT family
+MFS_1                PF07690.19   353 USMM093_contigs.fa_antismash_contig00020.region001_ORF1:gid::pid::loc:312:1806:strand:- -            497   5.6e-20   71.7  54.9   1   1   7.6e-23   7.4e-19   68.0  50.7     7   351    38   451    36   453 0.73 Major Facilitator Superfamily
+DUF4046              PF13255.9     90 USMM093_contigs.fa_antismash_contig00020.region001_ORF2:gid::pid::loc:2029:3022:strand:+ -            330   1.1e-06   29.2  13.0   1   1   1.4e-10   2.8e-06   27.9   0.2     2    87     9    92     8    99 0.82 Protein of unknown function (DUF4046)
+DUF772               PF05598.14    73 USMM093_contigs.fa_antismash_contig00020.region001_ORF3:gid::pid::loc:4234:4471:strand:- -             78   8.4e-13   48.3   0.0   1   1   6.2e-17   1.2e-12   47.7   0.0     1    38    40    78    40    78 0.99 Transposase domain (DUF772)
+ABC_membrane         PF00664.26   274 USMM093_contigs.fa_antismash_contig00020.region001_ORF5:gid::pid::loc:5000:7184:strand:+ -            727   6.8e-46  157.2  19.4   1   1   2.1e-49     1e-45  156.7  19.4     4   273   167   433   164   434 0.98 ABC transporter transmembrane region
+Peptidase_C39        PF03412.18   133 USMM093_contigs.fa_antismash_contig00020.region001_ORF5:gid::pid::loc:5000:7184:strand:+ -            727   1.8e-40  138.0   0.0   1   1   7.2e-44   3.5e-40  137.0   0.0     1   132     4   138     4   139 0.97 Peptidase C39 family
+ABC_tran             PF00005.30   137 USMM093_contigs.fa_antismash_contig00020.region001_ORF5:gid::pid::loc:5000:7184:strand:+ -            727     1e-35  123.4   0.0   1   1   4.2e-39   2.1e-35  122.4   0.0     1   137   497   647   497   647 0.96 ABC transporter
+HlyD_3               PF13437.9    106 USMM093_contigs.fa_antismash_contig00020.region001_ORF6:gid::pid::loc:7217:7964:strand:+ -            248   3.6e-14   53.4   0.9   1   1   8.3e-15   1.6e-10   41.7   0.1     1    97   113   214   113   228 0.87 HlyD family secretion protein
+YolD                 PF08863.13    94 USMM093_contigs.fa_antismash_contig00020.region001_ORF9:gid::pid::loc:8938:9085:strand:- -             48   4.1e-08   33.3   0.2   1   1   2.2e-12   4.3e-08   33.3   0.2    48    93     2    47     1    48 0.97 YolD-like protein
+YolD                 PF08863.13    94 USMM093_contigs.fa_antismash_contig00020.region001_ORF10:gid::pid::loc:9081:9246:strand:- -             54   4.3e-08   33.3   0.2   1   1   2.6e-12     5e-08   33.0   0.2     1    36     9    44     9    48 0.95 YolD-like protein
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/USMM093_contigs.fa_antismash_contig00020.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/USMM093_contigs.fa_antismash_contig00020.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/USMM093_contigs.fa_antismash_contig00020.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 19:51:05 2024
+# [ok]

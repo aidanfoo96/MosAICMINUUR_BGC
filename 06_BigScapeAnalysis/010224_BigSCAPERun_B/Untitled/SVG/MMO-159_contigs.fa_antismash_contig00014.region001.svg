@@ -1,0 +1,78 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="375.1333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="365.1333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg14_1)</title>
+			<polygon class=" (ctg14_1)" points="10,10 13,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg14_2)</title>
+			<polygon class=" (ctg14_2)" points="14,10 25,40 14,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TetR_C_28 (PF17937)
+"Tetracyclin repressor-like, C-terminal domain"</title>
+				<polygon class="PF17937" points="15,28 17,28 22,40 17,52 15,52" stroke-linejoin="round" width="9" height="24" fill="rgb(163,186,58)" stroke="rgb(130,148,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg14_3)</title>
+			<polygon class=" (ctg14_3)" points="25,10 36,40 25,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Multi_Drug_Res (PF00893)
+"Small Multidrug Resistance protein"</title>
+				<polygon class="PF00893" points="25,28 28,28 33,40 28,52 25,52" stroke-linejoin="round" width="9" height="24" fill="rgb(199,75,202)" stroke="rgb(159,60,161)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg14_4)</title>
+			<polygon class=" (ctg14_4)" points="37,10 47,40 37,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Multi_Drug_Res (PF00893)
+"Small Multidrug Resistance protein"</title>
+				<polygon class="PF00893" points="37,28 39,28 44,40 39,52 37,52" stroke-linejoin="round" width="9" height="24" fill="rgb(199,75,202)" stroke="rgb(159,60,161)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg14_5)</title>
+			<polygon class=" (ctg14_5)" points="56,25 118,25 118,10 148,40 118,70 118,55 56,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg14_6)</title>
+			<polygon class=" (ctg14_6)" points="151,10 157,40 151,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg14_7)</title>
+			<polygon class=" (ctg14_7)" points="158,25 167,25 167,10 197,40 167,70 167,55 158,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YcaO (PF02624)
+"YcaO cyclodehydratase, ATP-ad Mg2+-binding"</title>
+				<polygon class="PF02624" points="162,28 181,28 193,40 193,40 181,52 162,52" stroke-linejoin="round" width="31" height="24" fill="rgb(76,84,185)" stroke="rgb(60,67,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg14_8)</title>
+			<polygon class=" (ctg14_8)" points="214,10 230,40 214,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg14_9)</title>
+			<polygon class=" (ctg14_9)" points="236,25 242,25 242,10 272,40 242,70 242,55 236,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg14_10)</title>
+			<polygon class=" (ctg14_10)" points="280,10 292,40 280,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg14_11)</title>
+			<polygon class=" (ctg14_11)" points="337,25 323,25 323,10 293,40 323,70 323,55 337,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg14_12)</title>
+			<polygon class=" (ctg14_12)" points="345,40 358,10 358,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SSB (PF00436)
+"Single-strand binding protein family"</title>
+				<polygon class="PF00436" points="348,40 353,28 357,28 357,52 353,52" stroke-linejoin="round" width="10" height="24" fill="rgb(64,225,98)" stroke="rgb(51,180,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

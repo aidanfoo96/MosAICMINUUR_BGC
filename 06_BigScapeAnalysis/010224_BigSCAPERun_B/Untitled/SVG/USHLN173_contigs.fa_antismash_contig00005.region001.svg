@@ -1,0 +1,199 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="716.8666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="706.8666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg5_90)</title>
+			<polygon class=" (ctg5_90)" points="13,40 42,10 42,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LysR_substrate (PF03466)
+"LysR substrate binding domain"</title>
+				<polygon class="PF03466" points="17,40 29,28 33,28 33,52 29,52" stroke-linejoin="round" width="20" height="24" fill="rgb(55,136,195)" stroke="rgb(44,108,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_1 (PF00126)
+"Bacterial regulatory helix-turn-helix protein, lysR family"</title>
+				<rect class="PF00126" x="36" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(125,227,79)" stroke="rgb(99,181,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_91)</title>
+			<polygon class=" (ctg5_91)" points="48,10 73,40 48,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TauE (PF01925)
+"Sulfite exporter TauE/SafE"</title>
+				<polygon class="PF01925" points="48,28 59,28 69,40 59,52 48,52" stroke-linejoin="round" width="24" height="24" fill="rgb(105,203,95)" stroke="rgb(84,162,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_92)</title>
+			<polygon class=" (ctg5_92)" points="80,40 98,10 98,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg5_93)</title>
+			<polygon class=" (ctg5_93)" points="98,40 126,10 126,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SIR2 (PF02146)
+"Sir2 family"</title>
+				<polygon class="PF02146" points="105,37 114,28 123,28 123,52 114,52 105,43" stroke-linejoin="round" width="18" height="24" fill="rgb(83,217,165)" stroke="rgb(66,173,132)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_94)</title>
+			<polygon class=" (ctg5_94)" points="128,40 157,10 157,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg5_95)</title>
+			<polygon class=" (ctg5_95)" points="161,10 172,40 161,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HxlR (PF01638)
+"HxlR-like helix-turn-helix"</title>
+				<polygon class="PF01638" points="163,28 164,28 168,40 164,52 163,52" stroke-linejoin="round" width="8" height="24" fill="rgb(91,150,227)" stroke="rgb(72,119,181)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_96)</title>
+			<polygon class=" (ctg5_96)" points="174,40 189,10 189,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AsnC_trans_reg (PF01037)
+"Lrp/AsnC ligand binding domain"</title>
+				<polygon class="PF01037" points="177,40 182,30 182,50" stroke-linejoin="round" width="6" height="24" fill="rgb(134,72,182)" stroke="rgb(107,57,145)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_24 (PF13412)
+"Winged helix-turn-helix DNA-binding"</title>
+				<rect class="PF13412" x="184" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(222,79,68)" stroke="rgb(177,63,54)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_97)</title>
+			<polygon class=" (ctg5_97)" points="194,10 212,40 194,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Isochorismatase (PF00857)
+"Isochorismatase family"</title>
+				<polygon class="PF00857" points="194,28 201,28 208,40 201,52 194,52" stroke-linejoin="round" width="17" height="24" fill="rgb(144,224,70)" stroke="rgb(115,179,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_98)</title>
+			<polygon class=" (ctg5_98)" points="269,25 254,25 254,10 224,40 254,70 254,55 269,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_7 (PF03441)
+"FAD binding domain of DNA photolyase"</title>
+				<polygon class="PF03441" points="228,40 240,28 244,28 244,52 240,52" stroke-linejoin="round" width="20" height="24" fill="rgb(206,143,93)" stroke="rgb(164,114,74)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DNA_photolyase (PF00875)
+"DNA photolyase"</title>
+				<rect class="PF00875" x="253" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(87,58,223)" stroke="rgb(69,46,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_99)</title>
+			<polygon class=" (ctg5_99)" points="277,10 291,40 277,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pyrid_ox_like (PF16242)
+"Pyridoxamine 5'-phosphate oxidase like"</title>
+				<polygon class="PF16242" points="277,28 282,28 287,40 282,52 277,52" stroke-linejoin="round" width="12" height="24" fill="rgb(192,75,209)" stroke="rgb(153,60,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_100)</title>
+			<polygon class=" (ctg5_100)" points="343,25 323,25 323,10 293,40 323,70 323,55 343,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="297,40 309,28 341,28 341,52 309,52" stroke-linejoin="round" width="48" height="24" fill="rgb(184,74,52)" stroke="rgb(147,59,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_101)</title>
+			<polygon class=" (ctg5_101)" points="373,25 373,25 373,10 343,40 373,70 373,55 373,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="347,40 359,28 369,28 369,52 359,52" stroke-linejoin="round" width="25" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_102)</title>
+			<polygon class=" (ctg5_102)" points="408,25 404,25 404,10 374,40 404,70 404,55 408,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<rect class="PF00535" x="392" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(224,122,96)" stroke="rgb(179,97,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_103)</title>
+			<polygon class=" (ctg5_103)" points="460,25 441,25 441,10 411,40 441,70 441,55 460,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<rect class="PF01593" x="429" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(184,74,52)" stroke="rgb(147,59,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_104)</title>
+			<polygon class=" (ctg5_104)" points="461,40 476,10 476,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CrtO (PF18927)
+"Glycosyl-4,4'-diaponeurosporenoate acyltransferase"</title>
+				<polygon class="PF18927" points="464,40 470,28 472,28 472,52 470,52" stroke-linejoin="round" width="11" height="24" fill="rgb(191,73,226)" stroke="rgb(152,58,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_105)</title>
+			<polygon class=" (ctg5_105)" points="476,40 492,10 492,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TspO_MBR (PF03073)
+"TspO/MBR family"</title>
+				<polygon class="PF03073" points="479,40 486,28 491,28 491,52 486,52" stroke-linejoin="round" width="14" height="24" fill="rgb(191,88,103)" stroke="rgb(152,70,82)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_106)</title>
+			<polygon class=" (ctg5_106)" points="545,25 525,25 525,10 495,40 525,70 525,55 545,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NAD_binding_10 (PF13460)
+"NAD(P)H-binding"</title>
+				<rect class="PF13460" x="529" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(188,201,78)" stroke="rgb(150,160,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_107)</title>
+			<polygon class=" (ctg5_107)" points="552,40 576,10 576,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TspO_MBR (PF03073)
+"TspO/MBR family"</title>
+				<polygon class="PF03073" points="560,35 566,28 574,28 574,52 566,52 560,45" stroke-linejoin="round" width="14" height="24" fill="rgb(191,88,103)" stroke="rgb(152,70,82)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_108)</title>
+			<polygon class=" (ctg5_108)" points="597,40 608,10 608,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1722 (PF08349)
+"Protein of unknown function (DUF1722)"</title>
+				<polygon class="PF08349" points="600,40 605,28 607,28 607,52 605,52" stroke-linejoin="round" width="10" height="24" fill="rgb(196,73,104)" stroke="rgb(156,58,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_109)</title>
+			<polygon class=" (ctg5_109)" points="615,40 637,10 637,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg5_110)</title>
+			<polygon class=" (ctg5_110)" points="701,25 670,25 670,10 640,40 670,70 670,55 701,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Metallophos (PF00149)
+"Calcineurin-like phosphoesterase"</title>
+				<polygon class="PF00149" points="655,29 656,28 676,28 676,52 656,52 655,51" stroke-linejoin="round" width="21" height="24" fill="rgb(181,197,58)" stroke="rgb(144,157,46)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Pur_ac_phosph_N (PF16656)
+"Purple acid Phosphatase, N-terminal domain"</title>
+				<rect class="PF16656" x="678" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(179,54,170)" stroke="rgb(143,43,136)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

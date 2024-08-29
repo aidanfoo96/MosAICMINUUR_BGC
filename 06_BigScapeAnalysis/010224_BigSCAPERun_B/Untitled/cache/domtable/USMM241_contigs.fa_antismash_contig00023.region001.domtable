@@ -1,0 +1,24 @@
+#                                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Fic                  PF02661.21    97 USMM241_contigs.fa_antismash_contig00023.region001_ORF5:gid::pid::loc:2184:3093:strand:+ -            302     1e-16   61.7   0.4   1   1   1.2e-20   2.3e-16   60.6   0.1     2    96    49   149    48   150 0.94 Fic/DOC family
+Resolvase            PF00239.24   146 USMM241_contigs.fa_antismash_contig00023.region001_ORF6:gid::pid::loc:3089:3653:strand:+ -            187   2.9e-46  157.3   0.3   1   1   5.8e-50   5.6e-46  156.4   0.2     1   146     3   139     3   139 0.98 Resolvase, N terminal domain
+ABC2_membrane_3      PF12698.10   346 USMM241_contigs.fa_antismash_contig00023.region001_ORF11:gid::pid::loc:5242:6010:strand:- -            255   8.9e-09   35.0   0.0   1   1   8.8e-13   1.7e-08   34.1   0.0     1   195    32   217    32   221 0.62 ABC-2 family transporter protein
+Methyltransf_25      PF13649.9     97 USMM241_contigs.fa_antismash_contig00023.region001_ORF14:gid::pid::loc:7374:8103:strand:- -            242   6.4e-15   55.7   0.0   1   1     2e-18   1.3e-14   54.7   0.0     2    87    40   124    40   129 0.85 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 USMM241_contigs.fa_antismash_contig00023.region001_ORF14:gid::pid::loc:7374:8103:strand:- -            242   2.8e-12   47.3   0.2   1   1   1.1e-15     7e-12   46.0   0.0     1    82    40   124    40   132 0.88 Methyltransferase domain
+Methyltransf_31      PF13847.9    152 USMM241_contigs.fa_antismash_contig00023.region001_ORF14:gid::pid::loc:7374:8103:strand:- -            242   8.2e-08   32.3   0.0   1   1     2e-11   1.3e-07   31.7   0.0     6    81    38   106    34   142 0.80 Methyltransferase domain
+Abhydrolase_6        PF12697.10   220 USMM241_contigs.fa_antismash_contig00023.region001_ORF19:gid::pid::loc:9437:10622:strand:- -            394   6.2e-12   46.7   4.2   1   1   6.3e-16   6.2e-12   46.7   4.2    11   219   149   382   139   383 0.54 Alpha/beta hydrolase family
+Abhydrolase_1        PF00561.23   257 USMM241_contigs.fa_antismash_contig00023.region001_ORF19:gid::pid::loc:9437:10622:strand:- -            394   1.5e-07   31.5   0.0   1   1   2.3e-11   2.3e-07   30.9   0.0     1   110   137   240   137   251 0.86 alpha/beta hydrolase fold
+SWI2_SNF2            PF18766.4    225 USMM241_contigs.fa_antismash_contig00023.region001_ORF24:gid::pid::loc:14274:17754:strand:- -           1159   9.9e-25   87.7   1.0   1   1   9.7e-28   6.3e-24   85.0   1.0     1   213   300   555   300   565 0.81 SWI2/SNF2 ATPase
+ResIII               PF04851.18   171 USMM241_contigs.fa_antismash_contig00023.region001_ORF24:gid::pid::loc:14274:17754:strand:- -           1159   3.7e-12   46.7   0.0   1   1   1.3e-15   8.6e-12   45.5   0.0     5   170   298   498   295   499 0.79 Type III restriction enzyme, res subunit
+HSDR_N               PF04313.17   194 USMM241_contigs.fa_antismash_contig00023.region001_ORF24:gid::pid::loc:14274:17754:strand:- -           1159   2.4e-11   44.1   0.0   1   1     1e-14   6.8e-11   42.6   0.0   107   189   147   230   131   235 0.79 Type I restriction enzyme R protein N terminus (HSDR_N)
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/USMM241_contigs.fa_antismash_contig00023.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/USMM241_contigs.fa_antismash_contig00023.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/USMM241_contigs.fa_antismash_contig00023.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 19:48:30 2024
+# [ok]

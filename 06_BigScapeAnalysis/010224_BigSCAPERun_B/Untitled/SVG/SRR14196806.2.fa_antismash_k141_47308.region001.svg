@@ -1,0 +1,63 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="198.03333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="188.03333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg522_1)</title>
+			<polygon class=" (ctg522_1)" points="10,10 13,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg522_2)</title>
+			<polygon class=" (ctg522_2)" points="17,40 39,10 39,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OmpW (PF03922)
+"OmpW family"</title>
+				<polygon class="PF03922" points="21,40 30,28 38,28 38,52 30,52" stroke-linejoin="round" width="21" height="24" fill="rgb(62,138,201)" stroke="rgb(49,110,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg522_3)</title>
+			<polygon class=" (ctg522_3)" points="91,25 70,25 70,10 40,40 70,70 70,55 91,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LIP (PF03583)
+"Secretory lipase"</title>
+				<rect class="PF03583" x="62" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(197,59,135)" stroke="rgb(157,47,107)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg522_4)</title>
+			<polygon class=" (ctg522_4)" points="104,40 130,10 130,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2063 (PF09836)
+"Putative DNA-binding domain"</title>
+				<rect class="PF09836" x="120" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(88,194,190)" stroke="rgb(70,155,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg522_5)</title>
+			<polygon class=" (ctg522_5)" points="130,40 159,10 159,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF692 (PF05114)
+"Protein of unknown function (DUF692)"</title>
+				<polygon class="PF05114" points="134,40 146,28 157,28 157,52 146,52" stroke-linejoin="round" width="26" height="24" fill="rgb(63,196,127)" stroke="rgb(50,156,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg522_6)</title>
+			<polygon class=" (ctg522_6)" points="159,40 168,10 168,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2282 (PF10048)
+"Predicted integral membrane protein (DUF2282)"</title>
+				<polygon class="PF10048" points="162,40 164,34 164,46" stroke-linejoin="round" width="5" height="24" fill="rgb(58,205,168)" stroke="rgb(46,164,134)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg522_7)</title>
+			<polygon class=" (ctg522_7)" points="178,10 185,40 178,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>S4_2 (PF13275)
+"S4 domain"</title>
+				<polygon class="PF13275" points="178,28 178,28 182,40 178,52 178,52" stroke-linejoin="round" width="6" height="24" fill="rgb(124,65,187)" stroke="rgb(99,51,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

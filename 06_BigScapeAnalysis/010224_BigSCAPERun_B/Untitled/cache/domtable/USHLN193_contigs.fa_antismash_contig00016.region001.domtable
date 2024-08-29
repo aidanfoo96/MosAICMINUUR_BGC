@@ -1,0 +1,27 @@
+#                                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Pkinase              PF00069.28   264 USHLN193_contigs.fa_antismash_contig00016.region001_ORF2:gid::pid::loc:375:2979:strand:- -            867     4e-16   59.3   0.1   1   1   7.2e-20     7e-16   58.5   0.1    12   182   234   410   226   439 0.88 Protein kinase domain
+Trypsin              PF00089.29   221 USHLN193_contigs.fa_antismash_contig00016.region001_ORF4:gid::pid::loc:3302:3968:strand:- -            221   0.00014   21.9   0.0   1   1     1e-08    0.0002   21.4   0.0    24   111    22   111     5   174 0.79 Trypsin
+rve_2                PF13333.9     52 USHLN193_contigs.fa_antismash_contig00016.region001_ORF5:gid::pid::loc:4728:5721:strand:+ -            330   5.7e-15   55.4   1.9   1   1   8.7e-19   5.7e-15   55.4   1.9     1    52   273   327   273   327 0.95 Integrase core domain
+rve                  PF00665.29   102 USHLN193_contigs.fa_antismash_contig00016.region001_ORF5:gid::pid::loc:4728:5721:strand:+ -            330   8.5e-14   51.8   0.0   1   1   2.2e-17   1.4e-13   51.1   0.0     3   102   166   266   164   266 0.92 Integrase core domain
+rve_3                PF13683.9     67 USHLN193_contigs.fa_antismash_contig00016.region001_ORF5:gid::pid::loc:4728:5721:strand:+ -            330   8.1e-10   38.4   1.4   1   1   2.2e-13   1.4e-09   37.7   0.3     5    67   258   319   254   319 0.95 Integrase core domain
+PIN_8                PF18476.4    227 USHLN193_contigs.fa_antismash_contig00016.region001_ORF6:gid::pid::loc:5801:5984:strand:- -             60   2.4e-11   44.1   1.7   1   1   1.3e-15   2.6e-11   44.0   1.7   180   223     3    46     1    50 0.90 PIN like domain
+HlyIII               PF03006.23   224 USHLN193_contigs.fa_antismash_contig00016.region001_ORF8:gid::pid::loc:6303:6951:strand:- -            215   3.8e-47  161.0  26.3   1   1   2.2e-51   4.3e-47  160.8  26.3     3   224     4   207     2   207 0.94 Haemolysin-III related
+DUF1836              PF08876.14   105 USHLN193_contigs.fa_antismash_contig00016.region001_ORF9:gid::pid::loc:7115:7676:strand:+ -            186     1e-30  106.0   5.1   1   1   5.2e-35     1e-30  106.0   5.1     3   105    19   123    17   123 0.96 Domain of unknown function (DUF1836)
+DEAD                 PF00270.32   176 USHLN193_contigs.fa_antismash_contig00016.region001_ORF11:gid::pid::loc:9306:10752:strand:- -            481   1.9e-48  164.6   0.1   1   1   2.1e-51     1e-47  162.3   0.1     1   176    28   194    28   194 0.97 DEAD/DEAH box helicase
+Helicase_C           PF00271.34   111 USHLN193_contigs.fa_antismash_contig00016.region001_ORF11:gid::pid::loc:9306:10752:strand:- -            481   7.9e-32  110.0   0.1   1   1   2.2e-33   1.1e-29  103.1   0.1     3   111   230   337   228   337 0.90 Helicase conserved C-terminal domain
+DbpA                 PF03880.18    72 USHLN193_contigs.fa_antismash_contig00016.region001_ORF11:gid::pid::loc:9306:10752:strand:- -            481   7.8e-21   74.0   2.2   1   1   6.8e-24   3.3e-20   72.0   2.2     1    71   407   477   407   478 0.98 DbpA RNA binding domain
+ResIII               PF04851.18   171 USHLN193_contigs.fa_antismash_contig00016.region001_ORF11:gid::pid::loc:9306:10752:strand:- -            481   1.9e-08   34.6   0.0   1   1     8e-12   3.9e-08   33.6   0.0    23   170    40   188    10   189 0.81 Type III restriction enzyme, res subunit
+IMPDH                PF00478.28   345 USHLN193_contigs.fa_antismash_contig00016.region001_ORF12:gid::pid::loc:11224:12211:strand:+ -            328   4.6e-68  229.9   0.4   1   1     2e-71     1e-67  228.8   0.4     3   327     7   311     5   322 0.91 IMP dehydrogenase / GMP reductase domain
+NMO                  PF03060.18   331 USHLN193_contigs.fa_antismash_contig00016.region001_ORF12:gid::pid::loc:11224:12211:strand:+ -            328   2.8e-07   30.4   0.3   1   1   8.7e-11   4.2e-07   29.8   0.3   134   238   140   247    77   256 0.79 Nitronate monooxygenase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/USHLN193_contigs.fa_antismash_contig00016.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/USHLN193_contigs.fa_antismash_contig00016.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/USHLN193_contigs.fa_antismash_contig00016.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 23:52:48 2024
+# [ok]

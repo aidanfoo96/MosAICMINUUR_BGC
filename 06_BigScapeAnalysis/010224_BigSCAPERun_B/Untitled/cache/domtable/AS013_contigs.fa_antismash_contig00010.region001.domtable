@@ -1,0 +1,26 @@
+#                                                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF2946              PF11162.11   116 AS013_contigs.fa_antismash_contig00010.region001_ORF1:gid::pid::loc:1454:1856:strand:+ -            133   6.7e-06   26.9   9.5   1   1   6.1e-10   1.2e-05   26.1   9.5     4   116     3   130     1   130 0.61 Protein of unknown function (DUF2946)
+TonB_dep_Rec         PF00593.27   470 AS013_contigs.fa_antismash_contig00010.region001_ORF2:gid::pid::loc:1934:4115:strand:+ -            726   4.3e-52  178.7  23.6   1   1   4.4e-56   4.3e-52  178.7  23.6     9   470   267   725   261   725 0.73 TonB dependent receptor
+Plug                 PF07715.18   108 AS013_contigs.fa_antismash_contig00010.region001_ORF2:gid::pid::loc:1934:4115:strand:+ -            726   4.4e-15   56.3   0.1   1   1   1.5e-18   1.4e-14   54.6   0.1     3   108    91   194    89   194 0.92 TonB-dependent Receptor Plug Domain
+NlpE                 PF04170.15    86 AS013_contigs.fa_antismash_contig00010.region001_ORF3:gid::pid::loc:4115:4571:strand:+ -            151   1.7e-06   29.0   1.4   1   1   9.3e-10   1.8e-05   25.7   1.4     1    58    49   114    49   138 0.71 NlpE N-terminal domain
+YcaO_C               PF18381.4    172 AS013_contigs.fa_antismash_contig00010.region001_ORF4:gid::pid::loc:5000:7220:strand:+ -            739   3.2e-77  258.4   5.1   1   1   7.3e-81   4.8e-77  257.8   5.1     1   172   557   728   557   728 0.99 YcaO cyclodehydratase C-terminal domain
+YcaO                 PF02624.19   322 AS013_contigs.fa_antismash_contig00010.region001_ORF4:gid::pid::loc:5000:7220:strand:+ -            739   9.9e-71  238.8   0.0   1   1   3.3e-74   2.2e-70  237.7   0.0     1   321   205   540   205   541 0.90 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+OsmC                 PF02566.22   100 AS013_contigs.fa_antismash_contig00010.region001_ORF4:gid::pid::loc:5000:7220:strand:+ -            739   3.2e-08   34.1   0.0   1   1   2.8e-11   1.8e-07   31.6   0.0     1    99    32   126    32   127 0.86 OsmC-like protein
+Pyr_redox_2          PF07992.17   295 AS013_contigs.fa_antismash_contig00010.region001_ORF5:gid::pid::loc:7866:9183:strand:+ -            438   2.2e-55  188.1   0.0   1   1   3.9e-59   2.5e-55  187.9   0.0     1   295    10   347    10   347 0.93 Pyridine nucleotide-disulphide oxidoreductase
+Pyr_redox            PF00070.30    81 AS013_contigs.fa_antismash_contig00010.region001_ORF5:gid::pid::loc:7866:9183:strand:+ -            438   4.2e-14   52.9   4.5   1   1   8.8e-14   5.8e-10   39.7   0.3     1    68   180   262   180   266 0.88 Pyridine nucleotide-disulphide oxidoreductase
+ADH_zinc_N           PF00107.29   130 AS013_contigs.fa_antismash_contig00010.region001_ORF6:gid::pid::loc:9561:10548:strand:+ -            328   2.3e-27   95.7   0.8   1   1   5.7e-31   3.8e-27   95.0   0.1     1   100   155   254   155   282 0.90 Zinc-binding dehydrogenase
+ADH_zinc_N_2         PF13602.9    133 AS013_contigs.fa_antismash_contig00010.region001_ORF6:gid::pid::loc:9561:10548:strand:+ -            328   9.3e-21   75.3   0.0   1   1   2.5e-24   1.7e-20   74.5   0.0     2   129   188   322   187   325 0.86 Zinc-binding dehydrogenase
+ADH_N                PF08240.15   109 AS013_contigs.fa_antismash_contig00010.region001_ORF6:gid::pid::loc:9561:10548:strand:+ -            328   2.7e-08   33.8   0.0   1   1   7.8e-12   5.1e-08   32.9   0.0     2    64    31    91    30   137 0.87 Alcohol dehydrogenase GroES-like domain
+TauD                 PF02668.19   268 AS013_contigs.fa_antismash_contig00010.region001_ORF7:gid::pid::loc:10560:11409:strand:+ -            282   4.7e-58  197.2   0.4   1   1   2.9e-62   5.6e-58  197.0   0.4     2   267     3   274     2   274 0.90 Taurine catabolism dioxygenase TauD, TfdA family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/AS013_contigs.fa_antismash_contig00010.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/AS013_contigs.fa_antismash_contig00010.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/AS013_contigs.fa_antismash_contig00010.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 18:55:05 2024
+# [ok]

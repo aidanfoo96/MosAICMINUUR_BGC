@@ -1,0 +1,27 @@
+#                                                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SIP                  PF04954.16   119 USHLN220_contigs.fa_antismash_contig00002.region003_ORF1:gid::pid::loc:419:1190:strand:- -            256   6.7e-17   62.2   0.8   1   1     1e-20   9.8e-17   61.7   0.8     4   118   141   255   139   256 0.88 Siderophore-interacting protein
+FAD_binding_9        PF08021.14   121 USHLN220_contigs.fa_antismash_contig00002.region003_ORF1:gid::pid::loc:419:1190:strand:- -            256   7.8e-09   35.9   0.0   1   1   5.1e-09     5e-05   23.6   0.0    71   113    65   105    62   109 0.92 Siderophore-interacting FAD-binding domain
+Pyridoxal_deC        PF00282.22   375 USHLN220_contigs.fa_antismash_contig00002.region003_ORF2:gid::pid::loc:1393:2956:strand:+ -            520   1.5e-66  224.8   0.0   1   1     2e-70   1.9e-66  224.4   0.0    37   373    78   410    59   412 0.95 Pyridoxal-dependent decarboxylase conserved domain
+Lys_Orn_oxgnase      PF13434.9    341 USHLN220_contigs.fa_antismash_contig00002.region003_ORF3:gid::pid::loc:2952:5004:strand:+ -            683  6.1e-101  338.1   0.0   1   1  1.2e-104  7.6e-101  337.8   0.0     2   340    54   385    53   386 0.97 L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase
+Acetyltransf_8       PF13523.9    145 USHLN220_contigs.fa_antismash_contig00002.region003_ORF3:gid::pid::loc:2952:5004:strand:+ -            683   1.7e-38  131.7   0.6   1   1   2.6e-42   1.7e-38  131.7   0.6     1   144   502   645   502   646 0.98 Acetyltransferase (GNAT) domain
+Acetyltransf_3       PF13302.10   138 USHLN220_contigs.fa_antismash_contig00002.region003_ORF3:gid::pid::loc:2952:5004:strand:+ -            683   1.8e-06   28.8   0.0   1   1   7.1e-10   4.6e-06   27.5   0.0     3   138   497   639   495   639 0.79 Acetyltransferase (GNAT) domain
+IucA_IucC            PF04183.15   239 USHLN220_contigs.fa_antismash_contig00002.region003_ORF4:gid::pid::loc:5000:6827:strand:+ -            608   1.2e-59  201.9   0.8   1   1     2e-63     2e-59  201.2   0.8     2   239   154   402   153   402 0.96 IucA / IucC family
+FhuF                 PF06276.15   163 USHLN220_contigs.fa_antismash_contig00002.region003_ORF4:gid::pid::loc:5000:6827:strand:+ -            608   3.5e-27   95.9   1.3   1   1   3.5e-31   3.5e-27   95.9   1.3     2   161   424   576   423   578 0.94 Ferric iron reductase FhuF-like transporter
+Penicil_amidase      PF01804.21   674 USHLN220_contigs.fa_antismash_contig00002.region003_ORF5:gid::pid::loc:6913:9790:strand:+ -            958   4.7e-95  320.1   8.5   1   2   3.1e-72     3e-68  231.5   5.5     5   361    30   404    28   414 0.84 Penicillin amidase
+Penicil_amidase      PF01804.21   674 USHLN220_contigs.fa_antismash_contig00002.region003_ORF5:gid::pid::loc:6913:9790:strand:+ -            958   4.7e-95  320.1   8.5   2   2   2.7e-29   2.6e-25   89.6   0.0   398   638   413   720   408   722 0.73 Penicillin amidase
+Acetyltransf_8       PF13523.9    145 USHLN220_contigs.fa_antismash_contig00002.region003_ORF5:gid::pid::loc:6913:9790:strand:+ -            958   1.2e-43  148.4   0.1   1   1   3.2e-47   3.1e-43  147.0   0.1     1   144   796   938   796   939 0.96 Acetyltransferase (GNAT) domain
+ABC_tran             PF00005.30   137 USHLN220_contigs.fa_antismash_contig00002.region003_ORF6:gid::pid::loc:10016:11699:strand:- -            560   6.4e-50  169.4   0.1   1   2   1.8e-30   7.2e-27   94.7   0.0     1   137    21   190    21   190 0.91 ABC transporter
+ABC_tran             PF00005.30   137 USHLN220_contigs.fa_antismash_contig00002.region003_ORF6:gid::pid::loc:10016:11699:strand:- -            560   6.4e-50  169.4   0.1   2   2   2.5e-23   9.8e-20   71.6   0.0     2   137   340   473   339   473 0.86 ABC transporter
+ABC_tran_Xtn         PF12848.10    85 USHLN220_contigs.fa_antismash_contig00002.region003_ORF6:gid::pid::loc:10016:11699:strand:- -            560   8.3e-18   64.3   8.5   1   1   6.3e-19   2.5e-15   56.4   6.4     1    75   229   302   229   312 0.87 ABC transporter
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/USHLN220_contigs.fa_antismash_contig00002.region003.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/USHLN220_contigs.fa_antismash_contig00002.region003.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/USHLN220_contigs.fa_antismash_contig00002.region003.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 23:38:36 2024
+# [ok]

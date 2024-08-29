@@ -1,0 +1,121 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="494.9" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="484.9" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg19_1)</title>
+			<polygon class=" (ctg19_1)" points="10,10 13,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg19_2)</title>
+			<polygon class=" (ctg19_2)" points="15,10 35,40 15,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Thioredoxin (PF00085)
+"Thioredoxin"</title>
+				<polygon class="PF00085" points="20,28 23,28 30,38 30,42 23,52 20,52" stroke-linejoin="round" width="10" height="24" fill="rgb(220,109,180)" stroke="rgb(176,87,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19_3)</title>
+			<polygon class=" (ctg19_3)" points="36,40 61,10 61,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NUDIX (PF00293)
+"NUDIX domain"</title>
+				<polygon class="PF00293" points="40,40 50,28 50,28 50,52 50,52" stroke-linejoin="round" width="13" height="24" fill="rgb(92,56,187)" stroke="rgb(73,44,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19_4)</title>
+			<polygon class=" (ctg19_4)" points="62,10 80,40 62,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg19_5)</title>
+			<polygon class=" (ctg19_5)" points="85,25 90,25 90,10 120,40 90,70 90,55 85,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>polyprenyl_synt (PF00348)
+"Polyprenyl synthetase"</title>
+				<polygon class="PF00348" points="88,28 104,28 115,39 115,41 104,52 88,52" stroke-linejoin="round" width="27" height="24" fill="rgb(61,206,65)" stroke="rgb(48,164,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19_6)</title>
+			<polygon class=" (ctg19_6)" points="121,10 150,40 121,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="123,28 134,28 146,40 134,52 123,52" stroke-linejoin="round" width="25" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19_7)</title>
+			<polygon class=" (ctg19_7)" points="151,25 177,25 177,10 207,40 177,70 177,55 151,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<rect class="PF01593" x="152" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(184,74,52)" stroke="rgb(147,59,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19_8)</title>
+			<polygon class=" (ctg19_8)" points="208,10 237,40 208,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UbiA (PF01040)
+"UbiA prenyltransferase family"</title>
+				<polygon class="PF01040" points="209,28 221,28 233,40 221,52 209,52" stroke-linejoin="round" width="25" height="24" fill="rgb(189,57,100)" stroke="rgb(151,45,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19_9)</title>
+			<polygon class=" (ctg19_9)" points="237,10 249,40 237,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg19_10)</title>
+			<polygon class=" (ctg19_10)" points="249,10 260,40 249,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg19_11)</title>
+			<polygon class=" (ctg19_11)" points="259,10 279,40 259,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg19_12)</title>
+			<polygon class=" (ctg19_12)" points="279,10 305,40 279,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<polygon class="PF00535" points="279,28 291,28 295,33 295,47 291,52 279,52" stroke-linejoin="round" width="16" height="24" fill="rgb(224,122,96)" stroke="rgb(179,97,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19_13)</title>
+			<polygon class=" (ctg19_13)" points="361,25 335,25 335,10 305,40 335,70 335,55 361,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2867 (PF11066)
+"Protein of unknown function (DUF2867)"</title>
+				<polygon class="PF11066" points="310,39 321,28 324,28 324,52 321,52 310,41" stroke-linejoin="round" width="14" height="24" fill="rgb(97,120,227)" stroke="rgb(77,96,181)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>NAD_binding_10 (PF13460)
+"NAD(P)H-binding"</title>
+				<rect class="PF13460" x="344" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(188,201,78)" stroke="rgb(150,160,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19_14)</title>
+			<polygon class=" (ctg19_14)" points="366,25 450,25 450,10 480,40 450,70 450,55 366,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SWIM (PF04434)
+"SWIM zinc finger"</title>
+				<rect class="PF04434" x="372" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(76,197,68)" stroke="rgb(60,157,54)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SNF2-rel_dom (PF00176)
+"SNF2-related domain"</title>
+				<rect class="PF00176" x="433" y="28" stroke-linejoin="round" width="28" height="24" fill="rgb(180,113,64)" stroke="rgb(144,90,51)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Helicase_C (PF00271)
+"Helicase conserved C-terminal domain"</title>
+				<polygon class="PF00271" points="463,28 464,28 474,38 474,42 464,52 463,52" stroke-linejoin="round" width="11" height="24" fill="rgb(104,224,158)" stroke="rgb(83,179,126)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

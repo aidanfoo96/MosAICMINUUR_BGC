@@ -1,0 +1,136 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="610.8333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="600.8333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg24_1)</title>
+			<polygon class=" (ctg24_1)" points="29,40 33,10 33,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg24_2)</title>
+			<polygon class=" (ctg24_2)" points="43,40 62,10 62,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg24_3)</title>
+			<polygon class=" (ctg24_3)" points="84,40 98,10 98,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DDE_Tnp_1 (PF01609)
+"Transposase DDE domain"</title>
+				<polygon class="PF01609" points="87,40 93,28 97,28 97,52 93,52" stroke-linejoin="round" width="13" height="24" fill="rgb(229,102,99)" stroke="rgb(183,81,79)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg24_4)</title>
+			<polygon class=" (ctg24_4)" points="153,25 143,25 143,10 113,40 143,70 143,55 153,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="117,40 127,30 127,50" stroke-linejoin="round" width="14" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="126,31 129,28 151,28 151,52 129,52 126,49" stroke-linejoin="round" width="25" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg24_5)</title>
+			<polygon class=" (ctg24_5)" points="156,40 171,10 171,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MarR (PF01047)
+"MarR family"</title>
+				<polygon class="PF01047" points="161,36 165,28 166,28 166,52 165,52 161,44" stroke-linejoin="round" width="5" height="24" fill="rgb(60,185,86)" stroke="rgb(48,148,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg24_6)</title>
+			<polygon class=" (ctg24_6)" points="181,10 196,40 181,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MarR (PF01047)
+"MarR family"</title>
+				<polygon class="PF01047" points="185,28 186,28 190,34 190,46 186,52 185,52" stroke-linejoin="round" width="5" height="24" fill="rgb(60,185,86)" stroke="rgb(48,148,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg24_7)</title>
+			<polygon class=" (ctg24_7)" points="241,25 231,25 231,10 201,40 231,70 231,55 241,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="205,40 217,28 240,28 240,52 217,52" stroke-linejoin="round" width="37" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg24_8)</title>
+			<polygon class=" (ctg24_8)" points="243,40 267,10 267,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CDPS (PF16715)
+"Cyclodipeptide synthase"</title>
+				<polygon class="PF16715" points="247,40 257,28 265,28 265,52 257,52" stroke-linejoin="round" width="22" height="24" fill="rgb(66,210,97)" stroke="rgb(52,168,77)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg24_9)</title>
+			<polygon class=" (ctg24_9)" points="333,25 318,25 318,10 288,40 318,70 318,55 333,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BBE (PF08031)
+"Berberine and berberine like"</title>
+				<polygon class="PF08031" points="292,40 292,40 292,40" stroke-linejoin="round" width="4" height="24" fill="rgb(210,73,83)" stroke="rgb(168,58,66)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FAD_binding_4 (PF01565)
+"FAD binding domain"</title>
+				<rect class="PF01565" x="315" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(226,88,136)" stroke="rgb(180,70,108)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg24_10)</title>
+			<polygon class=" (ctg24_10)" points="342,10 349,40 342,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg24_11)</title>
+			<polygon class=" (ctg24_11)" points="358,10 365,40 358,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2642 (PF10842)
+"Protein of unknown function (DUF2642)"</title>
+				<polygon class="PF10842" points="359,28 359,28 362,40 359,52 359,52" stroke-linejoin="round" width="6" height="24" fill="rgb(187,218,93)" stroke="rgb(149,174,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg24_12)</title>
+			<polygon class=" (ctg24_12)" points="367,40 376,10 376,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg24_13)</title>
+			<polygon class=" (ctg24_13)" points="386,10 392,40 386,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg24_14)</title>
+			<polygon class=" (ctg24_14)" points="392,10 399,40 392,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg24_15)</title>
+			<polygon class=" (ctg24_15)" points="423,40 428,10 428,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg24_16)</title>
+			<polygon class=" (ctg24_16)" points="432,40 445,10 445,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg24_17)</title>
+			<polygon class=" (ctg24_17)" points="461,10 480,40 461,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cupin_2 (PF07883)
+"Cupin domain"</title>
+				<polygon class="PF07883" points="469,29 476,40 476,40 469,51" stroke-linejoin="round" width="7" height="24" fill="rgb(211,192,74)" stroke="rgb(168,153,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg24_18)</title>
+			<polygon class=" (ctg24_18)" points="520,10 523,40 520,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg24_19)</title>
+			<polygon class=" (ctg24_19)" points="548,25 556,25 556,10 586,40 556,70 556,55 548,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

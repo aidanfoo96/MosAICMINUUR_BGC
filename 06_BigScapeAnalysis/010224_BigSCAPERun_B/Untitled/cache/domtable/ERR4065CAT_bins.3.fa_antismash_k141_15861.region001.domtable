@@ -1,0 +1,16 @@
+#                                                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Condensation         PF00668.23   457 ERR4065CAT_bins.3.fa_antismash_k141_15861.region001_ORF1:gid::pid::loc:0:2016:strand:+ -            672   3.6e-46  157.9   0.0   1   1   6.7e-50   4.4e-46  157.6   0.0     1   451   151   582   151   588 0.86 Condensation domain
+PP-binding           PF00550.28    67 ERR4065CAT_bins.3.fa_antismash_k141_15861.region001_ORF1:gid::pid::loc:0:2016:strand:+ -            672   3.6e-14   53.0   0.1   1   1   1.6e-17   1.1e-13   51.4   0.1     2    67    40   102    39   102 0.95 Phosphopantetheine attachment site
+AMP-binding          PF00501.31   424 ERR4065CAT_bins.3.fa_antismash_k141_15861.region001_ORF1:gid::pid::loc:0:2016:strand:+ -            672   9.6e-14   50.9   0.3   1   1   2.3e-17   1.5e-13   50.3   0.3     5    70   609   672   606   672 0.96 AMP-binding enzyme
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/ERR4065CAT_bins.3.fa_antismash_k141_15861.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/ERR4065CAT_bins.3.fa_antismash_k141_15861.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/ERR4065CAT_bins.3.fa_antismash_k141_15861.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 18:46:57 2024
+# [ok]

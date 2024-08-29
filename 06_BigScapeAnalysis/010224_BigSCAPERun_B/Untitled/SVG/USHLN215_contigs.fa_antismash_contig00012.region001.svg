@@ -1,0 +1,81 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="433.3333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="423.3333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg12_38)</title>
+			<polygon class=" (ctg12_38)" points="75,25 69,25 69,10 39,40 69,70 69,55 75,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peripla_BP_2 (PF01497)
+"Periplasmic binding protein"</title>
+				<polygon class="PF01497" points="43,40 55,28 66,28 66,52 55,52" stroke-linejoin="round" width="24" height="24" fill="rgb(183,226,104)" stroke="rgb(146,180,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12_39)</title>
+			<polygon class=" (ctg12_39)" points="83,25 102,25 102,10 132,40 102,70 102,55 83,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pyridoxal_deC (PF00282)
+"Pyridoxal-dependent decarboxylase conserved domain"</title>
+				<polygon class="PF00282" points="87,28 115,28 123,36 123,44 115,52 87,52" stroke-linejoin="round" width="36" height="24" fill="rgb(100,218,166)" stroke="rgb(80,174,132)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12_40)</title>
+			<polygon class=" (ctg12_40)" points="132,25 146,25 146,10 176,40 146,70 146,55 132,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lys_Orn_oxgnase (PF13434)
+"L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase"</title>
+				<polygon class="PF13434" points="132,28 160,28 165,33 165,47 160,52 132,52" stroke-linejoin="round" width="33" height="24" fill="rgb(81,213,119)" stroke="rgb(64,170,95)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12_41)</title>
+			<polygon class=" (ctg12_41)" points="176,25 226,25 226,10 256,40 226,70 226,55 176,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_8 (PF13523)
+"Acetyltransferase (GNAT) domain"</title>
+				<rect class="PF13523" x="178" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(106,224,203)" stroke="rgb(84,179,162)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<rect class="PF04183" x="210" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="237,28 239,28 251,40 239,52 237,52" stroke-linejoin="round" width="15" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12_42)</title>
+			<polygon class=" (ctg12_42)" points="259,25 266,25 266,10 296,40 266,70 266,55 259,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg12_43)</title>
+			<polygon class=" (ctg12_43)" points="299,25 302,25 302,10 332,40 302,70 302,55 299,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Topoisom_I (PF01028)
+"Eukaryotic DNA topoisomerase I, catalytic core"</title>
+				<polygon class="PF01028" points="308,28 316,28 328,40 316,52 308,52" stroke-linejoin="round" width="22" height="24" fill="rgb(158,205,101)" stroke="rgb(126,164,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12_44)</title>
+			<polygon class=" (ctg12_44)" points="335,40 358,10 358,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg12_45)</title>
+			<polygon class=" (ctg12_45)" points="361,40 375,10 375,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FG-GAP_3 (PF13517)
+"FG-GAP-like repeat"</title>
+				<polygon class="PF13517" points="364,40 369,30 369,50" stroke-linejoin="round" width="6" height="24" fill="rgb(77,199,76)" stroke="rgb(61,159,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12_46)</title>
+			<polygon class=" (ctg12_46)" points="386,40 393,10 393,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

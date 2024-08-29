@@ -1,0 +1,28 @@
+#                                                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+UvrD_C               PF13361.9    348 USHLN213_contigs.fa_antismash_contig00003.region002_ORF1:gid::pid::loc:230:2318:strand:+ -            695   2.1e-16   60.5   0.0   1   1   9.8e-13   3.2e-09   36.9   0.0   281   344   624   690   617   694 0.77 UvrD-like helicase C-terminal domain
+UvrD-helicase        PF00580.24   315 USHLN213_contigs.fa_antismash_contig00003.region002_ORF1:gid::pid::loc:230:2318:strand:+ -            695   1.3e-12   48.0   0.0   1   1   3.6e-12   1.2e-08   35.0   0.0   210   297   409   491   396   502 0.90 UvrD/REP helicase N-terminal domain
+AAA_19               PF13245.9    147 USHLN213_contigs.fa_antismash_contig00003.region002_ORF1:gid::pid::loc:230:2318:strand:+ -            695   2.9e-12   47.1   0.0   1   1   3.8e-15   1.2e-11   45.1   0.0     5   145   254   492   250   494 0.85 AAA domain
+NERD                 PF08378.14   108 USHLN213_contigs.fa_antismash_contig00003.region002_ORF1:gid::pid::loc:230:2318:strand:+ -            695   6.8e-09   36.3   0.0   1   1   4.4e-12   1.4e-08   35.2   0.0     4    70    41   106    38   144 0.76 Nuclease-related domain
+ABC_tran             PF00005.30   137 USHLN213_contigs.fa_antismash_contig00003.region002_ORF2:gid::pid::loc:2413:3064:strand:- -            216   1.1e-27   97.3   0.0   1   1   1.4e-31   1.3e-27   97.1   0.0     2   137    23   170    22   170 0.95 ABC transporter
+Lactococcin_972      PF09683.13    63 USHLN213_contigs.fa_antismash_contig00003.region002_ORF4:gid::pid::loc:5000:5363:strand:- -            120   1.2e-10   41.9   4.3   1   1   6.1e-15   1.2e-10   41.9   4.3     1    63    56   117    56   117 0.95 Bacteriocin (Lactococcin_972)
+ADH_zinc_N_2         PF13602.9    133 USHLN213_contigs.fa_antismash_contig00003.region002_ORF5:gid::pid::loc:5469:6402:strand:- -            310   3.9e-12   47.5   1.1   1   1   6.4e-16   6.3e-12   46.8   0.7    12   133   200   308   187   308 0.71 Zinc-binding dehydrogenase
+ADH_N                PF08240.15   109 USHLN213_contigs.fa_antismash_contig00003.region002_ORF5:gid::pid::loc:5469:6402:strand:- -            310   3.6e-10   39.8   0.0   1   1   6.1e-14     6e-10   39.1   0.0     2    62    28    89    27   100 0.92 Alcohol dehydrogenase GroES-like domain
+AraC_N               PF06719.16   148 USHLN213_contigs.fa_antismash_contig00003.region002_ORF6:gid::pid::loc:6534:7491:strand:- -            318   7.2e-28   97.3   0.0   1   1     2e-31   1.3e-27   96.4   0.0     4   147    45   192    43   193 0.90 AraC-type transcriptional regulator N-terminus
+HTH_18               PF12833.10    81 USHLN213_contigs.fa_antismash_contig00003.region002_ORF6:gid::pid::loc:6534:7491:strand:- -            318   1.6e-20   73.2   3.7   1   1   4.9e-24   3.2e-20   72.3   3.7     1    76   228   302   228   304 0.97 Helix-turn-helix domain
+HTH_AraC             PF00165.26    42 USHLN213_contigs.fa_antismash_contig00003.region002_ORF6:gid::pid::loc:6534:7491:strand:- -            318     5e-15   55.3   0.1   1   1   2.2e-12   1.4e-08   34.7   0.0     6    42   220   256   218   256 0.95 Bacterial regulatory helix-turn-helix proteins, AraC family
+adh_short            PF00106.28   195 USHLN213_contigs.fa_antismash_contig00003.region002_ORF7:gid::pid::loc:7601:8375:strand:+ -            257   1.9e-50  171.2   0.7   1   1   4.7e-54   2.3e-50  170.9   0.7     2   190    13   203    12   207 0.97 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 USHLN213_contigs.fa_antismash_contig00003.region002_ORF7:gid::pid::loc:7601:8375:strand:+ -            257   7.7e-48  163.2   7.0   1   1   1.8e-51   8.9e-48  163.0   7.0     1   233    18   251    18   252 0.93 Enoyl-(Acyl carrier protein) reductase
+KR                   PF08659.13   180 USHLN213_contigs.fa_antismash_contig00003.region002_ORF7:gid::pid::loc:7601:8375:strand:+ -            257   1.7e-07   31.4   0.8   1   1   4.8e-11   2.4e-07   31.0   0.8     3   166    14   179    12   197 0.85 KR domain
+Epimerase            PF01370.24   241 USHLN213_contigs.fa_antismash_contig00003.region002_ORF7:gid::pid::loc:7601:8375:strand:+ -            257   7.5e-06   25.7   0.8   1   1   3.6e-08   0.00017   21.2   0.8     2   191    15   212    14   239 0.72 NAD dependent epimerase/dehydratase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/USHLN213_contigs.fa_antismash_contig00003.region002.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/USHLN213_contigs.fa_antismash_contig00003.region002.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/USHLN213_contigs.fa_antismash_contig00003.region002.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 19:42:13 2024
+# [ok]

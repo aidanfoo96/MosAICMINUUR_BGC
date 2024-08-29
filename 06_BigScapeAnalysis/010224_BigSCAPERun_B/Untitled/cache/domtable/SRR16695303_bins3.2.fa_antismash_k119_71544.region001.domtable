@@ -1,0 +1,22 @@
+#                                                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Ketoacyl-synt_C      PF02801.25   119 SRR16695303_bins3.2.fa_antismash_k119_71544.region001_ORF1:gid::pid::loc:1:871:strand:+ -            289     3e-27   95.1   0.2   1   1     9e-31   5.9e-27   94.2   0.2     5   112   135   236   133   242 0.93 Beta-ketoacyl synthase, C-terminal domain
+ketoacyl-synt        PF00109.29   253 SRR16695303_bins3.2.fa_antismash_k119_71544.region001_ORF1:gid::pid::loc:1:871:strand:+ -            289   1.2e-20   74.4   0.9   1   1   5.2e-24   3.4e-20   72.8   0.5   158   250    38   128     8   130 0.93 Beta-ketoacyl synthase, N-terminal domain
+Thiolase_N           PF00108.26   260 SRR16695303_bins3.2.fa_antismash_k119_71544.region001_ORF1:gid::pid::loc:1:871:strand:+ -            289   4.5e-09   36.2   0.1   1   1   5.6e-12   3.7e-08   33.2   0.0    64   121    36    91    28   105 0.86 Thiolase, N-terminal domain
+adh_short_C2         PF13561.9    234 SRR16695303_bins3.2.fa_antismash_k119_71544.region001_ORF3:gid::pid::loc:1336:2068:strand:+ -            243   3.2e-54  184.1   4.0   1   1   5.6e-58   3.6e-54  183.9   4.0     1   233     9   242     9   243 0.95 Enoyl-(Acyl carrier protein) reductase
+adh_short            PF00106.28   195 SRR16695303_bins3.2.fa_antismash_k119_71544.region001_ORF3:gid::pid::loc:1336:2068:strand:+ -            243   1.1e-50  172.0   0.6   1   1   2.1e-54   1.4e-50  171.6   0.6     2   188     4   192     3   197 0.98 short chain dehydrogenase
+KR                   PF08659.13   180 SRR16695303_bins3.2.fa_antismash_k119_71544.region001_ORF3:gid::pid::loc:1336:2068:strand:+ -            243   3.5e-20   72.8   0.6   1   1   7.8e-24   5.1e-20   72.2   0.6     3   154     5   158     4   187 0.90 KR domain
+ketoacyl-synt        PF00109.29   253 SRR16695303_bins3.2.fa_antismash_k119_71544.region001_ORF4:gid::pid::loc:2067:3300:strand:+ -            410   3.5e-38  131.7   1.6   1   1     5e-42   4.9e-38  131.3   0.6     2   253     2   246     1   246 0.87 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.25   119 SRR16695303_bins3.2.fa_antismash_k119_71544.region001_ORF4:gid::pid::loc:2067:3300:strand:+ -            410     7e-28   97.1   0.1   1   1   1.3e-31   1.3e-27   96.3   0.1     1   118   254   363   254   364 0.95 Beta-ketoacyl synthase, C-terminal domain
+Plug                 PF07715.18   108 SRR16695303_bins3.2.fa_antismash_k119_71544.region001_ORF5:gid::pid::loc:3469:5332:strand:+ -            621   2.9e-13   50.5   1.5   1   1   4.4e-17   8.6e-13   48.9   1.5     3   107    87   183    85   184 0.93 TonB-dependent Receptor Plug Domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/SRR16695303_bins3.2.fa_antismash_k119_71544.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/SRR16695303_bins3.2.fa_antismash_k119_71544.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/SRR16695303_bins3.2.fa_antismash_k119_71544.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Fri Feb  2 00:12:39 2024
+# [ok]

@@ -1,0 +1,16 @@
+#                                                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Condensation         PF00668.23   457 USHLN152_contigs.fa_antismash_contig00057.region001_ORF1:gid::pid::loc:0:2742:strand:- -            914  3.3e-113  378.9   1.0   1   1  6.9e-117  4.5e-113  378.5   1.0     4   457   111   556   108   556 0.97 Condensation domain
+AMP-binding          PF00501.31   424 USHLN152_contigs.fa_antismash_contig00057.region001_ORF1:gid::pid::loc:0:2742:strand:- -            914   9.9e-80  268.3   0.0   1   1   1.9e-83   1.3e-79  268.0   0.0     1   381   576   914   576   914 0.88 AMP-binding enzyme
+PP-binding           PF00550.28    67 USHLN152_contigs.fa_antismash_contig00057.region001_ORF1:gid::pid::loc:0:2742:strand:- -            914   7.4e-15   55.1   0.0   1   1   3.8e-18   2.5e-14   53.4   0.0     2    65    22    85    21    87 0.95 Phosphopantetheine attachment site
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/USHLN152_contigs.fa_antismash_contig00057.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/USHLN152_contigs.fa_antismash_contig00057.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/USHLN152_contigs.fa_antismash_contig00057.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 23:08:35 2024
+# [ok]

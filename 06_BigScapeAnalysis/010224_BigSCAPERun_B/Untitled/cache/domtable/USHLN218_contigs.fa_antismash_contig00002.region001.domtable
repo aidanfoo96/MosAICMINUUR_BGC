@@ -1,0 +1,22 @@
+#                                                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NTP_transferase      PF00483.26   247 USHLN218_contigs.fa_antismash_contig00002.region001_ORF1:gid::pid::loc:2423:3590:strand:- -            388   9.3e-48  163.1   0.0   1   1   1.2e-51   1.2e-47  162.7   0.0     2   245     8   257     7   259 0.91 Nucleotidyl transferase
+NTP_transf_3         PF12804.10   160 USHLN218_contigs.fa_antismash_contig00002.region001_ORF1:gid::pid::loc:2423:3590:strand:- -            388   1.8e-07   31.7   0.3   1   1   3.8e-11   3.7e-07   30.7   0.0     1   117     8   148     8   224 0.62 MobA-like NTP transferase domain
+LapA_dom             PF06305.14    64 USHLN218_contigs.fa_antismash_contig00002.region001_ORF3:gid::pid::loc:4126:4579:strand:- -            150   3.9e-09   36.3   0.1   1   1     2e-13   3.9e-09   36.3   0.1     1    55    44    98    44   102 0.88 Lipopolysaccharide assembly protein A domain
+IucA_IucC            PF04183.15   239 USHLN218_contigs.fa_antismash_contig00002.region001_ORF5:gid::pid::loc:5000:6875:strand:- -            624   7.5e-81  271.3   0.0   1   1   5.7e-84   5.6e-80  268.5   0.0     1   239   171   421   171   421 0.96 IucA / IucC family
+FhuF                 PF06276.15   163 USHLN218_contigs.fa_antismash_contig00002.region001_ORF5:gid::pid::loc:5000:6875:strand:- -            624   8.3e-40  137.0   0.8   1   1   1.6e-43   1.6e-39  136.1   0.8     2   162   443   600   442   601 0.97 Ferric iron reductase FhuF-like transporter
+Acetyltransf_8       PF13523.9    145 USHLN218_contigs.fa_antismash_contig00002.region001_ORF6:gid::pid::loc:6871:7477:strand:- -            201   1.5e-47  161.0   0.0   1   1   1.8e-51   1.8e-47  160.8   0.0     1   143    13   155    13   157 0.98 Acetyltransferase (GNAT) domain
+Acetyltransf_3       PF13302.10   138 USHLN218_contigs.fa_antismash_contig00002.region001_ORF6:gid::pid::loc:6871:7477:strand:- -            201   2.3e-06   28.5   0.0   1   1   5.7e-10   5.6e-06   27.2   0.0     5   138    10   150     7   150 0.73 Acetyltransferase (GNAT) domain
+Lys_Orn_oxgnase      PF13434.9    341 USHLN218_contigs.fa_antismash_contig00002.region001_ORF7:gid::pid::loc:7473:8817:strand:- -            447  2.2e-115  385.6   0.0   1   1  1.3e-119  2.5e-115  385.4   0.0     1   340     4   340     4   341 0.96 L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase
+Pyridoxal_deC        PF00282.22   375 USHLN218_contigs.fa_antismash_contig00002.region001_ORF8:gid::pid::loc:8813:10343:strand:- -            509   1.1e-60  205.5   0.0   1   1     7e-65   1.4e-60  205.2   0.0    37   375    99   436    72   436 0.95 Pyridoxal-dependent decarboxylase conserved domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/USHLN218_contigs.fa_antismash_contig00002.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/USHLN218_contigs.fa_antismash_contig00002.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/USHLN218_contigs.fa_antismash_contig00002.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 23:42:25 2024
+# [ok]

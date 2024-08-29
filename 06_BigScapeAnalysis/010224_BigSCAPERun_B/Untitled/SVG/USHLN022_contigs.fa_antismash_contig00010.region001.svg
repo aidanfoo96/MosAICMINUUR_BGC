@@ -1,0 +1,91 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="573.5333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="563.5333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg10_1)</title>
+			<polygon class=" (ctg10_1)" points="16,25 91,25 91,10 121,40 91,70 91,55 16,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lant_dehydr_N (PF04738)
+"Lantibiotic dehydratase, N terminus"</title>
+				<rect class="PF04738" x="22" y="28" stroke-linejoin="round" width="64" height="24" fill="rgb(219,60,229)" stroke="rgb(175,47,183)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Lant_dehydr_C (PF14028)
+"Lantibiotic biosynthesis dehydratase C-term"</title>
+				<polygon class="PF14028" points="94,28 105,28 117,40 105,52 94,52" stroke-linejoin="round" width="26" height="24" fill="rgb(107,223,113)" stroke="rgb(85,178,90)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10_2)</title>
+			<polygon class=" (ctg10_2)" points="123,25 154,25 154,10 184,40 154,70 154,55 123,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="161,28 168,28 176,36 176,44 168,52 161,52" stroke-linejoin="round" width="15" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10_3)</title>
+			<polygon class=" (ctg10_3)" points="186,25 199,25 199,10 229,40 199,70 199,55 186,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LANC_like (PF05147)
+"Lanthionine synthetase C-like protein"</title>
+				<polygon class="PF05147" points="190,28 213,28 225,40 213,52 190,52" stroke-linejoin="round" width="39" height="24" fill="rgb(129,182,79)" stroke="rgb(103,145,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10_4)</title>
+			<polygon class=" (ctg10_4)" points="231,25 249,25 249,10 279,40 249,70 249,55 231,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_S8 (PF00082)
+"Subtilase family"</title>
+				<polygon class="PF00082" points="247,28 262,28 274,40 262,52 247,52" stroke-linejoin="round" width="30" height="24" fill="rgb(193,159,94)" stroke="rgb(154,127,75)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10_5)</title>
+			<polygon class=" (ctg10_5)" points="291,10 320,40 291,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TetR_N (PF00440)
+"Bacterial regulatory proteins, tetR family"</title>
+				<rect class="PF00440" x="291" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(73,212,190)" stroke="rgb(58,169,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10_6)</title>
+			<polygon class=" (ctg10_6)" points="322,10 342,40 322,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg10_7)</title>
+			<polygon class=" (ctg10_7)" points="367,10 384,40 367,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M23 (PF01551)
+"Peptidase family M23"</title>
+				<polygon class="PF01551" points="371,28 374,28 381,40 381,40 374,52 371,52" stroke-linejoin="round" width="10" height="24" fill="rgb(65,169,193)" stroke="rgb(51,135,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10_8)</title>
+			<polygon class=" (ctg10_8)" points="400,25 431,25 431,10 461,40 431,70 431,55 400,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HisKA_3 (PF07730)
+"Histidine kinase"</title>
+				<polygon class="PF07730" points="440,28 444,28 446,30 446,50 444,52 440,52" stroke-linejoin="round" width="6" height="24" fill="rgb(190,53,146)" stroke="rgb(152,42,116)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10_9)</title>
+			<polygon class=" (ctg10_9)" points="461,10 482,40 461,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="461,28 470,28 472,31 472,49 470,52 461,52" stroke-linejoin="round" width="11" height="24" fill="rgb(100,107,203)" stroke="rgb(80,85,162)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GerE (PF00196)
+"Bacterial regulatory proteins, luxR family"</title>
+				<polygon class="PF00196" points="475,35 478,40 475,45" stroke-linejoin="round" width="5" height="24" fill="rgb(219,94,82)" stroke="rgb(175,75,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

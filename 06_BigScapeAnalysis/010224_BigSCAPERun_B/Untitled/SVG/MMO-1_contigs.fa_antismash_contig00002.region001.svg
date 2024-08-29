@@ -1,0 +1,86 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="380.23333333333335" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="370.23333333333335" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg2_107)</title>
+			<polygon class=" (ctg2_107)" points="106,40 125,10 125,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RNase_T (PF00929)
+"Exonuclease"</title>
+				<polygon class="PF00929" points="110,40 118,28 124,28 124,52 118,52" stroke-linejoin="round" width="17" height="24" fill="rgb(201,87,120)" stroke="rgb(160,69,96)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_108)</title>
+			<polygon class=" (ctg2_108)" points="133,40 150,10 150,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DoxX (PF07681)
+"DoxX"</title>
+				<polygon class="PF07681" points="139,35 143,28 147,28 147,52 143,52 139,45" stroke-linejoin="round" width="8" height="24" fill="rgb(93,188,216)" stroke="rgb(74,150,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_109)</title>
+			<polygon class=" (ctg2_109)" points="151,40 176,10 176,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2063 (PF09836)
+"Putative DNA-binding domain"</title>
+				<rect class="PF09836" x="166" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(88,194,190)" stroke="rgb(70,155,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_110)</title>
+			<polygon class=" (ctg2_110)" points="176,40 202,10 202,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF692 (PF05114)
+"Protein of unknown function (DUF692)"</title>
+				<polygon class="PF05114" points="180,40 191,28 201,28 201,52 191,52" stroke-linejoin="round" width="25" height="24" fill="rgb(63,196,127)" stroke="rgb(50,156,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_111)</title>
+			<polygon class=" (ctg2_111)" points="205,40 216,10 216,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2_112)</title>
+			<polygon class=" (ctg2_112)" points="225,40 248,10 248,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PhoU (PF01895)
+"PhoU domain"</title>
+				<polygon class="PF01895" points="229,40 235,32 235,48" stroke-linejoin="round" width="8" height="24" fill="rgb(88,153,182)" stroke="rgb(70,122,145)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PhoU (PF01895)
+"PhoU domain"</title>
+				<polygon class="PF01895" points="237,30 238,28 245,28 245,52 238,52 237,50" stroke-linejoin="round" width="8" height="24" fill="rgb(88,153,182)" stroke="rgb(70,122,145)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_113)</title>
+			<polygon class=" (ctg2_113)" points="251,40 279,10 279,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="258,37 266,28 273,28 273,52 266,52 258,43" stroke-linejoin="round" width="15" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_114)</title>
+			<polygon class=" (ctg2_114)" points="280,40 308,10 308,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BPD_transp_1 (PF00528)
+"Binding-protein-dependent transport system inner membrane component"</title>
+				<polygon class="PF00528" points="284,40 296,28 299,28 299,52 296,52" stroke-linejoin="round" width="19" height="24" fill="rgb(77,208,225)" stroke="rgb(61,166,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_115)</title>
+			<polygon class=" (ctg2_115)" points="340,25 338,25 338,10 308,40 338,70 338,55 340,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BPD_transp_1 (PF00528)
+"Binding-protein-dependent transport system inner membrane component"</title>
+				<polygon class="PF00528" points="312,40 324,28 330,28 330,52 324,52" stroke-linejoin="round" width="22" height="24" fill="rgb(77,208,225)" stroke="rgb(61,166,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

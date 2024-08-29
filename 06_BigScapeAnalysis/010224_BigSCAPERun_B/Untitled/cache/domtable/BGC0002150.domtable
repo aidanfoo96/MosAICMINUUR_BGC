@@ -1,0 +1,16 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Asn_synthase         PF00733.24   355 BGC0002150_ORF2:gid::pid:MBO0654593.1:loc:321:1452:strand:+ -            376   1.9e-15   57.5   0.0   1   1   1.3e-19   2.6e-15   57.1   0.0     2   260     4   283     3   320 0.75 Asparagine synthase
+ABC_membrane         PF00664.26   274 BGC0002150_ORF3:gid::pid:MBO0654594.1:loc:1468:3220:strand:+ -            583   2.6e-39  135.7   2.0   1   1   5.1e-43   3.4e-39  135.3   2.0     1   273    26   293    26   294 0.98 ABC transporter transmembrane region
+ABC_tran             PF00005.30   137 BGC0002150_ORF3:gid::pid:MBO0654594.1:loc:1468:3220:strand:+ -            583     9e-32  110.6   0.0   1   1   2.2e-35   1.5e-31  109.9   0.0     1   137   366   516   366   516 0.89 ABC transporter
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/BGC0002150.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/BGC0002150.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/BGC0002150.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 19:38:58 2024
+# [ok]

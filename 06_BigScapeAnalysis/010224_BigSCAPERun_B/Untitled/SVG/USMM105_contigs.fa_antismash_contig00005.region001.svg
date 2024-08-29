@@ -1,0 +1,161 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="381.6333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="371.6333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg5_72)</title>
+			<polygon class=" (ctg5_72)" points="64,25 47,25 47,10 17,40 47,70 47,55 64,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HATPase_c (PF02518)
+"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"</title>
+				<polygon class="PF02518" points="21,40 29,32 29,48" stroke-linejoin="round" width="10" height="24" fill="rgb(80,94,225)" stroke="rgb(64,75,180)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HisKA (PF00512)
+"His Kinase A (phospho-acceptor) domain"</title>
+				<rect class="PF00512" x="34" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(193,125,62)" stroke="rgb(154,100,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_73)</title>
+			<polygon class=" (ctg5_73)" points="65,40 89,10 89,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trans_reg_C (PF00486)
+"Transcriptional regulatory protein, C terminal"</title>
+				<polygon class="PF00486" points="69,40 72,36 72,44" stroke-linejoin="round" width="7" height="24" fill="rgb(204,153,57)" stroke="rgb(163,122,45)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="76,31 79,28 87,28 87,52 79,52 76,49" stroke-linejoin="round" width="11" height="24" fill="rgb(100,107,203)" stroke="rgb(80,85,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_74)</title>
+			<polygon class=" (ctg5_74)" points="93,10 122,40 93,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_4 (PF01063)
+"Amino-transferase class IV"</title>
+				<polygon class="PF01063" points="96,28 106,28 118,40 118,40 106,52 96,52" stroke-linejoin="round" width="22" height="24" fill="rgb(52,144,188)" stroke="rgb(41,115,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_75)</title>
+			<polygon class=" (ctg5_75)" points="122,40 143,10 143,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NrsF (PF06532)
+"Negative regulator of sigma F"</title>
+				<polygon class="PF06532" points="126,40 134,28 142,28 142,52 134,52" stroke-linejoin="round" width="20" height="24" fill="rgb(100,222,119)" stroke="rgb(80,177,95)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_76)</title>
+			<polygon class=" (ctg5_76)" points="143,40 161,10 161,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sigma70_r4_2 (PF08281)
+"Sigma-70, region 4"</title>
+				<polygon class="PF08281" points="147,40 149,37 149,43" stroke-linejoin="round" width="5" height="24" fill="rgb(222,103,144)" stroke="rgb(177,82,115)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sigma70_r2 (PF04542)
+"Sigma-70 region 2"</title>
+				<polygon class="PF04542" points="151,34 154,28 156,28 156,52 154,52 151,46" stroke-linejoin="round" width="5" height="24" fill="rgb(184,59,197)" stroke="rgb(147,47,157)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_77)</title>
+			<polygon class=" (ctg5_77)" points="166,10 175,40 166,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2282 (PF10048)
+"Predicted integral membrane protein (DUF2282)"</title>
+				<polygon class="PF10048" points="169,29 172,40 169,51" stroke-linejoin="round" width="5" height="24" fill="rgb(58,205,168)" stroke="rgb(46,164,134)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_78)</title>
+			<polygon class=" (ctg5_78)" points="176,10 204,40 176,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF692 (PF05114)
+"Protein of unknown function (DUF692)"</title>
+				<polygon class="PF05114" points="176,28 188,28 200,40 188,52 176,52" stroke-linejoin="round" width="27" height="24" fill="rgb(63,196,127)" stroke="rgb(50,156,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_79)</title>
+			<polygon class=" (ctg5_79)" points="204,10 229,40 204,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2063 (PF09836)
+"Putative DNA-binding domain"</title>
+				<rect class="PF09836" x="204" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(88,194,190)" stroke="rgb(70,155,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_80)</title>
+			<polygon class=" (ctg5_80)" points="230,10 244,40 230,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DoxX (PF07681)
+"DoxX"</title>
+				<polygon class="PF07681" points="232,28 235,28 240,38 240,42 235,52 232,52" stroke-linejoin="round" width="8" height="24" fill="rgb(93,188,216)" stroke="rgb(74,150,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_81)</title>
+			<polygon class=" (ctg5_81)" points="247,25 259,25 259,10 289,40 259,70 259,55 247,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Nucleos_tra2_N (PF01773)
+"Na+ dependent nucleoside transporter N-terminus"</title>
+				<rect class="PF01773" x="248" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(127,66,183)" stroke="rgb(101,52,146)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Gate (PF07670)
+"Nucleoside recognition"</title>
+				<rect class="PF07670" x="257" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(124,94,191)" stroke="rgb(99,75,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Nucleos_tra2_C (PF07662)
+"Na+ dependent nucleoside transporter C-terminus"</title>
+				<polygon class="PF07662" points="268,28 273,28 285,40 273,52 268,52" stroke-linejoin="round" width="20" height="24" fill="rgb(169,225,108)" stroke="rgb(135,180,86)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_82)</title>
+			<polygon class=" (ctg5_82)" points="290,10 310,40 290,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GST_N_3 (PF13417)
+"Glutathione S-transferase, N-terminal domain"</title>
+				<rect class="PF13417" x="290" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(220,154,91)" stroke="rgb(176,123,72)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GST_C (PF00043)
+"Glutathione S-transferase, C-terminal domain"</title>
+				<polygon class="PF00043" points="300,30 307,40 300,50" stroke-linejoin="round" width="9" height="24" fill="rgb(102,108,211)" stroke="rgb(81,86,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_83)</title>
+			<polygon class=" (ctg5_83)" points="311,10 332,40 311,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1275 (PF06912)
+"Protein of unknown function (DUF1275)"</title>
+				<polygon class="PF06912" points="312,28 320,28 328,40 320,52 312,52" stroke-linejoin="round" width="19" height="24" fill="rgb(87,188,62)" stroke="rgb(69,150,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_84)</title>
+			<polygon class=" (ctg5_84)" points="332,40 346,10 346,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>4HBT (PF03061)
+"Thioesterase superfamily"</title>
+				<polygon class="PF03061" points="335,40 340,30 340,50" stroke-linejoin="round" width="7" height="24" fill="rgb(143,103,215)" stroke="rgb(114,82,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_85)</title>
+			<polygon class=" (ctg5_85)" points="348,10 358,40 348,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF3253 (PF11625)
+"Protein of unknown function (DUF3253)"</title>
+				<polygon class="PF11625" points="348,28 350,28 355,40 355,40 350,52 348,52" stroke-linejoin="round" width="7" height="24" fill="rgb(96,224,67)" stroke="rgb(76,179,53)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

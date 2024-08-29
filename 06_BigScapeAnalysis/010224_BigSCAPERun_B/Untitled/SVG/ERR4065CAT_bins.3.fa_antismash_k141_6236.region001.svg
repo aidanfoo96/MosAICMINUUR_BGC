@@ -1,0 +1,154 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="516.8333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="506.8333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg38_38)</title>
+			<polygon class=" (ctg38_38)" points="14,25 85,25 85,10 115,40 85,70 85,55 14,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SBP_bac_3 (PF00497)
+"Bacterial extracellular solute-binding proteins, family 3"</title>
+				<rect class="PF00497" x="14" y="28" stroke-linejoin="round" width="21" height="24" fill="rgb(186,76,141)" stroke="rgb(148,60,112)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SBP_bac_3 (PF00497)
+"Bacterial extracellular solute-binding proteins, family 3"</title>
+				<rect class="PF00497" x="38" y="28" stroke-linejoin="round" width="21" height="24" fill="rgb(186,76,141)" stroke="rgb(148,60,112)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HisKA (PF00512)
+"His Kinase A (phospho-acceptor) domain"</title>
+				<rect class="PF00512" x="66" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(193,125,62)" stroke="rgb(154,100,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HATPase_c (PF02518)
+"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"</title>
+				<rect class="PF02518" x="77" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(80,94,225)" stroke="rgb(64,75,180)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="91,28 99,28 102,31 102,49 99,52 91,52" stroke-linejoin="round" width="11" height="24" fill="rgb(100,107,203)" stroke="rgb(80,85,162)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Hpt (PF01627)
+"Hpt domain"</title>
+				<polygon class="PF01627" points="105,34 111,40 105,46" stroke-linejoin="round" width="9" height="24" fill="rgb(164,204,94)" stroke="rgb(131,163,75)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg38_39)</title>
+			<polygon class=" (ctg38_39)" points="116,40 121,10 121,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF3309 (PF11752)
+"Protein of unknown function (DUF3309)"</title>
+				<polygon class="PF11752" points="119,40 120,34 120,46" stroke-linejoin="round" width="4" height="24" fill="rgb(60,194,161)" stroke="rgb(48,155,128)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg38_40)</title>
+			<polygon class=" (ctg38_40)" points="128,10 155,40 128,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short (PF00106)
+"short chain dehydrogenase"</title>
+				<polygon class="PF00106" points="128,28 139,28 147,36 147,44 139,52 128,52" stroke-linejoin="round" width="19" height="24" fill="rgb(182,219,73)" stroke="rgb(145,175,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg38_41)</title>
+			<polygon class=" (ctg38_41)" points="160,10 166,40 160,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CsrA (PF02599)
+"Global regulator protein family"</title>
+				<polygon class="PF02599" points="160,28 160,28 163,40 160,52 160,52" stroke-linejoin="round" width="5" height="24" fill="rgb(211,58,142)" stroke="rgb(168,46,113)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg38_42)</title>
+			<polygon class=" (ctg38_42)" points="166,40 173,10 173,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UPF0270 (PF06794)
+"Uncharacterised protein family (UPF0270)"</title>
+				<polygon class="PF06794" points="169,40 172,28 172,28 172,52 172,52" stroke-linejoin="round" width="6" height="24" fill="rgb(133,181,90)" stroke="rgb(106,144,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg38_43)</title>
+			<polygon class=" (ctg38_43)" points="215,25 206,25 206,10 176,40 206,70 206,55 215,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M42 (PF05343)
+"M42 glutamyl aminopeptidase"</title>
+				<polygon class="PF05343" points="181,39 192,28 209,28 209,52 192,52 181,41" stroke-linejoin="round" width="28" height="24" fill="rgb(201,153,60)" stroke="rgb(160,122,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg38_44)</title>
+			<polygon class=" (ctg38_44)" points="280,25 252,25 252,10 222,40 252,70 252,55 280,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RimK (PF08443)
+"RimK-like ATP-grasp domain"</title>
+				<polygon class="PF08443" points="235,31 238,28 246,28 246,52 238,52 235,49" stroke-linejoin="round" width="11" height="24" fill="rgb(192,59,192)" stroke="rgb(153,47,153)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acetyltransf_1 (PF00583)
+"Acetyltransferase (GNAT) family"</title>
+				<rect class="PF00583" x="255" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(121,183,50)" stroke="rgb(96,146,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg38_45)</title>
+			<polygon class=" (ctg38_45)" points="339,25 310,25 310,10 280,40 310,70 310,55 339,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Asn_synthase (PF00733)
+"Asparagine synthase"</title>
+				<polygon class="PF00733" points="284,40 296,28 314,28 314,52 296,52" stroke-linejoin="round" width="34" height="24" fill="rgb(97,201,176)" stroke="rgb(77,160,140)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GATase_7 (PF13537)
+"Glutamine amidotransferase domain"</title>
+				<rect class="PF13537" x="322" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(200,63,57)" stroke="rgb(160,50,45)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg38_46)</title>
+			<polygon class=" (ctg38_46)" points="410,25 375,25 375,10 345,40 375,70 375,55 410,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DAO (PF01266)
+"FAD dependent oxidoreductase"</title>
+				<polygon class="PF01266" points="349,40 361,28 384,28 384,52 361,52" stroke-linejoin="round" width="36" height="24" fill="rgb(123,179,59)" stroke="rgb(98,143,47)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Methyltransf_30 (PF05430)
+"S-adenosyl-L-methionine-dependent methyltransferase"</title>
+				<rect class="PF05430" x="386" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(70,106,183)" stroke="rgb(55,84,146)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg38_47)</title>
+			<polygon class=" (ctg38_47)" points="415,25 434,25 434,10 464,40 434,70 434,55 415,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PPK2 (PF03976)
+"Polyphosphate kinase 2 (PPK2)"</title>
+				<rect class="PF03976" x="416" y="28" stroke-linejoin="round" width="22" height="24" fill="rgb(57,123,215)" stroke="rgb(45,98,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PPK2 (PF03976)
+"Polyphosphate kinase 2 (PPK2)"</title>
+				<polygon class="PF03976" points="441,28 448,28 460,40 448,52 441,52" stroke-linejoin="round" width="22" height="24" fill="rgb(57,123,215)" stroke="rgb(45,98,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg38_48)</title>
+			<polygon class=" (ctg38_48)" points="470,25 471,25 471,10 501,40 471,70 471,55 470,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>EamA (PF00892)
+"EamA-like transporter family"</title>
+				<rect class="PF00892" x="470" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(105,217,77)" stroke="rgb(84,173,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>EamA (PF00892)
+"EamA-like transporter family"</title>
+				<polygon class="PF00892" points="486,29 497,40 486,51" stroke-linejoin="round" width="14" height="24" fill="rgb(105,217,77)" stroke="rgb(84,173,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

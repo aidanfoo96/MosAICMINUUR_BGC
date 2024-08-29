@@ -1,0 +1,98 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="360.73333333333335" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="350.73333333333335" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg36_7)</title>
+			<polygon class=" (ctg36_7)" points="34,10 57,40 34,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Resolvase (PF00239)
+"Resolvase, N terminal domain"</title>
+				<polygon class="PF00239" points="36,28 44,28 50,35 50,45 44,52 36,52" stroke-linejoin="round" width="14" height="24" fill="rgb(99,177,201)" stroke="rgb(79,141,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg36_8)</title>
+			<polygon class=" (ctg36_8)" points="67,40 76,10 76,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg36_9)</title>
+			<polygon class=" (ctg36_9)" points="77,40 98,10 98,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="82,39 90,28 96,28 96,52 90,52 82,41" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg36_10)</title>
+			<polygon class=" (ctg36_10)" points="99,40 116,10 116,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SpoIIM (PF01944)
+"Stage II sporulation protein M"</title>
+				<polygon class="PF01944" points="102,40 109,28 114,28 114,52 109,52" stroke-linejoin="round" width="15" height="24" fill="rgb(96,132,207)" stroke="rgb(76,105,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg36_11)</title>
+			<polygon class=" (ctg36_11)" points="173,25 148,25 148,10 118,40 148,70 148,55 173,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg36_12)</title>
+			<polygon class=" (ctg36_12)" points="176,40 183,10 183,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Bacteriocin_IId (PF09221)
+"Bacteriocin class IId cyclical uberolysin-like"</title>
+				<polygon class="PF09221" points="179,40 182,28 182,28 182,52 182,52" stroke-linejoin="round" width="6" height="24" fill="rgb(200,220,70)" stroke="rgb(160,176,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg36_13)</title>
+			<polygon class=" (ctg36_13)" points="185,10 190,40 185,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg36_14)</title>
+			<polygon class=" (ctg36_14)" points="197,25 206,25 206,10 236,40 206,70 206,55 197,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HlyD_D23 (PF16576)
+"Barrel-sandwich domain of CusB or HlyD membrane-fusion"</title>
+				<polygon class="PF16576" points="203,28 220,28 224,32 224,48 220,52 203,52" stroke-linejoin="round" width="21" height="24" fill="rgb(70,190,92)" stroke="rgb(56,152,73)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg36_15)</title>
+			<polygon class=" (ctg36_15)" points="237,10 259,40 237,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="239,28 247,28 253,37 253,43 247,52 239,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg36_16)</title>
+			<polygon class=" (ctg36_16)" points="260,25 270,25 270,10 300,40 270,70 270,55 260,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MacB_PCD (PF12704)
+"MacB-like periplasmic core domain"</title>
+				<polygon class="PF12704" points="262,28 283,28 284,29 284,51 283,52 262,52" stroke-linejoin="round" width="22" height="24" fill="rgb(79,76,190)" stroke="rgb(63,60,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FtsX (PF02687)
+"FtsX-like permease family"</title>
+				<polygon class="PF02687" points="287,32 295,40 287,48" stroke-linejoin="round" width="11" height="24" fill="rgb(126,55,214)" stroke="rgb(100,44,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg36_17)</title>
+			<polygon class=" (ctg36_17)" points="303,10 326,40 303,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Yip1 (PF04893)
+"Yip1 domain"</title>
+				<polygon class="PF04893" points="304,28 313,28 322,40 313,52 304,52" stroke-linejoin="round" width="21" height="24" fill="rgb(122,88,178)" stroke="rgb(97,70,142)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg36_18)</title>
+			<polygon class=" (ctg36_18)" points="336,40 345,10 345,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

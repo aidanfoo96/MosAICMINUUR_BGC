@@ -1,0 +1,293 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1290.7" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1280.7" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg3_616)</title>
+			<polygon class=" (ctg3_616)" points="17,10 44,40 17,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>F420_oxidored (PF03807)
+"NADP oxidoreductase coenzyme F420-dependent"</title>
+				<rect class="PF03807" x="17" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(194,51,111)" stroke="rgb(155,40,88)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>P5CR_dimer (PF14748)
+"Pyrroline-5-carboxylate reductase dimerisation"</title>
+				<polygon class="PF14748" points="32,32 40,40 32,48" stroke-linejoin="round" width="10" height="24" fill="rgb(212,112,96)" stroke="rgb(169,89,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_617)</title>
+			<polygon class=" (ctg3_617)" points="44,25 51,25 51,10 81,40 51,70 51,55 44,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AA_kinase (PF00696)
+"Amino acid kinase family"</title>
+				<polygon class="PF00696" points="44,28 64,28 66,30 66,50 64,52 44,52" stroke-linejoin="round" width="22" height="24" fill="rgb(148,78,224)" stroke="rgb(118,62,179)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PUA (PF01472)
+"PUA domain"</title>
+				<polygon class="PF01472" points="72,36 76,40 72,44" stroke-linejoin="round" width="7" height="24" fill="rgb(203,171,67)" stroke="rgb(162,136,53)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_618)</title>
+			<polygon class=" (ctg3_618)" points="113,25 113,25 113,10 83,40 113,70 113,55 113,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LysR_substrate (PF03466)
+"LysR substrate binding domain"</title>
+				<polygon class="PF03466" points="87,40 99,28 103,28 103,52 99,52" stroke-linejoin="round" width="20" height="24" fill="rgb(55,136,195)" stroke="rgb(44,108,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_1 (PF00126)
+"Bacterial regulatory helix-turn-helix protein, lysR family"</title>
+				<rect class="PF00126" x="106" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(125,227,79)" stroke="rgb(99,181,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_619)</title>
+			<polygon class=" (ctg3_619)" points="118,25 240,25 240,10 270,40 240,70 240,55 118,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GATase_2 (PF00310)
+"Glutamine amidotransferases class-II"</title>
+				<rect class="PF00310" x="120" y="28" stroke-linejoin="round" width="41" height="24" fill="rgb(195,63,68)" stroke="rgb(156,50,54)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glu_syn_central (PF04898)
+"Glutamate synthase central domain"</title>
+				<rect class="PF04898" x="164" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(119,210,66)" stroke="rgb(95,168,52)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glu_synthase (PF01645)
+"Conserved region in glutamate synthase"</title>
+				<rect class="PF01645" x="197" y="28" stroke-linejoin="round" width="36" height="24" fill="rgb(97,123,226)" stroke="rgb(77,98,180)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GXGXG (PF01493)
+"GXGXG motif"</title>
+				<polygon class="PF01493" points="242,28 253,28 261,36 261,44 253,52 242,52" stroke-linejoin="round" width="19" height="24" fill="rgb(197,218,88)" stroke="rgb(157,174,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_620)</title>
+			<polygon class=" (ctg3_620)" points="271,25 290,25 290,10 320,40 290,70 290,55 271,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Fer4_20 (PF14691)
+"Dihydroprymidine dehydrogenase domain II, 4Fe-4S cluster"</title>
+				<rect class="PF14691" x="273" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(180,85,207)" stroke="rgb(144,67,165)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Pyr_redox_2 (PF07992)
+"Pyridine nucleotide-disulphide oxidoreductase"</title>
+				<polygon class="PF07992" points="286,28 304,28 316,40 304,52 286,52" stroke-linejoin="round" width="32" height="24" fill="rgb(83,223,167)" stroke="rgb(66,178,133)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_621)</title>
+			<polygon class=" (ctg3_621)" points="355,25 352,25 352,10 322,40 352,70 352,55 355,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADH_zinc_N (PF00107)
+"Zinc-binding dehydrogenase"</title>
+				<polygon class="PF00107" points="326,40 337,29 337,51" stroke-linejoin="round" width="12" height="24" fill="rgb(81,108,215)" stroke="rgb(64,86,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ADH_N (PF08240)
+"Alcohol dehydrogenase GroES-like domain"</title>
+				<rect class="PF08240" x="342" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(211,65,138)" stroke="rgb(168,51,110)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_622)</title>
+			<polygon class=" (ctg3_622)" points="359,10 387,40 359,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_1 (PF00126)
+"Bacterial regulatory helix-turn-helix protein, lysR family"</title>
+				<rect class="PF00126" x="359" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(125,227,79)" stroke="rgb(99,181,63)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LysR_substrate (PF03466)
+"LysR substrate binding domain"</title>
+				<polygon class="PF03466" points="367,28 371,28 383,40 371,52 367,52" stroke-linejoin="round" width="20" height="24" fill="rgb(55,136,195)" stroke="rgb(44,108,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_623)</title>
+			<polygon class=" (ctg3_623)" points="451,25 423,25 423,10 393,40 423,70 423,55 451,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>G_glu_transpept (PF01019)
+"Gamma-glutamyltranspeptidase"</title>
+				<polygon class="PF01019" points="397,40 409,28 445,28 445,52 409,52" stroke-linejoin="round" width="51" height="24" fill="rgb(117,205,100)" stroke="rgb(93,164,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_624)</title>
+			<polygon class=" (ctg3_624)" points="458,10 465,40 458,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_17 (PF12728)
+"Helix-turn-helix domain"</title>
+				<polygon class="PF12728" points="458,28 459,28 462,38 462,42 459,52 458,52" stroke-linejoin="round" width="4" height="24" fill="rgb(179,100,76)" stroke="rgb(143,80,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_625)</title>
+			<polygon class=" (ctg3_625)" points="477,10 495,40 477,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Phage_integrase (PF00589)
+"Phage integrase family"</title>
+				<polygon class="PF00589" points="477,28 484,28 491,40 484,52 477,52" stroke-linejoin="round" width="15" height="24" fill="rgb(91,96,195)" stroke="rgb(72,76,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_626)</title>
+			<polygon class=" (ctg3_626)" points="502,40 520,10 520,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Endopep_inhib (PF16800)
+"IseA DL-endopeptidase inhibitor"</title>
+				<polygon class="PF16800" points="506,40 513,28 517,28 517,52 513,52" stroke-linejoin="round" width="15" height="24" fill="rgb(200,207,53)" stroke="rgb(160,165,42)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_627)</title>
+			<polygon class=" (ctg3_627)" points="530,25 546,25 546,10 576,40 546,70 546,55 530,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MatE (PF01554)
+"MatE"</title>
+				<rect class="PF01554" x="532" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(187,69,173)" stroke="rgb(149,55,138)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MatE (PF01554)
+"MatE"</title>
+				<polygon class="PF01554" points="555,28 560,28 571,39 571,41 560,52 555,52" stroke-linejoin="round" width="16" height="24" fill="rgb(187,69,173)" stroke="rgb(149,55,138)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_628)</title>
+			<polygon class=" (ctg3_628)" points="581,25 583,25 583,10 613,40 583,70 583,55 581,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aldose_epim (PF01263)
+"Aldose 1-epimerase"</title>
+				<polygon class="PF01263" points="582,28 597,28 609,40 597,52 582,52" stroke-linejoin="round" width="30" height="24" fill="rgb(76,203,227)" stroke="rgb(60,162,181)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_629)</title>
+			<polygon class=" (ctg3_629)" points="614,25 633,25 633,10 663,40 633,70 633,55 614,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_S13 (PF02113)
+"D-Ala-D-Ala carboxypeptidase 3 (S13) family"</title>
+				<polygon class="PF02113" points="617,28 646,28 658,40 646,52 617,52" stroke-linejoin="round" width="45" height="24" fill="rgb(222,106,76)" stroke="rgb(177,84,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_630)</title>
+			<polygon class=" (ctg3_630)" points="676,25 902,25 902,10 932,40 902,70 902,55 676,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="676" y="28" stroke-linejoin="round" width="44" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="722" y="28" stroke-linejoin="round" width="40" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<rect class="PF13193" x="763" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="772" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="780" y="28" stroke-linejoin="round" width="43" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="826" y="28" stroke-linejoin="round" width="40" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<rect class="PF13193" x="867" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="877" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<polygon class="PF00668" points="884,28 915,28 927,40 915,52 884,52" stroke-linejoin="round" width="45" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_631)</title>
+			<polygon class=" (ctg3_631)" points="933,25 1159,25 1159,10 1189,40 1159,70 1159,55 933,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="933" y="28" stroke-linejoin="round" width="45" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="980" y="28" stroke-linejoin="round" width="39" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<rect class="PF13193" x="1020" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="1030" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="1038" y="28" stroke-linejoin="round" width="43" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="1083" y="28" stroke-linejoin="round" width="39" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<rect class="PF13193" x="1124" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="1134" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<polygon class="PF00668" points="1141,28 1172,28 1184,40 1172,52 1141,52" stroke-linejoin="round" width="45" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_632)</title>
+			<polygon class=" (ctg3_632)" points="1190,25 1250,25 1250,10 1280,40 1250,70 1250,55 1190,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="1190" y="28" stroke-linejoin="round" width="44" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="1237,28 1264,28 1276,40 1264,52 1237,52" stroke-linejoin="round" width="40" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,78 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="379.73333333333335" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="369.73333333333335" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg3_24)</title>
+			<polygon class=" (ctg3_24)" points="46,25 69,25 69,10 99,40 69,70 69,55 46,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PorA (PF11271)
+"Porin PorA"</title>
+				<rect class="PF11271" x="46" y="28" stroke-linejoin="round" width="36" height="24" fill="rgb(86,204,101)" stroke="rgb(68,163,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_25)</title>
+			<polygon class=" (ctg3_25)" points="106,25 108,25 108,10 138,40 108,70 108,55 106,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Esterase (PF00756)
+"Putative esterase"</title>
+				<polygon class="PF00756" points="110,28 121,28 133,40 121,52 110,52" stroke-linejoin="round" width="27" height="24" fill="rgb(217,132,77)" stroke="rgb(173,105,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_26)</title>
+			<polygon class=" (ctg3_26)" points="141,25 144,25 144,10 174,40 144,70 144,55 141,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Dyp_perox (PF04261)
+"Dyp-type peroxidase family"</title>
+				<polygon class="PF04261" points="141,28 158,28 170,40 158,52 141,52" stroke-linejoin="round" width="30" height="24" fill="rgb(189,65,79)" stroke="rgb(151,51,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_27)</title>
+			<polygon class=" (ctg3_27)" points="176,10 202,40 176,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Linocin_M18 (PF04454)
+"Encapsulating protein for peroxidase"</title>
+				<polygon class="PF04454" points="176,28 188,28 198,40 188,52 176,52" stroke-linejoin="round" width="24" height="24" fill="rgb(89,100,181)" stroke="rgb(71,80,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_28)</title>
+			<polygon class=" (ctg3_28)" points="205,25 232,25 232,10 262,40 232,70 232,55 205,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="206" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="239,28 245,28 253,36 253,44 245,52 239,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_29)</title>
+			<polygon class=" (ctg3_29)" points="262,25 296,25 296,10 326,40 296,70 296,55 262,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="266" y="28" stroke-linejoin="round" width="31" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="303,28 309,28 317,36 317,44 309,52 303,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_30)</title>
+			<polygon class=" (ctg3_30)" points="366,25 363,25 363,10 333,40 363,70 363,55 366,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>EamA (PF00892)
+"EamA-like transporter family"</title>
+				<polygon class="PF00892" points="338,39 349,28 351,28 351,52 349,52 338,41" stroke-linejoin="round" width="13" height="24" fill="rgb(105,217,77)" stroke="rgb(84,173,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

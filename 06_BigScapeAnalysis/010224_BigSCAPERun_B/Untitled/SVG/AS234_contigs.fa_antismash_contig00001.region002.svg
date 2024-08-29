@@ -1,0 +1,76 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="416.1333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="406.1333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg1_466)</title>
+			<polygon class=" (ctg1_466)" points="90,40 116,10 116,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TauE (PF01925)
+"Sulfite exporter TauE/SafE"</title>
+				<polygon class="PF01925" points="94,40 105,28 116,28 116,52 105,52" stroke-linejoin="round" width="26" height="24" fill="rgb(105,203,95)" stroke="rgb(84,162,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_467)</title>
+			<polygon class=" (ctg1_467)" points="121,10 146,40 121,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_18 (PF12833)
+"Helix-turn-helix domain"</title>
+				<polygon class="PF12833" points="138,35 142,40 138,45" stroke-linejoin="round" width="7" height="24" fill="rgb(216,58,224)" stroke="rgb(172,46,179)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_468)</title>
+			<polygon class=" (ctg1_468)" points="176,25 208,25 208,10 238,40 208,70 208,55 176,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cloacin (PF03515)
+"Colicin-like bacteriocin tRNase domain"</title>
+				<rect class="PF03515" x="176" y="28" stroke-linejoin="round" width="31" height="24" fill="rgb(192,126,69)" stroke="rgb(153,100,55)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_469)</title>
+			<polygon class=" (ctg1_469)" points="239,10 247,40 239,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_470)</title>
+			<polygon class=" (ctg1_470)" points="250,40 253,10 253,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DNA_pol3_theta (PF06440)
+"DNA polymerase III, theta subunit"</title>
+				<polygon class="PF06440" points="253,40 253,40 253,40" stroke-linejoin="round" width="3" height="24" fill="rgb(146,180,63)" stroke="rgb(116,144,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_471)</title>
+			<polygon class=" (ctg1_471)" points="265,10 283,40 265,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Y_phosphatase2 (PF03162)
+"Tyrosine phosphatase family"</title>
+				<polygon class="PF03162" points="268,28 272,28 280,40 272,52 268,52" stroke-linejoin="round" width="14" height="24" fill="rgb(126,183,68)" stroke="rgb(100,146,54)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_472)</title>
+			<polygon class=" (ctg1_472)" points="287,10 293,40 287,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_473)</title>
+			<polygon class=" (ctg1_473)" points="303,10 332,40 303,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AAA_33 (PF13671)
+"AAA domain"</title>
+				<polygon class="PF13671" points="317,29 328,40 317,51" stroke-linejoin="round" width="14" height="24" fill="rgb(83,141,224)" stroke="rgb(66,112,179)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_474)</title>
+			<polygon class=" (ctg1_474)" points="339,10 363,40 339,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MlaA (PF04333)
+"MlaA lipoprotein"</title>
+				<polygon class="PF04333" points="341,28 350,28 359,40 350,52 341,52" stroke-linejoin="round" width="19" height="24" fill="rgb(81,122,214)" stroke="rgb(64,97,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,22 @@
+#                                                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DNA_pol_A            PF00476.23   377 USHLN157_contigs.fa_antismash_contig00029.region001_ORF1:gid::pid::loc:865:3406:strand:- -            846  1.2e-159  531.4   0.0   1   1  3.3e-163  1.6e-159  531.0   0.0     4   376   470   843   467   844 0.98 DNA polymerase family A
+DNA_pol_A_exo1       PF01612.23   176 USHLN157_contigs.fa_antismash_contig00029.region001_ORF1:gid::pid::loc:865:3406:strand:- -            846   3.3e-43  147.6   0.0   1   1   1.2e-46     6e-43  146.7   0.0     1   176   248   435   248   435 0.97 3'-5' exonuclease
+5_3_exonuc           PF01367.23    97 USHLN157_contigs.fa_antismash_contig00029.region001_ORF1:gid::pid::loc:865:3406:strand:- -            846   5.4e-30  104.0   0.0   1   1     4e-33     2e-29  102.2   0.0     1    94    88   187    88   190 0.94 5'-3' exonuclease, C-terminal SAM fold
+5_3_exonuc_N         PF02739.19   159 USHLN157_contigs.fa_antismash_contig00029.region001_ORF1:gid::pid::loc:865:3406:strand:- -            846   4.1e-22   78.9   0.0   1   1   1.4e-25   6.9e-22   78.1   0.0    76   159     1    87     1    87 0.94 5'-3' exonuclease, N-terminal resolvase-like domain
+DSBA                 PF01323.23   193 USHLN157_contigs.fa_antismash_contig00029.region001_ORF5:gid::pid::loc:5000:5624:strand:- -            207   1.7e-29  103.1   6.2   1   1   1.4e-32   1.4e-28  100.1   6.2     1   192    40   196    40   197 0.94 DSBA-like thioredoxin domain
+Thioredoxin_4        PF13462.9    165 USHLN157_contigs.fa_antismash_contig00029.region001_ORF5:gid::pid::loc:5000:5624:strand:- -            207   1.6e-10   41.5   0.1   1   1   2.3e-14   2.3e-10   41.0   0.1    16   155    40   183    33   193 0.81 Thioredoxin
+DUF1040              PF06288.16    86 USHLN157_contigs.fa_antismash_contig00029.region001_ORF8:gid::pid::loc:6713:6983:strand:- -             89     1e-45  154.1   0.3   1   1   5.8e-50   1.1e-45  154.0   0.3     1    86     1    86     1    86 1.00 Protein of unknown function (DUF1040)
+NTP_transf_3         PF12804.10   160 USHLN157_contigs.fa_antismash_contig00029.region001_ORF9:gid::pid::loc:7054:7636:strand:+ -            193   3.4e-30  105.6   0.0   1   1   2.1e-34   4.2e-30  105.3   0.0     1   155     8   158     8   165 0.90 MobA-like NTP transferase domain
+MobB                 PF03205.17   134 USHLN157_contigs.fa_antismash_contig00029.region001_ORF10:gid::pid::loc:7632:8151:strand:+ -            172   3.1e-48  163.2   0.0   1   1   1.9e-52   3.7e-48  162.9   0.0     2   134     5   139     4   139 0.96 Molybdopterin guanine dinucleotide synthesis protein B
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/USHLN157_contigs.fa_antismash_contig00029.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/USHLN157_contigs.fa_antismash_contig00029.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/USHLN157_contigs.fa_antismash_contig00029.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 17:54:19 2024
+# [ok]

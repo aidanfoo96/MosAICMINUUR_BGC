@@ -1,0 +1,128 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="476.93333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="466.93333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg1_715)</title>
+			<polygon class=" (ctg1_715)" points="19,25 34,25 34,10 64,40 34,70 34,55 19,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HAMP (PF00672)
+"HAMP domain"</title>
+				<rect class="PF00672" x="36" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(124,89,195)" stroke="rgb(99,71,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HisKA (PF00512)
+"His Kinase A (phospho-acceptor) domain"</title>
+				<rect class="PF00512" x="42" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(193,125,62)" stroke="rgb(154,100,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HATPase_c (PF02518)
+"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"</title>
+				<polygon class="PF02518" points="53,33 60,40 53,47" stroke-linejoin="round" width="10" height="24" fill="rgb(80,94,225)" stroke="rgb(64,75,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_716)</title>
+			<polygon class=" (ctg1_716)" points="68,10 95,40 68,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Polysacc_deac_1 (PF01522)
+"Polysaccharide deacetylase"</title>
+				<polygon class="PF01522" points="74,28 79,28 86,35 86,45 79,52 74,52" stroke-linejoin="round" width="12" height="24" fill="rgb(56,221,58)" stroke="rgb(44,176,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_717)</title>
+			<polygon class=" (ctg1_717)" points="96,10 117,40 96,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YkyA (PF10368)
+"Putative cell-wall binding lipoprotein"</title>
+				<polygon class="PF10368" points="98,28 105,28 114,40 105,52 98,52" stroke-linejoin="round" width="18" height="24" fill="rgb(190,128,81)" stroke="rgb(152,102,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_718)</title>
+			<polygon class=" (ctg1_718)" points="123,10 145,40 123,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MgtC (PF02308)
+"MgtC family"</title>
+				<polygon class="PF02308" points="123,28 133,28 136,33 136,47 133,52 123,52" stroke-linejoin="round" width="13" height="24" fill="rgb(193,85,162)" stroke="rgb(154,68,129)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_719)</title>
+			<polygon class=" (ctg1_719)" points="149,10 159,40 149,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_720)</title>
+			<polygon class=" (ctg1_720)" points="176,25 206,25 206,10 236,40 206,70 206,55 176,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<rect class="PF04183" x="191" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="217,28 220,28 232,40 220,52 217,52" stroke-linejoin="round" width="16" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_721)</title>
+			<polygon class=" (ctg1_721)" points="238,25 269,25 269,10 299,40 269,70 269,55 238,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<rect class="PF04183" x="252" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="279,28 283,28 295,40 283,52 279,52" stroke-linejoin="round" width="17" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_722)</title>
+			<polygon class=" (ctg1_722)" points="299,25 310,25 310,10 340,40 310,70 310,55 299,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="303,28 324,28 327,31 327,49 324,52 303,52" stroke-linejoin="round" width="24" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<polygon class="PF13193" points="331,35 336,40 331,45" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_723)</title>
+			<polygon class=" (ctg1_723)" points="340,10 349,40 340,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_724)</title>
+			<polygon class=" (ctg1_724)" points="350,25 352,25 352,10 382,40 352,70 352,55 350,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF6005 (PF19468)
+"Family of unknown function (DUF6005)"</title>
+				<polygon class="PF19468" points="350,28 366,28 378,40 366,52 350,52" stroke-linejoin="round" width="32" height="24" fill="rgb(160,201,100)" stroke="rgb(128,160,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_725)</title>
+			<polygon class=" (ctg1_725)" points="384,10 412,40 384,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AP_endonuc_2 (PF01261)
+"Xylose isomerase-like TIM barrel"</title>
+				<polygon class="PF01261" points="386,28 396,28 407,40 396,52 386,52" stroke-linejoin="round" width="25" height="24" fill="rgb(69,222,207)" stroke="rgb(55,177,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_726)</title>
+			<polygon class=" (ctg1_726)" points="417,10 423,40 417,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SASP (PF00269)
+"Small, acid-soluble spore proteins, alpha/beta type"</title>
+				<polygon class="PF00269" points="417,28 417,28 420,40 417,52 417,52" stroke-linejoin="round" width="5" height="24" fill="rgb(108,209,56)" stroke="rgb(86,167,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

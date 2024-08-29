@@ -1,0 +1,30 @@
+#                                                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF1285              PF06938.14   146 AS096_contigs.fa_antismash_contig00004.region001_ORF1:gid::pid::loc:841:1453:strand:- -            203   5.7e-44  149.8   0.1   1   1   4.1e-48     8e-44  149.4   0.1     1   143    56   196    56   198 0.95 Protein of unknown function (DUF1285)
+ETF_QO               PF05187.16   104 AS096_contigs.fa_antismash_contig00004.region001_ORF2:gid::pid::loc:1640:3353:strand:+ -            570   1.9e-50  169.4   0.1   1   1   9.6e-54   3.8e-50  168.5   0.1     1   103   466   567   466   568 0.98 Electron transfer flavoprotein-ubiquinone oxidoreductase, 4Fe-4S
+FAD_binding_2        PF00890.27   417 AS096_contigs.fa_antismash_contig00004.region001_ORF2:gid::pid::loc:1640:3353:strand:+ -            570   3.3e-07   29.9   0.3   1   1   3.7e-08   0.00015   21.2   1.0     1    38    12    56    12    62 0.80 FAD binding domain
+Thi4                 PF01946.20   235 AS096_contigs.fa_antismash_contig00004.region001_ORF2:gid::pid::loc:1640:3353:strand:+ -            570   4.4e-07   29.5   0.0   1   1   3.4e-10   1.3e-06   27.9   0.0    14    61     7    60     2   100 0.75 Thi4 family
+NAD_binding_8        PF13450.9     68 AS096_contigs.fa_antismash_contig00004.region001_ORF2:gid::pid::loc:1640:3353:strand:+ -            570   5.1e-06   26.7   0.0   1   1   6.1e-09   2.4e-05   24.6   0.0     1    40    15    61    15    75 0.85 NAD(P)-binding Rossmann-like domain
+zf-HC2               PF13490.9     35 AS096_contigs.fa_antismash_contig00004.region001_ORF3:gid::pid::loc:3425:3623:strand:- -             65   1.1e-05   25.6   2.3   1   1   7.2e-10   1.4e-05   25.3   2.3     1    35     4    38     4    38 1.00 Putative zinc-finger
+Sigma70_r2           PF04542.17    71 AS096_contigs.fa_antismash_contig00004.region001_ORF4:gid::pid::loc:3616:4234:strand:- -            205   1.1e-12   47.7   0.1   1   1   1.9e-16   1.9e-12   46.9   0.1     5    70    24    87    18    88 0.87 Sigma-70 region 2
+Sigma70_r4_2         PF08281.15    54 AS096_contigs.fa_antismash_contig00004.region001_ORF4:gid::pid::loc:3616:4234:strand:- -            205   7.5e-09   35.3   0.3   1   1   1.5e-12   1.4e-08   34.3   0.3     4    54   139   189   137   189 0.97 Sigma-70, region 4
+DUF2063              PF09836.12    83 AS096_contigs.fa_antismash_contig00004.region001_ORF5:gid::pid::loc:4243:4987:strand:- -            247   4.6e-18   65.4   1.4   1   1     7e-22   1.4e-17   63.8   0.1     2    83    11    95    10    95 0.97 Putative DNA-binding domain
+DUF692               PF05114.16   263 AS096_contigs.fa_antismash_contig00004.region001_ORF6:gid::pid::loc:5000:5852:strand:- -            283  7.8e-103  343.4   0.0   1   1  4.5e-107  8.9e-103  343.2   0.0     1   262     6   266     6   267 0.98 Protein of unknown function (DUF692)
+DoxX                 PF07681.15    85 AS096_contigs.fa_antismash_contig00004.region001_ORF8:gid::pid::loc:6405:7020:strand:+ -            204   4.1e-22   78.7   7.9   1   1   2.1e-26   4.1e-22   78.7   7.9     2    84    27   111    26   112 0.98 DoxX
+TusA                 PF01206.20    70 AS096_contigs.fa_antismash_contig00004.region001_ORF9:gid::pid::loc:7142:7400:strand:- -             85   1.5e-19   69.8   0.0   1   1   8.8e-24   1.7e-19   69.6   0.0     2    70    11    84    10    84 0.94 Sulfurtransferase TusA
+CBS                  PF00571.31    57 AS096_contigs.fa_antismash_contig00004.region001_ORF10:gid::pid::loc:7575:8415:strand:+ -            279   2.7e-16   59.9   1.6   1   2   6.6e-11   6.5e-07   29.8   0.1     2    55    59   116    58   118 0.88 CBS domain
+CBS                  PF00571.31    57 AS096_contigs.fa_antismash_contig00004.region001_ORF10:gid::pid::loc:7575:8415:strand:+ -            279   2.7e-16   59.9   1.6   2   2   1.3e-10   1.2e-06   28.9   0.2     3    56   127   179   121   180 0.80 CBS domain
+CorC_HlyC            PF03471.20    81 AS096_contigs.fa_antismash_contig00004.region001_ORF10:gid::pid::loc:7575:8415:strand:+ -            279   1.6e-14   53.8   0.9   1   1     3e-18     3e-14   52.9   0.1     6    79   206   278   202   279 0.94 Transporter associated domain
+LNT_N                PF20154.2    156 AS096_contigs.fa_antismash_contig00004.region001_ORF11:gid::pid::loc:8411:9971:strand:+ -            519   1.4e-33  116.5  35.1   1   1   1.4e-37   1.4e-33  116.5  35.1     1   156    30   187    30   187 0.96 Apolipoprotein N-acyltransferase N-terminal domain
+CN_hydrolase         PF00795.25   261 AS096_contigs.fa_antismash_contig00004.region001_ORF11:gid::pid::loc:8411:9971:strand:+ -            519   1.4e-30  106.7   0.1   1   1   1.9e-34   1.9e-30  106.2   0.1     2   252   228   476   227   483 0.87 Carbon-nitrogen hydrolase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/AS096_contigs.fa_antismash_contig00004.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/AS096_contigs.fa_antismash_contig00004.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/AS096_contigs.fa_antismash_contig00004.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 22:58:53 2024
+# [ok]

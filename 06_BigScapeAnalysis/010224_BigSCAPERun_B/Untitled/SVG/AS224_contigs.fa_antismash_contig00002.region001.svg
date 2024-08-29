@@ -1,0 +1,104 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="363.1333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="353.1333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg2_515)</title>
+			<polygon class=" (ctg2_515)" points="25,10 41,40 25,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aldolase (PF01081)
+"KDPG and KHG aldolase"</title>
+				<polygon class="PF01081" points="25,28 31,28 38,40 31,52 25,52" stroke-linejoin="round" width="15" height="24" fill="rgb(69,181,160)" stroke="rgb(55,144,128)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_516)</title>
+			<polygon class=" (ctg2_516)" points="42,25 50,25 50,10 80,40 50,70 50,55 42,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MR_MLE_N (PF02746)
+"Mandelate racemase / muconate lactonizing enzyme, N-terminal domain"</title>
+				<rect class="PF02746" x="43" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(63,73,226)" stroke="rgb(50,58,180)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MR_MLE_C (PF13378)
+"Enolase C-terminal domain-like"</title>
+				<polygon class="PF13378" points="54,28 64,28 76,40 76,40 64,52 54,52" stroke-linejoin="round" width="22" height="24" fill="rgb(191,184,94)" stroke="rgb(152,147,75)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_517)</title>
+			<polygon class=" (ctg2_517)" points="82,40 97,10 97,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2_518)</title>
+			<polygon class=" (ctg2_518)" points="99,40 110,10 110,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_3 (PF01381)
+"Helix-turn-helix"</title>
+				<polygon class="PF01381" points="103,37 106,28 108,28 108,52 106,52 103,43" stroke-linejoin="round" width="5" height="24" fill="rgb(105,79,202)" stroke="rgb(83,63,161)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_519)</title>
+			<polygon class=" (ctg2_519)" points="115,10 125,40 115,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Holin_SPP1 (PF04688)
+"SPP1 phage holin"</title>
+				<polygon class="PF04688" points="117,28 117,28 122,40 117,52 117,52" stroke-linejoin="round" width="8" height="24" fill="rgb(63,71,183)" stroke="rgb(50,56,146)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_520)</title>
+			<polygon class=" (ctg2_520)" points="126,25 137,25 137,10 167,40 137,70 137,55 126,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M23 (PF01551)
+"Peptidase family M23"</title>
+				<rect class="PF01551" x="130" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(65,169,193)" stroke="rgb(51,135,154)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Amidase_3 (PF01520)
+"N-acetylmuramoyl-L-alanine amidase"</title>
+				<polygon class="PF01520" points="144,28 151,28 162,39 162,41 151,52 144,52" stroke-linejoin="round" width="18" height="24" fill="rgb(174,223,57)" stroke="rgb(139,178,45)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LysM (PF01476)
+"LysM domain"</title>
+				<polygon class="PF01476" points="163,40 163,40 163,40" stroke-linejoin="round" width="4" height="24" fill="rgb(200,86,203)" stroke="rgb(160,68,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_521)</title>
+			<polygon class=" (ctg2_521)" points="176,10 185,40 176,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lactococcin_972 (PF09683)
+"Bacteriocin (Lactococcin_972)"</title>
+				<polygon class="PF09683" points="178,28 178,28 182,40 178,52 178,52" stroke-linejoin="round" width="6" height="24" fill="rgb(202,100,222)" stroke="rgb(161,80,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_522)</title>
+			<polygon class=" (ctg2_522)" points="187,25 223,25 223,10 253,40 223,70 223,55 187,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2_523)</title>
+			<polygon class=" (ctg2_523)" points="254,10 266,40 254,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2_524)</title>
+			<polygon class=" (ctg2_524)" points="266,10 287,40 266,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="267,28 275,28 281,37 281,43 275,52 267,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_525)</title>
+			<polygon class=" (ctg2_525)" points="299,10 327,40 299,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF72 (PF01904)
+"Protein of unknown function DUF72"</title>
+				<polygon class="PF01904" points="300,28 311,28 323,40 311,52 300,52" stroke-linejoin="round" width="25" height="24" fill="rgb(63,151,204)" stroke="rgb(50,120,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

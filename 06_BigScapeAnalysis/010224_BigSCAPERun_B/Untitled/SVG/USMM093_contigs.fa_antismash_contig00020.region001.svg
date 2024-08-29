@@ -1,0 +1,106 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="426.1333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="416.1333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg20_47)</title>
+			<polygon class=" (ctg20_47)" points="69,25 50,25 50,10 20,40 50,70 50,55 69,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PTR2 (PF00854)
+"POT family"</title>
+				<polygon class="PF00854" points="24,40 36,28 59,28 59,52 36,52" stroke-linejoin="round" width="37" height="24" fill="rgb(90,189,52)" stroke="rgb(71,151,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg20_48)</title>
+			<polygon class=" (ctg20_48)" points="77,25 80,25 80,10 110,40 80,70 80,55 77,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4046 (PF13255)
+"Protein of unknown function (DUF4046)"</title>
+				<rect class="PF13255" x="77" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(85,180,101)" stroke="rgb(68,144,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg20_49)</title>
+			<polygon class=" (ctg20_49)" points="151,40 158,10 158,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF772 (PF05598)
+"Transposase domain (DUF772)"</title>
+				<polygon class="PF05598" points="154,40 154,40 154,40" stroke-linejoin="round" width="3" height="24" fill="rgb(221,202,107)" stroke="rgb(176,161,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg20_50)</title>
+			<polygon class=" (ctg20_50)" points="162,40 168,10 168,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg20_51)</title>
+			<polygon class=" (ctg20_51)" points="176,25 218,25 218,10 248,40 218,70 218,55 176,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_C39 (PF03412)
+"Peptidase C39 family"</title>
+				<rect class="PF03412" x="176" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(214,226,77)" stroke="rgb(171,180,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="192" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="225,28 232,28 240,36 240,44 232,52 225,52" stroke-linejoin="round" width="15" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg20_52)</title>
+			<polygon class=" (ctg20_52)" points="250,10 274,40 250,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HlyD_3 (PF13437)
+"HlyD family secretion protein"</title>
+				<polygon class="PF13437" points="261,28 261,28 271,40 261,52 261,52" stroke-linejoin="round" width="11" height="24" fill="rgb(82,200,102)" stroke="rgb(65,160,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg20_53)</title>
+			<polygon class=" (ctg20_53)" points="275,10 281,40 275,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg20_54)</title>
+			<polygon class=" (ctg20_54)" points="297,10 302,40 297,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg20_55)</title>
+			<polygon class=" (ctg20_55)" points="307,40 311,10 311,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YolD (PF08863)
+"YolD-like protein"</title>
+				<polygon class="PF08863" points="310,40 311,34 311,46" stroke-linejoin="round" width="4" height="24" fill="rgb(210,129,59)" stroke="rgb(168,103,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg20_56)</title>
+			<polygon class=" (ctg20_56)" points="312,40 317,10 317,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YolD (PF08863)
+"YolD-like protein"</title>
+				<polygon class="PF08863" points="315,40 315,40 315,40" stroke-linejoin="round" width="3" height="24" fill="rgb(210,129,59)" stroke="rgb(168,103,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg20_57)</title>
+			<polygon class=" (ctg20_57)" points="324,10 334,40 324,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg20_58)</title>
+			<polygon class=" (ctg20_58)" points="344,40 351,10 351,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg20_59)</title>
+			<polygon class=" (ctg20_59)" points="362,40 365,10 365,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg20_60)</title>
+			<polygon class=" (ctg20_60)" points="380,10 387,40 380,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

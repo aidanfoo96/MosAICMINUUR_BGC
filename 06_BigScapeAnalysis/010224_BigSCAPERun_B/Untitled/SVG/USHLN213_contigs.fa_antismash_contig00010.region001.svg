@@ -1,0 +1,268 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="997.8333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="987.8333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg10_176)</title>
+			<polygon class=" (ctg10_176)" points="25,10 53,40 25,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_1 (PF00126)
+"Bacterial regulatory helix-turn-helix protein, lysR family"</title>
+				<rect class="PF00126" x="25" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(125,227,79)" stroke="rgb(99,181,63)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LysR_substrate (PF03466)
+"LysR substrate binding domain"</title>
+				<polygon class="PF03466" points="33,28 37,28 49,40 37,52 33,52" stroke-linejoin="round" width="19" height="24" fill="rgb(55,136,195)" stroke="rgb(44,108,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10_177)</title>
+			<polygon class=" (ctg10_177)" points="54,10 81,40 54,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Fructosamin_kin (PF03881)
+"Fructosamine kinase"</title>
+				<polygon class="PF03881" points="54,28 66,28 77,40 66,52 54,52" stroke-linejoin="round" width="26" height="24" fill="rgb(86,95,185)" stroke="rgb(68,76,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10_178)</title>
+			<polygon class=" (ctg10_178)" points="84,25 126,25 126,10 156,40 126,70 126,55 84,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PMT_2 (PF13231)
+"Dolichyl-phosphate-mannose-protein mannosyltransferase"</title>
+				<rect class="PF13231" x="93" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(149,96,194)" stroke="rgb(119,76,155)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10_179)</title>
+			<polygon class=" (ctg10_179)" points="157,10 182,40 157,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="159,28 168,28 170,30 170,50 168,52 159,52" stroke-linejoin="round" width="11" height="24" fill="rgb(100,107,203)" stroke="rgb(80,85,162)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Trans_reg_C (PF00486)
+"Transcriptional regulatory protein, C terminal"</title>
+				<polygon class="PF00486" points="174,35 178,40 174,45" stroke-linejoin="round" width="7" height="24" fill="rgb(204,153,57)" stroke="rgb(163,122,45)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10_180)</title>
+			<polygon class=" (ctg10_180)" points="185,25 203,25 203,10 233,40 203,70 203,55 185,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HisKA (PF00512)
+"His Kinase A (phospho-acceptor) domain"</title>
+				<rect class="PF00512" x="210" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(193,125,62)" stroke="rgb(154,100,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HATPase_c (PF02518)
+"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"</title>
+				<polygon class="PF02518" points="221,32 229,40 221,48" stroke-linejoin="round" width="11" height="24" fill="rgb(80,94,225)" stroke="rgb(64,75,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10_181)</title>
+			<polygon class=" (ctg10_181)" points="237,25 253,25 253,10 283,40 253,70 253,55 237,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PMT_2 (PF13231)
+"Dolichyl-phosphate-mannose-protein mannosyltransferase"</title>
+				<rect class="PF13231" x="241" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(149,96,194)" stroke="rgb(119,76,155)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10_182)</title>
+			<polygon class=" (ctg10_182)" points="288,10 297,40 288,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg10_183)</title>
+			<polygon class=" (ctg10_183)" points="304,25 316,25 316,10 346,40 316,70 316,55 304,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<rect class="PF00535" x="305" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(224,122,96)" stroke="rgb(179,97,76)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GtrA (PF04138)
+"GtrA-like protein"</title>
+				<polygon class="PF04138" points="331,29 342,40 342,40 331,51" stroke-linejoin="round" width="11" height="24" fill="rgb(72,221,86)" stroke="rgb(57,176,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10_184)</title>
+			<polygon class=" (ctg10_184)" points="359,25 514,25 514,10 544,40 514,70 514,55 359,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GATase_2 (PF00310)
+"Glutamine amidotransferases class-II"</title>
+				<rect class="PF00310" x="360" y="28" stroke-linejoin="round" width="41" height="24" fill="rgb(195,63,68)" stroke="rgb(156,50,54)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glu_syn_central (PF04898)
+"Glutamate synthase central domain"</title>
+				<rect class="PF04898" x="405" y="28" stroke-linejoin="round" width="28" height="24" fill="rgb(119,210,66)" stroke="rgb(95,168,52)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glu_synthase (PF01645)
+"Conserved region in glutamate synthase"</title>
+				<rect class="PF01645" x="457" y="28" stroke-linejoin="round" width="34" height="24" fill="rgb(97,123,226)" stroke="rgb(77,98,180)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GXGXG (PF01493)
+"GXGXG motif"</title>
+				<rect class="PF01493" x="502" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(197,218,88)" stroke="rgb(157,174,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10_185)</title>
+			<polygon class=" (ctg10_185)" points="545,25 574,25 574,10 604,40 574,70 574,55 545,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Flavodoxin_1 (PF00258)
+"Flavodoxin"</title>
+				<rect class="PF00258" x="550" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(77,169,183)" stroke="rgb(61,135,146)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FAD_binding_1 (PF00667)
+"FAD binding domain"</title>
+				<rect class="PF00667" x="567" y="28" stroke-linejoin="round" width="19" height="24" fill="rgb(145,74,201)" stroke="rgb(116,59,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>NAD_binding_1 (PF00175)
+"Oxidoreductase NAD-binding domain"</title>
+				<polygon class="PF00175" points="590,30 600,40 600,40 590,50" stroke-linejoin="round" width="10" height="24" fill="rgb(177,211,96)" stroke="rgb(141,168,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10_186)</title>
+			<polygon class=" (ctg10_186)" points="613,40 625,10 625,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg10_187)</title>
+			<polygon class=" (ctg10_187)" points="627,10 639,40 627,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_20 (PF12840)
+"Helix-turn-helix domain"</title>
+				<polygon class="PF12840" points="628,28 631,28 633,33 633,47 631,52 628,52" stroke-linejoin="round" width="5" height="24" fill="rgb(157,225,93)" stroke="rgb(125,180,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10_188)</title>
+			<polygon class=" (ctg10_188)" points="640,25 642,25 642,10 672,40 642,70 642,55 640,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AHSA1 (PF08327)
+"Activator of Hsp90 ATPase homolog 1-like protein"</title>
+				<rect class="PF08327" x="642" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(81,199,171)" stroke="rgb(64,159,136)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AHSA1 (PF08327)
+"Activator of Hsp90 ATPase homolog 1-like protein"</title>
+				<polygon class="PF08327" points="658,30 668,40 658,50" stroke-linejoin="round" width="13" height="24" fill="rgb(81,199,171)" stroke="rgb(64,159,136)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10_189)</title>
+			<polygon class=" (ctg10_189)" points="714,25 706,25 706,10 676,40 706,70 706,55 714,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HMG_CoA_synt_C (PF08540)
+"Hydroxymethylglutaryl-coenzyme A synthase C terminal"</title>
+				<polygon class="PF08540" points="680,40 688,32 688,48" stroke-linejoin="round" width="9" height="24" fill="rgb(49,194,86)" stroke="rgb(39,155,68)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HMG_CoA_synt_N (PF01154)
+"Hydroxymethylglutaryl-coenzyme A synthase N terminal"</title>
+				<rect class="PF01154" x="697" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(88,216,218)" stroke="rgb(70,172,174)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10_190)</title>
+			<polygon class=" (ctg10_190)" points="750,25 745,25 745,10 715,40 745,70 745,55 750,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HMG-CoA_red (PF00368)
+"Hydroxymethylglutaryl-coenzyme A reductase"</title>
+				<polygon class="PF00368" points="719,40 731,28 749,28 749,52 731,52" stroke-linejoin="round" width="33" height="24" fill="rgb(67,203,137)" stroke="rgb(53,162,109)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10_191)</title>
+			<polygon class=" (ctg10_191)" points="786,25 780,25 780,10 750,40 780,70 780,55 786,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GHMP_kinases_C (PF08544)
+"GHMP kinases C terminal"</title>
+				<polygon class="PF08544" points="754,40 759,35 759,45" stroke-linejoin="round" width="8" height="24" fill="rgb(95,112,219)" stroke="rgb(76,89,175)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GHMP_kinases_N (PF00288)
+"GHMP kinases N terminal domain"</title>
+				<rect class="PF00288" x="769" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(190,54,91)" stroke="rgb(152,43,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10_192)</title>
+			<polygon class=" (ctg10_192)" points="820,25 816,25 816,10 786,40 816,70 816,55 820,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MDD_C (PF18376)
+"Mevalonate 5-diphosphate decarboxylase C-terminal domain"</title>
+				<polygon class="PF18376" points="790,40 802,28 802,28 802,52 802,52" stroke-linejoin="round" width="13" height="24" fill="rgb(104,190,211)" stroke="rgb(83,152,168)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GHMP_kinases_N (PF00288)
+"GHMP kinases N terminal domain"</title>
+				<rect class="PF00288" x="805" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(190,54,91)" stroke="rgb(152,43,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10_193)</title>
+			<polygon class=" (ctg10_193)" points="853,25 850,25 850,10 820,40 850,70 850,55 853,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GHMP_kinases_C (PF08544)
+"GHMP kinases C terminal"</title>
+				<polygon class="PF08544" points="824,40 829,35 829,45" stroke-linejoin="round" width="8" height="24" fill="rgb(95,112,219)" stroke="rgb(76,89,175)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GHMP_kinases_N (PF00288)
+"GHMP kinases N terminal domain"</title>
+				<polygon class="PF00288" points="835,29 836,28 841,28 841,52 836,52 835,51" stroke-linejoin="round" width="6" height="24" fill="rgb(190,54,91)" stroke="rgb(152,43,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10_194)</title>
+			<polygon class=" (ctg10_194)" points="857,25 881,25 881,10 911,40 881,70 881,55 857,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="858,28 895,28 899,32 899,48 895,52 858,52" stroke-linejoin="round" width="41" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10_195)</title>
+			<polygon class=" (ctg10_195)" points="919,10 934,40 919,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MarR (PF01047)
+"MarR family"</title>
+				<polygon class="PF01047" points="922,28 924,28 927,33 927,47 924,52 922,52" stroke-linejoin="round" width="5" height="24" fill="rgb(60,185,86)" stroke="rgb(48,148,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10_196)</title>
+			<polygon class=" (ctg10_196)" points="935,10 949,40 935,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OsmC (PF02566)
+"OsmC-like protein"</title>
+				<polygon class="PF02566" points="938,28 939,28 945,40 939,52 938,52" stroke-linejoin="round" width="9" height="24" fill="rgb(161,56,212)" stroke="rgb(128,44,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg10_197)</title>
+			<polygon class=" (ctg10_197)" points="950,25 953,25 953,10 983,40 953,70 953,55 950,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADH_N (PF08240)
+"Alcohol dehydrogenase GroES-like domain"</title>
+				<rect class="PF08240" x="953" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(211,65,138)" stroke="rgb(168,51,110)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ADH_zinc_N (PF00107)
+"Zinc-binding dehydrogenase"</title>
+				<polygon class="PF00107" points="965,28 966,28 977,39 977,41 966,52 965,52" stroke-linejoin="round" width="12" height="24" fill="rgb(81,108,215)" stroke="rgb(64,86,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

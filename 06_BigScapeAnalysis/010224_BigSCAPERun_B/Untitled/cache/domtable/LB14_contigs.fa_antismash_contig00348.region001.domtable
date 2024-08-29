@@ -1,0 +1,18 @@
+#                                                                                                                                          --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                         accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                               -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Condensation         PF00668.23   457 LB14_contigs.fa_antismash_contig00348.region001_ORF1:gid::pid::loc:1:3559:strand:- -           1186  2.4e-160  534.3   1.8   1   2  6.4e-118  3.1e-114  382.3   0.7    12   456     1   437     1   438 0.96 Condensation domain
+Condensation         PF00668.23   457 LB14_contigs.fa_antismash_contig00348.region001_ORF1:gid::pid::loc:1:3559:strand:- -           1186  2.4e-160  534.3   1.8   2   2   8.1e-48     4e-44  151.2   0.0     4   153  1036  1184  1034  1186 0.98 Condensation domain
+AMP-binding          PF00501.31   424 LB14_contigs.fa_antismash_contig00348.region001_ORF1:gid::pid::loc:1:3559:strand:- -           1186   2.9e-91  306.3   0.0   1   1   8.1e-95     4e-91  305.9   0.0     1   424   458   844   458   844 0.88 AMP-binding enzyme
+PP-binding           PF00550.28    67 LB14_contigs.fa_antismash_contig00348.region001_ORF1:gid::pid::loc:1:3559:strand:- -           1186   1.4e-17   63.9   0.1   1   1   1.4e-20   6.8e-17   61.7   0.0     3    67   951  1013   949  1013 0.94 Phosphopantetheine attachment site
+AMP-binding_C        PF13193.9     76 LB14_contigs.fa_antismash_contig00348.region001_ORF1:gid::pid::loc:1:3559:strand:- -           1186   1.8e-12   48.1   0.1   1   1   1.1e-15   5.6e-12   46.6   0.1     1    76   852   923   852   923 0.93 AMP-binding enzyme C-terminal domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/LB14_contigs.fa_antismash_contig00348.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/LB14_contigs.fa_antismash_contig00348.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/LB14_contigs.fa_antismash_contig00348.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 19:23:02 2024
+# [ok]

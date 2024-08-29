@@ -1,0 +1,132 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="463.7" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="453.7" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg3_34)</title>
+			<polygon class=" (ctg3_34)" points="16,25 25,25 25,10 55,40 25,70 25,55 16,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trypsin_2 (PF13365)
+"Trypsin-like peptidase domain"</title>
+				<polygon class="PF13365" points="26,28 38,28 40,30 40,50 38,52 26,52" stroke-linejoin="round" width="14" height="24" fill="rgb(126,86,188)" stroke="rgb(100,68,150)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PDZ_2 (PF13180)
+"PDZ domain"</title>
+				<polygon class="PF13180" points="44,34 50,40 44,46" stroke-linejoin="round" width="9" height="24" fill="rgb(128,192,48)" stroke="rgb(102,153,38)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_35)</title>
+			<polygon class=" (ctg3_35)" points="57,10 63,40 57,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YyzF (PF14116)
+"YyzF-like protein"</title>
+				<polygon class="PF14116" points="57,28 57,28 60,40 57,52 57,52" stroke-linejoin="round" width="4" height="24" fill="rgb(75,184,136)" stroke="rgb(60,147,108)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_36)</title>
+			<polygon class=" (ctg3_36)" points="65,10 81,40 65,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SPOUT_MTase (PF02590)
+"Predicted SPOUT methyltransferase"</title>
+				<polygon class="PF02590" points="65,28 71,28 77,40 71,52 65,52" stroke-linejoin="round" width="15" height="24" fill="rgb(187,85,81)" stroke="rgb(149,67,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_37)</title>
+			<polygon class=" (ctg3_37)" points="107,10 119,40 107,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GntR (PF00392)
+"Bacterial regulatory proteins, gntR family"</title>
+				<polygon class="PF00392" points="108,28 111,28 114,35 114,45 111,52 108,52" stroke-linejoin="round" width="6" height="24" fill="rgb(160,85,194)" stroke="rgb(127,68,155)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_38)</title>
+			<polygon class=" (ctg3_38)" points="120,10 148,40 120,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="121,28 132,28 134,29 134,51 132,52 121,52" stroke-linejoin="round" width="13" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_39)</title>
+			<polygon class=" (ctg3_39)" points="149,10 169,40 149,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC2_membrane_5 (PF13346)
+"ABC-2 family transporter protein"</title>
+				<polygon class="PF13346" points="149,28 158,28 166,40 158,52 149,52" stroke-linejoin="round" width="20" height="24" fill="rgb(176,207,85)" stroke="rgb(140,165,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_40)</title>
+			<polygon class=" (ctg3_40)" points="176,40 183,10 183,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3_41)</title>
+			<polygon class=" (ctg3_41)" points="199,40 206,10 206,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3_42)</title>
+			<polygon class=" (ctg3_42)" points="213,25 257,25 257,10 287,40 257,70 257,55 213,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_C39 (PF03412)
+"Peptidase C39 family"</title>
+				<rect class="PF03412" x="213" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(214,226,77)" stroke="rgb(171,180,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="229" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="262,28 270,28 277,35 277,45 270,52 262,52" stroke-linejoin="round" width="15" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_43)</title>
+			<polygon class=" (ctg3_43)" points="286,25 299,25 299,10 329,40 299,70 299,55 286,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Biotin_lipoyl_2 (PF13533)
+"Biotin-lipoyl like"</title>
+				<rect class="PF13533" x="292" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(229,122,112)" stroke="rgb(183,97,89)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HlyD_3 (PF13437)
+"HlyD family secretion protein"</title>
+				<polygon class="PF13437" points="316,31 325,40 316,49" stroke-linejoin="round" width="10" height="24" fill="rgb(82,200,102)" stroke="rgb(65,160,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_44)</title>
+			<polygon class=" (ctg3_44)" points="331,10 353,40 331,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3_45)</title>
+			<polygon class=" (ctg3_45)" points="355,10 364,40 355,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3_46)</title>
+			<polygon class=" (ctg3_46)" points="371,25 408,25 408,10 438,40 408,70 408,55 371,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GAF_2 (PF13185)
+"GAF domain"</title>
+				<rect class="PF13185" x="373" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(158,189,90)" stroke="rgb(126,151,72)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HisKA (PF00512)
+"His Kinase A (phospho-acceptor) domain"</title>
+				<rect class="PF00512" x="416" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(193,125,62)" stroke="rgb(154,100,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HATPase_c (PF02518)
+"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"</title>
+				<polygon class="PF02518" points="427,33 434,40 427,47" stroke-linejoin="round" width="10" height="24" fill="rgb(80,94,225)" stroke="rgb(64,75,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

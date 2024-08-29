@@ -1,0 +1,143 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="508.6" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="498.6" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg8_50)</title>
+			<polygon class=" (ctg8_50)" points="11,25 13,25 13,10 43,40 13,70 13,55 11,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADH_N (PF08240)
+"Alcohol dehydrogenase GroES-like domain"</title>
+				<rect class="PF08240" x="14" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(211,65,138)" stroke="rgb(168,51,110)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ADH_zinc_N (PF00107)
+"Zinc-binding dehydrogenase"</title>
+				<polygon class="PF00107" points="26,28 27,28 39,40 39,40 27,52 26,52" stroke-linejoin="round" width="13" height="24" fill="rgb(81,108,215)" stroke="rgb(64,86,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_51)</title>
+			<polygon class=" (ctg8_51)" points="44,25 48,25 48,10 78,40 48,70 48,55 44,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GFO_IDH_MocA (PF01408)
+"Oxidoreductase family, NAD-binding Rossmann fold"</title>
+				<rect class="PF01408" x="45" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(76,117,190)" stroke="rgb(60,93,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GFO_IDH_MocA_C (PF02894)
+"Oxidoreductase family, C-terminal alpha/beta domain"</title>
+				<polygon class="PF02894" points="58,28 61,28 72,39 72,41 61,52 58,52" stroke-linejoin="round" width="14" height="24" fill="rgb(195,223,82)" stroke="rgb(155,178,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_52)</title>
+			<polygon class=" (ctg8_52)" points="126,25 109,25 109,10 79,40 109,70 109,55 126,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CitMHS (PF03600)
+"Citrate transporter"</title>
+				<polygon class="PF03600" points="83,40 95,28 97,28 97,52 95,52" stroke-linejoin="round" width="18" height="24" fill="rgb(75,203,220)" stroke="rgb(60,162,176)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>CitMHS (PF03600)
+"Citrate transporter"</title>
+				<rect class="PF03600" x="103" y="28" stroke-linejoin="round" width="21" height="24" fill="rgb(75,203,220)" stroke="rgb(60,162,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_53)</title>
+			<polygon class=" (ctg8_53)" points="129,10 157,40 129,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg8_54)</title>
+			<polygon class=" (ctg8_54)" points="157,40 172,10 172,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MarR (PF01047)
+"MarR family"</title>
+				<polygon class="PF01047" points="163,34 166,28 168,28 168,52 166,52 163,46" stroke-linejoin="round" width="5" height="24" fill="rgb(60,185,86)" stroke="rgb(48,148,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_55)</title>
+			<polygon class=" (ctg8_55)" points="176,25 205,25 205,10 235,40 205,70 205,55 176,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GATase_7 (PF13537)
+"Glutamine amidotransferase domain"</title>
+				<rect class="PF13537" x="180" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(200,63,57)" stroke="rgb(160,50,45)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Asn_synthase (PF00733)
+"Asparagine synthase"</title>
+				<polygon class="PF00733" points="200,28 218,28 230,40 218,52 200,52" stroke-linejoin="round" width="34" height="24" fill="rgb(97,201,176)" stroke="rgb(77,160,140)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_56)</title>
+			<polygon class=" (ctg8_56)" points="235,25 263,25 263,10 293,40 263,70 263,55 235,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_1 (PF00583)
+"Acetyltransferase (GNAT) family"</title>
+				<rect class="PF00583" x="247" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(121,183,50)" stroke="rgb(96,146,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_57)</title>
+			<polygon class=" (ctg8_57)" points="294,25 301,25 301,10 331,40 301,70 301,55 294,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M42 (PF05343)
+"M42 glutamyl aminopeptidase"</title>
+				<polygon class="PF05343" points="299,28 314,28 326,40 314,52 299,52" stroke-linejoin="round" width="28" height="24" fill="rgb(201,153,60)" stroke="rgb(160,122,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_58)</title>
+			<polygon class=" (ctg8_58)" points="332,40 345,10 345,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1622 (PF07784)
+"Protein of unknown function (DUF1622)"</title>
+				<polygon class="PF07784" points="335,40 340,28 341,28 341,52 340,52" stroke-linejoin="round" width="7" height="24" fill="rgb(220,163,95)" stroke="rgb(176,130,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_59)</title>
+			<polygon class=" (ctg8_59)" points="411,25 377,25 377,10 347,40 377,70 377,55 411,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BCCT (PF02028)
+"BCCT, betaine/carnitine/choline family transporter"</title>
+				<polygon class="PF02028" points="361,30 363,28 409,28 409,52 363,52 361,50" stroke-linejoin="round" width="48" height="24" fill="rgb(206,109,74)" stroke="rgb(164,87,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_60)</title>
+			<polygon class=" (ctg8_60)" points="449,25 443,25 443,10 413,40 443,70 443,55 449,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GFO_IDH_MocA_C (PF02894)
+"Oxidoreductase family, C-terminal alpha/beta domain"</title>
+				<polygon class="PF02894" points="417,40 429,28 433,28 433,52 429,52" stroke-linejoin="round" width="20" height="24" fill="rgb(195,223,82)" stroke="rgb(155,178,65)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GFO_IDH_MocA (PF01408)
+"Oxidoreductase family, NAD-binding Rossmann fold"</title>
+				<rect class="PF01408" x="435" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(76,117,190)" stroke="rgb(60,93,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_61)</title>
+			<polygon class=" (ctg8_61)" points="495,25 478,25 478,10 448,40 478,70 478,55 495,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ScfRs (PF09856)
+"Short-chain fatty acyl coenzyme A regulators"</title>
+				<polygon class="PF09856" points="452,40 464,28 464,28 464,52 464,52" stroke-linejoin="round" width="15" height="24" fill="rgb(220,220,109)" stroke="rgb(176,176,87)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Peptidase_M78 (PF06114)
+"IrrE N-terminal-like domain"</title>
+				<polygon class="PF06114" points="464,28 464,28 476,28 476,52 464,52 464,52" stroke-linejoin="round" width="12" height="24" fill="rgb(182,213,77)" stroke="rgb(145,170,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_31 (PF13560)
+"Helix-turn-helix domain"</title>
+				<rect class="PF13560" x="489" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(207,145,90)" stroke="rgb(165,116,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

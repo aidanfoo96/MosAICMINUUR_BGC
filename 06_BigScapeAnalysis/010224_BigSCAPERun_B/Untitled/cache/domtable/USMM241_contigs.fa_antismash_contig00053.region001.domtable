@@ -1,0 +1,20 @@
+#                                                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Condensation         PF00668.23   457 USMM241_contigs.fa_antismash_contig00053.region001_ORF1:gid::pid::loc:93:6471:strand:- -           2125    2e-202  673.0   0.0   1   3   1.3e-96   6.4e-93  312.0   0.0     3   456   139   593   137   594 0.93 Condensation domain
+Condensation         PF00668.23   457 USMM241_contigs.fa_antismash_contig00053.region001_ORF1:gid::pid::loc:93:6471:strand:- -           2125    2e-202  673.0   0.0   2   3   1.6e-34   8.1e-31  107.3   0.0    25   443  1226  1670  1200  1678 0.80 Condensation domain
+Condensation         PF00668.23   457 USMM241_contigs.fa_antismash_contig00053.region001_ORF1:gid::pid::loc:93:6471:strand:- -           2125    2e-202  673.0   0.0   3   3   7.8e-78   3.8e-74  250.1   0.0     2   435  1699  2121  1698  2124 0.91 Condensation domain
+AMP-binding          PF00501.31   424 USMM241_contigs.fa_antismash_contig00053.region001_ORF1:gid::pid::loc:93:6471:strand:- -           2125   3.3e-82  276.5   0.1   1   1   1.1e-85   5.5e-82  275.8   0.1     5   424   619  1010   615  1010 0.87 AMP-binding enzyme
+PP-binding           PF00550.28    67 USMM241_contigs.fa_antismash_contig00053.region001_ORF1:gid::pid::loc:93:6471:strand:- -           2125   3.4e-28   97.9   3.5   1   2   5.4e-15   2.6e-11   43.8   0.4     2    66    57   119    56   120 0.94 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 USMM241_contigs.fa_antismash_contig00053.region001_ORF1:gid::pid::loc:93:6471:strand:- -           2125   3.4e-28   97.9   3.5   2   2   3.2e-18   1.5e-14   54.1   0.2     2    65  1120  1180  1119  1181 0.95 Phosphopantetheine attachment site
+AMP-binding_C        PF13193.9     76 USMM241_contigs.fa_antismash_contig00053.region001_ORF1:gid::pid::loc:93:6471:strand:- -           2125   8.3e-15   55.7   0.8   1   1   1.9e-15   9.2e-12   45.9   0.4     1    76  1018  1092  1018  1092 0.89 AMP-binding enzyme C-terminal domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/USMM241_contigs.fa_antismash_contig00053.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/USMM241_contigs.fa_antismash_contig00053.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/USMM241_contigs.fa_antismash_contig00053.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 21:33:40 2024
+# [ok]

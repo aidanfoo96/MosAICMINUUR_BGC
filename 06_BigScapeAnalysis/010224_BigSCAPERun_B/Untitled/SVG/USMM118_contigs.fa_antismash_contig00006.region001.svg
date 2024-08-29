@@ -1,0 +1,213 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="749.5666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="739.5666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg6_14)</title>
+			<polygon class=" (ctg6_14)" points="92,25 72,25 72,10 42,40 72,70 72,55 92,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Rieske (PF00355)
+"Rieske [2Fe-2S] domain"</title>
+				<polygon class="PF00355" points="46,40 50,36 50,44" stroke-linejoin="round" width="8" height="24" fill="rgb(186,77,145)" stroke="rgb(148,61,115)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DAO (PF01266)
+"FAD dependent oxidoreductase"</title>
+				<polygon class="PF01266" points="55,31 58,28 89,28 89,52 58,52 55,49" stroke-linejoin="round" width="34" height="24" fill="rgb(123,179,59)" stroke="rgb(98,143,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_15)</title>
+			<polygon class=" (ctg6_15)" points="99,10 107,40 99,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg6_16)</title>
+			<polygon class=" (ctg6_16)" points="108,25 115,25 115,10 145,40 115,70 115,55 108,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Spore_permease (PF03845)
+"Spore germination protein"</title>
+				<polygon class="PF03845" points="108,28 129,28 140,39 140,41 129,52 108,52" stroke-linejoin="round" width="32" height="24" fill="rgb(89,176,194)" stroke="rgb(71,140,155)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_17)</title>
+			<polygon class=" (ctg6_17)" points="145,25 168,25 168,10 198,40 168,70 168,55 145,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GerA (PF03323)
+"Bacillus/Clostridium GerA spore germination protein"</title>
+				<polygon class="PF03323" points="149,28 181,28 193,40 181,52 149,52" stroke-linejoin="round" width="46" height="24" fill="rgb(114,81,229)" stroke="rgb(91,64,183)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_18)</title>
+			<polygon class=" (ctg6_18)" points="198,25 207,25 207,10 237,40 207,70 207,55 198,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Spore_GerAC (PF05504)
+"Spore germination B3/ GerAC like, C-terminal"</title>
+				<polygon class="PF05504" points="219,28 221,28 233,40 221,52 219,52" stroke-linejoin="round" width="16" height="24" fill="rgb(90,84,197)" stroke="rgb(71,67,157)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_19)</title>
+			<polygon class=" (ctg6_19)" points="240,10 260,40 240,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YflT (PF11181)
+"Heat induced stress protein YflT domain"</title>
+				<rect class="PF11181" x="240" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(158,181,75)" stroke="rgb(126,144,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_20)</title>
+			<polygon class=" (ctg6_20)" points="264,25 264,25 264,10 294,40 264,70 264,55 264,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>APH (PF01636)
+"Phosphotransferase enzyme family"</title>
+				<polygon class="PF01636" points="267,28 277,28 289,40 277,52 267,52" stroke-linejoin="round" width="23" height="24" fill="rgb(106,220,228)" stroke="rgb(84,176,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_21)</title>
+			<polygon class=" (ctg6_21)" points="296,10 323,40 296,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Fapy_DNA_glyco (PF01149)
+"Formamidopyrimidine-DNA glycosylase N-terminal domain"</title>
+				<rect class="PF01149" x="296" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(124,229,81)" stroke="rgb(99,183,64)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>H2TH (PF06831)
+"Formamidopyrimidine-DNA glycosylase H2TH domain"</title>
+				<polygon class="PF06831" points="308,28 317,38 317,42 308,52" stroke-linejoin="round" width="9" height="24" fill="rgb(57,227,194)" stroke="rgb(45,181,155)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>zf-FPG_IleRS (PF06827)
+"Zinc finger found in FPG and IleRS"</title>
+				<polygon class="PF06827" points="320,41 318,40 320,39" stroke-linejoin="round" width="2" height="24" fill="rgb(167,86,192)" stroke="rgb(133,68,153)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_22)</title>
+			<polygon class=" (ctg6_22)" points="333,40 338,10 338,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg6_23)</title>
+			<polygon class=" (ctg6_23)" points="343,25 375,25 375,10 405,40 375,70 375,55 343,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQHop_cyclase_N (PF13249)
+"Squalene-hopene cyclase N-terminal domain"</title>
+				<rect class="PF13249" x="343" y="28" stroke-linejoin="round" width="28" height="24" fill="rgb(88,190,89)" stroke="rgb(70,152,71)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SQHop_cyclase_C (PF13243)
+"Squalene-hopene cyclase C-terminal domain"</title>
+				<polygon class="PF13243" points="373,28 389,28 401,40 389,52 373,52" stroke-linejoin="round" width="31" height="24" fill="rgb(191,58,201)" stroke="rgb(152,46,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_24)</title>
+			<polygon class=" (ctg6_24)" points="406,40 422,10 422,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg6_25)</title>
+			<polygon class=" (ctg6_25)" points="430,10 441,40 430,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg6_26)</title>
+			<polygon class=" (ctg6_26)" points="442,10 463,40 442,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PspA_IM30 (PF04012)
+"PspA/IM30 family"</title>
+				<polygon class="PF04012" points="442,28 451,28 459,40 451,52 442,52" stroke-linejoin="round" width="21" height="24" fill="rgb(146,222,109)" stroke="rgb(116,177,87)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_27)</title>
+			<polygon class=" (ctg6_27)" points="468,10 492,40 468,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2154 (PF09922)
+"Cell wall-active antibiotics response 4TMS YvqF"</title>
+				<polygon class="PF09922" points="481,31 488,40 481,49" stroke-linejoin="round" width="11" height="24" fill="rgb(190,73,196)" stroke="rgb(152,58,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_28)</title>
+			<polygon class=" (ctg6_28)" points="493,25 497,25 497,10 527,40 497,70 497,55 493,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HisKA_3 (PF07730)
+"Histidine kinase"</title>
+				<polygon class="PF07730" points="507,28 511,28 513,30 513,50 511,52 507,52" stroke-linejoin="round" width="6" height="24" fill="rgb(190,53,146)" stroke="rgb(152,42,116)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HATPase_c (PF02518)
+"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"</title>
+				<polygon class="PF02518" points="517,34 523,40 517,46" stroke-linejoin="round" width="9" height="24" fill="rgb(80,94,225)" stroke="rgb(64,75,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_29)</title>
+			<polygon class=" (ctg6_29)" points="527,10 548,40 527,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="527,28 536,28 538,31 538,49 536,52 527,52" stroke-linejoin="round" width="11" height="24" fill="rgb(100,107,203)" stroke="rgb(80,85,162)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GerE (PF00196)
+"Bacterial regulatory proteins, luxR family"</title>
+				<polygon class="PF00196" points="541,36 544,40 541,44" stroke-linejoin="round" width="5" height="24" fill="rgb(219,94,82)" stroke="rgb(175,75,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_30)</title>
+			<polygon class=" (ctg6_30)" points="561,40 585,10 585,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg6_31)</title>
+			<polygon class=" (ctg6_31)" points="594,10 598,40 594,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg6_32)</title>
+			<polygon class=" (ctg6_32)" points="605,25 637,25 637,10 667,40 637,70 637,55 605,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<rect class="PF00005" x="606" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran_Xtn (PF12848)
+"ABC transporter"</title>
+				<rect class="PF12848" x="628" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(54,177,199)" stroke="rgb(43,141,159)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="640,28 651,28 652,29 652,51 651,52 640,52" stroke-linejoin="round" width="12" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_33)</title>
+			<polygon class=" (ctg6_33)" points="669,40 688,10 688,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Mn_catalase (PF05067)
+"Manganese containing catalase"</title>
+				<polygon class="PF05067" points="673,40 681,28 687,28 687,52 681,52" stroke-linejoin="round" width="18" height="24" fill="rgb(59,189,89)" stroke="rgb(47,151,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_34)</title>
+			<polygon class=" (ctg6_34)" points="688,40 696,10 696,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CotJB (PF12652)
+"CotJB protein"</title>
+				<polygon class="PF12652" points="691,40 695,28 695,28 695,52 695,52" stroke-linejoin="round" width="7" height="24" fill="rgb(124,68,178)" stroke="rgb(99,54,142)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_35)</title>
+			<polygon class=" (ctg6_35)" points="697,40 705,10 705,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CotJA (PF11007)
+"Spore coat associated protein JA (CotJA)"</title>
+				<polygon class="PF11007" points="700,40 701,36 701,44" stroke-linejoin="round" width="3" height="24" fill="rgb(107,186,52)" stroke="rgb(85,148,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

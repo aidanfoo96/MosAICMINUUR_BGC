@@ -1,0 +1,83 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="313.56666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="303.56666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg12_1)</title>
+			<polygon class=" (ctg12_1)" points="33,40 49,10 49,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MobB (PF03205)
+"Molybdopterin guanine dinucleotide synthesis protein B"</title>
+				<polygon class="PF03205" points="36,40 43,28 49,28 49,52 43,52 36,40" stroke-linejoin="round" width="13" height="24" fill="rgb(82,164,191)" stroke="rgb(65,131,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12_2)</title>
+			<polygon class=" (ctg12_2)" points="49,40 68,10 68,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NTP_transf_3 (PF12804)
+"MobA-like NTP transferase domain"</title>
+				<polygon class="PF12804" points="53,40 61,28 67,28 67,52 61,52" stroke-linejoin="round" width="16" height="24" fill="rgb(52,209,196)" stroke="rgb(41,167,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12_3)</title>
+			<polygon class=" (ctg12_3)" points="71,10 80,40 71,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1040 (PF06288)
+"Protein of unknown function (DUF1040)"</title>
+				<polygon class="PF06288" points="71,28 73,28 77,40 73,52 71,52" stroke-linejoin="round" width="8" height="24" fill="rgb(213,91,210)" stroke="rgb(170,72,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12_4)</title>
+			<polygon class=" (ctg12_4)" points="82,25 84,25 84,10 114,40 84,70 84,55 82,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>APH (PF01636)
+"Phosphotransferase enzyme family"</title>
+				<polygon class="PF01636" points="85,28 98,28 108,38 108,42 98,52 85,52" stroke-linejoin="round" width="23" height="24" fill="rgb(106,220,228)" stroke="rgb(84,176,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12_5)</title>
+			<polygon class=" (ctg12_5)" points="115,10 136,40 115,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DSBA (PF01323)
+"DSBA-like thioredoxin domain"</title>
+				<polygon class="PF01323" points="119,28 124,28 132,40 124,52 119,52" stroke-linejoin="round" width="15" height="24" fill="rgb(221,114,99)" stroke="rgb(176,91,79)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12_6)</title>
+			<polygon class=" (ctg12_6)" points="149,25 212,25 212,10 242,40 212,70 212,55 149,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>5_3_exonuc_N (PF02739)
+"5'-3' exonuclease, N-terminal resolvase-like domain"</title>
+				<rect class="PF02739" x="149" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(118,228,108)" stroke="rgb(94,182,86)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>5_3_exonuc (PF01367)
+"5'-3' exonuclease, C-terminal SAM fold"</title>
+				<rect class="PF01367" x="166" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(81,184,187)" stroke="rgb(64,147,149)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DNA_pol_A_exo1 (PF01612)
+"3'-5' exonuclease"</title>
+				<rect class="PF01612" x="182" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(222,60,61)" stroke="rgb(177,48,48)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DNA_pol_A (PF00476)
+"DNA polymerase family A"</title>
+				<polygon class="PF00476" points="203,28 225,28 237,40 225,52 203,52" stroke-linejoin="round" width="37" height="24" fill="rgb(170,75,203)" stroke="rgb(136,60,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg12_7)</title>
+			<polygon class=" (ctg12_7)" points="255,40 276,10 276,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MMR_HSR1 (PF01926)
+"50S ribosome-binding GTPase"</title>
+				<polygon class="PF01926" points="261,37 268,28 272,28 272,52 268,52 261,43" stroke-linejoin="round" width="11" height="24" fill="rgb(105,180,226)" stroke="rgb(83,143,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,118 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="383.23333333333335" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="373.23333333333335" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg8_116)</title>
+			<polygon class=" (ctg8_116)" points="19,25 19,25 19,10 49,40 19,70 19,55 19,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_1 (PF00126)
+"Bacterial regulatory helix-turn-helix protein, lysR family"</title>
+				<rect class="PF00126" x="19" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(125,227,79)" stroke="rgb(99,181,63)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LysR_substrate (PF03466)
+"LysR substrate binding domain"</title>
+				<polygon class="PF03466" points="27,28 32,28 44,40 32,52 27,52" stroke-linejoin="round" width="20" height="24" fill="rgb(55,136,195)" stroke="rgb(44,108,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_117)</title>
+			<polygon class=" (ctg8_117)" points="49,25 56,25 56,10 86,40 56,70 56,55 49,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MR_MLE_N (PF02746)
+"Mandelate racemase / muconate lactonizing enzyme, N-terminal domain"</title>
+				<rect class="PF02746" x="49" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(63,73,226)" stroke="rgb(50,58,180)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MR_MLE_C (PF13378)
+"Enolase C-terminal domain-like"</title>
+				<polygon class="PF13378" points="63,28 69,28 81,40 69,52 63,52" stroke-linejoin="round" width="21" height="24" fill="rgb(191,184,94)" stroke="rgb(152,147,75)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_118)</title>
+			<polygon class=" (ctg8_118)" points="88,10 116,40 88,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Dioxygenase_N (PF04444)
+"Catechol dioxygenase N terminus"</title>
+				<rect class="PF04444" x="91" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(227,109,177)" stroke="rgb(181,87,141)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Dioxygenase_C (PF00775)
+"Dioxygenase"</title>
+				<polygon class="PF00775" points="98,28 100,28 112,40 100,52 98,52" stroke-linejoin="round" width="17" height="24" fill="rgb(96,217,213)" stroke="rgb(76,173,170)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_119)</title>
+			<polygon class=" (ctg8_119)" points="117,10 126,40 117,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MIase (PF02426)
+"Muconolactone delta-isomerase"</title>
+				<polygon class="PF02426" points="117,28 119,28 123,40 119,52 117,52" stroke-linejoin="round" width="8" height="24" fill="rgb(214,164,56)" stroke="rgb(171,131,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_120)</title>
+			<polygon class=" (ctg8_120)" points="126,10 153,40 126,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Abhydrolase_6 (PF12697)
+"Alpha/beta hydrolase family"</title>
+				<polygon class="PF12697" points="128,28 137,28 148,40 137,52 128,52" stroke-linejoin="round" width="23" height="24" fill="rgb(113,71,219)" stroke="rgb(90,56,175)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_121)</title>
+			<polygon class=" (ctg8_121)" points="153,40 166,10 166,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg8_122)</title>
+			<polygon class=" (ctg8_122)" points="166,40 175,10 175,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg8_123)</title>
+			<polygon class=" (ctg8_123)" points="176,40 205,10 205,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF692 (PF05114)
+"Protein of unknown function (DUF692)"</title>
+				<polygon class="PF05114" points="180,40 192,28 205,28 205,52 192,52" stroke-linejoin="round" width="28" height="24" fill="rgb(63,196,127)" stroke="rgb(50,156,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_124)</title>
+			<polygon class=" (ctg8_124)" points="242,25 236,25 236,10 206,40 236,70 236,55 242,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_1_2 (PF00155)
+"Aminotransferase class I and II"</title>
+				<polygon class="PF00155" points="210,40 222,28 239,28 239,52 222,52" stroke-linejoin="round" width="33" height="24" fill="rgb(89,113,198)" stroke="rgb(71,90,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_125)</title>
+			<polygon class=" (ctg8_125)" points="243,40 254,10 254,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Fer4 (PF00037)
+"4Fe-4S binding domain"</title>
+				<polygon class="PF00037" points="248,35 250,28 250,28 250,52 250,52 248,45" stroke-linejoin="round" width="2" height="24" fill="rgb(226,193,80)" stroke="rgb(180,154,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_126)</title>
+			<polygon class=" (ctg8_126)" points="258,25 268,25 268,10 298,40 268,70 268,55 258,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Nucleos_tra2_N (PF01773)
+"Na+ dependent nucleoside transporter N-terminus"</title>
+				<rect class="PF01773" x="258" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(127,66,183)" stroke="rgb(101,52,146)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Nucleos_tra2_C (PF07662)
+"Na+ dependent nucleoside transporter C-terminus"</title>
+				<polygon class="PF07662" points="277,28 282,28 294,40 282,52 277,52" stroke-linejoin="round" width="20" height="24" fill="rgb(169,225,108)" stroke="rgb(135,180,86)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_127)</title>
+			<polygon class=" (ctg8_127)" points="302,40 327,10 327,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

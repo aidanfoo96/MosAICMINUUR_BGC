@@ -1,0 +1,23 @@
+#                                                                                                                                          --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                         accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                               -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PS-DH                PF14765.9    297 VD34_contigs.fa_antismash_contig00065.region001_ORF1:gid::pid::loc:2:5147:strand:+ -           1715   9.5e-49  166.4   2.0   1   1   1.1e-51   1.9e-48  165.4   2.0     1   294   314   604   314   607 0.94 Polyketide synthase dehydratase
+KR                   PF08659.13   180 VD34_contigs.fa_antismash_contig00065.region001_ORF1:gid::pid::loc:2:5147:strand:+ -           1715   9.4e-38  130.0   0.0   1   1     1e-40   1.8e-37  129.1   0.0     1   179   835  1013   835  1014 0.97 KR domain
+Ketoacyl-synt_C      PF02801.25   119 VD34_contigs.fa_antismash_contig00065.region001_ORF1:gid::pid::loc:2:5147:strand:+ -           1715   2.6e-20   72.7   0.7   1   1   3.9e-23     7e-20   71.3   0.3    55   118     1    63     1    64 0.97 Beta-ketoacyl synthase, C-terminal domain
+Methyltransf_12      PF08242.15    99 VD34_contigs.fa_antismash_contig00065.region001_ORF1:gid::pid::loc:2:5147:strand:+ -           1715   3.8e-16   59.8   0.0   1   1   1.1e-18     2e-15   57.5   0.0     1    99  1278  1382  1278  1382 0.88 Methyltransferase domain
+PP-binding           PF00550.28    67 VD34_contigs.fa_antismash_contig00065.region001_ORF1:gid::pid::loc:2:5147:strand:+ -           1715   4.1e-13   49.5   0.0   1   1   7.1e-16   1.3e-12   48.0   0.0     1    67  1532  1597  1532  1597 0.97 Phosphopantetheine attachment site
+KAsynt_C_assoc       PF16197.8    112 VD34_contigs.fa_antismash_contig00065.region001_ORF1:gid::pid::loc:2:5147:strand:+ -           1715   1.1e-11   45.3   0.0   1   1   1.2e-14   2.1e-11   44.4   0.0     1   108    66   189    66   193 0.85 Ketoacyl-synthetase C-terminal extension
+ketoacyl-synt        PF00109.29   253 VD34_contigs.fa_antismash_contig00065.region001_ORF1:gid::pid::loc:2:5147:strand:+ -           1715   1.2e-10   41.5   0.0   1   1   1.2e-13   2.2e-10   40.7   0.0     2    43  1673  1714  1672  1715 0.95 Beta-ketoacyl synthase, N-terminal domain
+Methyltransf_25      PF13649.9     97 VD34_contigs.fa_antismash_contig00065.region001_ORF1:gid::pid::loc:2:5147:strand:+ -           1715   2.8e-09   37.7   0.0   1   1   6.9e-12   1.2e-08   35.6   0.0     1    97  1277  1380  1277  1380 0.87 Methyltransferase domain
+Methyltransf_23      PF13489.9    165 VD34_contigs.fa_antismash_contig00065.region001_ORF1:gid::pid::loc:2:5147:strand:+ -           1715   4.8e-09   36.4   0.0   1   1   5.5e-12   9.9e-09   35.3   0.0    11   125  1261  1393  1249  1439 0.69 Methyltransferase domain
+Methyltransf_11      PF08241.15    96 VD34_contigs.fa_antismash_contig00065.region001_ORF1:gid::pid::loc:2:5147:strand:+ -           1715   4.1e-07   30.7   0.0   1   1   7.8e-10   1.4e-06   29.0   0.0     1    95  1278  1383  1278  1384 0.86 Methyltransferase domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/VD34_contigs.fa_antismash_contig00065.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/VD34_contigs.fa_antismash_contig00065.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/VD34_contigs.fa_antismash_contig00065.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 23:24:04 2024
+# [ok]

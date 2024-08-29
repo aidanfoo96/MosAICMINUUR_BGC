@@ -1,0 +1,16 @@
+#                                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+IucA_IucC            PF04183.15   239 SRR18172542.4.fa_antismash_k141_430675.region001_ORF1:gid::pid::loc:58:1792:strand:+ -            577   6.7e-69  232.2   0.0   1   1   1.1e-72   1.1e-68  231.5   0.0     7   238   130   372   125   373 0.97 IucA / IucC family
+FhuF                 PF06276.15   163 SRR18172542.4.fa_antismash_k141_430675.region001_ORF1:gid::pid::loc:58:1792:strand:+ -            577   2.3e-35  122.5   0.4   1   1   4.9e-39   4.8e-35  121.5   0.4     1   160   394   553   394   556 0.95 Ferric iron reductase FhuF-like transporter
+Lys_Orn_oxgnase      PF13434.9    341 SRR18172542.4.fa_antismash_k141_430675.region001_ORF2:gid::pid::loc:1795:2062:strand:+ -             89   2.2e-39  135.7   0.1   1   1   1.2e-43   2.4e-39  135.5   0.1     2    86     4    88     3    89 0.98 L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/SRR18172542.4.fa_antismash_k141_430675.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/SRR18172542.4.fa_antismash_k141_430675.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/SRR18172542.4.fa_antismash_k141_430675.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Fri Feb  2 00:05:03 2024
+# [ok]

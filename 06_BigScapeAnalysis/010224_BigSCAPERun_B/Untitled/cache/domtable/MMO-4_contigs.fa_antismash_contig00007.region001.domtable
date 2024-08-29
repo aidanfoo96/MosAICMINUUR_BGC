@@ -1,0 +1,22 @@
+#                                                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ABC_tran             PF00005.30   137 MMO-4_contigs.fa_antismash_contig00007.region001_ORF1:gid::pid::loc:276:1077:strand:- -            266   2.9e-32  112.2   0.0   1   1   3.6e-36   3.5e-32  111.9   0.0     1   137    18   167    18   167 0.93 ABC transporter
+FecCD                PF01032.21   312 MMO-4_contigs.fa_antismash_contig00007.region001_ORF2:gid::pid::loc:1073:2138:strand:- -            354   2.5e-92  309.3  39.7   1   1   1.6e-96   3.1e-92  309.0  39.7     2   312    23   345    21   345 0.98 FecCD transport family
+Peptidase_S9         PF00326.24   212 MMO-4_contigs.fa_antismash_contig00007.region001_ORF3:gid::pid::loc:2134:3880:strand:- -            581   5.9e-26   91.4   0.0   1   1     4e-30   7.8e-26   91.0   0.0     3   210   366   577   364   579 0.89 Prolyl oligopeptidase family
+YcaO                 PF02624.19   322 MMO-4_contigs.fa_antismash_contig00007.region001_ORF6:gid::pid::loc:5000:7364:strand:+ -            787   6.5e-41  140.8   3.8   1   1   1.2e-44   1.1e-40  140.0   3.8     7   321   395   743   392   744 0.83 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+Peptidase_S15        PF02129.21   269 MMO-4_contigs.fa_antismash_contig00007.region001_ORF6:gid::pid::loc:5000:7364:strand:+ -            787   4.5e-14   52.8   0.7   1   1   2.2e-17   2.1e-13   50.6   0.4     1   267    17   259    17   260 0.76 X-Pro dipeptidyl-peptidase (S15 family)
+ABC_tran             PF00005.30   137 MMO-4_contigs.fa_antismash_contig00007.region001_ORF8:gid::pid::loc:8403:10071:strand:+ -            555   3.1e-25   89.4   0.0   1   1     7e-29   4.6e-25   88.9   0.0     2   137   361   501   360   501 0.86 ABC transporter
+ABC_membrane         PF00664.26   274 MMO-4_contigs.fa_antismash_contig00007.region001_ORF8:gid::pid::loc:8403:10071:strand:+ -            555   4.1e-09   36.6   0.0   1   1   7.5e-13   4.9e-09   36.4   0.0     2   267    19   281    18   288 0.93 ABC transporter transmembrane region
+ABC_tran             PF00005.30   137 MMO-4_contigs.fa_antismash_contig00007.region001_ORF9:gid::pid::loc:10067:11786:strand:+ -            572   9.9e-25   87.8   0.0   1   1   1.6e-28   1.6e-24   87.1   0.0     3   137   363   512   361   512 0.88 ABC transporter
+ABC_membrane         PF00664.26   274 MMO-4_contigs.fa_antismash_contig00007.region001_ORF9:gid::pid::loc:10067:11786:strand:+ -            572   1.6e-12   47.8   0.4   1   1   2.5e-16   2.5e-12   47.2   0.4    11   248    34   267    23   271 0.89 ABC transporter transmembrane region
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/MMO-4_contigs.fa_antismash_contig00007.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/MMO-4_contigs.fa_antismash_contig00007.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/MMO-4_contigs.fa_antismash_contig00007.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 18:13:10 2024
+# [ok]

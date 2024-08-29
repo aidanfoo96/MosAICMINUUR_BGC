@@ -1,0 +1,21 @@
+#                                                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Condensation         PF00668.23   457 ERR4065CAT_bins.3.fa_antismash_k141_12173.region001_ORF1:gid::pid::loc:0:3240:strand:- -           1080    5e-116  388.2   0.0   1   1  1.5e-119  7.1e-116  387.7   0.0     4   453    44   486    41   488 0.96 Condensation domain
+AMP-binding          PF00501.31   424 ERR4065CAT_bins.3.fa_antismash_k141_12173.region001_ORF1:gid::pid::loc:0:3240:strand:- -           1080   1.4e-98  330.4   0.0   1   1  4.5e-102   2.2e-98  329.8   0.0     2   424   507   907   506   907 0.89 AMP-binding enzyme
+PP-binding           PF00550.28    67 ERR4065CAT_bins.3.fa_antismash_k141_12173.region001_ORF1:gid::pid::loc:0:3240:strand:- -           1080   2.5e-13   50.3   0.1   1   1   1.8e-16   8.6e-13   48.5   0.1     1    64  1019  1080  1019  1080 0.92 Phosphopantetheine attachment site
+AMP-binding_C        PF13193.9     76 ERR4065CAT_bins.3.fa_antismash_k141_12173.region001_ORF1:gid::pid::loc:0:3240:strand:- -           1080     8e-12   46.1   0.0   1   1   7.2e-15   3.5e-11   44.0   0.0     1    76   915   992   915   992 0.90 AMP-binding enzyme C-terminal domain
+AMP-binding          PF00501.31   424 ERR4065CAT_bins.3.fa_antismash_k141_12173.region001_ORF2:gid::pid::loc:3255:6183:strand:- -            975  2.5e-101  339.5   0.0   1   1  6.7e-105  3.3e-101  339.1   0.0     2   424   373   765   372   765 0.89 AMP-binding enzyme
+Condensation         PF00668.23   457 ERR4065CAT_bins.3.fa_antismash_k141_12173.region001_ORF2:gid::pid::loc:3255:6183:strand:- -            975   1.8e-87  294.1   0.1   1   1   5.1e-91   2.5e-87  293.6   0.1   101   454     2   349     1   352 0.96 Condensation domain
+PP-binding           PF00550.28    67 ERR4065CAT_bins.3.fa_antismash_k141_12173.region001_ORF2:gid::pid::loc:3255:6183:strand:- -            975   7.7e-16   58.3   0.5   1   1   6.7e-19   3.3e-15   56.3   0.2     2    66   878   940   877   941 0.94 Phosphopantetheine attachment site
+AMP-binding_C        PF13193.9     76 ERR4065CAT_bins.3.fa_antismash_k141_12173.region001_ORF2:gid::pid::loc:3255:6183:strand:- -            975   2.1e-14   54.4   0.0   1   1   2.3e-17   1.1e-13   52.1   0.0     1    76   773   850   773   850 0.90 AMP-binding enzyme C-terminal domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/ERR4065CAT_bins.3.fa_antismash_k141_12173.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/ERR4065CAT_bins.3.fa_antismash_k141_12173.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/ERR4065CAT_bins.3.fa_antismash_k141_12173.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 22:31:20 2024
+# [ok]

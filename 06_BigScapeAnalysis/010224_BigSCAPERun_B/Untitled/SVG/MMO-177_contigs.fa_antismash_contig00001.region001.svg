@@ -1,0 +1,176 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="755.4" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="745.4" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg1_223)</title>
+			<polygon class=" (ctg1_223)" points="11,25 40,25 40,10 70,40 40,70 40,55 11,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>His_kinase (PF06580)
+"Histidine kinase"</title>
+				<polygon class="PF06580" points="48,28 53,28 55,30 55,50 53,52 48,52" stroke-linejoin="round" width="7" height="24" fill="rgb(87,219,195)" stroke="rgb(69,175,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_224)</title>
+			<polygon class=" (ctg1_224)" points="73,25 96,25 96,10 126,40 96,70 96,55 73,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<rect class="PF00072" x="73" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(100,107,203)" stroke="rgb(80,85,162)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_18 (PF12833)
+"Helix-turn-helix domain"</title>
+				<polygon class="PF12833" points="118,36 122,40 118,44" stroke-linejoin="round" width="7" height="24" fill="rgb(216,58,224)" stroke="rgb(172,46,179)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_225)</title>
+			<polygon class=" (ctg1_225)" points="180,25 159,25 159,10 129,40 159,70 159,55 180,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF3502 (PF12010)
+"Domain of unknown function (DUF3502)"</title>
+				<polygon class="PF12010" points="133,40 142,31 142,49" stroke-linejoin="round" width="13" height="24" fill="rgb(200,91,199)" stroke="rgb(160,72,159)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SBP_bac_1 (PF01547)
+"Bacterial extracellular solute-binding protein"</title>
+				<polygon class="PF01547" points="143,30 145,28 173,28 173,52 145,52 143,50" stroke-linejoin="round" width="30" height="24" fill="rgb(195,119,75)" stroke="rgb(156,95,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_226)</title>
+			<polygon class=" (ctg1_226)" points="213,25 213,25 213,10 183,40 213,70 213,55 213,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BPD_transp_1 (PF00528)
+"Binding-protein-dependent transport system inner membrane component"</title>
+				<polygon class="PF00528" points="187,40 199,28 211,28 211,52 199,52" stroke-linejoin="round" width="28" height="24" fill="rgb(77,208,225)" stroke="rgb(61,166,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_227)</title>
+			<polygon class=" (ctg1_227)" points="244,25 244,25 244,10 214,40 244,70 244,55 244,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BPD_transp_1 (PF00528)
+"Binding-protein-dependent transport system inner membrane component"</title>
+				<polygon class="PF00528" points="218,40 230,28 235,28 235,52 230,52" stroke-linejoin="round" width="21" height="24" fill="rgb(77,208,225)" stroke="rgb(61,166,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_228)</title>
+			<polygon class=" (ctg1_228)" points="248,40 260,10 260,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Mn_catalase (PF05067)
+"Manganese containing catalase"</title>
+				<polygon class="PF05067" points="251,40 256,28 259,28 259,52 256,52" stroke-linejoin="round" width="11" height="24" fill="rgb(59,189,89)" stroke="rgb(47,151,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_229)</title>
+			<polygon class=" (ctg1_229)" points="264,40 283,10 283,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Mntp (PF02659)
+"Putative manganese efflux pump"</title>
+				<polygon class="PF02659" points="268,40 276,28 280,28 280,52 276,52" stroke-linejoin="round" width="15" height="24" fill="rgb(214,151,96)" stroke="rgb(171,120,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_230)</title>
+			<polygon class=" (ctg1_230)" points="288,10 302,40 288,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_231)</title>
+			<polygon class=" (ctg1_231)" points="312,25 312,25 312,10 342,40 312,70 312,55 312,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lactamase_B_2 (PF12706)
+"Beta-lactamase superfamily domain"</title>
+				<polygon class="PF12706" points="317,28 326,28 338,40 326,52 317,52" stroke-linejoin="round" width="22" height="24" fill="rgb(62,169,197)" stroke="rgb(49,135,157)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_232)</title>
+			<polygon class=" (ctg1_232)" points="343,10 366,40 343,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TENA_THI-4 (PF03070)
+"TENA/THI-4/PQQC family"</title>
+				<polygon class="PF03070" points="344,28 353,28 362,40 353,52 344,52" stroke-linejoin="round" width="21" height="24" fill="rgb(95,149,219)" stroke="rgb(76,119,175)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_233)</title>
+			<polygon class=" (ctg1_233)" points="367,10 376,40 367,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PqqD (PF05402)
+"Coenzyme PQQ synthesis protein D (PqqD)"</title>
+				<polygon class="PF05402" points="369,28 369,28 373,40 369,52 369,52" stroke-linejoin="round" width="6" height="24" fill="rgb(124,62,188)" stroke="rgb(99,49,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_234)</title>
+			<polygon class=" (ctg1_234)" points="375,25 381,25 381,10 411,40 381,70 381,55 375,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<rect class="PF04055" x="376" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SPASM (PF13186)
+"Iron-sulfur cluster-binding domain"</title>
+				<polygon class="PF13186" points="398,32 404,38 404,42 398,48" stroke-linejoin="round" width="6" height="24" fill="rgb(183,66,65)" stroke="rgb(146,52,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_235)</title>
+			<polygon class=" (ctg1_235)" points="412,25 413,25 413,10 443,40 413,70 413,55 412,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M19 (PF01244)
+"Membrane dipeptidase (Peptidase family M19)"</title>
+				<polygon class="PF01244" points="412,28 427,28 439,40 427,52 412,52" stroke-linejoin="round" width="30" height="24" fill="rgb(178,227,92)" stroke="rgb(142,181,73)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_236)</title>
+			<polygon class=" (ctg1_236)" points="480,25 473,25 473,10 443,40 473,70 473,55 480,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_237)</title>
+			<polygon class=" (ctg1_237)" points="540,25 513,25 513,10 483,40 513,70 513,55 540,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PQQ_2 (PF13360)
+"PQQ-like domain"</title>
+				<polygon class="PF13360" points="487,40 494,33 494,47" stroke-linejoin="round" width="9" height="24" fill="rgb(98,210,146)" stroke="rgb(78,168,116)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PQQ_2 (PF13360)
+"PQQ-like domain"</title>
+				<rect class="PF13360" x="514" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(98,210,146)" stroke="rgb(78,168,116)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_238)</title>
+			<polygon class=" (ctg1_238)" points="546,40 554,10 554,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_239)</title>
+			<polygon class=" (ctg1_239)" points="562,10 575,40 562,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cupredoxin_1 (PF13473)
+"Cupredoxin-like domain"</title>
+				<polygon class="PF13473" points="563,28 566,28 572,40 566,52 563,52" stroke-linejoin="round" width="12" height="24" fill="rgb(54,142,203)" stroke="rgb(43,113,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_240)</title>
+			<polygon class=" (ctg1_240)" points="584,40 595,10 595,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Mn_catalase (PF05067)
+"Manganese containing catalase"</title>
+				<polygon class="PF05067" points="587,40 592,28 595,28 595,52 592,52" stroke-linejoin="round" width="11" height="24" fill="rgb(59,189,89)" stroke="rgb(47,151,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_241)</title>
+			<polygon class=" (ctg1_241)" points="604,40 630,10 630,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

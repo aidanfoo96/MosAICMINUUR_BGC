@@ -1,0 +1,188 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="709.5666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="699.5666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg2_256)</title>
+			<polygon class=" (ctg2_256)" points="10,10 39,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>4HBT_3 (PF13622)
+"Thioesterase-like superfamily"</title>
+				<polygon class="PF13622" points="12,28 23,28 34,39 34,41 23,52 12,52" stroke-linejoin="round" width="22" height="24" fill="rgb(136,87,203)" stroke="rgb(108,69,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_257)</title>
+			<polygon class=" (ctg2_257)" points="41,10 66,40 41,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AP_endonuc_2 (PF01261)
+"Xylose isomerase-like TIM barrel"</title>
+				<polygon class="PF01261" points="42,28 52,28 62,40 52,52 42,52" stroke-linejoin="round" width="24" height="24" fill="rgb(69,222,207)" stroke="rgb(55,177,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_258)</title>
+			<polygon class=" (ctg2_258)" points="71,25 101,25 101,10 131,40 101,70 101,55 71,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AcylCoA_DH_N (PF12418)
+"Acyl-CoA dehydrogenase N terminal"</title>
+				<rect class="PF12418" x="71" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(209,59,129)" stroke="rgb(167,47,103)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl-CoA_dh_M (PF02770)
+"Acyl-CoA dehydrogenase, middle domain"</title>
+				<rect class="PF02770" x="87" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(225,186,97)" stroke="rgb(180,148,77)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl-CoA_dh_1 (PF00441)
+"Acyl-CoA dehydrogenase, C-terminal domain"</title>
+				<polygon class="PF00441" points="99,28 115,28 116,29 116,51 115,52 99,52" stroke-linejoin="round" width="17" height="24" fill="rgb(85,191,117)" stroke="rgb(68,152,93)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl-CoA_dh_C (PF12806)
+"Acetyl-CoA dehydrogenase C-terminal like"</title>
+				<polygon class="PF12806" points="118,31 127,40 118,49" stroke-linejoin="round" width="13" height="24" fill="rgb(208,149,57)" stroke="rgb(166,119,45)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_259)</title>
+			<polygon class=" (ctg2_259)" points="183,25 166,25 166,10 136,40 166,70 166,55 183,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="141,39 152,28 154,28 154,52 152,52 141,41" stroke-linejoin="round" width="13" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<rect class="PF00005" x="166" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_260)</title>
+			<polygon class=" (ctg2_260)" points="183,40 211,10 211,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BPD_transp_1 (PF00528)
+"Binding-protein-dependent transport system inner membrane component"</title>
+				<polygon class="PF00528" points="187,40 198,28 200,28 200,52 198,52" stroke-linejoin="round" width="17" height="24" fill="rgb(77,208,225)" stroke="rgb(61,166,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_261)</title>
+			<polygon class=" (ctg2_261)" points="243,25 242,25 242,10 212,40 242,70 242,55 243,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BPD_transp_1 (PF00528)
+"Binding-protein-dependent transport system inner membrane component"</title>
+				<polygon class="PF00528" points="216,40 228,28 231,28 231,52 228,52" stroke-linejoin="round" width="19" height="24" fill="rgb(77,208,225)" stroke="rgb(61,166,180)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>BPD_transp_1_N (PF19300)
+"Binding-prot-dependent transport system membrane comp, N-term"</title>
+				<rect class="PF19300" x="232" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(201,94,75)" stroke="rgb(160,75,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_262)</title>
+			<polygon class=" (ctg2_262)" points="295,25 273,25 273,10 243,40 273,70 273,55 295,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SBP_bac_5 (PF00496)
+"Bacterial extracellular solute-binding proteins, family 5 Middle"</title>
+				<polygon class="PF00496" points="251,36 259,28 288,28 288,52 259,52 251,44" stroke-linejoin="round" width="37" height="24" fill="rgb(199,94,116)" stroke="rgb(159,75,92)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_263)</title>
+			<polygon class=" (ctg2_263)" points="344,25 326,25 326,10 296,40 326,70 326,55 344,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="301,39 312,28 340,28 340,52 312,52 301,41" stroke-linejoin="round" width="39" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_264)</title>
+			<polygon class=" (ctg2_264)" points="343,40 365,10 365,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2_265)</title>
+			<polygon class=" (ctg2_265)" points="366,40 393,10 393,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>2OG-FeII_Oxy_3 (PF13640)
+"2OG-Fe(II) oxygenase superfamily"</title>
+				<polygon class="PF13640" points="370,40 378,31 378,49" stroke-linejoin="round" width="11" height="24" fill="rgb(163,67,223)" stroke="rgb(130,53,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_266)</title>
+			<polygon class=" (ctg2_266)" points="529,25 435,25 435,10 405,40 435,70 435,55 529,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>WD40 (PF00400)
+"WD domain, G-beta repeat"</title>
+				<rect class="PF00400" x="453" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(190,108,62)" stroke="rgb(152,86,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>WD40 (PF00400)
+"WD domain, G-beta repeat"</title>
+				<rect class="PF00400" x="458" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(190,108,62)" stroke="rgb(152,86,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>WD40 (PF00400)
+"WD domain, G-beta repeat"</title>
+				<rect class="PF00400" x="462" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(190,108,62)" stroke="rgb(152,86,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>WD40 (PF00400)
+"WD domain, G-beta repeat"</title>
+				<rect class="PF00400" x="467" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(190,108,62)" stroke="rgb(152,86,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AAA_16 (PF13191)
+"AAA ATPase domain"</title>
+				<rect class="PF13191" x="497" y="28" stroke-linejoin="round" width="20" height="24" fill="rgb(186,102,77)" stroke="rgb(148,81,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_267)</title>
+			<polygon class=" (ctg2_267)" points="537,10 542,40 537,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2_268)</title>
+			<polygon class=" (ctg2_268)" points="546,40 556,10 556,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_20 (PF12840)
+"Helix-turn-helix domain"</title>
+				<polygon class="PF12840" points="549,40 553,28 554,28 554,52 553,52 549,40" stroke-linejoin="round" width="5" height="24" fill="rgb(157,225,93)" stroke="rgb(125,180,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_269)</title>
+			<polygon class=" (ctg2_269)" points="560,25 570,25 570,10 600,40 570,70 570,55 560,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="562,28 584,28 596,40 596,40 584,52 562,52" stroke-linejoin="round" width="34" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_270)</title>
+			<polygon class=" (ctg2_270)" points="603,40 620,10 620,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ACT_6 (PF13740)
+"ACT domain"</title>
+				<polygon class="PF13740" points="606,40 611,31 611,49" stroke-linejoin="round" width="8" height="24" fill="rgb(99,192,209)" stroke="rgb(79,153,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ACT_6 (PF13740)
+"ACT domain"</title>
+				<polygon class="PF13740" points="612,29 613,28 619,28 619,52 613,52 612,51" stroke-linejoin="round" width="7" height="24" fill="rgb(99,192,209)" stroke="rgb(79,153,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_271)</title>
+			<polygon class=" (ctg2_271)" points="627,10 649,40 627,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2_272)</title>
+			<polygon class=" (ctg2_272)" points="652,10 673,40 652,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,78 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="287.9" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="277.9" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg196_3)</title>
+			<polygon class=" (ctg196_3)" points="52,40 58,10 58,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SASP (PF00269)
+"Small, acid-soluble spore proteins, alpha/beta type"</title>
+				<polygon class="PF00269" points="55,40 57,31 57,49" stroke-linejoin="round" width="5" height="24" fill="rgb(108,209,56)" stroke="rgb(86,167,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg196_4)</title>
+			<polygon class=" (ctg196_4)" points="63,40 91,10 91,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AP_endonuc_2 (PF01261)
+"Xylose isomerase-like TIM barrel"</title>
+				<polygon class="PF01261" points="67,40 78,28 88,28 88,52 78,52" stroke-linejoin="round" width="25" height="24" fill="rgb(69,222,207)" stroke="rgb(55,177,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg196_5)</title>
+			<polygon class=" (ctg196_5)" points="125,25 123,25 123,10 93,40 123,70 123,55 125,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF6005 (PF19468)
+"Family of unknown function (DUF6005)"</title>
+				<polygon class="PF19468" points="97,40 109,28 125,28 125,52 109,52" stroke-linejoin="round" width="32" height="24" fill="rgb(160,201,100)" stroke="rgb(128,160,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg196_6)</title>
+			<polygon class=" (ctg196_6)" points="126,40 135,10 135,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg196_7)</title>
+			<polygon class=" (ctg196_7)" points="176,25 165,25 165,10 135,40 165,70 165,55 176,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<polygon class="PF13193" points="139,40 143,36 143,44" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="147,32 151,28 171,28 171,52 151,52 147,48" stroke-linejoin="round" width="24" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg196_8)</title>
+			<polygon class=" (ctg196_8)" points="237,25 206,25 206,10 176,40 206,70 206,55 237,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="180,40 192,28 195,28 195,52 192,52" stroke-linejoin="round" width="17" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<rect class="PF04183" x="198" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg196_9)</title>
+			<polygon class=" (ctg196_9)" points="276,25 269,25 269,10 239,40 269,70 269,55 276,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="243,40 255,28 257,28 257,52 255,52" stroke-linejoin="round" width="16" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<rect class="PF04183" x="260" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,109 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="379.23333333333335" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="369.23333333333335" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg15_96)</title>
+			<polygon class=" (ctg15_96)" points="17,25 29,25 29,10 59,40 29,70 29,55 17,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg15_97)</title>
+			<polygon class=" (ctg15_97)" points="102,25 94,25 94,10 64,40 94,70 94,55 102,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4113 (PF13438)
+"Domain of unknown function (DUF4113)"</title>
+				<polygon class="PF13438" points="68,40 69,39 69,41" stroke-linejoin="round" width="5" height="24" fill="rgb(228,106,127)" stroke="rgb(182,84,101)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>IMS_C (PF11799)
+"impB/mucB/samB family C-terminal domain"</title>
+				<polygon class="PF11799" points="70,38 80,28 81,28 81,52 80,52 70,42" stroke-linejoin="round" width="11" height="24" fill="rgb(68,195,187)" stroke="rgb(54,156,149)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>IMS (PF00817)
+"impB/mucB/samB family"</title>
+				<rect class="PF00817" x="91" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(187,207,75)" stroke="rgb(149,165,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg15_98)</title>
+			<polygon class=" (ctg15_98)" points="148,25 148,25 148,10 118,40 148,70 148,55 148,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LysR_substrate (PF03466)
+"LysR substrate binding domain"</title>
+				<polygon class="PF03466" points="122,40 134,28 138,28 138,52 134,52" stroke-linejoin="round" width="20" height="24" fill="rgb(55,136,195)" stroke="rgb(44,108,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_1 (PF00126)
+"Bacterial regulatory helix-turn-helix protein, lysR family"</title>
+				<rect class="PF00126" x="141" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(125,227,79)" stroke="rgb(99,181,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg15_99)</title>
+			<polygon class=" (ctg15_99)" points="155,10 175,40 155,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg15_100)</title>
+			<polygon class=" (ctg15_100)" points="176,10 201,40 176,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AfsA (PF03756)
+"A-factor biosynthesis hotdog domain"</title>
+				<polygon class="PF03756" points="184,28 188,28 197,39 197,41 188,52 184,52" stroke-linejoin="round" width="13" height="24" fill="rgb(178,81,93)" stroke="rgb(142,64,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg15_101)</title>
+			<polygon class=" (ctg15_101)" points="202,10 229,40 202,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg15_102)</title>
+			<polygon class=" (ctg15_102)" points="230,10 237,40 230,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Tautomerase (PF01361)
+"Tautomerase enzyme"</title>
+				<polygon class="PF01361" points="230,28 230,28 234,40 230,52 230,52" stroke-linejoin="round" width="5" height="24" fill="rgb(223,210,102)" stroke="rgb(178,168,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg15_103)</title>
+			<polygon class=" (ctg15_103)" points="238,10 259,40 238,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HAD (PF12710)
+"haloacid dehalogenase-like hydrolase"</title>
+				<polygon class="PF12710" points="238,28 247,28 255,40 247,52 238,52" stroke-linejoin="round" width="18" height="24" fill="rgb(181,59,119)" stroke="rgb(144,47,95)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg15_104)</title>
+			<polygon class=" (ctg15_104)" points="260,25 270,25 270,10 300,40 270,70 270,55 260,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="261,28 284,28 293,37 293,43 284,52 261,52" stroke-linejoin="round" width="32" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg15_105)</title>
+			<polygon class=" (ctg15_105)" points="300,10 313,40 300,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CMD (PF02627)
+"Carboxymuconolactone decarboxylase family"</title>
+				<polygon class="PF02627" points="303,28 304,28 310,40 304,52 303,52" stroke-linejoin="round" width="8" height="24" fill="rgb(58,205,164)" stroke="rgb(46,164,131)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg15_106)</title>
+			<polygon class=" (ctg15_106)" points="314,25 323,25 323,10 353,40 323,70 323,55 314,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Thiolase_N (PF00108)
+"Thiolase, N-terminal domain"</title>
+				<polygon class="PF00108" points="314,28 337,28 339,30 339,50 337,52 314,52" stroke-linejoin="round" width="25" height="24" fill="rgb(82,90,195)" stroke="rgb(65,72,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Thiolase_C (PF02803)
+"Thiolase, C-terminal domain"</title>
+				<polygon class="PF02803" points="341,32 349,40 341,48" stroke-linejoin="round" width="12" height="24" fill="rgb(218,187,56)" stroke="rgb(174,149,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

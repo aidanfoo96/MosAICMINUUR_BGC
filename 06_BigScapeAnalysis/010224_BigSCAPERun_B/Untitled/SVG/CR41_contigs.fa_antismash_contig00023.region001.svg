@@ -1,0 +1,184 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="710.3333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="700.3333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg23_18)</title>
+			<polygon class=" (ctg23_18)" points="34,10 43,40 34,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg23_19)</title>
+			<polygon class=" (ctg23_19)" points="46,25 51,25 51,10 81,40 51,70 51,55 46,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sulf_transp (PF04143)
+"Sulphur transport"</title>
+				<polygon class="PF04143" points="48,28 64,28 76,40 64,52 48,52" stroke-linejoin="round" width="31" height="24" fill="rgb(166,79,214)" stroke="rgb(132,63,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg23_20)</title>
+			<polygon class=" (ctg23_20)" points="83,10 90,40 83,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TusA (PF01206)
+"Sulfurtransferase TusA"</title>
+				<polygon class="PF01206" points="83,28 83,28 87,40 83,52 83,52" stroke-linejoin="round" width="7" height="24" fill="rgb(144,82,184)" stroke="rgb(115,65,147)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg23_21)</title>
+			<polygon class=" (ctg23_21)" points="104,25 115,25 115,10 145,40 115,70 115,55 104,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ammonium_transp (PF00909)
+"Ammonium Transporter Family"</title>
+				<polygon class="PF00909" points="104,28 129,28 141,40 129,52 104,52" stroke-linejoin="round" width="39" height="24" fill="rgb(94,77,188)" stroke="rgb(75,61,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg23_22)</title>
+			<polygon class=" (ctg23_22)" points="151,25 152,25 152,10 182,40 152,70 152,55 151,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LacI (PF00356)
+"Bacterial regulatory proteins, lacI family"</title>
+				<rect class="PF00356" x="151" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(66,188,63)" stroke="rgb(52,150,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Peripla_BP_4 (PF13407)
+"Periplasmic binding protein domain"</title>
+				<polygon class="PF13407" points="157,28 166,28 178,40 166,52 157,52" stroke-linejoin="round" width="24" height="24" fill="rgb(124,182,50)" stroke="rgb(99,145,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg23_23)</title>
+			<polygon class=" (ctg23_23)" points="191,25 210,25 210,10 240,40 210,70 210,55 191,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_hydro_32N (PF00251)
+"Glycosyl hydrolases family 32 N-terminal domain"</title>
+				<polygon class="PF00251" points="194,28 223,28 224,29 224,51 223,52 194,52" stroke-linejoin="round" width="30" height="24" fill="rgb(108,183,84)" stroke="rgb(86,146,67)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glyco_hydro_32C (PF08244)
+"Glycosyl hydrolases family 32 C terminal"</title>
+				<polygon class="PF08244" points="225,30 235,40 225,50" stroke-linejoin="round" width="14" height="24" fill="rgb(209,64,201)" stroke="rgb(167,51,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg23_24)</title>
+			<polygon class=" (ctg23_24)" points="240,25 242,25 242,10 272,40 242,70 242,55 240,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PfkB (PF00294)
+"pfkB family carbohydrate kinase"</title>
+				<polygon class="PF00294" points="240,28 255,28 267,40 255,52 240,52" stroke-linejoin="round" width="31" height="24" fill="rgb(153,96,212)" stroke="rgb(122,76,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg23_25)</title>
+			<polygon class=" (ctg23_25)" points="275,40 298,10 298,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LytTR (PF04397)
+"LytTr DNA-binding domain"</title>
+				<polygon class="PF04397" points="279,40 283,35 283,45" stroke-linejoin="round" width="8" height="24" fill="rgb(207,76,174)" stroke="rgb(165,60,139)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="286,31 289,28 297,28 297,52 289,52 286,49" stroke-linejoin="round" width="11" height="24" fill="rgb(100,107,203)" stroke="rgb(80,85,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg23_26)</title>
+			<polygon class=" (ctg23_26)" points="342,25 329,25 329,10 299,40 329,70 329,55 342,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HATPase_c_5 (PF14501)
+"GHKL domain"</title>
+				<polygon class="PF14501" points="303,40 309,34 309,46" stroke-linejoin="round" width="10" height="24" fill="rgb(137,71,210)" stroke="rgb(109,56,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg23_27)</title>
+			<polygon class=" (ctg23_27)" points="343,40 347,10 347,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AgrD (PF05931)
+"Staphylococcal AgrD protein"</title>
+				<polygon class="PF05931" points="346,40 347,34 347,46" stroke-linejoin="round" width="4" height="24" fill="rgb(209,155,79)" stroke="rgb(167,124,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg23_28)</title>
+			<polygon class=" (ctg23_28)" points="348,40 366,10 366,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AgrB (PF04647)
+"Accessory gene regulator B"</title>
+				<polygon class="PF04647" points="352,40 360,28 365,28 365,52 360,52" stroke-linejoin="round" width="17" height="24" fill="rgb(181,182,61)" stroke="rgb(144,145,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg23_29)</title>
+			<polygon class=" (ctg23_29)" points="392,40 418,10 418,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CN_hydrolase (PF00795)
+"Carbon-nitrogen hydrolase"</title>
+				<polygon class="PF00795" points="396,40 406,28 417,28 417,52 406,52" stroke-linejoin="round" width="24" height="24" fill="rgb(213,76,196)" stroke="rgb(170,60,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg23_30)</title>
+			<polygon class=" (ctg23_30)" points="430,25 447,25 447,10 477,40 447,70 447,55 430,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg23_31)</title>
+			<polygon class=" (ctg23_31)" points="480,40 504,10 504,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Rce1-like (PF02517)
+"Type II CAAX prenyl endopeptidase Rce1-like"</title>
+				<polygon class="PF02517" points="484,40 491,31 491,49" stroke-linejoin="round" width="9" height="24" fill="rgb(150,86,216)" stroke="rgb(120,68,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg23_32)</title>
+			<polygon class=" (ctg23_32)" points="511,10 520,40 511,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cpn10 (PF00166)
+"Chaperonin 10 Kd subunit"</title>
+				<polygon class="PF00166" points="511,28 513,28 517,40 513,52 511,52" stroke-linejoin="round" width="9" height="24" fill="rgb(88,59,221)" stroke="rgb(70,47,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg23_33)</title>
+			<polygon class=" (ctg23_33)" points="522,25 546,25 546,10 576,40 546,70 546,55 522,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cpn60_TCP1 (PF00118)
+"TCP-1/cpn60 chaperonin family"</title>
+				<polygon class="PF00118" points="524,28 559,28 571,40 559,52 524,52" stroke-linejoin="round" width="50" height="24" fill="rgb(73,204,119)" stroke="rgb(58,163,95)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg23_34)</title>
+			<polygon class=" (ctg23_34)" points="580,40 587,10 587,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Phage_integrase (PF00589)
+"Phage integrase family"</title>
+				<polygon class="PF00589" points="583,40 586,28 587,28 587,52 586,52" stroke-linejoin="round" width="5" height="24" fill="rgb(91,96,195)" stroke="rgb(72,76,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg23_35)</title>
+			<polygon class=" (ctg23_35)" points="587,40 608,10 608,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Phage_integrase (PF00589)
+"Phage integrase family"</title>
+				<polygon class="PF00589" points="591,40 600,28 600,28 600,52 600,52" stroke-linejoin="round" width="13" height="24" fill="rgb(91,96,195)" stroke="rgb(72,76,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg23_36)</title>
+			<polygon class=" (ctg23_36)" points="608,40 619,10 619,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg23_37)</title>
+			<polygon class=" (ctg23_37)" points="637,40 650,10 650,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg23_38)</title>
+			<polygon class=" (ctg23_38)" points="651,40 667,10 667,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

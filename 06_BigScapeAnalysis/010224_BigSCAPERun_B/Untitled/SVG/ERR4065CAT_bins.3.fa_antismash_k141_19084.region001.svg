@@ -1,0 +1,96 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="456.53333333333336" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="446.53333333333336" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg161_1)</title>
+			<polygon class=" (ctg161_1)" points="53,25 46,25 46,10 16,40 46,70 46,55 53,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg161_2)</title>
+			<polygon class=" (ctg161_2)" points="54,40 64,10 64,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>QH-AmDH_gamma (PF08992)
+"Quinohemoprotein amine dehydrogenase, gamma subunit"</title>
+				<polygon class="PF08992" points="57,40 61,28 61,28 61,52 61,52" stroke-linejoin="round" width="7" height="24" fill="rgb(88,213,69)" stroke="rgb(70,170,55)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg161_3)</title>
+			<polygon class=" (ctg161_3)" points="112,25 95,25 95,10 65,40 95,70 95,55 112,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Fer4_12 (PF13353)
+"4Fe-4S single cluster domain"</title>
+				<rect class="PF13353" x="89" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(213,229,100)" stroke="rgb(170,183,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg161_4)</title>
+			<polygon class=" (ctg161_4)" points="166,25 144,25 144,10 114,40 144,70 144,55 166,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Qn_am_d_aIV (PF09100)
+"Quinohemoprotein amine dehydrogenase, alpha subunit domain IV"</title>
+				<polygon class="PF09100" points="118,40 126,32 126,48" stroke-linejoin="round" width="12" height="24" fill="rgb(216,59,82)" stroke="rgb(172,47,65)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Qn_am_d_aIII (PF09099)
+"Quinohemoprotein amine dehydrogenase, alpha subunit domain III"</title>
+				<polygon class="PF09099" points="127,31 130,28 135,28 135,52 130,52 127,49" stroke-linejoin="round" width="8" height="24" fill="rgb(55,181,63)" stroke="rgb(44,144,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Qn_am_d_aII (PF14930)
+"Quinohemoprotein amine dehydrogenase, alpha subunit domain II"</title>
+				<rect class="PF14930" x="135" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(227,76,86)" stroke="rgb(181,60,68)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Dehyd-heme_bind (PF09098)
+"Quinohemoprotein amine dehydrogenase A, alpha subunit, haem binding"</title>
+				<rect class="PF09098" x="146" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(199,82,167)" stroke="rgb(159,65,133)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg161_5)</title>
+			<polygon class=" (ctg161_5)" points="181,25 200,25 200,10 230,40 200,70 200,55 181,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aldedh (PF00171)
+"Aldehyde dehydrogenase family"</title>
+				<polygon class="PF00171" points="183,28 214,28 226,40 214,52 183,52" stroke-linejoin="round" width="46" height="24" fill="rgb(105,213,139)" stroke="rgb(84,170,111)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg161_6)</title>
+			<polygon class=" (ctg161_6)" points="234,25 247,25 247,10 277,40 247,70 247,55 234,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg161_7)</title>
+			<polygon class=" (ctg161_7)" points="319,25 307,25 307,10 277,40 307,70 307,55 319,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_3 (PF01494)
+"FAD binding domain"</title>
+				<polygon class="PF01494" points="288,33 293,28 319,28 319,52 293,52 288,47" stroke-linejoin="round" width="31" height="24" fill="rgb(182,175,59)" stroke="rgb(145,140,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg161_8)</title>
+			<polygon class=" (ctg161_8)" points="320,40 342,10 342,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_S8 (PF00082)
+"Subtilase family"</title>
+				<polygon class="PF00082" points="327,36 333,28 341,28 341,52 333,52 327,44" stroke-linejoin="round" width="14" height="24" fill="rgb(193,159,94)" stroke="rgb(154,127,75)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg161_9)</title>
+			<polygon class=" (ctg161_9)" points="399,25 372,25 372,10 342,40 372,70 372,55 399,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="347,39 358,28 361,28 361,52 358,52 347,41" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="369" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

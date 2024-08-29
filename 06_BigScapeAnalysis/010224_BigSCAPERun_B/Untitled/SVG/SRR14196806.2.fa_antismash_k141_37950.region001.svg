@@ -1,0 +1,59 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="258.0" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="248.0" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg287_1)</title>
+			<polygon class=" (ctg287_1)" points="10,40 17,10 17,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg287_2)</title>
+			<polygon class=" (ctg287_2)" points="80,25 47,25 47,10 17,40 47,70 47,55 80,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="21,40 33,28 34,28 34,52 33,52" stroke-linejoin="round" width="16" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<rect class="PF04183" x="37" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg287_3)</title>
+			<polygon class=" (ctg287_3)" points="90,10 107,40 90,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg287_4)</title>
+			<polygon class=" (ctg287_4)" points="113,10 130,40 113,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg287_5)</title>
+			<polygon class=" (ctg287_5)" points="146,25 170,25 170,10 200,40 170,70 170,55 146,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>sCache_2 (PF17200)
+"Single Cache domain 2"</title>
+				<rect class="PF17200" x="149" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(192,78,228)" stroke="rgb(153,62,182)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MCPsignal (PF00015)
+"Methyl-accepting chemotaxis protein (MCP) signalling domain"</title>
+				<polygon class="PF00015" points="177,28 184,28 192,36 192,44 184,52 177,52" stroke-linejoin="round" width="15" height="24" fill="rgb(104,174,223)" stroke="rgb(83,139,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg287_6)</title>
+			<polygon class=" (ctg287_6)" points="204,10 230,40 204,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF695 (PF05117)
+"Family of unknown function (DUF695)"</title>
+				<polygon class="PF05117" points="204,28 216,28 218,31 218,49 216,52 204,52" stroke-linejoin="round" width="14" height="24" fill="rgb(130,105,218)" stroke="rgb(103,84,174)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>RraB (PF06877)
+"Regulator of ribonuclease activity B"</title>
+				<polygon class="PF06877" points="219,32 226,40 219,48" stroke-linejoin="round" width="10" height="24" fill="rgb(134,65,184)" stroke="rgb(107,52,147)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

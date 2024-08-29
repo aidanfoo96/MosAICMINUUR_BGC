@@ -1,0 +1,83 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="426.6333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="416.6333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg54_22)</title>
+			<polygon class=" (ctg54_22)" points="67,25 41,25 41,10 11,40 41,70 41,55 67,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sulfatase (PF00884)
+"Sulfatase"</title>
+				<polygon class="PF00884" points="22,33 27,28 63,28 63,52 27,52 22,47" stroke-linejoin="round" width="41" height="24" fill="rgb(61,103,198)" stroke="rgb(48,82,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg54_23)</title>
+			<polygon class=" (ctg54_23)" points="79,25 93,25 93,10 123,40 93,70 93,55 79,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="81,28 107,28 115,36 115,44 107,52 81,52" stroke-linejoin="round" width="34" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg54_24)</title>
+			<polygon class=" (ctg54_24)" points="125,25 137,25 137,10 167,40 137,70 137,55 125,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OprD (PF03573)
+"outer membrane porin, OprD family"</title>
+				<polygon class="PF03573" points="127,28 151,28 163,40 151,52 127,52" stroke-linejoin="round" width="40" height="24" fill="rgb(73,170,186)" stroke="rgb(58,135,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg54_25)</title>
+			<polygon class=" (ctg54_25)" points="176,25 219,25 219,10 249,40 219,70 219,55 176,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OsmC (PF02566)
+"OsmC-like protein"</title>
+				<rect class="PF02566" x="179" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(161,56,212)" stroke="rgb(128,44,169)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>YcaO (PF02624)
+"YcaO cyclodehydratase, ATP-ad Mg2+-binding"</title>
+				<rect class="PF02624" x="196" y="28" stroke-linejoin="round" width="33" height="24" fill="rgb(76,84,185)" stroke="rgb(60,67,148)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>YcaO_C (PF18381)
+"YcaO cyclodehydratase C-terminal domain"</title>
+				<polygon class="PF18381" points="231,28 233,28 245,40 233,52 231,52" stroke-linejoin="round" width="17" height="24" fill="rgb(125,91,193)" stroke="rgb(99,72,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg54_26)</title>
+			<polygon class=" (ctg54_26)" points="307,25 282,25 282,10 252,40 282,70 282,55 307,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GMC_oxred_C (PF05199)
+"GMC oxidoreductase"</title>
+				<polygon class="PF05199" points="256,40 267,29 267,51" stroke-linejoin="round" width="12" height="24" fill="rgb(186,52,106)" stroke="rgb(148,41,84)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GMC_oxred_N (PF00732)
+"GMC oxidoreductase"</title>
+				<rect class="PF00732" x="278" y="28" stroke-linejoin="round" width="28" height="24" fill="rgb(180,89,214)" stroke="rgb(143,71,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg54_27)</title>
+			<polygon class=" (ctg54_27)" points="308,40 337,10 337,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Abhydrolase_3 (PF07859)
+"alpha/beta hydrolase fold"</title>
+				<polygon class="PF07859" points="312,40 324,28 330,28 330,52 324,52" stroke-linejoin="round" width="20" height="24" fill="rgb(183,51,179)" stroke="rgb(146,40,143)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg54_28)</title>
+			<polygon class=" (ctg54_28)" points="340,40 368,10 368,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short (PF00106)
+"short chain dehydrogenase"</title>
+				<polygon class="PF00106" points="348,36 355,28 367,28 367,52 355,52 348,44" stroke-linejoin="round" width="19" height="24" fill="rgb(182,219,73)" stroke="rgb(145,175,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

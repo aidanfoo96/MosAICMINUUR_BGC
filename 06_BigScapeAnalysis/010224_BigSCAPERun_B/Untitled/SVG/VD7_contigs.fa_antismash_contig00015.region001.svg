@@ -1,0 +1,72 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="380.73333333333335" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="370.73333333333335" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg15_36)</title>
+			<polygon class=" (ctg15_36)" points="47,25 105,25 105,10 135,40 105,70 105,55 47,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UvrA_DNA-bind (PF17755)
+"UvrA DNA-binding domain"</title>
+				<rect class="PF17755" x="64" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(175,198,76)" stroke="rgb(140,158,60)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="102,28 119,28 127,36 127,44 119,52 102,52" stroke-linejoin="round" width="25" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg15_37)</title>
+			<polygon class=" (ctg15_37)" points="140,25 146,25 146,10 176,40 146,70 146,55 140,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Dyp_perox (PF04261)
+"Dyp-type peroxidase family"</title>
+				<polygon class="PF04261" points="141,28 159,28 170,39 170,41 159,52 141,52" stroke-linejoin="round" width="29" height="24" fill="rgb(189,65,79)" stroke="rgb(151,51,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg15_38)</title>
+			<polygon class=" (ctg15_38)" points="176,10 203,40 176,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Linocin_M18 (PF04454)
+"Encapsulating protein for peroxidase"</title>
+				<polygon class="PF04454" points="176,28 187,28 199,40 187,52 176,52" stroke-linejoin="round" width="25" height="24" fill="rgb(89,100,181)" stroke="rgb(71,80,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg15_39)</title>
+			<polygon class=" (ctg15_39)" points="205,10 224,40 205,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PRC (PF05239)
+"PRC-barrel domain"</title>
+				<polygon class="PF05239" points="214,30 220,40 214,50" stroke-linejoin="round" width="7" height="24" fill="rgb(89,112,204)" stroke="rgb(71,89,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg15_40)</title>
+			<polygon class=" (ctg15_40)" points="226,10 235,40 226,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg15_41)</title>
+			<polygon class=" (ctg15_41)" points="235,10 248,40 235,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg15_42)</title>
+			<polygon class=" (ctg15_42)" points="312,25 278,25 278,10 248,40 278,70 278,55 312,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>T4SS-DNA_transf (PF02534)
+"Type IV secretory system Conjugative DNA transfer"</title>
+				<polygon class="PF02534" points="256,36 264,28 301,28 301,52 264,52 256,44" stroke-linejoin="round" width="45" height="24" fill="rgb(48,182,65)" stroke="rgb(38,145,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg15_43)</title>
+			<polygon class=" (ctg15_43)" points="313,40 341,10 341,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>T2SSE (PF00437)
+"Type II/IV secretion system protein"</title>
+				<polygon class="PF00437" points="317,40 328,28 333,28 333,52 328,52" stroke-linejoin="round" width="18" height="24" fill="rgb(201,94,126)" stroke="rgb(160,75,100)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

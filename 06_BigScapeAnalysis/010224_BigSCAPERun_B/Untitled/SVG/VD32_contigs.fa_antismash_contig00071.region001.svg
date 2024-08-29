@@ -1,0 +1,100 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="432.8" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="422.8" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg71_1)</title>
+			<polygon class=" (ctg71_1)" points="11,40 26,10 26,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_1 (PF00583)
+"Acetyltransferase (GNAT) family"</title>
+				<polygon class="PF00583" points="14,40 20,28 24,28 24,52 20,52" stroke-linejoin="round" width="12" height="24" fill="rgb(121,183,50)" stroke="rgb(96,146,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg71_2)</title>
+			<polygon class=" (ctg71_2)" points="31,40 58,10 58,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_11 (PF08241)
+"Methyltransferase domain"</title>
+				<polygon class="PF08241" points="42,32 46,28 51,28 51,52 46,52 42,48" stroke-linejoin="round" width="9" height="24" fill="rgb(106,219,159)" stroke="rgb(84,175,127)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg71_3)</title>
+			<polygon class=" (ctg71_3)" points="103,25 98,25 98,10 68,40 98,70 98,55 103,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Terpene_syn_C_2 (PF19086)
+"Terpene synthase family 2, C-terminal metal binding"</title>
+				<polygon class="PF19086" points="76,36 84,28 95,28 95,52 84,52 76,44" stroke-linejoin="round" width="19" height="24" fill="rgb(55,207,154)" stroke="rgb(43,165,123)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg71_4)</title>
+			<polygon class=" (ctg71_4)" points="103,40 122,10 122,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NUDIX (PF00293)
+"NUDIX domain"</title>
+				<polygon class="PF00293" points="107,40 115,28 119,28 119,52 115,52" stroke-linejoin="round" width="13" height="24" fill="rgb(92,56,187)" stroke="rgb(73,44,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg71_5)</title>
+			<polygon class=" (ctg71_5)" points="159,25 154,25 154,10 124,40 154,70 154,55 159,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_2 (PF00891)
+"O-methyltransferase domain"</title>
+				<polygon class="PF00891" points="128,40 140,28 146,28 146,52 140,52" stroke-linejoin="round" width="20" height="24" fill="rgb(50,51,190)" stroke="rgb(39,40,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg71_6)</title>
+			<polygon class=" (ctg71_6)" points="221,25 202,25 202,10 172,40 202,70 202,55 221,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PTR2 (PF00854)
+"POT family"</title>
+				<polygon class="PF00854" points="176,40 188,28 212,28 212,52 188,52 176,40" stroke-linejoin="round" width="36" height="24" fill="rgb(90,189,52)" stroke="rgb(71,151,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg71_7)</title>
+			<polygon class=" (ctg71_7)" points="275,25 258,25 258,10 228,40 258,70 258,55 275,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg71_8)</title>
+			<polygon class=" (ctg71_8)" points="319,25 310,25 310,10 280,40 310,70 310,55 319,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_1_2 (PF00155)
+"Aminotransferase class I and II"</title>
+				<polygon class="PF00155" points="284,40 296,28 315,28 315,52 296,52" stroke-linejoin="round" width="35" height="24" fill="rgb(89,113,198)" stroke="rgb(71,90,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg71_9)</title>
+			<polygon class=" (ctg71_9)" points="375,25 352,25 352,10 322,40 352,70 352,55 375,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PTS_EIIB (PF00367)
+"phosphotransferase system, EIIB"</title>
+				<polygon class="PF00367" points="326,40 329,37 329,43 326,40" stroke-linejoin="round" width="3" height="24" fill="rgb(188,77,92)" stroke="rgb(150,61,73)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PTS_EIIC (PF02378)
+"Phosphotransferase system, EIIC"</title>
+				<polygon class="PF02378" points="338,28 338,28 372,28 372,52 338,52 338,52" stroke-linejoin="round" width="34" height="24" fill="rgb(73,199,212)" stroke="rgb(58,159,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg71_10)</title>
+			<polygon class=" (ctg71_10)" points="381,25 385,25 385,10 415,40 385,70 385,55 381,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LacI (PF00356)
+"Bacterial regulatory proteins, lacI family"</title>
+				<rect class="PF00356" x="381" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(66,188,63)" stroke="rgb(52,150,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Peripla_BP_1 (PF00532)
+"Periplasmic binding proteins and sugar binding domain of LacI family"</title>
+				<polygon class="PF00532" points="387,28 399,28 411,40 399,52 387,52" stroke-linejoin="round" width="27" height="24" fill="rgb(170,185,72)" stroke="rgb(136,148,57)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,106 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="461.1666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="451.1666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg67_1)</title>
+			<polygon class=" (ctg67_1)" points="10,10 13,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg67_2)</title>
+			<polygon class=" (ctg67_2)" points="17,40 22,10 22,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg67_3)</title>
+			<polygon class=" (ctg67_3)" points="25,10 34,40 25,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg67_4)</title>
+			<polygon class=" (ctg67_4)" points="35,10 54,40 35,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NUDIX (PF00293)
+"NUDIX domain"</title>
+				<polygon class="PF00293" points="38,28 43,28 50,40 43,52 38,52" stroke-linejoin="round" width="13" height="24" fill="rgb(92,56,187)" stroke="rgb(73,44,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg67_5)</title>
+			<polygon class=" (ctg67_5)" points="54,25 59,25 59,10 89,40 59,70 59,55 54,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>polyprenyl_synt (PF00348)
+"Polyprenyl synthetase"</title>
+				<polygon class="PF00348" points="57,28 72,28 82,38 82,42 72,52 57,52" stroke-linejoin="round" width="25" height="24" fill="rgb(61,206,65)" stroke="rgb(48,164,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg67_6)</title>
+			<polygon class=" (ctg67_6)" points="88,10 116,40 88,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="89,28 100,28 107,35 107,45 100,52 89,52" stroke-linejoin="round" width="18" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg67_7)</title>
+			<polygon class=" (ctg67_7)" points="117,25 140,25 140,10 170,40 140,70 140,55 117,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="119,28 154,28 166,40 154,52 119,52" stroke-linejoin="round" width="49" height="24" fill="rgb(184,74,52)" stroke="rgb(147,59,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg67_8)</title>
+			<polygon class=" (ctg67_8)" points="171,10 182,40 171,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg67_9)</title>
+			<polygon class=" (ctg67_9)" points="182,10 193,40 182,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lycopene_cyc (PF18916)
+"Lycopene cyclase"</title>
+				<polygon class="PF18916" points="182,28 185,28 190,40 185,52 182,52" stroke-linejoin="round" width="9" height="24" fill="rgb(208,69,86)" stroke="rgb(166,55,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg67_10)</title>
+			<polygon class=" (ctg67_10)" points="194,10 222,40 194,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UbiA (PF01040)
+"UbiA prenyltransferase family"</title>
+				<polygon class="PF01040" points="195,28 206,28 218,40 206,52 195,52" stroke-linejoin="round" width="25" height="24" fill="rgb(189,57,100)" stroke="rgb(151,45,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg67_11)</title>
+			<polygon class=" (ctg67_11)" points="319,25 253,25 253,10 223,40 253,70 253,55 319,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UPF0182 (PF03699)
+"Uncharacterised protein family (UPF0182)"</title>
+				<polygon class="PF03699" points="237,30 239,28 316,28 316,52 239,52 237,50" stroke-linejoin="round" width="79" height="24" fill="rgb(169,89,227)" stroke="rgb(135,71,181)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg67_12)</title>
+			<polygon class=" (ctg67_12)" points="357,25 350,25 350,10 320,40 350,70 350,55 357,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M50 (PF02163)
+"Peptidase family M50"</title>
+				<polygon class="PF02163" points="329,35 336,28 355,28 355,52 336,52 329,45" stroke-linejoin="round" width="26" height="24" fill="rgb(105,96,203)" stroke="rgb(83,76,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg67_13)</title>
+			<polygon class=" (ctg67_13)" points="362,25 379,25 379,10 409,40 379,70 379,55 362,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Zincin_2 (PF10103)
+"Zincin-like metallopeptidase"</title>
+				<polygon class="PF10103" points="369,28 392,28 403,39 403,41 392,52 369,52" stroke-linejoin="round" width="34" height="24" fill="rgb(162,226,85)" stroke="rgb(129,180,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg67_14)</title>
+			<polygon class=" (ctg67_14)" points="410,25 410,25 410,10 440,40 410,70 410,55 410,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

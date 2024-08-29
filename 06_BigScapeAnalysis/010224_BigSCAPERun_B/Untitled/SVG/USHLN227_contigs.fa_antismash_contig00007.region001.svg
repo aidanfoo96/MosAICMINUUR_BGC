@@ -1,0 +1,208 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="790.1333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="780.1333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg7_156)</title>
+			<polygon class=" (ctg7_156)" points="82,10 102,40 82,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Nitroreductase (PF00881)
+"Nitroreductase family"</title>
+				<polygon class="PF00881" points="82,28 91,28 99,40 99,40 91,52 82,52" stroke-linejoin="round" width="17" height="24" fill="rgb(79,118,187)" stroke="rgb(63,94,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_157)</title>
+			<polygon class=" (ctg7_157)" points="104,25 126,25 126,10 156,40 126,70 126,55 104,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_2 (PF00890)
+"FAD binding domain"</title>
+				<polygon class="PF00890" points="104,28 140,28 142,30 142,50 140,52 104,52" stroke-linejoin="round" width="38" height="24" fill="rgb(63,199,116)" stroke="rgb(50,159,92)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Succ_DH_flav_C (PF02910)
+"Fumarate reductase flavoprotein C-term"</title>
+				<polygon class="PF02910" points="148,36 152,40 148,44" stroke-linejoin="round" width="8" height="24" fill="rgb(140,80,199)" stroke="rgb(112,64,159)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_158)</title>
+			<polygon class=" (ctg7_158)" points="158,10 178,40 158,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg7_159)</title>
+			<polygon class=" (ctg7_159)" points="179,10 207,40 179,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>QRPTase_N (PF02749)
+"Quinolinate phosphoribosyl transferase, N-terminal domain"</title>
+				<rect class="PF02749" x="181" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(75,204,226)" stroke="rgb(60,163,180)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>QRPTase_C (PF01729)
+"Quinolinate phosphoribosyl transferase, C-terminal domain"</title>
+				<polygon class="PF01729" points="190,28 191,28 203,40 191,52 190,52" stroke-linejoin="round" width="16" height="24" fill="rgb(89,196,148)" stroke="rgb(71,156,118)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_160)</title>
+			<polygon class=" (ctg7_160)" points="215,25 275,25 275,10 305,40 275,70 275,55 215,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Plug (PF07715)
+"TonB-dependent Receptor Plug Domain"</title>
+				<rect class="PF07715" x="219" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(99,133,214)" stroke="rgb(79,106,171)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TonB_dep_Rec (PF00593)
+"TonB dependent receptor"</title>
+				<polygon class="PF00593" points="250,28 289,28 301,40 289,52 250,52" stroke-linejoin="round" width="54" height="24" fill="rgb(171,200,51)" stroke="rgb(136,160,40)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_161)</title>
+			<polygon class=" (ctg7_161)" points="308,10 332,40 308,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NTP_transf_2 (PF01909)
+"Nucleotidyltransferase domain"</title>
+				<polygon class="PF01909" points="308,28 319,28 321,31 321,49 319,52 308,52" stroke-linejoin="round" width="13" height="24" fill="rgb(55,187,183)" stroke="rgb(44,149,146)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_162)</title>
+			<polygon class=" (ctg7_162)" points="334,10 341,40 334,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg7_163)</title>
+			<polygon class=" (ctg7_163)" points="343,25 351,25 351,10 381,40 351,70 351,55 343,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LANC_like (PF05147)
+"Lanthionine synthetase C-like protein"</title>
+				<polygon class="PF05147" points="345,28 365,28 377,40 365,52 345,52" stroke-linejoin="round" width="36" height="24" fill="rgb(129,182,79)" stroke="rgb(103,145,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_164)</title>
+			<polygon class=" (ctg7_164)" points="382,25 427,25 427,10 457,40 427,70 427,55 382,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lant_dehydr_N (PF04738)
+"Lantibiotic dehydratase, N terminus"</title>
+				<polygon class="PF04738" points="386,28 441,28 451,38 451,42 441,52 386,52" stroke-linejoin="round" width="65" height="24" fill="rgb(219,60,229)" stroke="rgb(175,47,183)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_165)</title>
+			<polygon class=" (ctg7_165)" points="457,10 486,40 457,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lant_dehydr_C (PF14028)
+"Lantibiotic biosynthesis dehydratase C-term"</title>
+				<polygon class="PF14028" points="458,28 469,28 481,40 469,52 458,52" stroke-linejoin="round" width="26" height="24" fill="rgb(107,223,113)" stroke="rgb(85,178,90)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_166)</title>
+			<polygon class=" (ctg7_166)" points="486,10 515,40 486,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LANC_like (PF05147)
+"Lanthionine synthetase C-like protein"</title>
+				<rect class="PF05147" x="488" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(129,182,79)" stroke="rgb(103,145,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_167)</title>
+			<polygon class=" (ctg7_167)" points="518,10 532,40 518,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg7_168)</title>
+			<polygon class=" (ctg7_168)" points="534,25 537,25 537,10 567,40 537,70 537,55 534,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Semialdhyde_dh (PF01118)
+"Semialdehyde dehydrogenase, NAD binding domain"</title>
+				<rect class="PF01118" x="534" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(191,106,221)" stroke="rgb(152,84,176)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Semialdhyde_dhC (PF02774)
+"Semialdehyde dehydrogenase, dimerisation domain"</title>
+				<polygon class="PF02774" points="547,28 550,28 562,40 550,52 547,52" stroke-linejoin="round" width="17" height="24" fill="rgb(57,188,185)" stroke="rgb(45,150,147)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_169)</title>
+			<polygon class=" (ctg7_169)" points="569,25 572,25 572,10 602,40 572,70 572,55 569,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cation_efflux (PF01545)
+"Cation efflux family"</title>
+				<polygon class="PF01545" points="570,28 586,28 589,31 589,49 586,52 570,52" stroke-linejoin="round" width="19" height="24" fill="rgb(151,84,211)" stroke="rgb(120,67,168)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ZT_dimer (PF16916)
+"Dimerisation domain of Zinc Transporter"</title>
+				<polygon class="PF16916" points="590,32 598,40 598,40 590,48" stroke-linejoin="round" width="8" height="24" fill="rgb(78,228,68)" stroke="rgb(62,182,54)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_170)</title>
+			<polygon class=" (ctg7_170)" points="603,40 617,10 617,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg7_171)</title>
+			<polygon class=" (ctg7_171)" points="617,40 634,10 634,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Exosortase_EpsH (PF09721)
+"Transmembrane exosortase (Exosortase_EpsH)"</title>
+				<polygon class="PF09721" points="620,40 627,28 633,28 633,52 627,52" stroke-linejoin="round" width="16" height="24" fill="rgb(94,107,207)" stroke="rgb(75,85,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_172)</title>
+			<polygon class=" (ctg7_172)" points="636,25 640,25 640,10 670,40 640,70 640,55 636,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>APH (PF01636)
+"Phosphotransferase enzyme family"</title>
+				<polygon class="PF01636" points="639,28 653,28 661,36 661,44 653,52 639,52" stroke-linejoin="round" width="22" height="24" fill="rgb(106,220,228)" stroke="rgb(84,176,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_173)</title>
+			<polygon class=" (ctg7_173)" points="671,10 684,40 671,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PDDEXK_3 (PF13366)
+"PD-(D/E)XK nuclease superfamily"</title>
+				<polygon class="PF13366" points="671,28 675,28 681,40 675,52 671,52" stroke-linejoin="round" width="11" height="24" fill="rgb(103,187,211)" stroke="rgb(82,149,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_174)</title>
+			<polygon class=" (ctg7_174)" points="688,10 701,40 688,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ATP_bind_2 (PF03668)
+"P-loop ATPase protein family"</title>
+				<polygon class="PF03668" points="688,28 692,28 698,40 692,52 688,52" stroke-linejoin="round" width="13" height="24" fill="rgb(183,184,73)" stroke="rgb(146,147,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_175)</title>
+			<polygon class=" (ctg7_175)" points="705,10 728,40 705,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NTP_transferase (PF00483)
+"Nucleotidyl transferase"</title>
+				<polygon class="PF00483" points="705,28 715,28 719,33 719,47 715,52 705,52" stroke-linejoin="round" width="14" height="24" fill="rgb(198,101,87)" stroke="rgb(158,80,69)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_176)</title>
+			<polygon class=" (ctg7_176)" points="729,10 754,40 729,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lysine_decarbox (PF03641)
+"Possible lysine decarboxylase"</title>
+				<polygon class="PF03641" points="739,28 740,28 750,40 740,52 739,52" stroke-linejoin="round" width="13" height="24" fill="rgb(87,108,220)" stroke="rgb(69,86,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_177)</title>
+			<polygon class=" (ctg7_177)" points="755,10 771,40 755,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF6702 (PF20420)
+"Domain of unknown function (DUF6702)"</title>
+				<polygon class="PF20420" points="757,28 761,28 768,40 761,52 757,52" stroke-linejoin="round" width="13" height="24" fill="rgb(196,169,60)" stroke="rgb(156,135,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

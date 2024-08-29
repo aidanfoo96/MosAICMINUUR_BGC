@@ -1,0 +1,92 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="327.6" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="317.6" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg195_1)</title>
+			<polygon class=" (ctg195_1)" points="51,25 40,25 40,10 10,40 40,70 40,55 51,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HATPase_c (PF02518)
+"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"</title>
+				<polygon class="PF02518" points="14,40 21,33 21,47" stroke-linejoin="round" width="11" height="24" fill="rgb(80,94,225)" stroke="rgb(64,75,180)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HisKA (PF00512)
+"His Kinase A (phospho-acceptor) domain"</title>
+				<polygon class="PF00512" points="25,29 26,28 31,28 31,52 26,52 25,51" stroke-linejoin="round" width="6" height="24" fill="rgb(193,125,62)" stroke="rgb(154,100,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg195_2)</title>
+			<polygon class=" (ctg195_2)" points="89,25 81,25 81,10 51,40 81,70 81,55 89,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Fe-ADH (PF00465)
+"Iron-containing alcohol dehydrogenase"</title>
+				<polygon class="PF00465" points="55,40 67,28 87,28 87,52 67,52" stroke-linejoin="round" width="36" height="24" fill="rgb(73,179,216)" stroke="rgb(58,143,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg195_3)</title>
+			<polygon class=" (ctg195_3)" points="92,40 101,10 101,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PqqD (PF05402)
+"Coenzyme PQQ synthesis protein D (PqqD)"</title>
+				<polygon class="PF05402" points="95,40 98,30 98,50" stroke-linejoin="round" width="6" height="24" fill="rgb(124,62,188)" stroke="rgb(99,49,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg195_4)</title>
+			<polygon class=" (ctg195_4)" points="164,25 144,25 144,10 114,40 144,70 144,55 164,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aldedh (PF00171)
+"Aldehyde dehydrogenase family"</title>
+				<polygon class="PF00171" points="118,40 130,28 161,28 161,52 130,52" stroke-linejoin="round" width="46" height="24" fill="rgb(105,213,139)" stroke="rgb(84,170,111)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg195_5)</title>
+			<polygon class=" (ctg195_5)" points="228,25 199,25 199,10 169,40 199,70 199,55 228,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PQQ (PF01011)
+"PQQ enzyme repeat"</title>
+				<polygon class="PF01011" points="174,39 177,36 177,44 174,41" stroke-linejoin="round" width="3" height="24" fill="rgb(223,77,129)" stroke="rgb(178,61,103)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PQQ_2 (PF13360)
+"PQQ-like domain"</title>
+				<rect class="PF13360" x="204" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(98,210,146)" stroke="rgb(78,168,116)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg195_6)</title>
+			<polygon class=" (ctg195_6)" points="267,25 266,25 266,10 236,40 266,70 266,55 267,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lactamase_B (PF00753)
+"Metallo-beta-lactamase superfamily"</title>
+				<polygon class="PF00753" points="240,40 252,28 262,28 262,52 252,52 240,40" stroke-linejoin="round" width="22" height="24" fill="rgb(206,198,96)" stroke="rgb(164,158,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg195_7)</title>
+			<polygon class=" (ctg195_7)" points="269,40 294,10 294,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SoxZ (PF08770)
+"Sulphur oxidation protein SoxZ"</title>
+				<polygon class="PF08770" points="273,40 277,35 277,45" stroke-linejoin="round" width="8" height="24" fill="rgb(168,189,64)" stroke="rgb(134,151,51)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SoxY (PF13501)
+"Sulfur oxidation protein SoxY"</title>
+				<polygon class="PF13501" points="279,33 283,28 289,28 289,52 283,52 279,47" stroke-linejoin="round" width="10" height="24" fill="rgb(203,73,138)" stroke="rgb(162,58,110)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg195_8)</title>
+			<polygon class=" (ctg195_8)" points="296,40 317,10 317,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SBP_bac_3 (PF00497)
+"Bacterial extracellular solute-binding proteins, family 3"</title>
+				<polygon class="PF00497" points="300,40 309,28 311,28 311,52 309,52" stroke-linejoin="round" width="15" height="24" fill="rgb(186,76,141)" stroke="rgb(148,60,112)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

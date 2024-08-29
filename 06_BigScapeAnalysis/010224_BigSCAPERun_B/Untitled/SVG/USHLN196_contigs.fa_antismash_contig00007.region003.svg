@@ -1,0 +1,77 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="366.23333333333335" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="356.23333333333335" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg7_165)</title>
+			<polygon class=" (ctg7_165)" points="44,10 55,40 44,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg7_166)</title>
+			<polygon class=" (ctg7_166)" points="61,25 79,25 79,10 109,40 79,70 79,55 61,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DEAD (PF00270)
+"DEAD/DEAH box helicase"</title>
+				<rect class="PF00270" x="63" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(195,100,62)" stroke="rgb(156,80,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Helicase_C (PF00271)
+"Helicase conserved C-terminal domain"</title>
+				<polygon class="PF00271" points="83,28 92,28 93,29 93,51 92,52 83,52" stroke-linejoin="round" width="10" height="24" fill="rgb(104,224,158)" stroke="rgb(83,179,126)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DbpA (PF03880)
+"DbpA RNA binding domain"</title>
+				<polygon class="PF03880" points="101,37 104,40 101,43" stroke-linejoin="round" width="7" height="24" fill="rgb(204,85,70)" stroke="rgb(163,68,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_167)</title>
+			<polygon class=" (ctg7_167)" points="118,25 135,25 135,10 165,40 135,70 135,55 118,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_hydro_43 (PF04616)
+"Glycosyl hydrolases family 43"</title>
+				<polygon class="PF04616" points="122,28 148,28 149,29 149,51 148,52 122,52" stroke-linejoin="round" width="27" height="24" fill="rgb(62,179,73)" stroke="rgb(49,143,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>F5_F8_type_C (PF00754)
+"F5/8 type C domain"</title>
+				<polygon class="PF00754" points="152,32 160,40 152,48" stroke-linejoin="round" width="11" height="24" fill="rgb(216,175,69)" stroke="rgb(172,140,55)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_168)</title>
+			<polygon class=" (ctg7_168)" points="176,10 188,40 176,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lactococcin_972 (PF09683)
+"Bacteriocin (Lactococcin_972)"</title>
+				<polygon class="PF09683" points="181,30 185,40 181,50" stroke-linejoin="round" width="7" height="24" fill="rgb(202,100,222)" stroke="rgb(161,80,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_169)</title>
+			<polygon class=" (ctg7_169)" points="193,25 237,25 237,10 267,40 237,70 237,55 193,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1430 (PF07242)
+"Protein of unknown function (DUF1430)"</title>
+				<polygon class="PF07242" points="256,34 262,40 256,46" stroke-linejoin="round" width="10" height="24" fill="rgb(183,55,187)" stroke="rgb(146,44,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_170)</title>
+			<polygon class=" (ctg7_170)" points="267,10 288,40 267,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="269,28 276,28 283,38 283,42 276,52 269,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_171)</title>
+			<polygon class=" (ctg7_171)" points="294,40 318,10 318,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg7_172)</title>
+			<polygon class=" (ctg7_172)" points="319,40 328,10 328,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

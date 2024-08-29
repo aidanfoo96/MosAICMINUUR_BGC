@@ -1,0 +1,28 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="106.06666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="96.06666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg189_1)</title>
+			<polygon class=" (ctg189_1)" points="59,25 40,25 40,10 10,40 40,70 40,55 59,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YcaO_C (PF18381)
+"YcaO cyclodehydratase C-terminal domain"</title>
+				<polygon class="PF18381" points="14,40 19,35 19,45" stroke-linejoin="round" width="9" height="24" fill="rgb(125,91,193)" stroke="rgb(99,72,154)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>YcaO (PF02624)
+"YcaO cyclodehydratase, ATP-ad Mg2+-binding"</title>
+				<polygon class="PF02624" points="20,34 26,28 53,28 53,52 26,52 20,46" stroke-linejoin="round" width="33" height="24" fill="rgb(76,84,185)" stroke="rgb(60,67,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg189_2)</title>
+			<polygon class=" (ctg189_2)" points="70,10 95,40 70,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_5 (PF00266)
+"Aminotransferase class-V"</title>
+				<polygon class="PF00266" points="70,28 81,28 91,40 81,52 70,52" stroke-linejoin="round" width="24" height="24" fill="rgb(214,54,122)" stroke="rgb(171,43,97)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

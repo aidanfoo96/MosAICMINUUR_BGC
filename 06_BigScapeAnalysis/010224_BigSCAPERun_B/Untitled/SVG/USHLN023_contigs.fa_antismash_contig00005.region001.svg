@@ -1,0 +1,84 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="401.3333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="391.3333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg5_107)</title>
+			<polygon class=" (ctg5_107)" points="39,25 68,25 68,10 98,40 68,70 68,55 39,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Alpha-amylase_N (PF02903)
+"Alpha amylase, N-terminal ig-like domain"</title>
+				<rect class="PF02903" x="39" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(184,66,69)" stroke="rgb(147,52,55)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Alpha-amylase (PF00128)
+"Alpha amylase, catalytic domain"</title>
+				<polygon class="PF00128" points="56,28 81,28 85,32 85,48 81,52 56,52" stroke-linejoin="round" width="29" height="24" fill="rgb(72,189,149)" stroke="rgb(57,151,119)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_108)</title>
+			<polygon class=" (ctg5_108)" points="99,10 124,40 99,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Esterase (PF00756)
+"Putative esterase"</title>
+				<polygon class="PF00756" points="99,28 110,28 120,40 110,52 99,52" stroke-linejoin="round" width="24" height="24" fill="rgb(217,132,77)" stroke="rgb(173,105,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_109)</title>
+			<polygon class=" (ctg5_109)" points="135,10 146,40 135,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PadR (PF03551)
+"Transcriptional regulator PadR-like family"</title>
+				<polygon class="PF03551" points="137,28 138,28 143,40 143,40 138,52 137,52" stroke-linejoin="round" width="6" height="24" fill="rgb(210,176,95)" stroke="rgb(168,140,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_110)</title>
+			<polygon class=" (ctg5_110)" points="146,10 163,40 146,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2812 (PF11193)
+"Protein of unknown function (DUF2812)"</title>
+				<polygon class="PF11193" points="147,28 153,28 157,35 157,45 153,52 147,52" stroke-linejoin="round" width="10" height="24" fill="rgb(178,189,51)" stroke="rgb(142,151,40)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_111)</title>
+			<polygon class=" (ctg5_111)" points="176,25 194,25 194,10 224,40 194,70 194,55 176,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg5_112)</title>
+			<polygon class=" (ctg5_112)" points="235,10 249,40 235,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg5_113)</title>
+			<polygon class=" (ctg5_113)" points="254,40 268,10 268,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg5_114)</title>
+			<polygon class=" (ctg5_114)" points="307,25 302,25 302,10 272,40 302,70 302,55 307,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ArAE_1 (PF06081)
+"Aromatic acid exporter family member 1"</title>
+				<rect class="PF06081" x="292" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(199,50,137)" stroke="rgb(159,40,109)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_115)</title>
+			<polygon class=" (ctg5_115)" points="344,25 342,25 342,10 312,40 342,70 342,55 344,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GFO_IDH_MocA (PF01408)
+"Oxidoreductase family, NAD-binding Rossmann fold"</title>
+				<rect class="PF01408" x="332" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(76,117,190)" stroke="rgb(60,93,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_116)</title>
+			<polygon class=" (ctg5_116)" points="354,10 361,40 354,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg5_117)</title>
+			<polygon class=" (ctg5_117)" points="367,10 383,40 367,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

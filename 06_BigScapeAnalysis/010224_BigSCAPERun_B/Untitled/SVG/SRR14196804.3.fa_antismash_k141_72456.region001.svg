@@ -1,0 +1,69 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="281.8666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="271.8666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg213_1)</title>
+			<polygon class=" (ctg213_1)" points="57,25 43,25 43,10 13,40 43,70 43,55 57,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DAHP_synth_2 (PF01474)
+"Class-II DAHP synthetase family"</title>
+				<polygon class="PF01474" points="17,40 29,28 56,28 56,52 29,52" stroke-linejoin="round" width="43" height="24" fill="rgb(126,217,84)" stroke="rgb(100,173,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg213_2)</title>
+			<polygon class=" (ctg213_2)" points="58,40 81,10 81,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyltransferase (PF01553)
+"Acyltransferase"</title>
+				<polygon class="PF01553" points="66,35 71,28 79,28 79,52 71,52 66,45" stroke-linejoin="round" width="13" height="24" fill="rgb(87,176,216)" stroke="rgb(69,140,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg213_3)</title>
+			<polygon class=" (ctg213_3)" points="87,25 118,25 118,10 148,40 118,70 118,55 87,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="89,28 132,28 133,29 133,51 132,52 89,52" stroke-linejoin="round" width="44" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg213_4)</title>
+			<polygon class=" (ctg213_4)" points="150,40 166,10 166,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pep_deformylase (PF01327)
+"Polypeptide deformylase"</title>
+				<polygon class="PF01327" points="153,40 160,28 165,28 165,52 160,52" stroke-linejoin="round" width="14" height="24" fill="rgb(104,210,201)" stroke="rgb(83,168,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg213_5)</title>
+			<polygon class=" (ctg213_5)" points="215,25 197,25 197,10 167,40 197,70 197,55 215,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CbiA (PF01656)
+"CobQ/CobB/MinD/ParA nucleotide binding domain"</title>
+				<polygon class="PF01656" points="171,40 183,28 191,28 191,52 183,52" stroke-linejoin="round" width="21" height="24" fill="rgb(143,82,224)" stroke="rgb(114,65,179)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg213_6)</title>
+			<polygon class=" (ctg213_6)" points="271,25 247,25 247,10 217,40 247,70 247,55 271,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Biotin_lipoyl (PF00364)
+"Biotin-requiring enzyme"</title>
+				<polygon class="PF00364" points="221,40 223,38 223,42" stroke-linejoin="round" width="6" height="24" fill="rgb(67,214,213)" stroke="rgb(53,171,170)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PYC_OADA (PF02436)
+"Conserved carboxylase domain"</title>
+				<polygon class="PF02436" points="229,32 233,28 248,28 248,52 233,52 229,48" stroke-linejoin="round" width="19" height="24" fill="rgb(181,121,72)" stroke="rgb(144,96,57)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HMGL-like (PF00682)
+"HMGL-like"</title>
+				<rect class="PF00682" x="250" y="28" stroke-linejoin="round" width="20" height="24" fill="rgb(84,228,141)" stroke="rgb(67,182,112)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

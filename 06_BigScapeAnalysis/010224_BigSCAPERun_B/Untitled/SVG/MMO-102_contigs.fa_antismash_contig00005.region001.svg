@@ -1,0 +1,78 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="415.3333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="405.3333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg5_89)</title>
+			<polygon class=" (ctg5_89)" points="57,25 54,25 54,10 24,40 54,70 54,55 57,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PALP (PF00291)
+"Pyridoxal-phosphate dependent enzyme"</title>
+				<polygon class="PF00291" points="28,40 40,28 57,28 57,52 40,52 28,40" stroke-linejoin="round" width="29" height="24" fill="rgb(180,55,145)" stroke="rgb(144,44,116)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_90)</title>
+			<polygon class=" (ctg5_90)" points="104,25 88,25 88,10 58,40 88,70 88,55 104,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Orn_Arg_deC_N (PF02784)
+"Pyridoxal-dependent decarboxylase, pyridoxal binding domain"</title>
+				<rect class="PF02784" x="76" y="28" stroke-linejoin="round" width="22" height="24" fill="rgb(106,204,212)" stroke="rgb(84,163,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_91)</title>
+			<polygon class=" (ctg5_91)" points="175,25 135,25 135,10 105,40 135,70 135,55 175,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TonB_dep_Rec (PF00593)
+"TonB dependent receptor"</title>
+				<polygon class="PF00593" points="109,40 121,28 158,28 158,52 121,52" stroke-linejoin="round" width="53" height="24" fill="rgb(171,200,51)" stroke="rgb(136,160,40)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Plug (PF07715)
+"TonB-dependent Receptor Plug Domain"</title>
+				<rect class="PF07715" x="159" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(99,133,214)" stroke="rgb(79,106,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_92)</title>
+			<polygon class=" (ctg5_92)" points="238,25 206,25 206,10 176,40 206,70 206,55 238,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="180,40 192,28 194,28 194,52 192,52" stroke-linejoin="round" width="17" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<rect class="PF04183" x="196" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_93)</title>
+			<polygon class=" (ctg5_93)" points="245,10 272,40 245,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HpcH_HpaI (PF03328)
+"HpcH/HpaI aldolase/citrate lyase family"</title>
+				<polygon class="PF03328" points="245,28 256,28 266,38 266,42 256,52 245,52" stroke-linejoin="round" width="21" height="24" fill="rgb(81,183,94)" stroke="rgb(64,146,75)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_94)</title>
+			<polygon class=" (ctg5_94)" points="284,10 304,40 284,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2913 (PF11140)
+"Protein of unknown function (DUF2913)"</title>
+				<polygon class="PF11140" points="285,28 292,28 300,40 292,52 285,52" stroke-linejoin="round" width="18" height="24" fill="rgb(198,69,170)" stroke="rgb(158,55,135)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_95)</title>
+			<polygon class=" (ctg5_95)" points="352,25 365,25 365,10 395,40 365,70 365,55 352,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lys_Orn_oxgnase (PF13434)
+"L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase"</title>
+				<polygon class="PF13434" points="352,28 378,28 385,35 385,45 378,52 352,52" stroke-linejoin="round" width="33" height="24" fill="rgb(81,213,119)" stroke="rgb(64,170,95)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

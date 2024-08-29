@@ -1,0 +1,116 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="373.43333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="363.43333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg55_1)</title>
+			<polygon class=" (ctg55_1)" points="62,25 40,25 40,10 10,40 40,70 40,55 62,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lactate_perm (PF02652)
+"L-lactate permease"</title>
+				<polygon class="PF02652" points="15,39 26,28 60,28 60,52 26,52 15,41" stroke-linejoin="round" width="45" height="24" fill="rgb(61,117,189)" stroke="rgb(48,93,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg55_2)</title>
+			<polygon class=" (ctg55_2)" points="65,10 75,40 65,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg55_3)</title>
+			<polygon class=" (ctg55_3)" points="74,10 82,40 74,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg55_4)</title>
+			<polygon class=" (ctg55_4)" points="100,10 118,40 100,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LysR_substrate (PF03466)
+"LysR substrate binding domain"</title>
+				<polygon class="PF03466" points="100,28 107,28 115,40 107,52 100,52" stroke-linejoin="round" width="18" height="24" fill="rgb(55,136,195)" stroke="rgb(44,108,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg55_5)</title>
+			<polygon class=" (ctg55_5)" points="122,40 127,10 127,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg55_6)</title>
+			<polygon class=" (ctg55_6)" points="127,40 142,10 142,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DoxX (PF07681)
+"DoxX"</title>
+				<polygon class="PF07681" points="130,40 136,28 138,28 138,52 136,52 130,40" stroke-linejoin="round" width="8" height="24" fill="rgb(93,188,216)" stroke="rgb(74,150,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg55_7)</title>
+			<polygon class=" (ctg55_7)" points="144,40 168,10 168,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2063 (PF09836)
+"Putative DNA-binding domain"</title>
+				<rect class="PF09836" x="159" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(88,194,190)" stroke="rgb(70,155,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg55_8)</title>
+			<polygon class=" (ctg55_8)" points="168,40 195,10 195,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF692 (PF05114)
+"Protein of unknown function (DUF692)"</title>
+				<polygon class="PF05114" points="172,40 183,28 194,28 194,52 183,52" stroke-linejoin="round" width="26" height="24" fill="rgb(63,196,127)" stroke="rgb(50,156,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg55_9)</title>
+			<polygon class=" (ctg55_9)" points="197,40 205,10 205,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2282 (PF10048)
+"Predicted integral membrane protein (DUF2282)"</title>
+				<polygon class="PF10048" points="200,40 202,33 202,47" stroke-linejoin="round" width="5" height="24" fill="rgb(58,205,168)" stroke="rgb(46,164,134)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg55_10)</title>
+			<polygon class=" (ctg55_10)" points="209,40 234,10 234,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Abhydrolase_6 (PF12697)
+"Alpha/beta hydrolase family"</title>
+				<polygon class="PF12697" points="213,40 223,28 231,28 231,52 223,52" stroke-linejoin="round" width="21" height="24" fill="rgb(113,71,219)" stroke="rgb(90,56,175)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg55_11)</title>
+			<polygon class=" (ctg55_11)" points="235,40 243,10 243,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YdgH_BhsA-like (PF07338)
+"YdgH/BhsA/McbA-like domain"</title>
+				<polygon class="PF07338" points="238,40 240,33 240,47" stroke-linejoin="round" width="5" height="24" fill="rgb(203,158,62)" stroke="rgb(162,126,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg55_12)</title>
+			<polygon class=" (ctg55_12)" points="246,10 251,40 246,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg55_13)</title>
+			<polygon class=" (ctg55_13)" points="251,40 272,10 272,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ni_hydr_CYTB (PF01292)
+"Prokaryotic cytochrome b561"</title>
+				<polygon class="PF01292" points="255,40 264,28 271,28 271,52 264,52" stroke-linejoin="round" width="17" height="24" fill="rgb(210,172,100)" stroke="rgb(168,137,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg55_14)</title>
+			<polygon class=" (ctg55_14)" points="273,40 302,10 302,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Form-deh_trans (PF09163)
+"Formate dehydrogenase N, transmembrane"</title>
+				<polygon class="PF09163" points="277,40 277,40 277,40" stroke-linejoin="round" width="4" height="24" fill="rgb(190,60,131)" stroke="rgb(152,48,104)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Fer4_11 (PF13247)
+"4Fe-4S dicluster domain"</title>
+				<polygon class="PF13247" points="283,34 289,28 292,28 292,52 289,52 283,46" stroke-linejoin="round" width="9" height="24" fill="rgb(61,193,49)" stroke="rgb(48,154,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

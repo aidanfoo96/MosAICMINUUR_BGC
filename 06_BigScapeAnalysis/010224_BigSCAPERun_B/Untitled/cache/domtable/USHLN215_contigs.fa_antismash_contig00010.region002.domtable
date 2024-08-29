@@ -1,0 +1,22 @@
+#                                                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NAD_binding_1        PF00175.24   109 USHLN215_contigs.fa_antismash_contig00010.region002_ORF1:gid::pid::loc:992:2045:strand:- -            350   1.6e-10   41.7   0.0   1   1   1.2e-13   1.2e-09   38.9   0.0     1   107   139   239   139   241 0.82 Oxidoreductase NAD-binding domain
+Fer2                 PF00111.30    78 USHLN215_contigs.fa_antismash_contig00010.region002_ORF1:gid::pid::loc:992:2045:strand:- -            350   2.5e-07   30.7   0.8   1   1     4e-11   3.9e-07   30.0   0.8     6    76   275   341   270   343 0.76 2Fe-2S iron-sulfur cluster binding domain
+HTH_30               PF13556.9     59 USHLN215_contigs.fa_antismash_contig00010.region002_ORF2:gid::pid::loc:2148:3357:strand:+ -            402   3.2e-17   62.2   0.5   1   1   3.4e-21   6.7e-17   61.2   0.5     1    59   341   399   341   399 0.98 PucR C-terminal helix-turn-helix domain
+Acyltransferase      PF01553.24   135 USHLN215_contigs.fa_antismash_contig00010.region002_ORF3:gid::pid::loc:3376:4192:strand:- -            271   4.9e-19   68.4   0.0   1   1   3.5e-23     7e-19   67.9   0.0     8   134    49   169    33   170 0.91 Acyltransferase
+DUF4870              PF09685.13   110 USHLN215_contigs.fa_antismash_contig00010.region002_ORF4:gid::pid::loc:4440:4839:strand:+ -            132   4.2e-26   91.4   8.1   1   1   2.4e-30   4.7e-26   91.2   8.1     1   109    19   130    19   131 0.90 Domain of unknown function (DUF4870)
+ABC_tran             PF00005.30   137 USHLN215_contigs.fa_antismash_contig00010.region002_ORF10:gid::pid::loc:8506:9190:strand:+ -            227   6.7e-16   59.2   0.0   1   1   4.2e-20   8.3e-16   58.9   0.0     4   137    30   165    27   165 0.88 ABC transporter
+Response_reg         PF00072.27   112 USHLN215_contigs.fa_antismash_contig00010.region002_ORF11:gid::pid::loc:9153:9849:strand:- -            231   2.4e-28   98.7   0.1   1   1   5.6e-32   3.7e-28   98.1   0.1     1   111    13   124    13   125 0.98 Response regulator receiver domain
+GerE                 PF00196.22    57 USHLN215_contigs.fa_antismash_contig00010.region002_ORF11:gid::pid::loc:9153:9849:strand:- -            231   1.4e-19   69.5   0.1   1   1   3.3e-23   2.2e-19   68.9   0.1     3    57   166   220   164   220 0.96 Bacterial regulatory proteins, luxR family
+Sigma70_r4_2         PF08281.15    54 USHLN215_contigs.fa_antismash_contig00010.region002_ORF11:gid::pid::loc:9153:9849:strand:- -            231   7.8e-10   38.4   0.1   1   1     2e-13   1.3e-09   37.7   0.1     6    54   161   208   160   208 0.95 Sigma-70, region 4
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/USHLN215_contigs.fa_antismash_contig00010.region002.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/USHLN215_contigs.fa_antismash_contig00010.region002.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/USHLN215_contigs.fa_antismash_contig00010.region002.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 18:19:03 2024
+# [ok]

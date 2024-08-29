@@ -1,0 +1,81 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="281.2" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="271.2" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg52_6)</title>
+			<polygon class=" (ctg52_6)" points="15,10 28,40 15,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GFA (PF04828)
+"Glutathione-dependent formaldehyde-activating enzyme"</title>
+				<polygon class="PF04828" points="17,28 19,28 25,40 19,52 17,52" stroke-linejoin="round" width="9" height="24" fill="rgb(68,192,55)" stroke="rgb(54,153,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg52_7)</title>
+			<polygon class=" (ctg52_7)" points="28,40 43,10 43,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AsnC_trans_reg (PF01037)
+"Lrp/AsnC ligand binding domain"</title>
+				<polygon class="PF01037" points="31,40 35,32 35,48" stroke-linejoin="round" width="6" height="24" fill="rgb(134,72,182)" stroke="rgb(107,57,145)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_AsnC-type (PF13404)
+"AsnC-type helix-turn-helix domain"</title>
+				<rect class="PF13404" x="38" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(190,195,86)" stroke="rgb(152,156,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg52_8)</title>
+			<polygon class=" (ctg52_8)" points="47,10 58,40 47,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NIPSNAP (PF07978)
+"NIPSNAP"</title>
+				<polygon class="PF07978" points="47,28 50,28 55,40 50,52 47,52" stroke-linejoin="round" width="9" height="24" fill="rgb(118,80,216)" stroke="rgb(94,64,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg52_9)</title>
+			<polygon class=" (ctg52_9)" points="58,10 74,40 58,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg52_10)</title>
+			<polygon class=" (ctg52_10)" points="78,40 91,10 91,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg52_11)</title>
+			<polygon class=" (ctg52_11)" points="108,25 146,25 146,10 176,40 146,70 146,55 108,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ferritin-like (PF12902)
+"Ferritin-like"</title>
+				<rect class="PF12902" x="111" y="28" stroke-linejoin="round" width="28" height="24" fill="rgb(159,71,195)" stroke="rgb(127,56,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg52_12)</title>
+			<polygon class=" (ctg52_12)" points="176,25 177,25 177,10 207,40 177,70 177,55 176,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF692 (PF05114)
+"Protein of unknown function (DUF692)"</title>
+				<polygon class="PF05114" points="178,28 191,28 203,40 191,52 178,52" stroke-linejoin="round" width="26" height="24" fill="rgb(63,196,127)" stroke="rgb(50,156,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg52_13)</title>
+			<polygon class=" (ctg52_13)" points="207,10 236,40 207,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2063 (PF09836)
+"Putative DNA-binding domain"</title>
+				<rect class="PF09836" x="207" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(88,194,190)" stroke="rgb(70,155,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg52_14)</title>
+			<polygon class=" (ctg52_14)" points="256,10 270,40 256,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PAS_3 (PF08447)
+"PAS fold"</title>
+				<polygon class="PF08447" points="259,28 261,28 267,39 267,41 261,52 259,52" stroke-linejoin="round" width="8" height="24" fill="rgb(222,97,193)" stroke="rgb(177,77,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

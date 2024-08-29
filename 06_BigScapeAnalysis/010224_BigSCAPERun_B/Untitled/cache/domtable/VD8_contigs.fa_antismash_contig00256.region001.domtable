@@ -1,0 +1,26 @@
+#                                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PDDEXK_3             PF13366.9    118 VD8_contigs.fa_antismash_contig00256.region001_ORF1:gid::pid::loc:1:205:strand:+ -             67   1.1e-21   77.4   0.5   1   1   6.2e-26   1.2e-21   77.3   0.5    60   117     4    61     1    62 0.96 PD-(D/E)XK nuclease superfamily
+4HBT                 PF03061.25    79 VD8_contigs.fa_antismash_contig00256.region001_ORF2:gid::pid::loc:320:794:strand:+ -            157   1.6e-10   41.3   0.0   1   1   2.1e-14   2.1e-10   40.9   0.0     2    79    41   125    40   125 0.98 Thioesterase superfamily
+4HBT_2               PF13279.9    123 VD8_contigs.fa_antismash_contig00256.region001_ORF2:gid::pid::loc:320:794:strand:+ -            157   7.1e-10   39.6   0.0   1   1   8.8e-14   8.6e-10   39.3   0.0     1   122    32   151    32   152 0.93 Thioesterase-like superfamily
+Ketoacyl-synt_C      PF02801.25   119 VD8_contigs.fa_antismash_contig00256.region001_ORF3:gid::pid::loc:793:1966:strand:+ -            390   9.3e-18   64.5   0.0   1   1   2.7e-21   1.7e-17   63.6   0.0     7   118   244   348   238   349 0.88 Beta-ketoacyl synthase, C-terminal domain
+ketoacyl-synt        PF00109.29   253 VD8_contigs.fa_antismash_contig00256.region001_ORF3:gid::pid::loc:793:1966:strand:+ -            390   6.2e-15   55.6   0.0   1   1   4.5e-18   2.9e-14   53.4   0.0     2   247     3   226     2   231 0.80 Beta-ketoacyl synthase, N-terminal domain
+ACP_syn_III          PF08545.13    80 VD8_contigs.fa_antismash_contig00256.region001_ORF3:gid::pid::loc:793:1966:strand:+ -            390   1.1e-08   35.0   1.1   1   1   2.3e-11   1.5e-07   31.3   1.0     3    64   152   229   150   244 0.70 3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III
+ParE_toxin           PF05016.18    90 VD8_contigs.fa_antismash_contig00256.region001_ORF5:gid::pid::loc:2238:2523:strand:+ -             94   1.6e-06   28.8   0.2   1   1   8.8e-11   1.7e-06   28.6   0.2     9    89    11    89     5    90 0.82 ParE toxin of type II toxin-antitoxin system, parDE
+PP-binding           PF00550.28    67 VD8_contigs.fa_antismash_contig00256.region001_ORF7:gid::pid::loc:3186:3444:strand:+ -             85   1.2e-08   35.3   0.1   1   1   7.3e-13   1.4e-08   35.0   0.1     2    65     7    77     6    79 0.80 Phosphopantetheine attachment site
+ketoacyl-synt        PF00109.29   253 VD8_contigs.fa_antismash_contig00256.region001_ORF8:gid::pid::loc:3525:4725:strand:+ -            399   6.7e-31  107.9   0.1   1   1   2.5e-34   1.2e-30  107.0   0.1     3   250     4   233     2   235 0.82 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.25   119 VD8_contigs.fa_antismash_contig00256.region001_ORF8:gid::pid::loc:3525:4725:strand:+ -            399   8.4e-27   93.7   0.1   1   1   4.1e-30     2e-26   92.4   0.1     2   118   245   357   244   358 0.95 Beta-ketoacyl synthase, C-terminal domain
+Thiolase_N           PF00108.26   260 VD8_contigs.fa_antismash_contig00256.region001_ORF8:gid::pid::loc:3525:4725:strand:+ -            399   1.1e-06   28.3   0.1   1   1   8.6e-10   4.2e-06   26.4   0.0    77   119   152   194   140   247 0.88 Thiolase, N-terminal domain
+ketoacyl-synt        PF00109.29   253 VD8_contigs.fa_antismash_contig00256.region001_ORF9:gid::pid::loc:4721:5783:strand:+ -            353     1e-11   45.0   0.0   1   1   1.6e-15   1.5e-11   44.5   0.0    77   250    46   217    16   220 0.82 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_2      PF13723.9    226 VD8_contigs.fa_antismash_contig00256.region001_ORF9:gid::pid::loc:4721:5783:strand:+ -            353   5.4e-08   32.9   0.0   1   1   8.2e-12   8.1e-08   32.3   0.0    16   145    40   175    26   193 0.81 Beta-ketoacyl synthase, N-terminal domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/VD8_contigs.fa_antismash_contig00256.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/VD8_contigs.fa_antismash_contig00256.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/VD8_contigs.fa_antismash_contig00256.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 20:33:10 2024
+# [ok]

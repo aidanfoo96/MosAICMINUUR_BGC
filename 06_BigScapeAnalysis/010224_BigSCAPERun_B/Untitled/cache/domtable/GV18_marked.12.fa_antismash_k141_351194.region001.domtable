@@ -1,0 +1,27 @@
+#                                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NUDIX                PF00293.31   131 GV18_marked.12.fa_antismash_k141_351194.region001_ORF4:gid::pid::loc:750:1326:strand:+ -            191   1.5e-20   73.7   0.1   1   1   9.7e-25   1.9e-20   73.4   0.1     2   124    36   160    35   167 0.84 NUDIX domain
+polyprenyl_synt      PF00348.20   256 GV18_marked.12.fa_antismash_k141_351194.region001_ORF5:gid::pid::loc:1322:2372:strand:+ -            349   4.2e-42  144.1   0.0   1   1   2.8e-46   5.6e-42  143.7   0.0    14   225    46   272    35   288 0.91 Polyprenyl synthetase
+SQS_PSY              PF00494.22   263 GV18_marked.12.fa_antismash_k141_351194.region001_ORF6:gid::pid::loc:2368:3235:strand:+ -            288   5.9e-31  108.1   2.6   1   1   2.6e-34     5e-30  105.0   0.3     3   174    21   200    19   203 0.92 Squalene/phytoene synthase
+Amino_oxidase        PF01593.27   452 GV18_marked.12.fa_antismash_k141_351194.region001_ORF7:gid::pid::loc:3231:4848:strand:+ -            538   2.5e-31  109.6   0.2   1   1   1.6e-34   7.8e-31  108.0   0.2     1   450    26   519    26   521 0.74 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.9     68 GV18_marked.12.fa_antismash_k141_351194.region001_ORF7:gid::pid::loc:3231:4848:strand:+ -            538   4.8e-19   68.5   0.3   1   1   9.8e-23   4.8e-19   68.5   0.3     1    65    21    85    21    87 0.97 NAD(P)-binding Rossmann-like domain
+DAO                  PF01266.27   353 GV18_marked.12.fa_antismash_k141_351194.region001_ORF7:gid::pid::loc:3231:4848:strand:+ -            538   5.5e-18   65.8   5.6   1   1   2.7e-21   1.3e-17   64.5   5.5     3   202    20   329    18   457 0.69 FAD dependent oxidoreductase
+Lycopene_cyc         PF18916.3     92 GV18_marked.12.fa_antismash_k141_351194.region001_ORF9:gid::pid::loc:5188:5527:strand:+ -            112   1.8e-06   28.4   1.1   1   1   1.3e-10   2.6e-06   27.9   1.1     9    88    10    91     1    95 0.74 Lycopene cyclase
+UbiA                 PF01040.21   251 GV18_marked.12.fa_antismash_k141_351194.region001_ORF10:gid::pid::loc:5523:6381:strand:+ -            285   1.5e-34  119.5  28.6   1   1   7.8e-39   1.5e-34  119.5  28.6     4   250    20   266    17   271 0.90 UbiA prenyltransferase family
+UPF0182              PF03699.16   758 GV18_marked.12.fa_antismash_k141_351194.region001_ORF11:gid::pid::loc:6408:9300:strand:- -            963  8.9e-268  890.6   0.1   1   1  5.2e-272    1e-267  890.4   0.1     3   758    21   816    19   816 0.95 Uncharacterised protein family (UPF0182)
+Peptidase_M50        PF02163.25   328 GV18_marked.12.fa_antismash_k141_351194.region001_ORF12:gid::pid::loc:9309:10431:strand:- -            373     1e-10   41.5   0.0   1   1   2.8e-14   1.4e-10   41.1   0.0   101   206    33   246    12   280 0.83 Peptidase family M50
+Lon_C                PF05362.16   205 GV18_marked.12.fa_antismash_k141_351194.region001_ORF12:gid::pid::loc:9309:10431:strand:- -            373   1.1e-09   38.3   0.0   1   1     4e-13     2e-09   37.5   0.0   108   199   263   353   224   358 0.87 Lon protease (S16) C-terminal proteolytic domain
+PDZ_6                PF17820.4     54 GV18_marked.12.fa_antismash_k141_351194.region001_ORF12:gid::pid::loc:9309:10431:strand:- -            373   6.7e-09   35.6   0.3   1   1   7.5e-12   3.7e-08   33.3   0.1     2    54   166   217   165   217 0.95 PDZ domain
+PDZ_2                PF13180.9     82 GV18_marked.12.fa_antismash_k141_351194.region001_ORF12:gid::pid::loc:9309:10431:strand:- -            373     1e-08   35.5   0.2   1   1   5.6e-12   2.7e-08   34.2   0.2    11    80   161   226   127   227 0.86 PDZ domain
+Zincin_2             PF10103.12   332 GV18_marked.12.fa_antismash_k141_351194.region001_ORF13:gid::pid::loc:10566:11982:strand:+ -            471   3.6e-97  325.7  12.0   1   1  2.3e-101   4.5e-97  325.4  12.0     1   331    74   422    74   423 0.96 Zincin-like metallopeptidase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/GV18_marked.12.fa_antismash_k141_351194.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/GV18_marked.12.fa_antismash_k141_351194.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/GV18_marked.12.fa_antismash_k141_351194.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 20:46:53 2024
+# [ok]

@@ -1,0 +1,28 @@
+#                                                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TonB_dep_Rec         PF00593.27   470 AS116_contigs.fa_antismash_contig00001.region003_ORF1:gid::pid::loc:454:2725:strand:- -            756   4.4e-40  139.1  31.0   1   1   2.1e-42   2.1e-38  133.6  20.6    20   470   281   755   270   755 0.70 TonB dependent receptor
+Plug                 PF07715.18   108 AS116_contigs.fa_antismash_contig00001.region003_ORF1:gid::pid::loc:454:2725:strand:- -            756   2.8e-20   73.0   3.8   1   1   2.8e-24   2.8e-20   73.0   3.8     3   108    61   163    59   163 0.95 TonB-dependent Receptor Plug Domain
+MFS_1                PF07690.19   353 AS116_contigs.fa_antismash_contig00001.region003_ORF2:gid::pid::loc:2734:3970:strand:- -            411   1.5e-21   76.8  47.1   1   1   7.5e-21   7.3e-17   61.4  36.6     3   307    21   320    19   327 0.75 Major Facilitator Superfamily
+Acatn                PF13000.10   548 AS116_contigs.fa_antismash_contig00001.region003_ORF2:gid::pid::loc:2734:3970:strand:- -            411     1e-16   60.7  10.8   1   1   1.6e-17   1.6e-13   50.2  10.8     4   169    18   160    15   169 0.82 Acetyl-coenzyme A transporter 1
+Acetyltransf_8       PF13523.9    145 AS116_contigs.fa_antismash_contig00001.region003_ORF4:gid::pid::loc:4334:4973:strand:- -            212   3.3e-36  124.2   0.0   1   1   2.1e-40   4.2e-36  123.9   0.0     3   143    29   169    27   171 0.95 Acetyltransferase (GNAT) domain
+IucA_IucC            PF04183.15   239 AS116_contigs.fa_antismash_contig00001.region003_ORF5:gid::pid::loc:5000:6818:strand:- -            605   1.9e-64  217.7   0.0   1   1   2.6e-68   2.5e-64  217.2   0.0     5   239   142   387   138   387 0.96 IucA / IucC family
+FhuF                 PF06276.15   163 AS116_contigs.fa_antismash_contig00001.region003_ORF5:gid::pid::loc:5000:6818:strand:- -            605   3.4e-31  109.0   0.4   1   1   8.3e-35   8.1e-31  107.8   0.4     2   158   409   566   408   571 0.96 Ferric iron reductase FhuF-like transporter
+Lys_Orn_oxgnase      PF13434.9    341 AS116_contigs.fa_antismash_contig00001.region003_ORF6:gid::pid::loc:6814:8296:strand:- -            493  4.4e-110  368.1   0.8   1   1  6.7e-114  4.4e-110  368.1   0.8     2   339     1   338     1   340 0.94 L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase
+IucA_IucC            PF04183.15   239 AS116_contigs.fa_antismash_contig00001.region003_ORF7:gid::pid::loc:8288:10073:strand:- -            594   7.5e-53  179.7   0.0   1   1   1.1e-56   1.1e-52  179.2   0.0     1   239   144   377   144   377 0.94 IucA / IucC family
+FhuF                 PF06276.15   163 AS116_contigs.fa_antismash_contig00001.region003_ORF7:gid::pid::loc:8288:10073:strand:- -            594   1.9e-34  119.5   1.7   1   1   4.5e-38   4.5e-34  118.4   1.7     2   161   409   567   408   569 0.90 Ferric iron reductase FhuF-like transporter
+tRNA_edit            PF04073.18   123 AS116_contigs.fa_antismash_contig00001.region003_ORF8:gid::pid::loc:10390:10858:strand:- -            155   1.2e-25   90.0   0.1   1   1   7.9e-30   1.5e-25   89.7   0.1     9   123    32   144    24   144 0.96 Aminoacyl-tRNA editing domain
+ABC1                 PF03109.19   244 AS116_contigs.fa_antismash_contig00001.region003_ORF10:gid::pid::loc:11521:12895:strand:+ -            457     4e-52  176.9   0.0   1   1   2.8e-56   5.5e-52  176.4   0.0     2   243   100   346    99   347 0.95 ABC1 atypical kinase-like domain
+Acyl-CoA_dh_1        PF00441.27   150 AS116_contigs.fa_antismash_contig00001.region003_ORF11:gid::pid::loc:13122:14418:strand:+ -            431   9.3e-30  103.9   1.2   1   1   2.6e-33   1.7e-29  103.1   0.5    15   134   306   425   299   428 0.97 Acyl-CoA dehydrogenase, C-terminal domain
+Acyl-CoA_dh_N        PF02771.19   113 AS116_contigs.fa_antismash_contig00001.region003_ORF11:gid::pid::loc:13122:14418:strand:+ -            431   6.5e-19   68.8   0.0   1   1     1e-21   6.9e-18   65.5   0.0     1   110    80   190    80   193 0.90 Acyl-CoA dehydrogenase, N-terminal domain
+Acyl-CoA_dh_2        PF08028.14   134 AS116_contigs.fa_antismash_contig00001.region003_ORF11:gid::pid::loc:13122:14418:strand:+ -            431   4.5e-17   62.7   0.1   1   1   1.2e-20   7.8e-17   61.9   0.1     2   128   308   424   307   430 0.96 Acyl-CoA dehydrogenase, C-terminal domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/AS116_contigs.fa_antismash_contig00001.region003.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/AS116_contigs.fa_antismash_contig00001.region003.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/AS116_contigs.fa_antismash_contig00001.region003.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 22:05:09 2024
+# [ok]

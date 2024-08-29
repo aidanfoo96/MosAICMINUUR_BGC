@@ -1,0 +1,180 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="708.4666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="698.4666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg6_160)</title>
+			<polygon class=" (ctg6_160)" points="11,10 24,40 11,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF6538 (PF20172)
+"Domain of unknown function (DUF6538)"</title>
+				<polygon class="PF20172" points="11,28 15,28 17,31 17,49 15,52 11,52" stroke-linejoin="round" width="6" height="24" fill="rgb(95,165,222)" stroke="rgb(76,132,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_161)</title>
+			<polygon class=" (ctg6_161)" points="23,10 31,40 23,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg6_162)</title>
+			<polygon class=" (ctg6_162)" points="31,10 35,40 31,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg6_163)</title>
+			<polygon class=" (ctg6_163)" points="77,25 72,25 72,10 42,40 72,70 72,55 77,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg6_164)</title>
+			<polygon class=" (ctg6_164)" points="116,25 107,25 107,10 77,40 107,70 107,55 116,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg6_165)</title>
+			<polygon class=" (ctg6_165)" points="148,25 146,25 146,10 116,40 146,70 146,55 148,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg6_166)</title>
+			<polygon class=" (ctg6_166)" points="180,25 178,25 178,10 148,40 178,70 178,55 180,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_2 (PF00891)
+"O-methyltransferase domain"</title>
+				<polygon class="PF00891" points="152,40 164,28 169,28 169,52 164,52" stroke-linejoin="round" width="19" height="24" fill="rgb(50,51,190)" stroke="rgb(39,40,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_167)</title>
+			<polygon class=" (ctg6_167)" points="221,25 210,25 210,10 180,40 210,70 210,55 221,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_1_2 (PF00155)
+"Aminotransferase class I and II"</title>
+				<polygon class="PF00155" points="184,40 196,28 216,28 216,52 196,52" stroke-linejoin="round" width="35" height="24" fill="rgb(89,113,198)" stroke="rgb(71,90,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_168)</title>
+			<polygon class=" (ctg6_168)" points="253,40 257,10 257,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg6_169)</title>
+			<polygon class=" (ctg6_169)" points="260,40 276,10 276,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg6_170)</title>
+			<polygon class=" (ctg6_170)" points="281,40 297,10 297,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>rve_3 (PF13683)
+"Integrase core domain"</title>
+				<polygon class="PF13683" points="284,40 289,31 289,49" stroke-linejoin="round" width="6" height="24" fill="rgb(75,178,160)" stroke="rgb(60,142,128)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_171)</title>
+			<polygon class=" (ctg6_171)" points="319,10 343,40 319,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Autoind_bind (PF03472)
+"Autoinducer binding domain"</title>
+				<polygon class="PF03472" points="320,28 330,28 334,33 334,47 330,52 320,52" stroke-linejoin="round" width="14" height="24" fill="rgb(99,181,52)" stroke="rgb(79,144,41)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GerE (PF00196)
+"Bacterial regulatory proteins, luxR family"</title>
+				<polygon class="PF00196" points="336,36 339,40 336,44" stroke-linejoin="round" width="5" height="24" fill="rgb(219,94,82)" stroke="rgb(175,75,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_172)</title>
+			<polygon class=" (ctg6_172)" points="343,40 364,10 364,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Autoind_synth (PF00765)
+"Autoinducer synthase"</title>
+				<polygon class="PF00765" points="347,40 356,28 363,28 363,52 356,52" stroke-linejoin="round" width="17" height="24" fill="rgb(197,72,80)" stroke="rgb(157,57,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_173)</title>
+			<polygon class=" (ctg6_173)" points="371,40 396,10 396,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>rve_3 (PF13683)
+"Integrase core domain"</title>
+				<polygon class="PF13683" points="375,40 377,38 377,42" stroke-linejoin="round" width="6" height="24" fill="rgb(75,178,160)" stroke="rgb(60,142,128)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_174)</title>
+			<polygon class=" (ctg6_174)" points="454,25 446,25 446,10 416,40 446,70 446,55 454,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>S-AdoMet_synt_C (PF02773)
+"S-adenosylmethionine synthetase, C-terminal domain"</title>
+				<polygon class="PF02773" points="420,40 430,30 430,50" stroke-linejoin="round" width="13" height="24" fill="rgb(192,53,113)" stroke="rgb(153,42,90)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>S-AdoMet_synt_M (PF02772)
+"S-adenosylmethionine synthetase, central domain"</title>
+				<polygon class="PF02772" points="431,29 432,28 442,28 442,52 432,52 431,51" stroke-linejoin="round" width="11" height="24" fill="rgb(81,223,98)" stroke="rgb(64,178,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>S-AdoMet_synt_N (PF00438)
+"S-adenosylmethionine synthetase, N-terminal domain"</title>
+				<rect class="PF00438" x="444" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(202,217,80)" stroke="rgb(161,173,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_175)</title>
+			<polygon class=" (ctg6_175)" points="483,25 518,25 518,10 548,40 518,70 518,55 483,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Orn_Arg_deC_N (PF02784)
+"Pyridoxal-dependent decarboxylase, pyridoxal binding domain"</title>
+				<rect class="PF02784" x="493" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(106,204,212)" stroke="rgb(84,163,169)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Arg_decarb_HB (PF17810)
+"Arginine decarboxylase helical bundle domain"</title>
+				<rect class="PF17810" x="522" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(207,58,210)" stroke="rgb(165,46,168)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Arg_decarbox_C (PF17944)
+"Arginine decarboxylase C-terminal helical extension"</title>
+				<polygon class="PF17944" points="543,39 544,40 543,41" stroke-linejoin="round" width="4" height="24" fill="rgb(98,183,210)" stroke="rgb(78,146,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_176)</title>
+			<polygon class=" (ctg6_176)" points="574,40 588,10 588,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DoxX (PF07681)
+"DoxX"</title>
+				<polygon class="PF07681" points="577,40 583,28 585,28 585,52 583,52 577,40" stroke-linejoin="round" width="8" height="24" fill="rgb(93,188,216)" stroke="rgb(74,150,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_177)</title>
+			<polygon class=" (ctg6_177)" points="600,40 616,10 616,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4863 (PF16155)
+"Domain of unknown function (DUF4863)"</title>
+				<polygon class="PF16155" points="603,40 610,28 614,28 614,52 610,52" stroke-linejoin="round" width="14" height="24" fill="rgb(74,125,201)" stroke="rgb(59,100,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_178)</title>
+			<polygon class=" (ctg6_178)" points="619,40 648,10 648,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>EamA (PF00892)
+"EamA-like transporter family"</title>
+				<polygon class="PF00892" points="623,40 633,30 633,50" stroke-linejoin="round" width="13" height="24" fill="rgb(105,217,77)" stroke="rgb(84,173,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>EamA (PF00892)
+"EamA-like transporter family"</title>
+				<polygon class="PF00892" points="635,28 635,28 648,28 648,52 635,52 635,52" stroke-linejoin="round" width="13" height="24" fill="rgb(105,217,77)" stroke="rgb(84,173,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_179)</title>
+			<polygon class=" (ctg6_179)" points="663,10 683,40 663,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_18 (PF12833)
+"Helix-turn-helix domain"</title>
+				<polygon class="PF12833" points="675,33 680,40 675,47" stroke-linejoin="round" width="7" height="24" fill="rgb(216,58,224)" stroke="rgb(172,46,179)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

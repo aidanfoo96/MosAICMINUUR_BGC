@@ -1,0 +1,27 @@
+#                                                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Response_reg         PF00072.27   112 USHLN149_contigs.fa_antismash_contig00005.region002_ORF1:gid::pid::loc:578:1295:strand:+ -            238   1.5e-26   92.9   0.0   1   1   2.2e-30   2.2e-26   92.4   0.0     1   112    13   122    13   122 0.98 Response regulator receiver domain
+Trans_reg_C          PF00486.31    77 USHLN149_contigs.fa_antismash_contig00005.region002_ORF1:gid::pid::loc:578:1295:strand:+ -            238   1.8e-21   76.1   0.0   1   1   1.2e-24   1.2e-20   73.5   0.0     1    76   157   232   157   233 0.97 Transcriptional regulatory protein, C terminal
+Pyridoxal_deC        PF00282.22   375 USHLN149_contigs.fa_antismash_contig00005.region002_ORF2:gid::pid::loc:2089:3661:strand:+ -            523   8.4e-61  205.9   0.0   1   1   5.4e-65   1.1e-60  205.5   0.0    37   374   104   441    82   442 0.92 Pyridoxal-dependent decarboxylase conserved domain
+Lys_Orn_oxgnase      PF13434.9    341 USHLN149_contigs.fa_antismash_contig00005.region002_ORF3:gid::pid::loc:3657:5004:strand:+ -            448  1.4e-124  415.8   0.0   1   1  8.6e-129  1.7e-124  415.5   0.0     1   340     3   339     3   340 0.98 L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase
+IucA_IucC            PF04183.15   239 USHLN149_contigs.fa_antismash_contig00005.region002_ORF4:gid::pid::loc:5000:7427:strand:+ -            808   2.8e-76  256.4   0.0   1   1   1.2e-79   5.9e-76  255.3   0.0     2   239   347   595   346   595 0.95 IucA / IucC family
+Acetyltransf_8       PF13523.9    145 USHLN149_contigs.fa_antismash_contig00005.region002_ORF4:gid::pid::loc:5000:7427:strand:+ -            808   1.7e-47  160.9   0.1   1   1     1e-50   4.9e-47  159.4   0.1     3   145    32   175    30   175 0.97 Acetyltransferase (GNAT) domain
+FhuF                 PF06276.15   163 USHLN149_contigs.fa_antismash_contig00005.region002_ORF4:gid::pid::loc:5000:7427:strand:+ -            808   3.7e-40  138.1   5.7   1   1   1.8e-43   8.9e-40  136.9   5.7     2   161   617   773   616   775 0.95 Ferric iron reductase FhuF-like transporter
+Acetyltransf_3       PF13302.10   138 USHLN149_contigs.fa_antismash_contig00005.region002_ORF4:gid::pid::loc:5000:7427:strand:+ -            808   4.1e-07   30.9   0.0   1   1   2.1e-09     1e-05   26.4   0.0     4   138    26   168    24   168 0.73 Acetyltransferase (GNAT) domain
+FAD_binding_9        PF08021.14   121 USHLN149_contigs.fa_antismash_contig00005.region002_ORF5:gid::pid::loc:7550:8462:strand:- -            303   3.6e-39  133.8   0.0   1   1   5.9e-43   5.8e-39  133.2   0.0     2   117    14   127    13   131 0.95 Siderophore-interacting FAD-binding domain
+SIP                  PF04954.16   119 USHLN149_contigs.fa_antismash_contig00005.region002_ORF5:gid::pid::loc:7550:8462:strand:- -            303   1.9e-33  115.6   2.3   1   1   3.7e-37   3.6e-33  114.7   2.3     1   119   146   299   146   299 0.86 Siderophore-interacting protein
+FAD-oxidase_C        PF02913.22   250 USHLN149_contigs.fa_antismash_contig00005.region002_ORF6:gid::pid::loc:8957:10337:strand:- -            459     2e-67  227.6   0.9   1   1     2e-71     2e-67  227.6   0.9     2   250   219   457   218   457 0.99 FAD linked oxidases, C-terminal domain
+FAD_binding_4        PF01565.26   139 USHLN149_contigs.fa_antismash_contig00005.region002_ORF6:gid::pid::loc:8957:10337:strand:- -            459   6.1e-40  136.3   2.1   1   1   9.6e-44   9.4e-40  135.7   1.6     2   139    44   182    43   182 0.97 FAD binding domain
+YdjM                 PF04307.17   173 USHLN149_contigs.fa_antismash_contig00005.region002_ORF7:gid::pid::loc:10333:10885:strand:- -            183     8e-28   97.1   9.4   1   1     5e-32   9.8e-28   96.8   9.4     1   162     1   165     1   173 0.82 LexA-binding, inner membrane-associated putative hydrolase
+UPF0102              PF02021.20    79 USHLN149_contigs.fa_antismash_contig00005.region002_ORF8:gid::pid::loc:10888:11272:strand:- -            127   1.1e-20   73.8   0.0   1   1   6.4e-25   1.3e-20   73.6   0.0     2    78    13   107    12   108 0.97 Uncharacterised protein family UPF0102
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/USHLN149_contigs.fa_antismash_contig00005.region002.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/USHLN149_contigs.fa_antismash_contig00005.region002.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/USHLN149_contigs.fa_antismash_contig00005.region002.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 23:17:41 2024
+# [ok]

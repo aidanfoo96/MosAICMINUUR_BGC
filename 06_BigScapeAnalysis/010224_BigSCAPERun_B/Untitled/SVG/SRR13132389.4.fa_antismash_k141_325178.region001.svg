@@ -1,0 +1,77 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="425.3333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="415.3333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg90_6)</title>
+			<polygon class=" (ctg90_6)" points="19,25 75,25 75,10 105,40 75,70 75,55 19,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_hydro_63 (PF03200)
+"Glycosyl hydrolase family 63 C-terminal domain"</title>
+				<polygon class="PF03200" points="86,28 89,28 99,38 99,42 89,52 86,52" stroke-linejoin="round" width="13" height="24" fill="rgb(183,219,69)" stroke="rgb(146,175,55)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg90_7)</title>
+			<polygon class=" (ctg90_7)" points="165,25 136,25 136,10 106,40 136,70 136,55 165,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TPR_8 (PF13181)
+"Tetratricopeptide repeat"</title>
+				<rect class="PF13181" x="133" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(182,172,47)" stroke="rgb(145,137,37)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg90_8)</title>
+			<polygon class=" (ctg90_8)" points="248,25 206,25 206,10 176,40 206,70 206,55 248,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="183,37 192,28 197,28 197,52 192,52 183,43" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="204" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Peptidase_C39 (PF03412)
+"Peptidase C39 family"</title>
+				<rect class="PF03412" x="234" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(214,226,77)" stroke="rgb(171,180,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg90_9)</title>
+			<polygon class=" (ctg90_9)" points="284,25 278,25 278,10 248,40 278,70 278,55 284,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HlyD_3 (PF13437)
+"HlyD family secretion protein"</title>
+				<polygon class="PF13437" points="252,40 262,30 262,50 252,40" stroke-linejoin="round" width="10" height="24" fill="rgb(82,200,102)" stroke="rgb(65,160,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Biotin_lipoyl_2 (PF13533)
+"Biotin-lipoyl like"</title>
+				<rect class="PF13533" x="274" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(229,122,112)" stroke="rgb(183,97,89)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg90_10)</title>
+			<polygon class=" (ctg90_10)" points="287,40 293,10 293,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg90_11)</title>
+			<polygon class=" (ctg90_11)" points="307,40 312,10 312,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg90_12)</title>
+			<polygon class=" (ctg90_12)" points="314,40 318,10 318,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg90_13)</title>
+			<polygon class=" (ctg90_13)" points="389,25 360,25 360,10 330,40 360,70 360,55 389,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MutS_V (PF00488)
+"MutS domain V"</title>
+				<polygon class="PF00488" points="334,40 346,28 347,28 347,52 346,52" stroke-linejoin="round" width="17" height="24" fill="rgb(106,217,199)" stroke="rgb(84,173,159)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

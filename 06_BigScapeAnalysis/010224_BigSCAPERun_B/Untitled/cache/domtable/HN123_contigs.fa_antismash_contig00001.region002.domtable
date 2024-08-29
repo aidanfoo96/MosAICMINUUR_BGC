@@ -1,0 +1,27 @@
+#                                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MerR_1               PF13411.9     69 HN123_contigs.fa_antismash_contig00001.region002_ORF1:gid::pid::loc:474:891:strand:+ -            138   1.5e-18   66.7   0.1   1   1     7e-22   4.6e-18   65.2   0.0     1    68     1    69     1    70 0.96 MerR HTH family regulatory protein
+MerR                 PF00376.26    38 HN123_contigs.fa_antismash_contig00001.region002_ORF1:gid::pid::loc:474:891:strand:+ -            138   1.8e-14   53.3   0.4   1   1   4.5e-18   2.9e-14   52.6   0.4     1    38     2    39     2    39 0.98 MerR family regulatory protein
+MerR-DNA-bind        PF09278.14    65 HN123_contigs.fa_antismash_contig00001.region002_ORF1:gid::pid::loc:474:891:strand:+ -            138   2.1e-11   44.4   0.3   1   1   5.5e-15   3.6e-11   43.6   0.3     2    63    45   105    44   107 0.94 MerR, DNA binding
+DJ-1_PfpI            PF01965.27   165 HN123_contigs.fa_antismash_contig00001.region002_ORF2:gid::pid::loc:1012:1816:strand:+ -            267     4e-10   39.9   0.0   1   1   3.5e-14   6.8e-10   39.1   0.0    15   164    69   266    64   267 0.85 DJ-1/PfpI family
+Sacchrp_dh_NADP      PF03435.21   130 HN123_contigs.fa_antismash_contig00001.region002_ORF4:gid::pid::loc:2397:3465:strand:- -            355   6.3e-13   49.3   0.0   1   1   9.9e-17   9.7e-13   48.6   0.0     2   127    10   125     9   128 0.84 Saccharopine dehydrogenase NADP binding domain
+NAD_binding_10       PF13460.9    184 HN123_contigs.fa_antismash_contig00001.region002_ORF4:gid::pid::loc:2397:3465:strand:- -            355   1.5e-07   31.6   0.1   1   1   2.5e-11   2.4e-07   30.9   0.1     1    84    13    96    13   124 0.90 NAD(P)H-binding
+Oxidored_FMN         PF00724.23   342 HN123_contigs.fa_antismash_contig00001.region002_ORF5:gid::pid::loc:3477:4716:strand:- -            412   1.2e-58  199.2   0.1   1   1   1.5e-62   1.5e-58  198.8   0.1    10   339    11   339     2   341 0.86 NADH:flavin oxidoreductase / NADH oxidase family
+His_biosynth         PF00977.24   228 HN123_contigs.fa_antismash_contig00001.region002_ORF5:gid::pid::loc:3477:4716:strand:- -            412   2.2e-06   27.5   0.0   1   1   4.9e-10   4.8e-06   26.3   0.0    62   117   282   337   273   357 0.90 Histidine biosynthesis protein
+YcaO_C               PF18381.4    172 HN123_contigs.fa_antismash_contig00001.region002_ORF6:gid::pid::loc:5000:7205:strand:- -            734   1.4e-75  253.0   4.0   1   1   2.2e-79   1.4e-75  253.0   4.0     1   172   557   728   557   728 0.99 YcaO cyclodehydratase C-terminal domain
+YcaO                 PF02624.19   322 HN123_contigs.fa_antismash_contig00001.region002_ORF6:gid::pid::loc:5000:7205:strand:- -            734   2.2e-72  244.2   0.0   1   1   5.1e-76   3.4e-72  243.6   0.0     1   321   205   540   205   541 0.91 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+OsmC                 PF02566.22   100 HN123_contigs.fa_antismash_contig00001.region002_ORF6:gid::pid::loc:5000:7205:strand:- -            734   1.3e-08   35.3   0.0   1   1   1.7e-11   1.1e-07   32.3   0.0     1    99    32   126    32   127 0.85 OsmC-like protein
+OEP                  PF02321.21   188 HN123_contigs.fa_antismash_contig00001.region002_ORF8:gid::pid::loc:8590:9922:strand:- -            443   1.8e-43  148.7  29.5   1   2   4.9e-23   9.5e-19   68.1   9.1     1   188    35   225    35   225 0.96 Outer membrane efflux protein
+OEP                  PF02321.21   188 HN123_contigs.fa_antismash_contig00001.region002_ORF8:gid::pid::loc:8590:9922:strand:- -            443   1.8e-43  148.7  29.5   2   2   7.9e-29   1.5e-24   86.9  12.4    10   183   252   422   244   427 0.93 Outer membrane efflux protein
+GH3                  PF03321.16   532 HN123_contigs.fa_antismash_contig00001.region002_ORF9:gid::pid::loc:9918:11505:strand:- -            528   3.5e-75  254.0   0.0   1   1   2.2e-79   4.4e-75  253.7   0.0     7   527    31   517    25   520 0.84 GH3 auxin-responsive promoter
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/HN123_contigs.fa_antismash_contig00001.region002.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/HN123_contigs.fa_antismash_contig00001.region002.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/HN123_contigs.fa_antismash_contig00001.region002.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 21:42:04 2024
+# [ok]

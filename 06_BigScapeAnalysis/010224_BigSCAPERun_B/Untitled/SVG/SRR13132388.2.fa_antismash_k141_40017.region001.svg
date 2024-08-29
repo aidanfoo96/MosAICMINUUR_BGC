@@ -1,0 +1,73 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="425.3333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="415.3333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg4_437)</title>
+			<polygon class=" (ctg4_437)" points="36,25 65,25 65,10 95,40 65,70 65,55 36,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MutS_V (PF00488)
+"MutS domain V"</title>
+				<polygon class="PF00488" points="77,28 78,28 90,40 78,52 77,52" stroke-linejoin="round" width="17" height="24" fill="rgb(106,217,199)" stroke="rgb(84,173,159)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4_438)</title>
+			<polygon class=" (ctg4_438)" points="106,10 110,40 106,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg4_439)</title>
+			<polygon class=" (ctg4_439)" points="112,10 117,40 112,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg4_440)</title>
+			<polygon class=" (ctg4_440)" points="140,25 146,25 146,10 176,40 146,70 146,55 140,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Biotin_lipoyl_2 (PF13533)
+"Biotin-lipoyl like"</title>
+				<rect class="PF13533" x="144" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(229,122,112)" stroke="rgb(183,97,89)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HlyD_3 (PF13437)
+"HlyD family secretion protein"</title>
+				<polygon class="PF13437" points="161,30 171,40 171,40 161,50" stroke-linejoin="round" width="10" height="24" fill="rgb(82,200,102)" stroke="rgb(65,160,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4_441)</title>
+			<polygon class=" (ctg4_441)" points="176,25 218,25 218,10 248,40 218,70 218,55 176,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_C39 (PF03412)
+"Peptidase C39 family"</title>
+				<rect class="PF03412" x="176" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(214,226,77)" stroke="rgb(171,180,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="192" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="225,28 231,28 239,36 239,44 231,52 225,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4_442)</title>
+			<polygon class=" (ctg4_442)" points="259,25 288,25 288,10 318,40 288,70 288,55 259,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TPR_8 (PF13181)
+"Tetratricopeptide repeat"</title>
+				<rect class="PF13181" x="287" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(182,172,47)" stroke="rgb(145,137,37)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4_443)</title>
+			<polygon class=" (ctg4_443)" points="404,25 348,25 348,10 318,40 348,70 348,55 404,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_hydro_63 (PF03200)
+"Glycosyl hydrolase family 63 C-terminal domain"</title>
+				<polygon class="PF03200" points="323,39 334,28 336,28 336,52 334,52 323,41" stroke-linejoin="round" width="13" height="24" fill="rgb(183,219,69)" stroke="rgb(146,175,55)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

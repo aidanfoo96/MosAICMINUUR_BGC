@@ -1,0 +1,69 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="412.03333333333336" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="402.03333333333336" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg3_96)</title>
+			<polygon class=" (ctg3_96)" points="150,25 143,25 143,10 113,40 143,70 143,55 150,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Semialdhyde_dhC (PF02774)
+"Semialdehyde dehydrogenase, dimerisation domain"</title>
+				<polygon class="PF02774" points="117,40 129,28 135,28 135,52 129,52" stroke-linejoin="round" width="21" height="24" fill="rgb(57,188,185)" stroke="rgb(45,150,147)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Semialdhyde_dh (PF01118)
+"Semialdehyde dehydrogenase, NAD binding domain"</title>
+				<rect class="PF01118" x="138" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(191,106,221)" stroke="rgb(152,84,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_97)</title>
+			<polygon class=" (ctg3_97)" points="161,10 171,40 161,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Multi_Drug_Res (PF00893)
+"Small Multidrug Resistance protein"</title>
+				<polygon class="PF00893" points="161,28 163,28 168,40 163,52 161,52" stroke-linejoin="round" width="9" height="24" fill="rgb(199,75,202)" stroke="rgb(159,60,161)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_98)</title>
+			<polygon class=" (ctg3_98)" points="176,25 204,25 204,10 234,40 204,70 204,55 176,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YcaO (PF02624)
+"YcaO cyclodehydratase, ATP-ad Mg2+-binding"</title>
+				<rect class="PF02624" x="182" y="28" stroke-linejoin="round" width="33" height="24" fill="rgb(76,84,185)" stroke="rgb(60,67,148)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>YcaO_C (PF18381)
+"YcaO cyclodehydratase C-terminal domain"</title>
+				<polygon class="PF18381" points="216,28 218,28 230,40 218,52 216,52" stroke-linejoin="round" width="17" height="24" fill="rgb(125,91,193)" stroke="rgb(99,72,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_99)</title>
+			<polygon class=" (ctg3_99)" points="248,10 276,40 248,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Form_Nir_trans (PF01226)
+"Formate/nitrite transporter"</title>
+				<polygon class="PF01226" points="249,28 260,28 272,40 260,52 249,52" stroke-linejoin="round" width="26" height="24" fill="rgb(206,55,143)" stroke="rgb(164,44,114)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_100)</title>
+			<polygon class=" (ctg3_100)" points="277,25 323,25 323,10 353,40 323,70 323,55 277,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PFL-like (PF02901)
+"Pyruvate formate lyase-like"</title>
+				<polygon class="PF02901" points="278,28 336,28 337,29 337,51 336,52 278,52" stroke-linejoin="round" width="59" height="24" fill="rgb(90,117,182)" stroke="rgb(72,93,145)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Gly_radical (PF01228)
+"Glycine radical"</title>
+				<polygon class="PF01228" points="340,32 348,40 340,48" stroke-linejoin="round" width="11" height="24" fill="rgb(103,207,173)" stroke="rgb(82,165,138)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_101)</title>
+			<polygon class=" (ctg3_101)" points="358,40 386,10 386,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

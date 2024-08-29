@@ -1,0 +1,107 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="431.8333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="421.8333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg6_295)</title>
+			<polygon class=" (ctg6_295)" points="19,25 37,25 37,10 67,40 37,70 37,55 19,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PK (PF00224)
+"Pyruvate kinase, barrel domain"</title>
+				<polygon class="PF00224" points="19,28 50,28 53,31 53,49 50,52 19,52" stroke-linejoin="round" width="34" height="24" fill="rgb(90,209,79)" stroke="rgb(72,167,63)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PK_C (PF02887)
+"Pyruvate kinase, alpha/beta domain"</title>
+				<polygon class="PF02887" points="55,33 62,40 55,47" stroke-linejoin="round" width="11" height="24" fill="rgb(157,190,51)" stroke="rgb(125,152,40)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_296)</title>
+			<polygon class=" (ctg6_296)" points="82,25 103,25 103,10 133,40 103,70 103,55 82,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pyridoxal_deC (PF00282)
+"Pyridoxal-dependent decarboxylase conserved domain"</title>
+				<polygon class="PF00282" points="88,28 117,28 125,36 125,44 117,52 88,52" stroke-linejoin="round" width="37" height="24" fill="rgb(100,218,166)" stroke="rgb(80,174,132)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_297)</title>
+			<polygon class=" (ctg6_297)" points="133,25 146,25 146,10 176,40 146,70 146,55 133,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lys_Orn_oxgnase (PF13434)
+"L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase"</title>
+				<polygon class="PF13434" points="133,28 159,28 166,35 166,45 159,52 133,52" stroke-linejoin="round" width="33" height="24" fill="rgb(81,213,119)" stroke="rgb(64,170,95)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_298)</title>
+			<polygon class=" (ctg6_298)" points="176,25 224,25 224,10 254,40 224,70 224,55 176,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_8 (PF13523)
+"Acetyltransferase (GNAT) domain"</title>
+				<rect class="PF13523" x="178" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(106,224,203)" stroke="rgb(84,179,162)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<rect class="PF04183" x="209" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="236,28 238,28 250,40 238,52 236,52" stroke-linejoin="round" width="15" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_299)</title>
+			<polygon class=" (ctg6_299)" points="258,25 268,25 268,10 298,40 268,70 268,55 258,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="260,28 282,28 294,40 294,40 282,52 260,52" stroke-linejoin="round" width="34" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_300)</title>
+			<polygon class=" (ctg6_300)" points="334,25 332,25 332,10 302,40 332,70 332,55 334,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lip_A_acyltrans (PF03279)
+"Bacterial lipid A biosynthesis acyltransferase"</title>
+				<polygon class="PF03279" points="306,40 318,28 332,28 332,52 318,52" stroke-linejoin="round" width="29" height="24" fill="rgb(95,219,149)" stroke="rgb(76,175,119)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_301)</title>
+			<polygon class=" (ctg6_301)" points="383,25 369,25 369,10 339,40 369,70 369,55 383,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M23 (PF01551)
+"Peptidase family M23"</title>
+				<polygon class="PF01551" points="343,40 351,32 351,48" stroke-linejoin="round" width="9" height="24" fill="rgb(65,169,193)" stroke="rgb(51,135,154)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Csd3_N2 (PF19425)
+"Csd3 second domain"</title>
+				<polygon class="PF19425" points="353,30 355,28 365,28 365,52 355,52 353,50" stroke-linejoin="round" width="12" height="24" fill="rgb(156,211,76)" stroke="rgb(124,168,60)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>OapA (PF04225)
+"Opacity-associated protein A LysM-like domain"</title>
+				<rect class="PF04225" x="365" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(143,97,218)" stroke="rgb(114,77,174)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>OapA_N (PF08525)
+"Opacity-associated protein A N-terminal motif"</title>
+				<rect class="PF08525" x="379" y="28" stroke-linejoin="round" width="2" height="24" fill="rgb(174,179,82)" stroke="rgb(139,143,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_302)</title>
+			<polygon class=" (ctg6_302)" points="414,25 413,25 413,10 383,40 413,70 413,55 414,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ZnuA (PF01297)
+"Zinc-uptake complex component A periplasmic"</title>
+				<polygon class="PF01297" points="387,40 399,28 411,28 411,52 399,52" stroke-linejoin="round" width="28" height="24" fill="rgb(78,178,130)" stroke="rgb(62,142,104)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

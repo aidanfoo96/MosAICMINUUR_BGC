@@ -1,0 +1,22 @@
+#                                                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+EamA                 PF00892.23   137 MMO-8_contigs.fa_antismash_contig00002.region007_ORF1:gid::pid::loc:134:1145:strand:+ -            336   8.7e-16   58.5  29.2   1   1   3.3e-16   6.4e-12   45.9  14.4     2   134   149   280   148   283 0.93 EamA-like transporter family
+ABC_membrane         PF00664.26   274 MMO-8_contigs.fa_antismash_contig00002.region007_ORF2:gid::pid::loc:1298:3218:strand:- -            639   1.2e-58  199.0   2.5   1   1   1.7e-62   1.6e-58  198.6   2.5     2   274    41   352    40   352 0.97 ABC transporter transmembrane region
+ABC_tran             PF00005.30   137 MMO-8_contigs.fa_antismash_contig00002.region007_ORF2:gid::pid::loc:1298:3218:strand:- -            639   9.5e-31  107.3   0.0   1   1   1.8e-34   1.7e-30  106.4   0.0     2   137   415   563   414   563 0.90 ABC transporter
+ABC_membrane         PF00664.26   274 MMO-8_contigs.fa_antismash_contig00002.region007_ORF3:gid::pid::loc:3214:4927:strand:- -            570   7.9e-44  150.5   7.9   1   1   1.1e-47   1.1e-43  150.0   7.9     2   274    11   281    10   281 0.99 ABC transporter transmembrane region
+ABC_tran             PF00005.30   137 MMO-8_contigs.fa_antismash_contig00002.region007_ORF3:gid::pid::loc:3214:4927:strand:- -            570   5.3e-27   95.1   0.0   1   1     9e-31   8.9e-27   94.4   0.0     3   135   346   491   344   493 0.86 ABC transporter
+Linocin_M18          PF04454.15   255 MMO-8_contigs.fa_antismash_contig00002.region007_ORF4:gid::pid::loc:5000:5792:strand:- -            263   3.5e-88  295.3   0.0   1   1     2e-92   3.9e-88  295.2   0.0     1   255     1   250     1   250 0.98 Encapsulating protein for peroxidase
+Dyp_perox            PF04261.15   327 MMO-8_contigs.fa_antismash_contig00002.region007_ORF5:gid::pid::loc:5832:6840:strand:- -            335   6.2e-82  275.4   0.0   1   1   5.6e-86   1.1e-81  274.6   0.0     2   326     5   303     4   304 0.95 Dyp-type peroxidase family
+Esterase             PF00756.23   251 MMO-8_contigs.fa_antismash_contig00002.region007_ORF6:gid::pid::loc:6945:7908:strand:- -            320     8e-31  107.7   0.4   1   1   9.6e-35   1.9e-30  106.5   0.4     1   246    43   309    43   313 0.81 Putative esterase
+PorA                 PF11271.11   300 MMO-8_contigs.fa_antismash_contig00002.region007_ORF7:gid::pid::loc:8095:9718:strand:- -            540     4e-86  289.2   2.3   1   1     2e-90     4e-86  289.2   2.3     4   299     8   369     6   370 0.95 Porin PorA
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/MMO-8_contigs.fa_antismash_contig00002.region007.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/MMO-8_contigs.fa_antismash_contig00002.region007.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/MMO-8_contigs.fa_antismash_contig00002.region007.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 22:52:31 2024
+# [ok]

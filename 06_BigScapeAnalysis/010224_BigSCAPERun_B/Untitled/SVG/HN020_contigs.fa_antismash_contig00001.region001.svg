@@ -1,0 +1,78 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="400.8333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="390.8333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg1_575)</title>
+			<polygon class=" (ctg1_575)" points="138,25 61,25 61,10 31,40 61,70 61,55 138,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TonB_dep_Rec (PF00593)
+"TonB dependent receptor"</title>
+				<polygon class="PF00593" points="35,40 47,28 75,28 75,52 47,52" stroke-linejoin="round" width="44" height="24" fill="rgb(171,200,51)" stroke="rgb(136,160,40)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Plug (PF07715)
+"TonB-dependent Receptor Plug Domain"</title>
+				<rect class="PF07715" x="110" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(99,133,214)" stroke="rgb(79,106,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_576)</title>
+			<polygon class=" (ctg1_576)" points="149,40 175,10 175,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short_C2 (PF13561)
+"Enoyl-(Acyl carrier protein) reductase"</title>
+				<polygon class="PF13561" points="153,40 163,28 173,28 173,52 163,52" stroke-linejoin="round" width="24" height="24" fill="rgb(73,205,127)" stroke="rgb(58,164,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_577)</title>
+			<polygon class=" (ctg1_577)" points="223,25 206,25 206,10 176,40 206,70 206,55 223,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GntP_permease (PF02447)
+"GntP family permease"</title>
+				<polygon class="PF02447" points="180,40 192,28 222,28 222,52 192,52" stroke-linejoin="round" width="46" height="24" fill="rgb(199,95,202)" stroke="rgb(159,76,161)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_578)</title>
+			<polygon class=" (ctg1_578)" points="243,10 272,40 243,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_1 (PF00126)
+"Bacterial regulatory helix-turn-helix protein, lysR family"</title>
+				<rect class="PF00126" x="243" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(125,227,79)" stroke="rgb(99,181,63)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LysR_substrate (PF03466)
+"LysR substrate binding domain"</title>
+				<polygon class="PF03466" points="251,28 256,28 268,40 256,52 251,52" stroke-linejoin="round" width="20" height="24" fill="rgb(55,136,195)" stroke="rgb(44,108,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_579)</title>
+			<polygon class=" (ctg1_579)" points="280,10 303,40 280,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CoA_trans (PF01144)
+"Coenzyme A transferase"</title>
+				<polygon class="PF01144" points="280,28 290,28 299,40 290,52 280,52" stroke-linejoin="round" width="21" height="24" fill="rgb(106,96,228)" stroke="rgb(84,76,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_580)</title>
+			<polygon class=" (ctg1_580)" points="304,10 325,40 304,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CoA_trans (PF01144)
+"Coenzyme A transferase"</title>
+				<polygon class="PF01144" points="304,28 313,28 321,40 313,52 304,52" stroke-linejoin="round" width="19" height="24" fill="rgb(106,96,228)" stroke="rgb(84,76,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_581)</title>
+			<polygon class=" (ctg1_581)" points="334,10 346,40 334,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CMD (PF02627)
+"Carboxymuconolactone decarboxylase family"</title>
+				<polygon class="PF02627" points="337,28 338,28 343,40 338,52 337,52" stroke-linejoin="round" width="8" height="24" fill="rgb(58,205,164)" stroke="rgb(46,164,131)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

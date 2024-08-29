@@ -1,0 +1,66 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="360.06666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="350.06666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg129_1)</title>
+			<polygon class=" (ctg129_1)" points="10,10 23,40 10,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lactamase_B_2 (PF12706)
+"Beta-lactamase superfamily domain"</title>
+				<polygon class="PF12706" points="10,28 14,28 17,34 17,46 14,52 10,52" stroke-linejoin="round" width="7" height="24" fill="rgb(62,169,197)" stroke="rgb(49,135,157)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg129_2)</title>
+			<polygon class=" (ctg129_2)" points="29,25 67,25 67,10 97,40 67,70 67,55 29,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg129_3)</title>
+			<polygon class=" (ctg129_3)" points="99,25 131,25 131,10 161,40 131,70 131,55 99,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HEPN_STY4199 (PF18729)
+"STY4199-like HEPN"</title>
+				<rect class="PF18729" x="99" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(140,218,69)" stroke="rgb(112,174,55)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg129_4)</title>
+			<polygon class=" (ctg129_4)" points="165,10 182,40 165,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg129_5)</title>
+			<polygon class=" (ctg129_5)" points="215,25 212,25 212,10 182,40 212,70 212,55 215,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg129_6)</title>
+			<polygon class=" (ctg129_6)" points="220,10 237,40 220,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg129_7)</title>
+			<polygon class=" (ctg129_7)" points="266,25 266,25 266,10 236,40 266,70 266,55 266,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="240,40 252,28 265,28 265,52 252,52" stroke-linejoin="round" width="26" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg129_8)</title>
+			<polygon class=" (ctg129_8)" points="316,25 297,25 297,10 267,40 297,70 297,55 316,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="271,40 283,28 314,28 314,52 283,52" stroke-linejoin="round" width="47" height="24" fill="rgb(184,74,52)" stroke="rgb(147,59,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg129_9)</title>
+			<polygon class=" (ctg129_9)" points="349,25 346,25 346,10 316,40 346,70 346,55 349,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lycopene_cycl (PF05834)
+"Lycopene cyclase protein"</title>
+				<polygon class="PF05834" points="320,40 332,28 349,28 349,52 332,52" stroke-linejoin="round" width="32" height="24" fill="rgb(212,80,200)" stroke="rgb(169,64,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,24 @@
+#                                                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DNA_pol_A            PF00476.23   377 AS209_contigs.fa_antismash_contig00021.region001_ORF1:gid::pid::loc:826:3499:strand:- -            890  9.1e-161  535.1   0.0   1   1  2.4e-164  1.2e-160  534.7   0.0     4   376   514   887   511   888 0.98 DNA polymerase family A
+DNA_pol_A_exo1       PF01612.23   176 AS209_contigs.fa_antismash_contig00021.region001_ORF1:gid::pid::loc:826:3499:strand:- -            890   9.4e-45  152.6   0.2   1   1   3.4e-48   1.7e-44  151.8   0.2     1   176   292   479   292   479 0.97 3'-5' exonuclease
+5_3_exonuc_N         PF02739.19   159 AS209_contigs.fa_antismash_contig00021.region001_ORF1:gid::pid::loc:826:3499:strand:- -            890   4.8e-41  140.4   0.0   1   1   1.7e-44   8.4e-41  139.6   0.0    31   159     1   132     1   132 0.96 5'-3' exonuclease, N-terminal resolvase-like domain
+5_3_exonuc           PF01367.23    97 AS209_contigs.fa_antismash_contig00021.region001_ORF1:gid::pid::loc:826:3499:strand:- -            890   2.4e-30  105.1   0.0   1   1   1.5e-33   7.2e-30  103.6   0.0     1    94   133   232   133   235 0.94 5'-3' exonuclease, C-terminal SAM fold
+Acyltransferase      PF01553.24   135 AS209_contigs.fa_antismash_contig00021.region001_ORF2:gid::pid::loc:4168:4918:strand:+ -            249   4.2e-13   49.2   0.0   1   1   2.7e-17   5.4e-13   48.9   0.0     3   122    22   160    20   176 0.81 Acyltransferase
+DSBA                 PF01323.23   193 AS209_contigs.fa_antismash_contig00021.region001_ORF3:gid::pid::loc:5000:5624:strand:- -            207   5.5e-29  101.4   6.1   1   1   4.9e-32   4.8e-28   98.4   6.1     1   192    40   196    40   197 0.94 DSBA-like thioredoxin domain
+Thioredoxin_4        PF13462.9    165 AS209_contigs.fa_antismash_contig00021.region001_ORF3:gid::pid::loc:5000:5624:strand:- -            207   2.8e-10   40.7   0.1   1   1     4e-14   3.9e-10   40.3   0.1    15   155    40   183    34   193 0.80 Thioredoxin
+APH                  PF01636.26   239 AS209_contigs.fa_antismash_contig00021.region001_ORF4:gid::pid::loc:5651:6638:strand:- -            328   1.7e-44  152.6   3.0   1   1   8.8e-49   1.7e-44  152.6   3.0     3   230    32   254    30   269 0.86 Phosphotransferase enzyme family
+DUF1040              PF06288.16    86 AS209_contigs.fa_antismash_contig00021.region001_ORF5:gid::pid::loc:6713:6983:strand:- -             89   2.4e-45  152.9   0.6   1   1   1.4e-49   2.7e-45  152.8   0.6     1    86     1    86     1    86 1.00 Protein of unknown function (DUF1040)
+NTP_transf_3         PF12804.10   160 AS209_contigs.fa_antismash_contig00021.region001_ORF6:gid::pid::loc:7054:7636:strand:+ -            193   7.5e-32  111.0   0.0   1   1   4.4e-36   8.7e-32  110.8   0.0     1   155     8   158     8   168 0.90 MobA-like NTP transferase domain
+MobB                 PF03205.17   134 AS209_contigs.fa_antismash_contig00021.region001_ORF7:gid::pid::loc:7632:8148:strand:+ -            171   2.1e-47  160.5   0.0   1   1   1.3e-51   2.5e-47  160.2   0.0     1   134     4   139     4   139 0.96 Molybdopterin guanine dinucleotide synthesis protein B
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/AS209_contigs.fa_antismash_contig00021.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/AS209_contigs.fa_antismash_contig00021.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/AS209_contigs.fa_antismash_contig00021.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 18:22:54 2024
+# [ok]

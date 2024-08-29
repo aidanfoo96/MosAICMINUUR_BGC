@@ -1,0 +1,89 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="425.23333333333335" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="415.23333333333335" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg2_669)</title>
+			<polygon class=" (ctg2_669)" points="48,10 52,40 48,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2_670)</title>
+			<polygon class=" (ctg2_670)" points="58,10 70,40 58,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4870 (PF09685)
+"Domain of unknown function (DUF4870)"</title>
+				<polygon class="PF09685" points="59,28 61,28 66,40 61,52 59,52" stroke-linejoin="round" width="10" height="24" fill="rgb(79,193,151)" stroke="rgb(63,154,120)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_671)</title>
+			<polygon class=" (ctg2_671)" points="72,40 83,10 83,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2_672)</title>
+			<polygon class=" (ctg2_672)" points="135,10 140,40 135,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2_673)</title>
+			<polygon class=" (ctg2_673)" points="159,40 163,10 163,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2_674)</title>
+			<polygon class=" (ctg2_674)" points="165,40 169,10 169,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2_675)</title>
+			<polygon class=" (ctg2_675)" points="247,25 206,25 206,10 176,40 206,70 206,55 247,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="183,37 192,28 198,28 198,52 192,52 183,43" stroke-linejoin="round" width="15" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="204" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Peptidase_C39 (PF03412)
+"Peptidase C39 family"</title>
+				<rect class="PF03412" x="234" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(214,226,77)" stroke="rgb(171,180,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_676)</title>
+			<polygon class=" (ctg2_676)" points="265,40 281,10 281,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SPOUT_MTase (PF02590)
+"Predicted SPOUT methyltransferase"</title>
+				<polygon class="PF02590" points="268,40 274,28 280,28 280,52 274,52" stroke-linejoin="round" width="15" height="24" fill="rgb(187,85,81)" stroke="rgb(149,67,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_677)</title>
+			<polygon class=" (ctg2_677)" points="295,40 321,10 321,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lactamase_B_2 (PF12706)
+"Beta-lactamase superfamily domain"</title>
+				<polygon class="PF12706" points="299,40 310,28 318,28 318,52 310,52 299,40" stroke-linejoin="round" width="19" height="24" fill="rgb(62,169,197)" stroke="rgb(49,135,157)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_678)</title>
+			<polygon class=" (ctg2_678)" points="330,40 356,10 356,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YycI (PF09648)
+"YycI protein"</title>
+				<polygon class="PF09648" points="334,40 345,28 353,28 353,52 345,52" stroke-linejoin="round" width="22" height="24" fill="rgb(64,205,189)" stroke="rgb(51,164,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_679)</title>
+			<polygon class=" (ctg2_679)" points="401,25 387,25 387,10 357,40 387,70 387,55 401,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YycH (PF07435)
+"YycH protein"</title>
+				<polygon class="PF07435" points="361,40 373,28 400,28 400,52 373,52" stroke-linejoin="round" width="43" height="24" fill="rgb(54,172,212)" stroke="rgb(43,137,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,92 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="365.73333333333335" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="355.73333333333335" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg19_3)</title>
+			<polygon class=" (ctg19_3)" points="24,40 42,10 42,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MarR_2 (PF12802)
+"MarR family"</title>
+				<polygon class="PF12802" points="31,35 35,28 37,28 37,52 35,52 31,45" stroke-linejoin="round" width="6" height="24" fill="rgb(46,89,185)" stroke="rgb(36,71,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19_4)</title>
+			<polygon class=" (ctg19_4)" points="104,25 75,25 75,10 45,40 75,70 75,55 104,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<polygon class="PF13193" points="49,40 55,34 55,46" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="57,32 61,28 98,28 98,52 61,52 57,48" stroke-linejoin="round" width="41" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19_5)</title>
+			<polygon class=" (ctg19_5)" points="109,25 119,25 119,10 149,40 119,70 119,55 109,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyl-CoA_dh_N (PF02771)
+"Acyl-CoA dehydrogenase, N-terminal domain"</title>
+				<rect class="PF02771" x="112" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(105,135,218)" stroke="rgb(84,108,174)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl-CoA_dh_M (PF02770)
+"Acyl-CoA dehydrogenase, middle domain"</title>
+				<rect class="PF02770" x="123" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(225,186,97)" stroke="rgb(180,148,77)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyl-CoA_dh_1 (PF00441)
+"Acyl-CoA dehydrogenase, C-terminal domain"</title>
+				<polygon class="PF00441" points="134,29 145,40 134,51" stroke-linejoin="round" width="14" height="24" fill="rgb(85,191,117)" stroke="rgb(68,152,93)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19_6)</title>
+			<polygon class=" (ctg19_6)" points="149,40 173,10 173,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1275 (PF06912)
+"Protein of unknown function (DUF1275)"</title>
+				<polygon class="PF06912" points="153,40 163,28 172,28 172,52 163,52" stroke-linejoin="round" width="21" height="24" fill="rgb(87,188,62)" stroke="rgb(69,150,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19_7)</title>
+			<polygon class=" (ctg19_7)" points="176,40 188,10 188,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ectoine_synth (PF06339)
+"Ectoine synthase"</title>
+				<polygon class="PF06339" points="179,40 184,28 188,28 188,52 184,52" stroke-linejoin="round" width="12" height="24" fill="rgb(225,176,81)" stroke="rgb(180,140,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19_8)</title>
+			<polygon class=" (ctg19_8)" points="195,25 207,25 207,10 237,40 207,70 207,55 195,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Nramp (PF01566)
+"Natural resistance-associated macrophage protein"</title>
+				<polygon class="PF01566" points="199,28 221,28 233,40 221,52 199,52" stroke-linejoin="round" width="35" height="24" fill="rgb(155,80,205)" stroke="rgb(123,64,164)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg19_9)</title>
+			<polygon class=" (ctg19_9)" points="240,10 244,40 240,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg19_10)</title>
+			<polygon class=" (ctg19_10)" points="254,25 321,25 321,10 351,40 321,70 321,55 254,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GDC-P (PF02347)
+"Glycine cleavage system P-protein"</title>
+				<rect class="PF02347" x="257" y="28" stroke-linejoin="round" width="43" height="24" fill="rgb(54,115,215)" stroke="rgb(43,92,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GDC-P (PF02347)
+"Glycine cleavage system P-protein"</title>
+				<rect class="PF02347" x="301" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(54,115,215)" stroke="rgb(43,92,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

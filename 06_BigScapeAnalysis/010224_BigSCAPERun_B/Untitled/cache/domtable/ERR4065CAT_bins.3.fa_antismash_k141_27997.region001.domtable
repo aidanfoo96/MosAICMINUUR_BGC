@@ -1,0 +1,23 @@
+#                                                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DNA_pol_B            PF00136.24   459 ERR4065CAT_bins.3.fa_antismash_k141_27997.region001_ORF1:gid::pid::loc:944:3311:strand:+ -            788   2.6e-40  138.6   0.0   1   1   6.4e-43   6.3e-39  134.1   0.0    22   422   381   745   367   768 0.79 DNA polymerase family B
+DNA_pol_B_exo1       PF03104.22   337 ERR4065CAT_bins.3.fa_antismash_k141_27997.region001_ORF1:gid::pid::loc:944:3311:strand:+ -            788   5.6e-10   39.0   0.0   1   1   1.2e-12   1.2e-08   34.7   0.0    64   337    74   297    65   297 0.76 DNA polymerase family B, exonuclease domain
+DUF4174              PF13778.9    120 ERR4065CAT_bins.3.fa_antismash_k141_27997.region001_ORF2:gid::pid::loc:3681:4248:strand:+ -            188   4.2e-20   72.5   0.0   1   1   2.8e-24   5.5e-20   72.1   0.0     1   118    26   146    26   148 0.93 Domain of unknown function (DUF4174)
+EF-hand_5            PF13202.9     25 ERR4065CAT_bins.3.fa_antismash_k141_27997.region001_ORF3:gid::pid::loc:4415:4907:strand:+ -            163   5.2e-11   41.6   2.9   1   2   4.4e-08   0.00022   20.7   0.0     5    24    93   112    90   113 0.84 EF hand
+EF-hand_5            PF13202.9     25 ERR4065CAT_bins.3.fa_antismash_k141_27997.region001_ORF3:gid::pid::loc:4415:4907:strand:+ -            163   5.2e-11   41.6   2.9   2   2   5.9e-08   0.00029   20.3   1.3     3    20   119   135   118   135 0.95 EF hand
+DUF692               PF05114.16   263 ERR4065CAT_bins.3.fa_antismash_k141_27997.region001_ORF4:gid::pid::loc:5000:5834:strand:+ -            277  1.2e-101  339.4   0.0   1   1  7.2e-106  1.4e-101  339.3   0.0     2   262     8   268     7   269 0.97 Protein of unknown function (DUF692)
+DUF2063              PF09836.12    83 ERR4065CAT_bins.3.fa_antismash_k141_27997.region001_ORF5:gid::pid::loc:5826:6612:strand:+ -            261     1e-21   77.1   0.2   1   1   9.9e-26   1.9e-21   76.2   0.2     2    83     8    93     7    93 0.96 Putative DNA-binding domain
+DJ-1_PfpI            PF01965.27   165 ERR4065CAT_bins.3.fa_antismash_k141_27997.region001_ORF6:gid::pid::loc:6545:7397:strand:- -            283   3.5e-18   66.1   0.0   1   1   2.6e-22   5.1e-18   65.5   0.0    61   164     4   110     2   111 0.90 DJ-1/PfpI family
+TonB_dep_Rec         PF00593.27   470 ERR4065CAT_bins.3.fa_antismash_k141_27997.region001_ORF8:gid::pid::loc:7739:9866:strand:- -            708   9.8e-48  164.3  28.5   1   1     1e-51   9.8e-48  164.3  28.5    22   470   253   707   237   707 0.75 TonB dependent receptor
+Plug                 PF07715.18   108 ERR4065CAT_bins.3.fa_antismash_k141_27997.region001_ORF8:gid::pid::loc:7739:9866:strand:- -            708     2e-22   79.9   0.9   1   1   4.3e-26   4.2e-22   78.9   0.9     3   108    63   166    61   166 0.95 TonB-dependent Receptor Plug Domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/ERR4065CAT_bins.3.fa_antismash_k141_27997.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/ERR4065CAT_bins.3.fa_antismash_k141_27997.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/ERR4065CAT_bins.3.fa_antismash_k141_27997.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 22:21:11 2024
+# [ok]

@@ -1,0 +1,81 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="385.6333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="375.6333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg6_54)</title>
+			<polygon class=" (ctg6_54)" points="59,40 65,10 65,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_3 (PF01381)
+"Helix-turn-helix"</title>
+				<polygon class="PF01381" points="62,40 64,31 64,49" stroke-linejoin="round" width="5" height="24" fill="rgb(105,79,202)" stroke="rgb(83,63,161)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_55)</title>
+			<polygon class=" (ctg6_55)" points="66,40 85,10 85,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg6_56)</title>
+			<polygon class=" (ctg6_56)" points="85,40 90,10 90,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg6_57)</title>
+			<polygon class=" (ctg6_57)" points="106,25 145,25 145,10 175,40 145,70 145,55 106,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ferritin-like (PF12902)
+"Ferritin-like"</title>
+				<rect class="PF12902" x="109" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(159,71,195)" stroke="rgb(127,56,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_58)</title>
+			<polygon class=" (ctg6_58)" points="176,25 178,25 178,10 208,40 178,70 178,55 176,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF692 (PF05114)
+"Protein of unknown function (DUF692)"</title>
+				<polygon class="PF05114" points="178,28 192,28 204,40 204,40 192,52 178,52" stroke-linejoin="round" width="26" height="24" fill="rgb(63,196,127)" stroke="rgb(50,156,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_59)</title>
+			<polygon class=" (ctg6_59)" points="208,25 209,25 209,10 239,40 209,70 209,55 208,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2063 (PF09836)
+"Putative DNA-binding domain"</title>
+				<rect class="PF09836" x="209" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(88,194,190)" stroke="rgb(70,155,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_60)</title>
+			<polygon class=" (ctg6_60)" points="239,25 251,25 251,10 281,40 251,70 251,55 239,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PSDC (PF12588)
+"Phophatidylserine decarboxylase"</title>
+				<rect class="PF12588" x="244" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(158,228,58)" stroke="rgb(126,182,46)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PS_Dcarbxylase (PF02666)
+"Phosphatidylserine decarboxylase"</title>
+				<polygon class="PF02666" points="259,28 265,28 277,40 265,52 259,52" stroke-linejoin="round" width="21" height="24" fill="rgb(101,220,65)" stroke="rgb(80,176,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_61)</title>
+			<polygon class=" (ctg6_61)" points="283,25 306,25 306,10 336,40 306,70 306,55 283,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg6_62)</title>
+			<polygon class=" (ctg6_62)" points="339,40 365,10 365,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NAD_binding_1 (PF00175)
+"Oxidoreductase NAD-binding domain"</title>
+				<polygon class="PF00175" points="343,40 351,31 351,49" stroke-linejoin="round" width="10" height="24" fill="rgb(177,211,96)" stroke="rgb(141,168,76)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FAD_binding_6 (PF00970)
+"Oxidoreductase FAD-binding domain"</title>
+				<polygon class="PF00970" points="353,29 354,28 363,28 363,52 354,52 353,51" stroke-linejoin="round" width="10" height="24" fill="rgb(212,194,103)" stroke="rgb(169,155,82)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

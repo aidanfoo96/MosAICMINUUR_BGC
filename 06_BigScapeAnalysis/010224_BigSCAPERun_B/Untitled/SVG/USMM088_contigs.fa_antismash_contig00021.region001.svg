@@ -1,0 +1,88 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="455.96666666666664" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="445.96666666666664" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg21_1)</title>
+			<polygon class=" (ctg21_1)" points="12,40 16,10 16,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg21_2)</title>
+			<polygon class=" (ctg21_2)" points="111,25 55,25 55,10 25,40 55,70 55,55 111,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pkinase (PF00069)
+"Protein kinase domain"</title>
+				<rect class="PF00069" x="67" y="28" stroke-linejoin="round" width="21" height="24" fill="rgb(104,187,65)" stroke="rgb(83,149,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg21_3)</title>
+			<polygon class=" (ctg21_3)" points="123,40 149,10 149,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trypsin (PF00089)
+"Trypsin"</title>
+				<polygon class="PF00089" points="128,39 138,28 144,28 144,52 138,52 128,41" stroke-linejoin="round" width="16" height="24" fill="rgb(207,127,78)" stroke="rgb(165,101,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg21_4)</title>
+			<polygon class=" (ctg21_4)" points="219,25 209,25 209,10 179,40 209,70 209,55 219,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Rep_3 (PF01051)
+"Initiator Replication protein"</title>
+				<rect class="PF01051" x="196" y="28" stroke-linejoin="round" width="21" height="24" fill="rgb(54,178,163)" stroke="rgb(43,142,130)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg21_5)</title>
+			<polygon class=" (ctg21_5)" points="254,10 266,40 254,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF3888 (PF13027)
+"Protein of unknown function (DUF3888)"</title>
+				<polygon class="PF13027" points="257,28 258,28 263,40 258,52 257,52" stroke-linejoin="round" width="8" height="24" fill="rgb(106,124,214)" stroke="rgb(84,99,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg21_6)</title>
+			<polygon class=" (ctg21_6)" points="268,40 285,10 285,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4367 (PF14285)
+"Domain of unknown function (DUF4367)"</title>
+				<polygon class="PF14285" points="271,40 278,28 279,28 279,52 278,52" stroke-linejoin="round" width="11" height="24" fill="rgb(186,49,152)" stroke="rgb(148,39,121)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg21_7)</title>
+			<polygon class=" (ctg21_7)" points="294,10 299,40 294,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg21_8)</title>
+			<polygon class=" (ctg21_8)" points="306,40 335,10 335,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PDDEXK_2 (PF12784)
+"PD-(D/E)XK nuclease family transposase"</title>
+				<polygon class="PF12784" points="311,39 322,28 334,28 334,52 322,52 311,41" stroke-linejoin="round" width="23" height="24" fill="rgb(178,86,98)" stroke="rgb(142,68,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg21_9)</title>
+			<polygon class=" (ctg21_9)" points="350,10 370,40 350,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg21_10)</title>
+			<polygon class=" (ctg21_10)" points="380,10 399,40 380,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4030 (PF13222)
+"Protein of unknown function (DUF4030)"</title>
+				<polygon class="PF13222" points="385,28 388,28 396,40 388,52 385,52" stroke-linejoin="round" width="14" height="24" fill="rgb(73,224,83)" stroke="rgb(58,179,66)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg21_11)</title>
+			<polygon class=" (ctg21_11)" points="412,10 420,40 412,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg21_12)</title>
+			<polygon class=" (ctg21_12)" points="424,40 443,10 443,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

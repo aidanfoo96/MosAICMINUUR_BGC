@@ -1,0 +1,21 @@
+#                                                                                                                                         --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                        accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                              -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TENA_THI-4           PF03070.19   210 VD18_contigs.fa_antismash_contig00265.region001_ORF1:gid::pid::loc:1:574:strand:+ -            190   2.1e-24   86.7   0.0   1   1   1.1e-28   2.1e-24   86.6   0.0    99   209    57   162     4   163 0.90 TENA/THI-4/PQQC family
+Radical_SAM          PF04055.24   167 VD18_contigs.fa_antismash_contig00265.region001_ORF3:gid::pid::loc:817:1978:strand:+ -            386   2.5e-21   76.9   0.0   1   1   7.4e-25   3.6e-21   76.4   0.0     3   166    27   182    25   183 0.94 Radical SAM superfamily
+SPASM                PF13186.9     68 VD18_contigs.fa_antismash_contig00265.region001_ORF3:gid::pid::loc:817:1978:strand:+ -            386   2.5e-08   34.4   0.2   1   1   1.1e-11   5.4e-08   33.3   0.2     1    68   254   319   254   319 0.78 Iron-sulfur cluster-binding domain
+Fer4_14              PF13394.9    118 VD18_contigs.fa_antismash_contig00265.region001_ORF3:gid::pid::loc:817:1978:strand:+ -            386   9.8e-07   29.0   0.7   1   1   3.3e-10   1.6e-06   28.3   0.0     7    72    30    89    27   126 0.84 4Fe-4S single cluster domain
+Fer4_12              PF13353.9    137 VD18_contigs.fa_antismash_contig00265.region001_ORF3:gid::pid::loc:817:1978:strand:+ -            386   9.3e-06   26.3   0.0   1   1   3.2e-09   1.6e-05   25.5   0.0    14    98    30   111    23   144 0.78 4Fe-4S single cluster domain
+Peptidase_S9         PF00326.24   212 VD18_contigs.fa_antismash_contig00265.region001_ORF4:gid::pid::loc:1943:3767:strand:+ -            607   1.3e-46  158.9   0.0   1   1   4.2e-50     2e-46  158.3   0.0     4   209   401   605   398   607 0.96 Prolyl oligopeptidase family
+BD-FAE               PF20434.1    215 VD18_contigs.fa_antismash_contig00265.region001_ORF4:gid::pid::loc:1943:3767:strand:+ -            607   5.8e-10   39.2   0.0   1   1   4.3e-12   2.1e-08   34.0   0.0     6   214   375   564   371   565 0.80 BD-FAE
+DLH                  PF01738.21   217 VD18_contigs.fa_antismash_contig00265.region001_ORF4:gid::pid::loc:1943:3767:strand:+ -            607   3.3e-07   30.2   0.2   1   1   2.2e-10   1.1e-06   28.5   0.2    76   194   440   589   409   606 0.86 Dienelactone hydrolase family
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/VD18_contigs.fa_antismash_contig00265.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/VD18_contigs.fa_antismash_contig00265.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/VD18_contigs.fa_antismash_contig00265.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 23:07:19 2024
+# [ok]

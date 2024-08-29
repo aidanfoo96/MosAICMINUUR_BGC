@@ -1,0 +1,17 @@
+#                                                                                                                                          --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                         accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                               -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ketoacyl-synt        PF00109.29   253 VD34_contigs.fa_antismash_contig00083.region001_ORF1:gid::pid::loc:1:2302:strand:+ -            767   2.1e-82  276.6   0.0   1   1     9e-86   4.4e-82  275.6   0.0     2   253    51   304    50   304 0.95 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.25   119 VD34_contigs.fa_antismash_contig00083.region001_ORF1:gid::pid::loc:1:2302:strand:+ -            767   3.7e-39  133.5   1.3   1   1   1.3e-42   6.6e-39  132.7   1.3     1   118   312   433   312   434 0.97 Beta-ketoacyl synthase, C-terminal domain
+PS-DH                PF14765.9    297 VD34_contigs.fa_antismash_contig00083.region001_ORF1:gid::pid::loc:1:2302:strand:+ -            767   1.2e-14   54.4   0.2   1   1   4.2e-18     2e-14   53.6   0.2     1    89   676   766   676   767 0.89 Polyketide synthase dehydratase
+KAsynt_C_assoc       PF16197.8    112 VD34_contigs.fa_antismash_contig00083.region001_ORF1:gid::pid::loc:1:2302:strand:+ -            767   3.5e-11   43.7   0.0   1   1   1.3e-14   6.6e-11   42.8   0.0     2   108   437   558   437   562 0.83 Ketoacyl-synthetase C-terminal extension
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/VD34_contigs.fa_antismash_contig00083.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/VD34_contigs.fa_antismash_contig00083.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/VD34_contigs.fa_antismash_contig00083.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 22:22:53 2024
+# [ok]

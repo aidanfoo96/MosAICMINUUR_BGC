@@ -1,0 +1,103 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="479.9" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="469.9" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg2_244)</title>
+			<polygon class=" (ctg2_244)" points="22,10 33,40 22,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2_245)</title>
+			<polygon class=" (ctg2_245)" points="39,25 145,25 145,10 175,40 145,70 145,55 39,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pkinase (PF00069)
+"Protein kinase domain"</title>
+				<rect class="PF00069" x="41" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(104,187,65)" stroke="rgb(83,149,51)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Guanylate_cyc (PF00211)
+"Adenylate and Guanylate cyclase catalytic domain"</title>
+				<rect class="PF00211" x="74" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(195,180,69)" stroke="rgb(156,144,55)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AAA_16 (PF13191)
+"AAA ATPase domain"</title>
+				<rect class="PF13191" x="92" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(186,102,77)" stroke="rgb(148,81,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_246)</title>
+			<polygon class=" (ctg2_246)" points="176,10 202,40 176,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2_247)</title>
+			<polygon class=" (ctg2_247)" points="204,10 230,40 204,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LCM (PF04072)
+"Leucine carboxyl methyltransferase"</title>
+				<polygon class="PF04072" points="204,28 215,28 220,33 220,47 215,52 204,52" stroke-linejoin="round" width="16" height="24" fill="rgb(94,159,219)" stroke="rgb(75,127,175)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_248)</title>
+			<polygon class=" (ctg2_248)" points="230,25 272,25 272,10 302,40 272,70 272,55 230,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YcaO (PF02624)
+"YcaO cyclodehydratase, ATP-ad Mg2+-binding"</title>
+				<polygon class="PF02624" points="267,28 286,28 298,40 298,40 286,52 267,52" stroke-linejoin="round" width="31" height="24" fill="rgb(76,84,185)" stroke="rgb(60,67,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_249)</title>
+			<polygon class=" (ctg2_249)" points="307,25 308,25 308,10 338,40 308,70 308,55 307,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FHA (PF00498)
+"FHA domain"</title>
+				<rect class="PF00498" x="308" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(57,178,90)" stroke="rgb(45,142,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_250)</title>
+			<polygon class=" (ctg2_250)" points="347,10 356,40 347,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2_251)</title>
+			<polygon class=" (ctg2_251)" points="359,10 372,40 359,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GFA (PF04828)
+"Glutathione-dependent formaldehyde-activating enzyme"</title>
+				<polygon class="PF04828" points="362,28 363,28 368,40 363,52 362,52" stroke-linejoin="round" width="9" height="24" fill="rgb(68,192,55)" stroke="rgb(54,153,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_252)</title>
+			<polygon class=" (ctg2_252)" points="368,40 377,10 377,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg2_253)</title>
+			<polygon class=" (ctg2_253)" points="379,10 389,40 379,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_20 (PF12840)
+"Helix-turn-helix domain"</title>
+				<polygon class="PF12840" points="379,28 381,28 385,36 385,44 381,52 379,52" stroke-linejoin="round" width="6" height="24" fill="rgb(157,225,93)" stroke="rgb(125,180,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_254)</title>
+			<polygon class=" (ctg2_254)" points="392,25 404,25 404,10 434,40 404,70 404,55 392,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ArsB (PF02040)
+"Arsenical pump membrane protein"</title>
+				<polygon class="PF02040" points="392,28 418,28 430,40 418,52 392,52" stroke-linejoin="round" width="42" height="24" fill="rgb(207,201,91)" stroke="rgb(165,160,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg2_255)</title>
+			<polygon class=" (ctg2_255)" points="436,10 450,40 436,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ArsC (PF03960)
+"ArsC family"</title>
+				<polygon class="PF03960" points="436,28 441,28 446,38 446,42 441,52 436,52" stroke-linejoin="round" width="10" height="24" fill="rgb(197,52,109)" stroke="rgb(157,41,87)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,23 @@
+#                                                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF4331              PF14224.9    416 HN121_contigs.fa_antismash_contig00002.region001_ORF3:gid::pid::loc:1516:3010:strand:- -            497  2.3e-144  481.8   2.1   1   1  1.3e-148  2.6e-144  481.6   2.1     1   416    21   486    21   486 0.93 Domain of unknown function (DUF4331)
+Sigma70_r2           PF04542.17    71 HN121_contigs.fa_antismash_contig00002.region001_ORF5:gid::pid::loc:3676:4294:strand:- -            205   8.3e-14   51.3   0.1   1   1   1.3e-17   1.3e-13   50.6   0.1     4    70    24    88    21    89 0.89 Sigma-70 region 2
+Sigma70_r4_2         PF08281.15    54 HN121_contigs.fa_antismash_contig00002.region001_ORF5:gid::pid::loc:3676:4294:strand:- -            205   8.3e-10   38.3   0.0   1   1   1.6e-13   1.6e-09   37.4   0.0     4    54   139   189   136   189 0.96 Sigma-70, region 4
+DUF2063              PF09836.12    83 HN121_contigs.fa_antismash_contig00002.region001_ORF6:gid::pid::loc:4303:5050:strand:- -            248   3.2e-20   72.3   0.4   1   1   3.6e-24     7e-20   71.2   0.4     2    82    11    94    10    95 0.96 Putative DNA-binding domain
+DUF692               PF05114.16   263 HN121_contigs.fa_antismash_contig00002.region001_ORF7:gid::pid::loc:5000:5864:strand:- -            287  8.3e-100  333.5   0.0   1   1  4.9e-104  9.6e-100  333.3   0.0     2   262     7   266     6   267 0.98 Protein of unknown function (DUF692)
+DoxX                 PF07681.15    85 HN121_contigs.fa_antismash_contig00002.region001_ORF9:gid::pid::loc:6337:6937:strand:+ -            199   4.9e-19   68.9   7.6   1   1   2.5e-23   4.9e-19   68.9   7.6     3    84    29   112    28   113 0.98 DoxX
+Chromate_transp      PF02417.18   157 HN121_contigs.fa_antismash_contig00002.region001_ORF10:gid::pid::loc:7019:8207:strand:+ -            395   2.8e-71  238.9  41.0   1   2   3.2e-39   6.4e-35  120.7  12.5     1   156     9   174     9   175 0.93 Chromate transporter
+Chromate_transp      PF02417.18   157 HN121_contigs.fa_antismash_contig00002.region001_ORF10:gid::pid::loc:7019:8207:strand:+ -            395   2.8e-71  238.9  41.0   2   2   2.9e-40   5.8e-36  124.1  20.5     2   157   225   392   224   392 0.91 Chromate transporter
+TonB_dep_Rec         PF00593.27   470 HN121_contigs.fa_antismash_contig00002.region001_ORF11:gid::pid::loc:8338:10510:strand:+ -            723   2.9e-42  146.3  42.0   1   1     3e-46   2.9e-42  146.3  42.0    39   470   282   722   255   722 0.73 TonB dependent receptor
+Plug                 PF07715.18   108 HN121_contigs.fa_antismash_contig00002.region001_ORF11:gid::pid::loc:8338:10510:strand:+ -            723   4.7e-19   69.1   3.2   1   1   2.1e-22   2.1e-18   67.0   1.8     3   107    70   169    68   170 0.95 TonB-dependent Receptor Plug Domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/HN121_contigs.fa_antismash_contig00002.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/HN121_contigs.fa_antismash_contig00002.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/HN121_contigs.fa_antismash_contig00002.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 17:56:37 2024
+# [ok]

@@ -1,0 +1,17 @@
+#                                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.31   424 MMO-59_contigs.fa_antismash_contig00050.region001_ORF1:gid::pid::loc:1:2353:strand:+ -            784  1.1e-106  357.1   0.0   1   1    3e-110  1.4e-106  356.7   0.0     1   424   167   562   167   562 0.88 AMP-binding enzyme
+Condensation         PF00668.23   457 MMO-59_contigs.fa_antismash_contig00050.region001_ORF1:gid::pid::loc:1:2353:strand:+ -            784   1.3e-30  106.6   1.1   1   1   4.9e-30   2.4e-26   92.6   0.3   310   456     1   147     1   148 0.95 Condensation domain
+AMP-binding_C        PF13193.9     76 MMO-59_contigs.fa_antismash_contig00050.region001_ORF1:gid::pid::loc:1:2353:strand:+ -            784   1.5e-14   54.8   0.0   1   1   7.2e-18   3.5e-14   53.6   0.0     1    76   570   642   570   642 0.93 AMP-binding enzyme C-terminal domain
+PP-binding           PF00550.28    67 MMO-59_contigs.fa_antismash_contig00050.region001_ORF1:gid::pid::loc:1:2353:strand:+ -            784   2.5e-14   53.4   0.0   1   1   2.6e-17   1.3e-13   51.2   0.0     1    66   670   733   670   734 0.95 Phosphopantetheine attachment site
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/MMO-59_contigs.fa_antismash_contig00050.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/MMO-59_contigs.fa_antismash_contig00050.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/MMO-59_contigs.fa_antismash_contig00050.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 23:59:44 2024
+# [ok]

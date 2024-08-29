@@ -1,0 +1,30 @@
+#                                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Peripla_BP_2         PF01497.21   237 M50_contigs.fa_antismash_contig00103.region001_ORF1:gid::pid::loc:1:736:strand:+ -            244   1.6e-18   67.2   0.1   1   1   1.1e-22   2.2e-18   66.7   0.1    38   235    20   222     2   224 0.84 Periplasmic binding protein
+MFS_1                PF07690.19   353 M50_contigs.fa_antismash_contig00103.region001_ORF3:gid::pid::loc:909:2145:strand:- -            411   7.3e-23   81.2  65.5   1   1   1.3e-19   1.3e-15   57.4  25.8     1   225    22   238    22   246 0.82 Major Facilitator Superfamily
+MFS_3                PF05977.16   524 M50_contigs.fa_antismash_contig00103.region001_ORF3:gid::pid::loc:909:2145:strand:- -            411   7.2e-16   57.8  38.3   1   1     9e-20   8.8e-16   57.5  38.3     9   393    16   397    10   410 0.89 Transmembrane secretion effector
+FecCD                PF01032.21   312 M50_contigs.fa_antismash_contig00103.region001_ORF4:gid::pid::loc:2256:3261:strand:+ -            334   1.3e-89  300.4  30.4   1   1   8.2e-94   1.6e-89  300.1  30.4     1   312    19   328    18   328 0.98 FecCD transport family
+FecCD                PF01032.21   312 M50_contigs.fa_antismash_contig00103.region001_ORF5:gid::pid::loc:3260:4250:strand:+ -            329   5.4e-85  285.3  40.1   1   1   3.3e-89   6.6e-85  285.0  40.1     3   311    19   323    13   324 0.98 FecCD transport family
+ABC_tran             PF00005.30   137 M50_contigs.fa_antismash_contig00103.region001_ORF6:gid::pid::loc:4246:5041:strand:+ -            264   2.2e-31  109.3   0.0   1   1   4.7e-35   3.1e-31  108.9   0.0     3   136    25   171    23   172 0.97 ABC transporter
+Mg_chelatase         PF01078.24   207 M50_contigs.fa_antismash_contig00103.region001_ORF6:gid::pid::loc:4246:5041:strand:+ -            264   2.6e-05   23.8   0.0   1   1   8.4e-09   5.5e-05   22.8   0.0     7    67    18    78    14   106 0.89 Magnesium chelatase, subunit ChlI
+AMP-binding          PF00501.31   424 M50_contigs.fa_antismash_contig00103.region001_ORF7:gid::pid::loc:5201:9068:strand:- -           1288   1.1e-95  320.9   0.0   1   1   4.1e-99   1.6e-95  320.3   0.0     2   424   461   860   460   860 0.88 AMP-binding enzyme
+Condensation         PF00668.23   457 M50_contigs.fa_antismash_contig00103.region001_ORF7:gid::pid::loc:5201:9068:strand:- -           1288   2.6e-94  316.6   0.0   1   1   8.3e-98   3.2e-94  316.3   0.0     5   456     5   441     1   442 0.96 Condensation domain
+Thioesterase         PF00975.23   230 M50_contigs.fa_antismash_contig00103.region001_ORF7:gid::pid::loc:5201:9068:strand:- -           1288   4.6e-47  161.2   0.2   1   1   1.6e-49   6.1e-46  157.5   0.1     2   222  1066  1279  1065  1284 0.96 Thioesterase domain
+PP-binding           PF00550.28    67 M50_contigs.fa_antismash_contig00103.region001_ORF7:gid::pid::loc:5201:9068:strand:- -           1288   2.9e-11   43.6   0.0   1   1   2.1e-14   8.3e-11   42.2   0.0     3    67   977  1039   975  1039 0.94 Phosphopantetheine attachment site
+AMP-binding_C        PF13193.9     76 M50_contigs.fa_antismash_contig00103.region001_ORF7:gid::pid::loc:5201:9068:strand:- -           1288     2e-06   28.8   0.0   1   1   1.5e-09     6e-06   27.3   0.0     1    76   868   949   868   949 0.82 AMP-binding enzyme C-terminal domain
+MbtH                 PF03621.16    53 M50_contigs.fa_antismash_contig00103.region001_ORF8:gid::pid::loc:9064:9277:strand:- -             70   1.1e-20   72.9   1.6   1   1   6.7e-25   1.3e-20   72.7   1.6     2    51     4    53     3    55 0.97 MbtH-like protein
+Esterase             PF00756.23   251 M50_contigs.fa_antismash_contig00103.region001_ORF9:gid::pid::loc:9291:10494:strand:- -            400   3.3e-40  138.4   0.4   1   1   5.2e-44   5.1e-40  137.8   0.0     1   250   176   394   176   395 0.94 Putative esterase
+Enterochelin_N       PF11806.11   120 M50_contigs.fa_antismash_contig00103.region001_ORF9:gid::pid::loc:9291:10494:strand:- -            400   1.5e-38  132.3   1.3   1   1   1.5e-42   1.5e-38  132.3   1.3     1   120    28   159    28   159 0.96 Enterochelin esterase, N-terminal
+TonB_dep_Rec         PF00593.27   470 M50_contigs.fa_antismash_contig00103.region001_ORF10:gid::pid::loc:10748:12989:strand:+ -            746   3.5e-55  188.9  38.9   1   1   3.5e-59   3.5e-55  188.9  38.9    20   469   273   744   224   745 0.76 TonB dependent receptor
+Plug                 PF07715.18   108 M50_contigs.fa_antismash_contig00103.region001_ORF10:gid::pid::loc:10748:12989:strand:+ -            746   5.1e-28   97.9   1.6   1   1   1.4e-31   1.3e-27   96.6   1.6     8   108    48   162    42   162 0.95 TonB-dependent Receptor Plug Domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/M50_contigs.fa_antismash_contig00103.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/M50_contigs.fa_antismash_contig00103.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/M50_contigs.fa_antismash_contig00103.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 19:38:57 2024
+# [ok]

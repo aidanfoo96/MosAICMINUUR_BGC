@@ -1,0 +1,94 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="414.23333333333335" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="404.23333333333335" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg1_438)</title>
+			<polygon class=" (ctg1_438)" points="23,40 48,10 48,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SIP (PF04954)
+"Siderophore-interacting protein"</title>
+				<polygon class="PF04954" points="27,40 34,32 34,48" stroke-linejoin="round" width="11" height="24" fill="rgb(75,222,95)" stroke="rgb(60,177,76)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FAD_binding_9 (PF08021)
+"Siderophore-interacting FAD-binding domain"</title>
+				<polygon class="PF08021" points="37,28 37,28 41,28 41,52 37,52 37,52" stroke-linejoin="round" width="4" height="24" fill="rgb(58,190,106)" stroke="rgb(46,152,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_439)</title>
+			<polygon class=" (ctg1_439)" points="56,25 78,25 78,10 108,40 78,70 78,55 56,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pyridoxal_deC (PF00282)
+"Pyridoxal-dependent decarboxylase conserved domain"</title>
+				<polygon class="PF00282" points="61,28 91,28 96,33 96,47 91,52 61,52" stroke-linejoin="round" width="35" height="24" fill="rgb(100,218,166)" stroke="rgb(80,174,132)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_440)</title>
+			<polygon class=" (ctg1_440)" points="108,25 146,25 146,10 176,40 146,70 146,55 108,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lys_Orn_oxgnase (PF13434)
+"L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase"</title>
+				<rect class="PF13434" x="113" y="28" stroke-linejoin="round" width="33" height="24" fill="rgb(81,213,119)" stroke="rgb(64,170,95)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acetyltransf_8 (PF13523)
+"Acetyltransferase (GNAT) domain"</title>
+				<polygon class="PF13523" points="158,28 160,28 172,40 172,40 160,52 158,52" stroke-linejoin="round" width="14" height="24" fill="rgb(106,224,203)" stroke="rgb(84,179,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_441)</title>
+			<polygon class=" (ctg1_441)" points="176,25 206,25 206,10 236,40 206,70 206,55 176,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<rect class="PF04183" x="191" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="218,28 220,28 232,40 220,52 218,52" stroke-linejoin="round" width="15" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_442)</title>
+			<polygon class=" (ctg1_442)" points="240,25 306,25 306,10 336,40 306,70 306,55 240,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Penicil_amidase (PF01804)
+"Penicillin amidase"</title>
+				<rect class="PF01804" x="242" y="28" stroke-linejoin="round" width="38" height="24" fill="rgb(62,133,186)" stroke="rgb(49,106,148)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Penicil_amidase (PF01804)
+"Penicillin amidase"</title>
+				<rect class="PF01804" x="280" y="28" stroke-linejoin="round" width="31" height="24" fill="rgb(62,133,186)" stroke="rgb(49,106,148)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acetyltransf_8 (PF13523)
+"Acetyltransferase (GNAT) domain"</title>
+				<polygon class="PF13523" points="319,28 319,28 331,40 319,52 319,52" stroke-linejoin="round" width="14" height="24" fill="rgb(106,224,203)" stroke="rgb(84,179,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_443)</title>
+			<polygon class=" (ctg1_443)" points="400,25 374,25 374,10 344,40 374,70 374,55 400,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="352,36 360,28 365,28 365,52 360,52 352,44" stroke-linejoin="round" width="13" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran_Xtn (PF12848)
+"ABC transporter"</title>
+				<rect class="PF12848" x="368" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(54,177,199)" stroke="rgb(43,141,159)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<rect class="PF00005" x="381" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

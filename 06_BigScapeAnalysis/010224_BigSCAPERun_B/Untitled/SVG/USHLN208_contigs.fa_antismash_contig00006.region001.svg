@@ -1,0 +1,73 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="363.23333333333335" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="353.23333333333335" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg6_114)</title>
+			<polygon class=" (ctg6_114)" points="77,25 75,25 75,10 45,40 75,70 75,55 77,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AP_endonuc_2 (PF01261)
+"Xylose isomerase-like TIM barrel"</title>
+				<polygon class="PF01261" points="49,40 61,28 72,28 72,52 61,52 49,40" stroke-linejoin="round" width="23" height="24" fill="rgb(69,222,207)" stroke="rgb(55,177,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_115)</title>
+			<polygon class=" (ctg6_115)" points="81,40 102,10 102,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="85,40 93,28 99,28 99,52 93,52 85,40" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_116)</title>
+			<polygon class=" (ctg6_116)" points="173,25 134,25 134,10 104,40 134,70 134,55 173,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg6_117)</title>
+			<polygon class=" (ctg6_117)" points="176,40 185,10 185,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lactococcin_972 (PF09683)
+"Bacteriocin (Lactococcin_972)"</title>
+				<polygon class="PF09683" points="179,40 182,31 182,49" stroke-linejoin="round" width="6" height="24" fill="rgb(202,100,222)" stroke="rgb(161,80,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_118)</title>
+			<polygon class=" (ctg6_118)" points="190,40 212,10 212,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg6_119)</title>
+			<polygon class=" (ctg6_119)" points="217,25 219,25 219,10 249,40 219,70 219,55 217,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Kinase-PPPase (PF03618)
+"Kinase/pyrophosphorylase"</title>
+				<polygon class="PF03618" points="218,28 233,28 244,39 244,41 233,52 218,52" stroke-linejoin="round" width="26" height="24" fill="rgb(223,187,110)" stroke="rgb(178,149,88)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg6_120)</title>
+			<polygon class=" (ctg6_120)" points="250,25 311,25 311,10 341,40 311,70 311,55 250,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PPDK_N (PF01326)
+"Pyruvate phosphate dikinase, AMP/ATP-binding domain"</title>
+				<rect class="PF01326" x="255" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(112,180,78)" stroke="rgb(89,144,62)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PPDK_N (PF01326)
+"Pyruvate phosphate dikinase, AMP/ATP-binding domain"</title>
+				<rect class="PF01326" x="279" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(112,180,78)" stroke="rgb(89,144,62)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PEP-utilizers (PF00391)
+"PEP-utilising enzyme, mobile domain"</title>
+				<rect class="PF00391" x="291" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(206,59,219)" stroke="rgb(164,47,175)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PEP-utilizers_C (PF02896)
+"PEP-utilising enzyme, PEP-binding domain"</title>
+				<polygon class="PF02896" points="301,28 325,28 337,40 325,52 301,52" stroke-linejoin="round" width="38" height="24" fill="rgb(65,113,188)" stroke="rgb(52,90,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

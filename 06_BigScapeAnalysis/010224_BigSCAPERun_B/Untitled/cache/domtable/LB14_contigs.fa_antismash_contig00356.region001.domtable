@@ -1,0 +1,20 @@
+#                                                                                                                                         --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                        accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                              -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+IucA_IucC            PF04183.15   239 LB14_contigs.fa_antismash_contig00356.region001_ORF1:gid::pid::loc:1:679:strand:- -            226   1.4e-16   60.9   0.0   1   1   9.6e-21   1.9e-16   60.5   0.0     1    71   153   223   153   226 0.94 IucA / IucC family
+Acetyltransf_1       PF00583.28   117 LB14_contigs.fa_antismash_contig00356.region001_ORF2:gid::pid::loc:976:1525:strand:- -            182   3.6e-11   43.4   0.0   1   1     1e-14   5.1e-11   43.0   0.0    12   115    50   152    30   153 0.78 Acetyltransferase (GNAT) family
+FR47                 PF08445.13    86 LB14_contigs.fa_antismash_contig00356.region001_ORF2:gid::pid::loc:976:1525:strand:- -            182   1.8e-09   37.6   0.0   1   1     8e-13   3.9e-09   36.5   0.0    21    82    98   159    89   162 0.94 FR47-like protein
+Acetyltransf_10      PF13673.10   128 LB14_contigs.fa_antismash_contig00356.region001_ORF2:gid::pid::loc:976:1525:strand:- -            182   1.5e-08   34.8   0.0   1   1   5.8e-12   2.8e-08   33.9   0.0    20   105    56   152    34   164 0.78 Acetyltransferase (GNAT) domain
+Acetyltransf_7       PF13508.10    80 LB14_contigs.fa_antismash_contig00356.region001_ORF2:gid::pid::loc:976:1525:strand:- -            182   3.8e-08   33.7   0.1   1   1   1.8e-11   8.8e-08   32.5   0.1     6    76    72   152    65   153 0.71 Acetyltransferase (GNAT) domain
+MgtC                 PF02308.19   121 LB14_contigs.fa_antismash_contig00356.region001_ORF3:gid::pid::loc:1594:2275:strand:- -            226   8.9e-35  119.8   8.4   1   1   5.7e-39   1.1e-34  119.5   8.4     1   119     9   138     9   140 0.95 MgtC family
+YkyA                 PF10368.12   186 LB14_contigs.fa_antismash_contig00356.region001_ORF4:gid::pid::loc:2434:3091:strand:- -            218     9e-49  165.8  44.5   1   1   5.2e-53     1e-48  165.7  44.5     1   185    24   208    24   209 0.99 Putative cell-wall binding lipoprotein
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/LB14_contigs.fa_antismash_contig00356.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/LB14_contigs.fa_antismash_contig00356.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/LB14_contigs.fa_antismash_contig00356.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 18:44:44 2024
+# [ok]

@@ -1,0 +1,23 @@
+#                                                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TauE                 PF01925.22   237 AS234_contigs.fa_antismash_contig00001.region002_ORF1:gid::pid::loc:2428:3232:strand:- -            267   1.5e-38  132.9  27.6   1   1   9.4e-43   1.8e-38  132.6  27.6     2   237     6   265     5   265 0.93 Sulfite exporter TauE/SafE
+HTH_18               PF12833.10    81 AS234_contigs.fa_antismash_contig00001.region002_ORF2:gid::pid::loc:3336:4113:strand:+ -            258   7.3e-20   71.1   0.1   1   1   1.1e-23   1.1e-19   70.5   0.1     1    81   176   254   176   254 0.97 Helix-turn-helix domain
+Cloacin              PF03515.17   277 AS234_contigs.fa_antismash_contig00001.region002_ORF3:gid::pid::loc:5000:6884:strand:+ -            627   1.7e-25   90.4   2.9   1   1     4e-29   7.9e-25   88.2   1.6    29   269    44   312     1   316 0.75 Colicin-like bacteriocin tRNase domain
+DNA_pol3_theta       PF06440.14    70 AS234_contigs.fa_antismash_contig00001.region002_ORF5:gid::pid::loc:7216:7330:strand:- -             37     5e-10   39.1   0.1   1   1   2.8e-14   5.4e-10   39.0   0.1     2    27     1    26     1    31 0.95 DNA polymerase III, theta subunit
+Y_phosphatase2       PF03162.16   165 AS234_contigs.fa_antismash_contig00001.region002_ORF6:gid::pid::loc:7652:8210:strand:+ -            185   4.7e-16   58.9   0.0   1   1   1.2e-19   5.9e-16   58.6   0.0     1   128    34   153    34   182 0.88 Tyrosine phosphatase family
+Y_phosphatase3       PF13350.9    234 AS234_contigs.fa_antismash_contig00001.region002_ORF6:gid::pid::loc:7652:8210:strand:+ -            185   1.2e-09   38.7   0.0   1   1     5e-12   2.4e-08   34.4   0.0    26   144    45   137    41   151 0.77 Tyrosine phosphatase family
+DSPc                 PF00782.23   133 AS234_contigs.fa_antismash_contig00001.region002_ORF6:gid::pid::loc:7652:8210:strand:+ -            185   9.5e-10   38.5   0.0   1   1   3.3e-13   1.6e-09   37.8   0.0    11   113    58   155    47   171 0.83 Dual specificity phosphatase, catalytic domain
+Y_phosphatase        PF00102.30   235 AS234_contigs.fa_antismash_contig00001.region002_ORF6:gid::pid::loc:7652:8210:strand:+ -            185   2.6e-06   27.3   0.0   1   1   6.6e-10   3.3e-06   27.0   0.0   151   194   100   139    46   158 0.82 Protein-tyrosine phosphatase
+AAA_33               PF13671.9    143 AS234_contigs.fa_antismash_contig00001.region002_ORF8:gid::pid::loc:8794:9691:strand:+ -            298   6.3e-23   81.6   0.0   1   1   7.7e-27   1.5e-22   80.4   0.0     1   141   144   284   144   286 0.96 AAA domain
+MlaA                 PF04333.16   196 AS234_contigs.fa_antismash_contig00001.region002_ORF9:gid::pid::loc:9898:10639:strand:+ -            246   1.2e-64  217.8   0.0   1   1   7.1e-69   1.4e-64  217.6   0.0     2   195    29   223    28   224 0.93 MlaA lipoprotein
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/AS234_contigs.fa_antismash_contig00001.region002.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/AS234_contigs.fa_antismash_contig00001.region002.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/AS234_contigs.fa_antismash_contig00001.region002.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 18:04:04 2024
+# [ok]

@@ -1,0 +1,22 @@
+#                                                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Alpha-amylase        PF00128.27   336 USHLN023_contigs.fa_antismash_contig00005.region001_ORF1:gid::pid::loc:882:2655:strand:+ -            590   1.3e-76  258.5   0.6   1   1   1.3e-80   1.3e-76  258.5   0.6     1   335   179   474   179   475 0.87 Alpha amylase, catalytic domain
+Alpha-amylase_N      PF02903.17   120 USHLN023_contigs.fa_antismash_contig00005.region001_ORF1:gid::pid::loc:882:2655:strand:+ -            590   6.9e-39  132.9   3.9   1   1   5.8e-42   5.7e-38  129.9   1.3     1   120     1   127     1   127 0.94 Alpha amylase, N-terminal ig-like domain
+Esterase             PF00756.23   251 USHLN023_contigs.fa_antismash_contig00005.region001_ORF2:gid::pid::loc:2690:3464:strand:+ -            257   5.8e-33  114.7   0.0   1   1   6.8e-37   6.7e-33  114.5   0.0     4   250    12   254     9   255 0.89 Putative esterase
+PadR                 PF03551.17    75 USHLN023_contigs.fa_antismash_contig00005.region001_ORF3:gid::pid::loc:3760:4102:strand:+ -            113   2.9e-15   56.1   0.1   1   1   2.7e-19   5.3e-15   55.3   0.1     8    74    26    88    20    89 0.90 Transcriptional regulator PadR-like family
+DUF2812              PF11193.11   110 USHLN023_contigs.fa_antismash_contig00005.region001_ORF4:gid::pid::loc:4098:4629:strand:+ -            176   6.8e-29  100.4   4.9   1   1   4.4e-33   8.6e-29  100.1   4.9     3   104    17   118    15   124 0.93 Protein of unknown function (DUF2812)
+ArAE_1               PF06081.14   141 USHLN023_contigs.fa_antismash_contig00005.region001_ORF8:gid::pid::loc:7871:8942:strand:- -            356   2.2e-35  122.0  14.8   1   1   5.1e-39   3.3e-35  121.4  14.8     3   140    10   147     8   148 0.98 Aromatic acid exporter family member 1
+FUSC                 PF04632.15   657 USHLN023_contigs.fa_antismash_contig00005.region001_ORF8:gid::pid::loc:7871:8942:strand:- -            356   6.9e-10   38.3   6.2   1   1   1.8e-13   1.2e-09   37.6   6.2     6   294    15   306    12   355 0.68 Fusaric acid resistance protein family
+FUSC_2               PF13515.9    126 USHLN023_contigs.fa_antismash_contig00005.region001_ORF8:gid::pid::loc:7871:8942:strand:- -            356   8.9e-07   29.2  15.0   1   1   2.4e-10   1.5e-06   28.4  15.0    11   125    29   143    16   144 0.78 Fusaric acid resistance protein-like
+GFO_IDH_MocA         PF01408.25   120 USHLN023_contigs.fa_antismash_contig00005.region001_ORF9:gid::pid::loc:9070:10057:strand:- -            328     5e-26   91.9   0.1   1   1   3.7e-30   7.2e-26   91.4   0.1     1   117     2   118     2   121 0.95 Oxidoreductase family, NAD-binding Rossmann fold
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/USHLN023_contigs.fa_antismash_contig00005.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/USHLN023_contigs.fa_antismash_contig00005.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/USHLN023_contigs.fa_antismash_contig00005.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 22:06:49 2024
+# [ok]

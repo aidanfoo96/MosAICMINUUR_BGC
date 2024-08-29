@@ -1,0 +1,97 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="377.1" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="367.1" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg161_1)</title>
+			<polygon class=" (ctg161_1)" points="10,40 25,10 25,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DcuA_DcuB (PF03605)
+"Anaerobic c4-dicarboxylate membrane transporter"</title>
+				<polygon class="PF03605" points="13,40 19,28 25,28 25,52 19,52" stroke-linejoin="round" width="15" height="24" fill="rgb(183,176,55)" stroke="rgb(146,140,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg161_2)</title>
+			<polygon class=" (ctg161_2)" points="42,25 70,25 70,10 100,40 70,70 70,55 42,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MCPsignal (PF00015)
+"Methyl-accepting chemotaxis protein (MCP) signalling domain"</title>
+				<polygon class="PF00015" points="76,28 83,28 94,39 94,41 83,52 76,52" stroke-linejoin="round" width="18" height="24" fill="rgb(104,174,223)" stroke="rgb(83,139,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg161_3)</title>
+			<polygon class=" (ctg161_3)" points="105,25 194,25 194,10 224,40 194,70 194,55 105,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="127" y="28" stroke-linejoin="round" width="39" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<rect class="PF13193" x="167" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="178" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>NAD_binding_4 (PF07993)
+"Male sterility protein"</title>
+				<polygon class="PF07993" points="188,28 208,28 211,31 211,49 208,52 188,52" stroke-linejoin="round" width="23" height="24" fill="rgb(100,212,204)" stroke="rgb(80,169,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg161_4)</title>
+			<polygon class=" (ctg161_4)" points="233,10 243,40 233,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Thiamine_BP (PF01910)
+"Thiamine-binding protein"</title>
+				<polygon class="PF01910" points="233,28 235,28 240,40 235,52 233,52" stroke-linejoin="round" width="9" height="24" fill="rgb(201,146,71)" stroke="rgb(160,116,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg161_5)</title>
+			<polygon class=" (ctg161_5)" points="242,10 267,40 242,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BPD_transp_1 (PF00528)
+"Binding-protein-dependent transport system inner membrane component"</title>
+				<polygon class="PF00528" points="248,28 253,28 263,40 253,52 248,52" stroke-linejoin="round" width="18" height="24" fill="rgb(77,208,225)" stroke="rgb(61,166,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg161_6)</title>
+			<polygon class=" (ctg161_6)" points="268,25 271,25 271,10 301,40 271,70 271,55 268,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NMT1 (PF09084)
+"NMT1/THI5 like"</title>
+				<polygon class="PF09084" points="272,28 285,28 293,36 293,44 285,52 272,52" stroke-linejoin="round" width="21" height="24" fill="rgb(196,85,209)" stroke="rgb(156,68,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg161_7)</title>
+			<polygon class=" (ctg161_7)" points="301,10 326,40 301,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="302,28 312,28 315,32 315,48 312,52 302,52" stroke-linejoin="round" width="13" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg161_8)</title>
+			<polygon class=" (ctg161_8)" points="347,40 366,10 366,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CBM_2 (PF00553)
+"Cellulose binding domain"</title>
+				<polygon class="PF00553" points="351,40 356,32 356,48" stroke-linejoin="round" width="9" height="24" fill="rgb(224,89,220)" stroke="rgb(179,71,176)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>fn3 (PF00041)
+"Fibronectin type III domain"</title>
+				<polygon class="PF00041" points="358,29 359,28 365,28 365,52 359,52 358,51" stroke-linejoin="round" width="7" height="24" fill="rgb(203,70,135)" stroke="rgb(162,56,107)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

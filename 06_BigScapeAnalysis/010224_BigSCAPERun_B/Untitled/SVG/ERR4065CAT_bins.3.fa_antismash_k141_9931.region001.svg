@@ -1,0 +1,127 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="452.76666666666665" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="442.76666666666665" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg143_4)</title>
+			<polygon class=" (ctg143_4)" points="10,40 17,10 17,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg143_5)</title>
+			<polygon class=" (ctg143_5)" points="17,40 27,10 27,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BrnT_toxin (PF04365)
+"Ribonuclease toxin, BrnT, of type II toxin-antitoxin system"</title>
+				<polygon class="PF04365" points="20,40 24,28 25,28 25,52 24,52" stroke-linejoin="round" width="7" height="24" fill="rgb(81,152,189)" stroke="rgb(64,121,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg143_6)</title>
+			<polygon class=" (ctg143_6)" points="76,25 62,25 62,10 32,40 62,70 62,55 76,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Helicase_C (PF00271)
+"Helicase conserved C-terminal domain"</title>
+				<polygon class="PF00271" points="42,34 48,28 53,28 53,52 48,52 42,46" stroke-linejoin="round" width="11" height="24" fill="rgb(104,224,158)" stroke="rgb(83,179,126)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DEAD (PF00270)
+"DEAD/DEAH box helicase"</title>
+				<rect class="PF00270" x="56" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(195,100,62)" stroke="rgb(156,80,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg143_7)</title>
+			<polygon class=" (ctg143_7)" points="81,25 94,25 94,10 124,40 94,70 94,55 81,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MS_channel (PF00924)
+"Mechanosensitive ion channel"</title>
+				<polygon class="PF00924" points="95,28 107,28 119,40 107,52 95,52" stroke-linejoin="round" width="25" height="24" fill="rgb(177,58,210)" stroke="rgb(141,46,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg143_8)</title>
+			<polygon class=" (ctg143_8)" points="134,25 144,25 144,10 174,40 144,70 144,55 134,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="137,28 158,28 159,29 159,51 158,52 137,52" stroke-linejoin="round" width="22" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg143_9)</title>
+			<polygon class=" (ctg143_9)" points="176,25 186,25 186,10 216,40 186,70 186,55 176,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_1_2 (PF00155)
+"Aminotransferase class I and II"</title>
+				<polygon class="PF00155" points="179,28 199,28 211,40 199,52 179,52" stroke-linejoin="round" width="36" height="24" fill="rgb(89,113,198)" stroke="rgb(71,90,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg143_10)</title>
+			<polygon class=" (ctg143_10)" points="217,10 244,40 217,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg143_11)</title>
+			<polygon class=" (ctg143_11)" points="246,10 275,40 246,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PEP_mutase (PF13714)
+"Phosphoenolpyruvate phosphomutase"</title>
+				<polygon class="PF13714" points="247,28 259,28 271,40 259,52 247,52" stroke-linejoin="round" width="25" height="24" fill="rgb(215,91,155)" stroke="rgb(172,72,123)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg143_12)</title>
+			<polygon class=" (ctg143_12)" points="277,40 306,10 306,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LysR_substrate (PF03466)
+"LysR substrate binding domain"</title>
+				<polygon class="PF03466" points="281,40 293,28 297,28 297,52 293,52" stroke-linejoin="round" width="20" height="24" fill="rgb(55,136,195)" stroke="rgb(44,108,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_1 (PF00126)
+"Bacterial regulatory helix-turn-helix protein, lysR family"</title>
+				<rect class="PF00126" x="300" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(125,227,79)" stroke="rgb(99,181,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg143_13)</title>
+			<polygon class=" (ctg143_13)" points="312,40 341,10 341,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>EamA (PF00892)
+"EamA-like transporter family"</title>
+				<polygon class="PF00892" points="316,40 327,29 327,51" stroke-linejoin="round" width="14" height="24" fill="rgb(105,217,77)" stroke="rgb(84,173,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>EamA (PF00892)
+"EamA-like transporter family"</title>
+				<polygon class="PF00892" points="328,28 328,28 340,28 340,52 328,52 328,52" stroke-linejoin="round" width="12" height="24" fill="rgb(105,217,77)" stroke="rgb(84,173,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg143_14)</title>
+			<polygon class=" (ctg143_14)" points="351,40 371,10 371,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Flavodoxin_2 (PF02525)
+"Flavodoxin-like fold"</title>
+				<polygon class="PF02525" points="355,40 363,28 370,28 370,52 363,52" stroke-linejoin="round" width="19" height="24" fill="rgb(159,188,70)" stroke="rgb(127,150,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg143_15)</title>
+			<polygon class=" (ctg143_15)" points="375,40 385,10 385,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg143_16)</title>
+			<polygon class=" (ctg143_16)" points="387,25 387,25 387,10 417,40 387,70 387,55 387,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_1 (PF00126)
+"Bacterial regulatory helix-turn-helix protein, lysR family"</title>
+				<rect class="PF00126" x="387" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(125,227,79)" stroke="rgb(99,181,63)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LysR_substrate (PF03466)
+"LysR substrate binding domain"</title>
+				<polygon class="PF03466" points="396,28 401,28 413,40 401,52 396,52" stroke-linejoin="round" width="20" height="24" fill="rgb(55,136,195)" stroke="rgb(44,108,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

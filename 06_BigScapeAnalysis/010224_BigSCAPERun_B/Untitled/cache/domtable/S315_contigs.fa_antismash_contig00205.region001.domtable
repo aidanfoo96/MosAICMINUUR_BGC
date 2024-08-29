@@ -1,0 +1,22 @@
+#                                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SQS_PSY              PF00494.22   263 S315_contigs.fa_antismash_contig00205.region001_ORF1:gid::pid::loc:186:1005:strand:- -            272   5.7e-26   91.7   0.0   1   1   6.1e-25   1.2e-20   74.3   0.0     3   176    17   204    15   209 0.77 Squalene/phytoene synthase
+Homoserine_dh        PF00742.22   173 S315_contigs.fa_antismash_contig00205.region001_ORF3:gid::pid::loc:1653:2955:strand:+ -            433   1.6e-64  217.1   0.2   1   1   3.9e-68   2.5e-64  216.4   0.2     1   173   138   316   138   316 0.99 Homoserine dehydrogenase
+NAD_binding_3        PF03447.19   117 S315_contigs.fa_antismash_contig00205.region001_ORF3:gid::pid::loc:1653:2955:strand:+ -            433   1.1e-19   71.3   0.3   1   1   4.6e-23     3e-19   69.9   0.3     1   117    11   130    11   130 0.99 Homoserine dehydrogenase, NAD binding domain
+ACT                  PF01842.28    66 S315_contigs.fa_antismash_contig00205.region001_ORF3:gid::pid::loc:1653:2955:strand:+ -            433   2.7e-08   33.6   0.0   1   1   9.4e-12   6.2e-08   32.4   0.0     1    61   350   412   350   416 0.96 ACT domain
+PALP                 PF00291.28   294 S315_contigs.fa_antismash_contig00205.region001_ORF4:gid::pid::loc:2951:4013:strand:+ -            353   3.3e-74  250.1   5.1   1   1     2e-78   3.9e-74  249.9   5.1     2   294    24   316    23   316 0.95 Pyridoxal-phosphate dependent enzyme
+GHMP_kinases_N       PF00288.29    66 S315_contigs.fa_antismash_contig00205.region001_ORF5:gid::pid::loc:4009:4897:strand:+ -            295   4.9e-12   46.0   1.7   1   1   1.1e-15     1e-11   45.0   1.7     5    66    80   137    76   137 0.85 GHMP kinases N terminal domain
+GHMP_kinases_C       PF08544.16    85 S315_contigs.fa_antismash_contig00205.region001_ORF5:gid::pid::loc:4009:4897:strand:+ -            295   2.2e-10   40.9   0.0   1   1   3.6e-14   3.5e-10   40.3   0.0     2    81   198   272   197   276 0.92 GHMP kinases C terminal
+OTCace               PF00185.27   157 S315_contigs.fa_antismash_contig00205.region001_ORF6:gid::pid::loc:5117:6083:strand:- -            321   1.6e-61  207.0   1.8   1   1   2.2e-65   2.2e-61  206.6   1.8     1   156   164   318   164   319 0.99 Aspartate/ornithine carbamoyltransferase, Asp/Orn binding domain
+OTCace_N             PF02729.24   146 S315_contigs.fa_antismash_contig00205.region001_ORF6:gid::pid::loc:5117:6083:strand:- -            321   1.2e-50  171.5   0.0   1   1   2.5e-54   2.5e-50  170.5   0.0     1   146    18   158    18   158 0.98 Aspartate/ornithine carbamoyltransferase, carbamoyl-P binding domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/S315_contigs.fa_antismash_contig00205.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/S315_contigs.fa_antismash_contig00205.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/S315_contigs.fa_antismash_contig00205.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 20:44:41 2024
+# [ok]

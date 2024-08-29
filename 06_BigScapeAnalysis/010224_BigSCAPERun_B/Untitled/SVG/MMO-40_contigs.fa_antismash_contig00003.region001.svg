@@ -1,0 +1,86 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="432.1333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="422.1333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg3_96)</title>
+			<polygon class=" (ctg3_96)" points="19,40 45,10 45,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="29,33 34,28 43,28 43,52 34,52 29,47" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_97)</title>
+			<polygon class=" (ctg3_97)" points="80,25 75,25 75,10 45,40 75,70 75,55 80,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FecCD (PF01032)
+"FecCD transport family"</title>
+				<polygon class="PF01032" points="49,40 61,28 78,28 78,52 61,52" stroke-linejoin="round" width="32" height="24" fill="rgb(210,177,70)" stroke="rgb(168,141,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_98)</title>
+			<polygon class=" (ctg3_98)" points="139,25 111,25 111,10 81,40 111,70 111,55 139,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_S9 (PF00326)
+"Prolyl oligopeptidase family"</title>
+				<polygon class="PF00326" points="85,40 97,28 102,28 102,52 97,52" stroke-linejoin="round" width="21" height="24" fill="rgb(77,97,209)" stroke="rgb(61,77,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_99)</title>
+			<polygon class=" (ctg3_99)" points="143,10 146,40 143,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3_100)</title>
+			<polygon class=" (ctg3_100)" points="149,10 176,40 149,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3_101)</title>
+			<polygon class=" (ctg3_101)" points="176,25 224,25 224,10 254,40 224,70 224,55 176,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_S15 (PF02129)
+"X-Pro dipeptidyl-peptidase (S15 family)"</title>
+				<rect class="PF02129" x="177" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(210,171,79)" stroke="rgb(168,136,63)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>YcaO (PF02624)
+"YcaO cyclodehydratase, ATP-ad Mg2+-binding"</title>
+				<polygon class="PF02624" points="215,28 238,28 250,40 250,40 238,52 215,52" stroke-linejoin="round" width="35" height="24" fill="rgb(76,84,185)" stroke="rgb(60,67,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_102)</title>
+			<polygon class=" (ctg3_102)" points="255,25 259,25 259,10 289,40 259,70 259,55 255,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg3_103)</title>
+			<polygon class=" (ctg3_103)" points="290,25 315,25 315,10 345,40 315,70 315,55 290,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="291" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="326,28 329,28 340,39 340,41 329,52 326,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg3_104)</title>
+			<polygon class=" (ctg3_104)" points="345,25 372,25 372,10 402,40 372,70 372,55 345,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="347" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="381,28 386,28 396,38 396,42 386,52 381,52" stroke-linejoin="round" width="15" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

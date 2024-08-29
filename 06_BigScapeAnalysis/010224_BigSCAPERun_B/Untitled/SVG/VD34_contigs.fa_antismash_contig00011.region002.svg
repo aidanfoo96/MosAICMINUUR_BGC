@@ -1,0 +1,152 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="722.3666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="712.3666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg11_87)</title>
+			<polygon class=" (ctg11_87)" points="140,40 147,10 147,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg11_88)</title>
+			<polygon class=" (ctg11_88)" points="196,25 183,25 183,10 153,40 183,70 183,55 196,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="168,29 169,28 192,28 192,52 169,52 168,51" stroke-linejoin="round" width="24" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11_89)</title>
+			<polygon class=" (ctg11_89)" points="238,25 228,25 228,10 198,40 228,70 228,55 238,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_4 (PF06779)
+"Uncharacterised MFS-type transporter YbfB"</title>
+				<polygon class="PF06779" points="202,40 214,28 235,28 235,52 214,52" stroke-linejoin="round" width="36" height="24" fill="rgb(225,188,88)" stroke="rgb(180,150,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11_90)</title>
+			<polygon class=" (ctg11_90)" points="242,25 246,25 246,10 276,40 246,70 246,55 242,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_1 (PF00126)
+"Bacterial regulatory helix-turn-helix protein, lysR family"</title>
+				<rect class="PF00126" x="245" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(125,227,79)" stroke="rgb(99,181,63)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LysR_substrate (PF03466)
+"LysR substrate binding domain"</title>
+				<polygon class="PF03466" points="253,28 260,28 272,40 260,52 253,52" stroke-linejoin="round" width="20" height="24" fill="rgb(55,136,195)" stroke="rgb(44,108,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11_91)</title>
+			<polygon class=" (ctg11_91)" points="276,40 293,10 293,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MerR_1 (PF13411)
+"MerR HTH family regulatory protein"</title>
+				<polygon class="PF13411" points="285,30 286,28 291,28 291,52 286,52 285,50" stroke-linejoin="round" width="6" height="24" fill="rgb(100,202,107)" stroke="rgb(80,161,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11_92)</title>
+			<polygon class=" (ctg11_92)" points="301,10 318,40 301,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CMD (PF02627)
+"Carboxymuconolactone decarboxylase family"</title>
+				<polygon class="PF02627" points="305,28 308,28 312,35 312,45 308,52 305,52" stroke-linejoin="round" width="7" height="24" fill="rgb(58,205,164)" stroke="rgb(46,164,131)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11_93)</title>
+			<polygon class=" (ctg11_93)" points="323,40 332,10 332,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg11_94)</title>
+			<polygon class=" (ctg11_94)" points="343,25 348,25 348,10 378,40 348,70 348,55 343,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="344,28 362,28 374,40 374,40 362,52 344,52" stroke-linejoin="round" width="30" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11_95)</title>
+			<polygon class=" (ctg11_95)" points="388,10 400,40 388,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyoxalase (PF00903)
+"Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily"</title>
+				<polygon class="PF00903" points="388,28 392,28 397,40 392,52 388,52" stroke-linejoin="round" width="12" height="24" fill="rgb(50,162,189)" stroke="rgb(40,129,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11_96)</title>
+			<polygon class=" (ctg11_96)" points="403,25 409,25 409,10 439,40 409,70 409,55 403,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Oxidored_FMN (PF00724)
+"NADH:flavin oxidoreductase / NADH oxidase family"</title>
+				<polygon class="PF00724" points="403,28 423,28 435,40 423,52 403,52" stroke-linejoin="round" width="33" height="24" fill="rgb(157,188,65)" stroke="rgb(125,150,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11_97)</title>
+			<polygon class=" (ctg11_97)" points="442,10 460,40 442,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SnoaL (PF07366)
+"SnoaL-like polyketide cyclase"</title>
+				<polygon class="PF07366" points="447,28 449,28 457,40 449,52 447,52" stroke-linejoin="round" width="12" height="24" fill="rgb(206,89,111)" stroke="rgb(164,71,88)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11_98)</title>
+			<polygon class=" (ctg11_98)" points="463,10 486,40 463,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short_C2 (PF13561)
+"Enoyl-(Acyl carrier protein) reductase"</title>
+				<polygon class="PF13561" points="464,28 473,28 482,40 473,52 464,52" stroke-linejoin="round" width="22" height="24" fill="rgb(73,205,127)" stroke="rgb(58,164,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11_99)</title>
+			<polygon class=" (ctg11_99)" points="493,25 493,25 493,10 523,40 493,70 493,55 493,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_1 (PF00126)
+"Bacterial regulatory helix-turn-helix protein, lysR family"</title>
+				<rect class="PF00126" x="493" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(125,227,79)" stroke="rgb(99,181,63)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LysR_substrate (PF03466)
+"LysR substrate binding domain"</title>
+				<polygon class="PF03466" points="501,28 507,28 519,40 507,52 501,52" stroke-linejoin="round" width="20" height="24" fill="rgb(55,136,195)" stroke="rgb(44,108,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11_100)</title>
+			<polygon class=" (ctg11_100)" points="525,40 531,10 531,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg11_101)</title>
+			<polygon class=" (ctg11_101)" points="563,25 560,25 560,10 530,40 560,70 560,55 563,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cyt_bd_oxida_II (PF02322)
+"Cytochrome bd terminal oxidase subunit II"</title>
+				<polygon class="PF02322" points="534,40 546,28 562,28 562,52 546,52" stroke-linejoin="round" width="31" height="24" fill="rgb(228,79,211)" stroke="rgb(182,63,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11_102)</title>
+			<polygon class=" (ctg11_102)" points="612,25 595,25 595,10 565,40 595,70 595,55 612,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cyt_bd_oxida_I (PF01654)
+"Cytochrome bd terminal oxidase subunit I"</title>
+				<polygon class="PF01654" points="569,40 581,28 610,28 610,52 581,52" stroke-linejoin="round" width="42" height="24" fill="rgb(64,127,201)" stroke="rgb(51,101,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg11_103)</title>
+			<polygon class=" (ctg11_103)" points="633,10 645,40 633,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg11_104)</title>
+			<polygon class=" (ctg11_104)" points="646,10 665,40 646,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

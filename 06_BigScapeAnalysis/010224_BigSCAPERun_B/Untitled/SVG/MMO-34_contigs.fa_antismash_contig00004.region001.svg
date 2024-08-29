@@ -1,0 +1,63 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="417.73333333333335" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="407.73333333333335" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg4_265)</title>
+			<polygon class=" (ctg4_265)" points="19,25 25,25 25,10 55,40 25,70 25,55 19,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HlyD_D23 (PF16576)
+"Barrel-sandwich domain of CusB or HlyD membrane-fusion"</title>
+				<polygon class="PF16576" points="23,28 39,28 44,33 44,47 39,52 23,52" stroke-linejoin="round" width="21" height="24" fill="rgb(70,190,92)" stroke="rgb(56,152,73)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4_266)</title>
+			<polygon class=" (ctg4_266)" points="55,25 127,25 127,10 157,40 127,70 127,55 55,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ACR_tran (PF00873)
+"AcrB/AcrD/AcrF family"</title>
+				<polygon class="PF00873" points="55,28 140,28 152,40 140,52 55,52" stroke-linejoin="round" width="100" height="24" fill="rgb(63,191,60)" stroke="rgb(50,152,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4_267)</title>
+			<polygon class=" (ctg4_267)" points="162,10 171,40 162,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg4_268)</title>
+			<polygon class=" (ctg4_268)" points="176,25 210,25 210,10 240,40 210,70 210,55 176,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<rect class="PF04055" x="203" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4_269)</title>
+			<polygon class=" (ctg4_269)" points="241,25 254,25 254,10 284,40 254,70 254,55 241,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg4_270)</title>
+			<polygon class=" (ctg4_270)" points="369,25 330,25 330,10 300,40 330,70 330,55 369,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ParBc (PF02195)
+"ParB/Sulfiredoxin domain"</title>
+				<rect class="PF02195" x="357" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(55,214,209)" stroke="rgb(44,171,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg4_271)</title>
+			<polygon class=" (ctg4_271)" points="375,40 395,10 395,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GST_C (PF00043)
+"Glutathione S-transferase, C-terminal domain"</title>
+				<polygon class="PF00043" points="379,40 382,36 382,44" stroke-linejoin="round" width="7" height="24" fill="rgb(102,108,211)" stroke="rgb(81,86,168)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GST_N (PF02798)
+"Glutathione S-transferase, N-terminal domain"</title>
+				<polygon class="PF02798" points="387,28 387,28 394,28 394,52 387,52 387,52" stroke-linejoin="round" width="7" height="24" fill="rgb(82,167,186)" stroke="rgb(65,133,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

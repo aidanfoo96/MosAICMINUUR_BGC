@@ -1,0 +1,17 @@
+#                                                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AMP-binding          PF00501.31   424 ERR4065CAT_bins.3.fa_antismash_k141_6721.region001_ORF1:gid::pid::loc:115:1681:strand:- -            521   1.4e-43  149.3   0.0   1   1   4.1e-47     2e-43  148.7   0.0   212   424     6   214     2   214 0.90 AMP-binding enzyme
+PP-binding           PF00550.28    67 ERR4065CAT_bins.3.fa_antismash_k141_6721.region001_ORF1:gid::pid::loc:115:1681:strand:- -            521   9.7e-14   51.6   0.0   1   1   4.1e-17     2e-13   50.5   0.0     2    67   323   385   322   385 0.95 Phosphopantetheine attachment site
+AMP-binding_C        PF13193.9     76 ERR4065CAT_bins.3.fa_antismash_k141_6721.region001_ORF1:gid::pid::loc:115:1681:strand:- -            521   1.3e-12   48.6   0.0   1   1   6.2e-16   3.1e-12   47.4   0.0     1    76   222   294   222   294 0.93 AMP-binding enzyme C-terminal domain
+Condensation         PF00668.23   457 ERR4065CAT_bins.3.fa_antismash_k141_6721.region001_ORF1:gid::pid::loc:115:1681:strand:- -            521   2.3e-10   39.9   0.1   1   1   6.5e-14   3.2e-10   39.4   0.1     1    64   434   497   434   503 0.95 Condensation domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/ERR4065CAT_bins.3.fa_antismash_k141_6721.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/ERR4065CAT_bins.3.fa_antismash_k141_6721.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/ERR4065CAT_bins.3.fa_antismash_k141_6721.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 18:18:08 2024
+# [ok]

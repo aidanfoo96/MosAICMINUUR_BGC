@@ -1,0 +1,15 @@
+#                                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Condensation         PF00668.23   457 HN128_contigs.fa_antismash_contig00028.region001_ORF1:gid::pid::loc:0:1767:strand:+ -            589   6.1e-93  312.1   0.0   1   1   7.5e-97   7.3e-93  311.8   0.0     3   456    54   501    52   502 0.93 Condensation domain
+AMP-binding          PF00501.31   424 HN128_contigs.fa_antismash_contig00028.region001_ORF1:gid::pid::loc:0:1767:strand:+ -            589   1.7e-17   63.3   0.0   1   1   2.7e-21   2.7e-17   62.6   0.0     2    70   523   589   522   589 0.97 AMP-binding enzyme
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/HN128_contigs.fa_antismash_contig00028.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/HN128_contigs.fa_antismash_contig00028.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/HN128_contigs.fa_antismash_contig00028.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 19:22:18 2024
+# [ok]

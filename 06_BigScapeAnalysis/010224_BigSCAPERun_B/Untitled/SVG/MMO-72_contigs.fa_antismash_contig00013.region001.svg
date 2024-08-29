@@ -1,0 +1,175 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="712.5666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="702.5666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg13_21)</title>
+			<polygon class=" (ctg13_21)" points="22,25 67,25 67,10 97,40 67,70 67,55 22,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Na_H_Exchanger (PF00999)
+"Sodium/hydrogen exchanger family"</title>
+				<rect class="PF00999" x="29" y="28" stroke-linejoin="round" width="39" height="24" fill="rgb(229,67,191)" stroke="rgb(183,53,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_22)</title>
+			<polygon class=" (ctg13_22)" points="108,10 136,40 108,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PDH_N (PF02153)
+"Prephenate dehydrogenase, nucleotide-binding domain"</title>
+				<polygon class="PF02153" points="109,28 120,28 124,32 124,48 120,52 109,52" stroke-linejoin="round" width="15" height="24" fill="rgb(90,185,212)" stroke="rgb(72,148,169)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PDH_C (PF20463)
+"Prephenate dehydrogenase, dimerization domain"</title>
+				<polygon class="PF20463" points="125,33 132,40 125,47" stroke-linejoin="round" width="10" height="24" fill="rgb(99,50,183)" stroke="rgb(79,39,146)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_23)</title>
+			<polygon class=" (ctg13_23)" points="173,25 168,25 168,10 138,40 168,70 168,55 173,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MDD_C (PF18376)
+"Mevalonate 5-diphosphate decarboxylase C-terminal domain"</title>
+				<polygon class="PF18376" points="142,40 152,30 152,50" stroke-linejoin="round" width="14" height="24" fill="rgb(104,190,211)" stroke="rgb(83,152,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_24)</title>
+			<polygon class=" (ctg13_24)" points="234,25 205,25 205,10 175,40 205,70 205,55 234,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="187,32 191,28 232,28 232,52 191,52 187,48" stroke-linejoin="round" width="45" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_25)</title>
+			<polygon class=" (ctg13_25)" points="267,25 264,25 264,10 234,40 264,70 264,55 267,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Epimerase (PF01370)
+"NAD dependent epimerase/dehydratase family"</title>
+				<polygon class="PF01370" points="243,35 250,28 266,28 266,52 250,52 243,45" stroke-linejoin="round" width="23" height="24" fill="rgb(98,102,214)" stroke="rgb(78,81,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_26)</title>
+			<polygon class=" (ctg13_26)" points="270,40 274,10 274,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg13_27)</title>
+			<polygon class=" (ctg13_27)" points="308,25 305,25 305,10 275,40 305,70 305,55 308,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg13_28)</title>
+			<polygon class=" (ctg13_28)" points="339,25 338,25 338,10 308,40 338,70 338,55 339,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RimK (PF08443)
+"RimK-like ATP-grasp domain"</title>
+				<polygon class="PF08443" points="312,40 324,28 327,28 327,52 324,52" stroke-linejoin="round" width="19" height="24" fill="rgb(192,59,192)" stroke="rgb(153,47,153)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_29)</title>
+			<polygon class=" (ctg13_29)" points="343,40 350,10 350,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Inhibitor_I10 (PF12559)
+"Serine endopeptidase inhibitors"</title>
+				<polygon class="PF12559" points="346,40 349,28 349,28 349,52 349,52" stroke-linejoin="round" width="6" height="24" fill="rgb(179,147,51)" stroke="rgb(143,117,40)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_30)</title>
+			<polygon class=" (ctg13_30)" points="351,40 360,10 360,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Inhibitor_I10 (PF12559)
+"Serine endopeptidase inhibitors"</title>
+				<polygon class="PF12559" points="354,40 358,28 359,28 359,52 358,52 354,40" stroke-linejoin="round" width="5" height="24" fill="rgb(179,147,51)" stroke="rgb(143,117,40)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_31)</title>
+			<polygon class=" (ctg13_31)" points="361,40 368,10 368,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Inhibitor_I10 (PF12559)
+"Serine endopeptidase inhibitors"</title>
+				<polygon class="PF12559" points="364,40 367,28 367,28 367,52 367,52" stroke-linejoin="round" width="6" height="24" fill="rgb(179,147,51)" stroke="rgb(143,117,40)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_32)</title>
+			<polygon class=" (ctg13_32)" points="373,40 399,10 399,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Abhydrolase_1 (PF00561)
+"alpha/beta hydrolase fold"</title>
+				<polygon class="PF00561" points="384,32 387,28 396,28 396,52 387,52 384,48" stroke-linejoin="round" width="12" height="24" fill="rgb(86,180,151)" stroke="rgb(68,144,120)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_33)</title>
+			<polygon class=" (ctg13_33)" points="402,40 426,10 426,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PdxJ (PF03740)
+"Pyridoxal phosphate biosynthesis protein PdxJ"</title>
+				<polygon class="PF03740" points="406,40 416,28 425,28 425,52 416,52" stroke-linejoin="round" width="23" height="24" fill="rgb(175,196,77)" stroke="rgb(139,156,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_34)</title>
+			<polygon class=" (ctg13_34)" points="470,25 458,25 458,10 428,40 458,70 458,55 470,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MS_channel (PF00924)
+"Mechanosensitive ion channel"</title>
+				<polygon class="PF00924" points="432,40 444,28 453,28 453,52 444,52" stroke-linejoin="round" width="25" height="24" fill="rgb(177,58,210)" stroke="rgb(141,46,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_35)</title>
+			<polygon class=" (ctg13_35)" points="476,25 485,25 485,10 515,40 485,70 485,55 476,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CarboxypepD_reg (PF13620)
+"Carboxypeptidase regulatory-like domain"</title>
+				<rect class="PF13620" x="479" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(201,63,96)" stroke="rgb(160,50,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_36)</title>
+			<polygon class=" (ctg13_36)" points="518,10 534,40 518,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF456 (PF04306)
+"Protein of unknown function (DUF456)"</title>
+				<polygon class="PF04306" points="520,28 524,28 530,40 524,52 520,52" stroke-linejoin="round" width="13" height="24" fill="rgb(202,219,65)" stroke="rgb(161,175,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_37)</title>
+			<polygon class=" (ctg13_37)" points="535,10 551,40 535,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg13_38)</title>
+			<polygon class=" (ctg13_38)" points="551,40 572,10 572,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UDG (PF03167)
+"Uracil DNA glycosylase superfamily"</title>
+				<polygon class="PF03167" points="555,40 564,28 567,28 567,52 564,52" stroke-linejoin="round" width="15" height="24" fill="rgb(64,224,60)" stroke="rgb(51,179,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_39)</title>
+			<polygon class=" (ctg13_39)" points="585,40 603,10 603,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_3 (PF13302)
+"Acetyltransferase (GNAT) domain"</title>
+				<polygon class="PF13302" points="588,40 595,28 602,28 602,52 595,52 588,40" stroke-linejoin="round" width="14" height="24" fill="rgb(105,146,215)" stroke="rgb(84,116,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_40)</title>
+			<polygon class=" (ctg13_40)" points="626,25 670,25 670,10 700,40 670,70 670,55 626,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MutS_V (PF00488)
+"MutS domain V"</title>
+				<rect class="PF00488" x="662" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(106,217,199)" stroke="rgb(84,173,159)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

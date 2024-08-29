@@ -1,0 +1,17 @@
+#                                                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Lycopene_cycl        PF05834.15   380 SRR16695303_bins3.2.fa_antismash_k119_8152.region001_ORF1:gid::pid::loc:0:297:strand:+ -             98   9.3e-17   61.3   0.3   1   1   5.5e-21   1.1e-16   61.1   0.3   304   377    10    83     3    86 0.93 Lycopene cyclase protein
+Amino_oxidase        PF01593.27   452 SRR16695303_bins3.2.fa_antismash_k119_8152.region001_ORF2:gid::pid::loc:296:1778:strand:+ -            493   9.7e-44  150.5   0.6   1   1     6e-47   2.4e-43  149.2   0.6     2   451    12   487    11   488 0.84 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.9     68 SRR16695303_bins3.2.fa_antismash_k119_8152.region001_ORF2:gid::pid::loc:296:1778:strand:+ -            493     1e-14   54.6   0.1   1   1   6.7e-18   2.6e-14   53.3   0.1     1    63     6    68     6    72 0.93 NAD(P)-binding Rossmann-like domain
+SQS_PSY              PF00494.22   263 SRR16695303_bins3.2.fa_antismash_k119_8152.region001_ORF3:gid::pid::loc:1774:2560:strand:+ -            262   5.2e-65  219.7   7.6   1   1     3e-69   5.8e-65  219.5   7.6     3   247    16   261    14   262 0.95 Squalene/phytoene synthase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/SRR16695303_bins3.2.fa_antismash_k119_8152.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/SRR16695303_bins3.2.fa_antismash_k119_8152.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/SRR16695303_bins3.2.fa_antismash_k119_8152.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 22:05:07 2024
+# [ok]

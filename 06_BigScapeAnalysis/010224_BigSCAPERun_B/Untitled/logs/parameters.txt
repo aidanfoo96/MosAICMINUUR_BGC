@@ -1,0 +1,1 @@
+../BiG-SCAPE-1.1.5/bigscape.py -i 010224_antismashGBKfiles/ -o 010224_BigSCAPERun_B/ --cores 20 --verbose --mode auto --mibig --include_singletons

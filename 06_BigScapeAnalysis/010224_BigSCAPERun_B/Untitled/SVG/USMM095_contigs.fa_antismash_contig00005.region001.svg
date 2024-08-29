@@ -1,0 +1,177 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="695.6666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="685.6666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg5_250)</title>
+			<polygon class=" (ctg5_250)" points="19,40 34,10 34,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RecX (PF02631)
+"RecX family"</title>
+				<polygon class="PF02631" points="22,40 28,28 30,28 30,52 28,52" stroke-linejoin="round" width="11" height="24" fill="rgb(212,115,80)" stroke="rgb(169,92,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_251)</title>
+			<polygon class=" (ctg5_251)" points="79,25 67,25 67,10 37,40 67,70 67,55 79,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SHMT (PF00464)
+"Serine hydroxymethyltransferase"</title>
+				<polygon class="PF00464" points="41,40 53,28 78,28 78,52 53,52" stroke-linejoin="round" width="38" height="24" fill="rgb(215,97,215)" stroke="rgb(172,77,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_252)</title>
+			<polygon class=" (ctg5_252)" points="81,40 110,10 110,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF72 (PF01904)
+"Protein of unknown function DUF72"</title>
+				<polygon class="PF01904" points="85,40 97,28 105,28 105,52 97,52" stroke-linejoin="round" width="22" height="24" fill="rgb(63,151,204)" stroke="rgb(50,120,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_253)</title>
+			<polygon class=" (ctg5_253)" points="193,25 145,25 145,10 115,40 145,70 145,55 193,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AAA_31 (PF13614)
+"AAA domain"</title>
+				<polygon class="PF13614" points="119,40 131,28 135,28 135,52 131,52 119,40" stroke-linejoin="round" width="16" height="24" fill="rgb(144,187,62)" stroke="rgb(115,149,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GNVR (PF13807)
+"G-rich domain on putative tyrosine kinase"</title>
+				<rect class="PF13807" x="142" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(77,110,190)" stroke="rgb(61,87,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_254)</title>
+			<polygon class=" (ctg5_254)" points="194,40 220,10 220,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Poly_export (PF02563)
+"Polysaccharide biosynthesis/export protein"</title>
+				<polygon class="PF02563" points="206,31 209,28 216,28 216,52 209,52 206,49" stroke-linejoin="round" width="10" height="24" fill="rgb(125,185,59)" stroke="rgb(100,148,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_255)</title>
+			<polygon class=" (ctg5_255)" points="251,25 251,25 251,10 221,40 251,70 251,55 251,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg5_256)</title>
+			<polygon class=" (ctg5_256)" points="306,25 282,25 282,10 252,40 282,70 282,55 306,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="256,40 268,28 270,28 270,52 268,52 256,40" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="276" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_257)</title>
+			<polygon class=" (ctg5_257)" points="342,25 336,25 336,10 306,40 336,70 336,55 342,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NTP_transf_5 (PF14907)
+"Uncharacterised nucleotidyltransferase"</title>
+				<polygon class="PF14907" points="314,36 322,28 338,28 338,52 322,52 314,44" stroke-linejoin="round" width="24" height="24" fill="rgb(191,137,74)" stroke="rgb(152,109,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_258)</title>
+			<polygon class=" (ctg5_258)" points="343,40 352,10 352,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PqqD (PF05402)
+"Coenzyme PQQ synthesis protein D (PqqD)"</title>
+				<polygon class="PF05402" points="346,40 350,28 350,28 350,52 350,52" stroke-linejoin="round" width="7" height="24" fill="rgb(124,62,188)" stroke="rgb(99,49,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_259)</title>
+			<polygon class=" (ctg5_259)" points="352,40 366,10 366,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_S24 (PF00717)
+"Peptidase S24-like"</title>
+				<polygon class="PF00717" points="355,40 361,28 365,28 365,52 361,52 355,40" stroke-linejoin="round" width="10" height="24" fill="rgb(180,76,105)" stroke="rgb(144,60,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_260)</title>
+			<polygon class=" (ctg5_260)" points="410,25 403,25 403,10 373,40 403,70 403,55 410,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_1 (PF00534)
+"Glycosyl transferases group 1"</title>
+				<polygon class="PF00534" points="377,40 389,28 392,28 392,52 389,52" stroke-linejoin="round" width="17" height="24" fill="rgb(228,92,150)" stroke="rgb(182,73,119)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glyco_transf_4 (PF13439)
+"Glycosyltransferase Family 4"</title>
+				<rect class="PF13439" x="392" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(162,57,186)" stroke="rgb(129,45,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_261)</title>
+			<polygon class=" (ctg5_261)" points="448,25 441,25 441,10 411,40 441,70 441,55 448,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_1 (PF00534)
+"Glycosyl transferases group 1"</title>
+				<polygon class="PF00534" points="415,40 427,28 430,28 430,52 427,52" stroke-linejoin="round" width="17" height="24" fill="rgb(228,92,150)" stroke="rgb(182,73,119)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_262)</title>
+			<polygon class=" (ctg5_262)" points="485,25 478,25 478,10 448,40 478,70 478,55 485,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_1 (PF00534)
+"Glycosyl transferases group 1"</title>
+				<polygon class="PF00534" points="452,40 464,28 466,28 466,52 464,52" stroke-linejoin="round" width="16" height="24" fill="rgb(228,92,150)" stroke="rgb(182,73,119)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glyco_transf_4 (PF13439)
+"Glycosyltransferase Family 4"</title>
+				<rect class="PF13439" x="467" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(162,57,186)" stroke="rgb(129,45,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_263)</title>
+			<polygon class=" (ctg5_263)" points="527,25 515,25 515,10 485,40 515,70 515,55 527,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg5_264)</title>
+			<polygon class=" (ctg5_264)" points="561,25 558,25 558,10 528,40 558,70 558,55 561,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<polygon class="PF00535" points="541,31 544,28 559,28 559,52 544,52 541,49" stroke-linejoin="round" width="18" height="24" fill="rgb(224,122,96)" stroke="rgb(179,97,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_265)</title>
+			<polygon class=" (ctg5_265)" points="565,40 594,10 594,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Branch (PF02485)
+"Core-2/I-Branching enzyme"</title>
+				<polygon class="PF02485" points="569,40 581,28 593,28 593,52 581,52" stroke-linejoin="round" width="26" height="24" fill="rgb(141,183,61)" stroke="rgb(112,146,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_266)</title>
+			<polygon class=" (ctg5_266)" points="594,40 622,10 622,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Branch (PF02485)
+"Core-2/I-Branching enzyme"</title>
+				<polygon class="PF02485" points="598,40 609,28 621,28 621,52 609,52 598,40" stroke-linejoin="round" width="23" height="24" fill="rgb(141,183,61)" stroke="rgb(112,146,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg5_267)</title>
+			<polygon class=" (ctg5_267)" points="654,25 653,25 653,10 623,40 653,70 653,55 654,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Caps_synth (PF05704)
+"Capsular polysaccharide synthesis protein"</title>
+				<polygon class="PF05704" points="627,40 639,28 652,28 652,52 639,52" stroke-linejoin="round" width="29" height="24" fill="rgb(199,186,82)" stroke="rgb(159,148,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

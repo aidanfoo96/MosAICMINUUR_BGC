@@ -1,0 +1,16 @@
+#                                                                                                                                         --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                        accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                              -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Methyltransf_2       PF00891.21   210 SRR18172542.4.fa_antismash_k141_72180.region001_ORF1:gid::pid::loc:0:798:strand:+ -            265   5.3e-44  150.2   0.0   1   1   3.1e-48   6.1e-44  150.0   0.0     3   207    43   243    41   246 0.94 O-methyltransferase domain
+NUDIX                PF00293.31   131 SRR18172542.4.fa_antismash_k141_72180.region001_ORF2:gid::pid::loc:848:1418:strand:+ -            189   3.5e-26   91.9   0.0   1   1   2.2e-30   4.3e-26   91.6   0.0     2   131    30   159    29   159 0.87 NUDIX domain
+Terpene_syn_C_2      PF19086.3    199 SRR18172542.4.fa_antismash_k141_72180.region001_ORF3:gid::pid::loc:1417:2239:strand:+ -            273   2.4e-41  141.9   0.0   1   1   1.7e-45   3.4e-41  141.4   0.0     2   194    75   266    74   269 0.95 Terpene synthase family 2, C-terminal metal binding
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/SRR18172542.4.fa_antismash_k141_72180.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/SRR18172542.4.fa_antismash_k141_72180.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/SRR18172542.4.fa_antismash_k141_72180.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 22:52:26 2024
+# [ok]

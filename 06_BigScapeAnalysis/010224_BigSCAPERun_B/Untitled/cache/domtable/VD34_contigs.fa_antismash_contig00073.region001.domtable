@@ -1,0 +1,20 @@
+#                                                                                                                                          --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                         accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                               -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+KR                   PF08659.13   180 VD34_contigs.fa_antismash_contig00073.region001_ORF1:gid::pid::loc:1:3220:strand:- -           1073   7.8e-46  156.3   2.9   1   1     3e-49   8.3e-46  156.3   1.3     1   179   573   757   573   758 0.95 KR domain
+ketoacyl-synt        PF00109.29   253 VD34_contigs.fa_antismash_contig00073.region001_ORF1:gid::pid::loc:1:3220:strand:- -           1073   3.9e-26   92.3   0.0   1   1   2.7e-29   7.7e-26   91.3   0.0     4    99   977  1073   975  1073 0.99 Beta-ketoacyl synthase, N-terminal domain
+Ketoacyl-synt_C      PF02801.25   119 VD34_contigs.fa_antismash_contig00073.region001_ORF1:gid::pid::loc:1:3220:strand:- -           1073     2e-20   73.1   0.3   1   1   1.4e-23     4e-20   72.1   0.3    55   118     1    63     1    64 0.97 Beta-ketoacyl synthase, C-terminal domain
+PP-binding           PF00550.28    67 VD34_contigs.fa_antismash_contig00073.region001_ORF1:gid::pid::loc:1:3220:strand:- -           1073   7.5e-14   51.9   0.0   1   1   5.8e-17   1.6e-13   50.8   0.0     3    67   858   922   856   922 0.96 Phosphopantetheine attachment site
+KAsynt_C_assoc       PF16197.8    112 VD34_contigs.fa_antismash_contig00073.region001_ORF1:gid::pid::loc:1:3220:strand:- -           1073     9e-12   45.6   0.0   1   1   1.7e-14   4.7e-11   43.3   0.0     1   108    66   189    66   193 0.85 Ketoacyl-synthetase C-terminal extension
+adh_short            PF00106.28   195 VD34_contigs.fa_antismash_contig00073.region001_ORF1:gid::pid::loc:1:3220:strand:- -           1073   6.8e-12   45.4   0.1   1   1   4.7e-15   1.3e-11   44.4   0.1     4   113   576   689   574   700 0.87 short chain dehydrogenase
+adh_short_C2         PF13561.9    234 VD34_contigs.fa_antismash_contig00073.region001_ORF1:gid::pid::loc:1:3220:strand:- -           1073     6e-08   32.7   0.4   1   1   4.4e-11   1.2e-07   31.6   0.4     3   112   581   694   579   701 0.79 Enoyl-(Acyl carrier protein) reductase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/VD34_contigs.fa_antismash_contig00073.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/VD34_contigs.fa_antismash_contig00073.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/VD34_contigs.fa_antismash_contig00073.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 22:29:13 2024
+# [ok]

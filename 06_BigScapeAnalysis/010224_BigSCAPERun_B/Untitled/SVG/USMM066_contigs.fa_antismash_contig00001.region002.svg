@@ -1,0 +1,99 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="382.1333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="372.1333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg1_330)</title>
+			<polygon class=" (ctg1_330)" points="50,25 43,25 43,10 13,40 43,70 43,55 50,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_331)</title>
+			<polygon class=" (ctg1_331)" points="52,40 59,10 59,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_332)</title>
+			<polygon class=" (ctg1_332)" points="109,25 90,25 90,10 60,40 90,70 90,55 109,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4331 (PF14224)
+"Domain of unknown function (DUF4331)"</title>
+				<polygon class="PF14224" points="64,40 76,28 107,28 107,52 76,52" stroke-linejoin="round" width="46" height="24" fill="rgb(204,118,62)" stroke="rgb(163,94,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_333)</title>
+			<polygon class=" (ctg1_333)" points="126,40 132,10 132,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_334)</title>
+			<polygon class=" (ctg1_334)" points="132,40 152,10 152,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sigma70_r4_2 (PF08281)
+"Sigma-70, region 4"</title>
+				<polygon class="PF08281" points="136,40 138,37 138,43" stroke-linejoin="round" width="5" height="24" fill="rgb(222,103,144)" stroke="rgb(177,82,115)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Sigma70_r2 (PF04542)
+"Sigma-70 region 2"</title>
+				<polygon class="PF04542" points="143,30 144,28 149,28 149,52 144,52 143,50" stroke-linejoin="round" width="6" height="24" fill="rgb(184,59,197)" stroke="rgb(147,47,157)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_335)</title>
+			<polygon class=" (ctg1_335)" points="153,40 177,10 177,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2063 (PF09836)
+"Putative DNA-binding domain"</title>
+				<rect class="PF09836" x="168" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(88,194,190)" stroke="rgb(70,155,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_336)</title>
+			<polygon class=" (ctg1_336)" points="176,40 204,10 204,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF692 (PF05114)
+"Protein of unknown function (DUF692)"</title>
+				<polygon class="PF05114" points="180,40 192,28 204,28 204,52 192,52" stroke-linejoin="round" width="26" height="24" fill="rgb(63,196,127)" stroke="rgb(50,156,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_337)</title>
+			<polygon class=" (ctg1_337)" points="207,40 215,10 215,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg1_338)</title>
+			<polygon class=" (ctg1_338)" points="221,10 241,40 221,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DoxX (PF07681)
+"DoxX"</title>
+				<polygon class="PF07681" points="223,28 229,28 231,31 231,49 229,52 223,52" stroke-linejoin="round" width="8" height="24" fill="rgb(93,188,216)" stroke="rgb(74,150,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_339)</title>
+			<polygon class=" (ctg1_339)" points="244,25 253,25 253,10 283,40 253,70 253,55 244,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Chromate_transp (PF02417)
+"Chromate transporter"</title>
+				<rect class="PF02417" x="244" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(216,70,196)" stroke="rgb(172,56,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Chromate_transp (PF02417)
+"Chromate transporter"</title>
+				<polygon class="PF02417" points="266,28 267,28 279,40 267,52 266,52" stroke-linejoin="round" width="16" height="24" fill="rgb(216,70,196)" stroke="rgb(172,56,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg1_340)</title>
+			<polygon class=" (ctg1_340)" points="288,25 330,25 330,10 360,40 330,70 330,55 288,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Plug (PF07715)
+"TonB-dependent Receptor Plug Domain"</title>
+				<rect class="PF07715" x="294" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(99,133,214)" stroke="rgb(79,106,171)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TonB_dep_Rec (PF00593)
+"TonB dependent receptor"</title>
+				<polygon class="PF00593" points="312,28 344,28 356,40 344,52 312,52" stroke-linejoin="round" width="48" height="24" fill="rgb(171,200,51)" stroke="rgb(136,160,40)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,28 @@
+#                                                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF2382              PF09557.13   111 USHLN215_contigs.fa_antismash_contig00021.region001_ORF1:gid::pid::loc:2466:3498:strand:+ -            343   2.2e-29  102.1  28.3   1   1   4.4e-33   4.3e-29  101.1  28.3     3   111   209   315   207   315 0.97 Domain of unknown function (DUF2382)
+PRC                  PF05239.19    79 USHLN215_contigs.fa_antismash_contig00021.region001_ORF1:gid::pid::loc:2466:3498:strand:+ -            343   1.5e-09   38.0   0.1   1   1   3.7e-13   3.6e-09   36.7   0.1     5    78     5    74     1    75 0.92 PRC-barrel domain
+MFS_1                PF07690.19   353 USHLN215_contigs.fa_antismash_contig00021.region001_ORF2:gid::pid::loc:3571:4762:strand:- -            396   2.7e-47  161.6  56.7   1   2   3.1e-32     2e-28   99.5  27.6     2   234    18   240    17   246 0.86 Major Facilitator Superfamily
+MFS_1                PF07690.19   353 USHLN215_contigs.fa_antismash_contig00021.region001_ORF2:gid::pid::loc:3571:4762:strand:- -            396   2.7e-47  161.6  56.7   2   2   1.1e-22     7e-19   68.1  21.2    35   170   250   384   246   395 0.90 Major Facilitator Superfamily
+Sugar_tr             PF00083.27   452 USHLN215_contigs.fa_antismash_contig00021.region001_ORF2:gid::pid::loc:3571:4762:strand:- -            396   1.5e-14   53.8  27.9   1   1   3.9e-16   2.5e-12   46.5  14.5    39   188    44   184    11   191 0.88 Sugar (and other) transporter
+tRNA-synt_2b         PF00587.28   179 USHLN215_contigs.fa_antismash_contig00021.region001_ORF3:gid::pid::loc:4967:7085:strand:+ -            705     5e-36  124.5   0.0   1   1   1.3e-39   8.3e-36  123.7   0.0     7   179   368   575   364   575 0.95 tRNA synthetase class II core domain (G, H, P, S and T)
+HGTP_anticodon       PF03129.23    94 USHLN215_contigs.fa_antismash_contig00021.region001_ORF3:gid::pid::loc:4967:7085:strand:+ -            705   3.1e-15   56.2   0.0   1   1     1e-18   6.5e-15   55.2   0.0     1    92   587   675   587   677 0.97 Anticodon binding domain
+tRNA_SAD             PF07973.17    44 USHLN215_contigs.fa_antismash_contig00021.region001_ORF3:gid::pid::loc:4967:7085:strand:+ -            705   2.7e-11   43.5   0.0   1   1   2.2e-14   1.4e-10   41.2   0.0     6    44   202   249   192   249 0.88 Threonyl and Alanyl tRNA synthetase second additional domain
+HIT                  PF01230.26    98 USHLN215_contigs.fa_antismash_contig00021.region001_ORF4:gid::pid::loc:7081:7660:strand:+ -            192   2.2e-14   54.1   0.0   1   1     3e-18   2.9e-14   53.7   0.0     4    95    65   157    62   160 0.95 HIT domain
+DcpS_C               PF11969.11   114 USHLN215_contigs.fa_antismash_contig00021.region001_ORF4:gid::pid::loc:7081:7660:strand:+ -            192   2.9e-06   27.9   0.0   1   1     4e-10   3.9e-06   27.4   0.0     3   100    55   155    53   162 0.80 Scavenger mRNA decapping enzyme C-term binding
+Peptidase_M3         PF01432.23   458 USHLN215_contigs.fa_antismash_contig00021.region001_ORF5:gid::pid::loc:7709:9797:strand:- -            695  3.5e-104  349.7   0.0   1   1  2.4e-108  4.6e-104  349.3   0.0     7   457   229   674   223   675 0.91 Peptidase family M3
+Lycopene_cycl        PF05834.15   380 USHLN215_contigs.fa_antismash_contig00021.region001_ORF6:gid::pid::loc:10000:11137:strand:+ -            378   8.9e-30  104.1   0.0   1   1   6.5e-34   1.3e-29  103.6   0.0     1   377     9   373     9   376 0.83 Lycopene cyclase protein
+HTH_7                PF02796.18    45 USHLN215_contigs.fa_antismash_contig00021.region001_ORF7:gid::pid::loc:11151:11367:strand:+ -             71   1.8e-05   24.9   0.0   1   1   1.1e-09   2.1e-05   24.6   0.0     1    43     6    48     6    50 0.96 Helix-turn-helix domain of resolvase
+SnoaL_3              PF13474.9    121 USHLN215_contigs.fa_antismash_contig00021.region001_ORF8:gid::pid::loc:11444:11906:strand:- -            153   1.2e-13   51.5   0.0   1   1   1.8e-17   1.8e-13   51.0   0.0     2   118    30   149    29   152 0.83 SnoaL-like domain
+DUF4440              PF14534.9    107 USHLN215_contigs.fa_antismash_contig00021.region001_ORF8:gid::pid::loc:11444:11906:strand:- -            153   7.5e-10   39.3   0.1   1   1   1.1e-13     1e-09   38.9   0.1     4   107    32   141    29   141 0.88 Domain of unknown function (DUF4440)
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/USHLN215_contigs.fa_antismash_contig00021.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/USHLN215_contigs.fa_antismash_contig00021.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/USHLN215_contigs.fa_antismash_contig00021.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 20:30:31 2024
+# [ok]

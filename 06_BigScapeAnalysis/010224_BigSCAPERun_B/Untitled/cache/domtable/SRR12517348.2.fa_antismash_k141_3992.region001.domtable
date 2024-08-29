@@ -1,0 +1,25 @@
+#                                                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                 -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TonB_dep_Rec         PF00593.27   470 SRR12517348.2.fa_antismash_k141_3992.region001_ORF1:gid::pid::loc:1063:3538:strand:- -            824   1.8e-48  166.7  18.2   1   1   7.2e-52   4.7e-48  165.3  18.2    37   470   342   823   301   823 0.70 TonB dependent receptor
+Plug                 PF07715.18   108 SRR12517348.2.fa_antismash_k141_3992.region001_ORF1:gid::pid::loc:1063:3538:strand:- -            824   2.1e-14   54.1   1.2   1   1   8.6e-18   5.6e-14   52.7   0.4     2   107   133   228   132   229 0.91 TonB-dependent Receptor Plug Domain
+CarboxypepD_reg      PF13620.9     82 SRR12517348.2.fa_antismash_k141_3992.region001_ORF1:gid::pid::loc:1063:3538:strand:- -            824     6e-10   39.4   0.0   1   1     5e-13   3.3e-09   37.0   0.0     3    71    24    89    22    98 0.90 Carboxypeptidase regulatory-like domain
+ABC_tran             PF00005.30   137 SRR12517348.2.fa_antismash_k141_3992.region001_ORF2:gid::pid::loc:3550:4252:strand:- -            233   9.2e-29  100.8   0.0   1   1   1.3e-32   1.3e-28  100.4   0.0     1   137    19   162    19   162 0.94 ABC transporter
+AAA_21               PF13304.9    304 SRR12517348.2.fa_antismash_k141_3992.region001_ORF2:gid::pid::loc:3550:4252:strand:- -            233   9.6e-13   48.7   0.2   1   1   1.3e-12   1.3e-08   35.2   0.0   236   299   132   192    67   194 0.75 AAA domain, putative AbiEii toxin, Type IV TA system
+IucA_IucC            PF04183.15   239 SRR12517348.2.fa_antismash_k141_3992.region001_ORF3:gid::pid::loc:5000:6815:strand:- -            604   5.1e-75  252.2   0.0   1   1   7.7e-79   7.5e-75  251.7   0.0     2   239   149   398   148   398 0.97 IucA / IucC family
+FhuF                 PF06276.15   163 SRR12517348.2.fa_antismash_k141_3992.region001_ORF3:gid::pid::loc:5000:6815:strand:- -            604   3.1e-32  112.4   0.0   1   1   5.4e-36   5.3e-32  111.6   0.0     2   161   420   576   419   578 0.95 Ferric iron reductase FhuF-like transporter
+Acetyltransf_8       PF13523.9    145 SRR12517348.2.fa_antismash_k141_3992.region001_ORF4:gid::pid::loc:6811:7396:strand:- -            194     1e-42  145.4   0.1   1   1   6.2e-47   1.2e-42  145.1   0.1     1   145    27   170    27   170 0.98 Acetyltransferase (GNAT) domain
+Lys_Orn_oxgnase      PF13434.9    341 SRR12517348.2.fa_antismash_k141_3992.region001_ORF5:gid::pid::loc:7373:8708:strand:- -            444  5.2e-124  413.9   0.3   1   1  3.2e-128  6.3e-124  413.6   0.3     1   340     5   341     5   342 0.97 L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase
+Pyridoxal_deC        PF00282.22   375 SRR12517348.2.fa_antismash_k141_3992.region001_ORF6:gid::pid::loc:8722:10255:strand:- -            510   2.9e-63  214.0   0.0   1   1   4.1e-67   4.1e-63  213.5   0.0    38   374   101   437    75   438 0.92 Pyridoxal-dependent decarboxylase conserved domain
+Beta_elim_lyase      PF01212.24   291 SRR12517348.2.fa_antismash_k141_3992.region001_ORF6:gid::pid::loc:8722:10255:strand:- -            510   6.7e-07   29.0   0.0   1   1   1.6e-10   1.6e-06   27.8   0.0    51   221   164   352   117   361 0.70 Beta-eliminating lyase
+Glyco_hydro_130      PF04041.16   322 SRR12517348.2.fa_antismash_k141_3992.region001_ORF7:gid::pid::loc:10447:11626:strand:- -            392   1.4e-23   83.4   0.1   1   1   1.1e-27   2.1e-23   82.9   0.1    33   320    70   363    47   365 0.76 beta-1,4-mannooligosaccharide phosphorylase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/SRR12517348.2.fa_antismash_k141_3992.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/SRR12517348.2.fa_antismash_k141_3992.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/SRR12517348.2.fa_antismash_k141_3992.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 18:47:02 2024
+# [ok]

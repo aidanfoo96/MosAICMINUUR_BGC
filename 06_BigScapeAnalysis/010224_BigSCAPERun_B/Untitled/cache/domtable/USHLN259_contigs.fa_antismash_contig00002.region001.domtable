@@ -1,0 +1,25 @@
+#                                                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+RsgA_GTPase          PF03193.19   167 USHLN259_contigs.fa_antismash_contig00002.region001_ORF1:gid::pid::loc:708:1662:strand:+ -            317     6e-50  169.5   0.0   1   1   1.3e-53   8.5e-50  169.0   0.0     1   165    73   249    73   251 0.98 RsgA GTPase
+RsgA_N               PF16745.8     54 USHLN259_contigs.fa_antismash_contig00002.region001_ORF1:gid::pid::loc:708:1662:strand:+ -            317     3e-17   62.2   0.0   1   1     8e-21   5.2e-17   61.5   0.0     1    54    11    70    11    70 0.91 RsgA N-terminal domain
+MMR_HSR1             PF01926.26   114 USHLN259_contigs.fa_antismash_contig00002.region001_ORF1:gid::pid::loc:708:1662:strand:+ -            317   9.9e-07   29.0   0.0   1   1   2.7e-10   1.8e-06   28.2   0.0     3    74   187   270   185   310 0.66 50S ribosome-binding GTPase
+NDK                  PF00334.22   135 USHLN259_contigs.fa_antismash_contig00002.region001_ORF2:gid::pid::loc:2250:2667:strand:+ -            138   1.1e-48  164.8   0.0   1   1   6.2e-53   1.2e-48  164.6   0.0     3   135     5   137     3   137 0.98 Nucleoside diphosphate kinase
+Alpha_L_fucos        PF01120.20   350 USHLN259_contigs.fa_antismash_contig00002.region001_ORF3:gid::pid::loc:2746:4594:strand:- -            615   6.2e-91  305.6  10.1   1   1   3.2e-95   6.2e-91  305.6  10.1    13   349    19   332    13   333 0.94 Alpha-L-fucosidase
+DUF692               PF05114.16   263 USHLN259_contigs.fa_antismash_contig00002.region001_ORF5:gid::pid::loc:5000:6071:strand:+ -            356   6.3e-30  104.4   0.1   1   1   4.3e-34   8.5e-30  104.0   0.1    39   243    40   252     7   275 0.84 Protein of unknown function (DUF692)
+Anthrone_oxy         PF08592.14   107 USHLN259_contigs.fa_antismash_contig00002.region001_ORF6:gid::pid::loc:6103:6595:strand:+ -            163   2.1e-12   47.3   0.8   1   1   1.9e-16   3.8e-12   46.5   0.0    11   106    61   151    43   152 0.71 Anthrone oxygenase
+Ribul_P_3_epim       PF00834.22   198 USHLN259_contigs.fa_antismash_contig00002.region001_ORF7:gid::pid::loc:6810:7461:strand:- -            216   2.9e-79  265.2   1.9   1   1   1.7e-83   3.4e-79  265.0   1.9     2   198     6   202     5   202 1.00 Ribulose-phosphate 3 epimerase family
+Peptidase_M42        PF05343.17   292 USHLN259_contigs.fa_antismash_contig00002.region001_ORF9:gid::pid::loc:7801:8875:strand:- -            357     1e-72  244.7   0.4   1   1   1.2e-76   1.2e-72  244.6   0.4    11   292    57   340    48   340 0.95 M42 glutamyl aminopeptidase
+DUF4294              PF14127.9    155 USHLN259_contigs.fa_antismash_contig00002.region001_ORF10:gid::pid::loc:8890:9631:strand:+ -            246   7.2e-45  152.8   1.1   1   1   5.4e-49   1.1e-44  152.3   1.1     5   154    77   225    74   226 0.97 Domain of unknown function (DUF4294)
+NUDIX                PF00293.31   131 USHLN259_contigs.fa_antismash_contig00002.region001_ORF11:gid::pid::loc:9656:10073:strand:- -            138   4.5e-11   43.0   0.0   1   1   2.6e-15   5.1e-11   42.9   0.0    17   115    20   117     4   131 0.69 NUDIX domain
+Methyltransf_30      PF05430.14   124 USHLN259_contigs.fa_antismash_contig00002.region001_ORF12:gid::pid::loc:10286:10961:strand:- -            224   1.6e-18   66.9   0.0   1   1   1.2e-22   2.4e-18   66.3   0.0    43   123   142   223   107   224 0.88 S-adenosyl-L-methionine-dependent methyltransferase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/USHLN259_contigs.fa_antismash_contig00002.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/USHLN259_contigs.fa_antismash_contig00002.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/USHLN259_contigs.fa_antismash_contig00002.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 22:27:20 2024
+# [ok]

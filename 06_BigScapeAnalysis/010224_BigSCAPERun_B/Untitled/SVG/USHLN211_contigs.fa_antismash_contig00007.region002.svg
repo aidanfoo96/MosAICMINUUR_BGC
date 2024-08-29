@@ -1,0 +1,115 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="360.93333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="350.93333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg7_180)</title>
+			<polygon class=" (ctg7_180)" points="21,40 28,10 28,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg7_181)</title>
+			<polygon class=" (ctg7_181)" points="29,40 39,10 39,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg7_182)</title>
+			<polygon class=" (ctg7_182)" points="46,10 55,40 46,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Spore-coat_CotD (PF11122)
+"Inner spore coat protein D"</title>
+				<polygon class="PF11122" points="48,28 48,28 52,40 48,52 48,52" stroke-linejoin="round" width="7" height="24" fill="rgb(221,153,69)" stroke="rgb(176,122,55)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_183)</title>
+			<polygon class=" (ctg7_183)" points="57,40 79,10 79,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="62,39 70,28 76,28 76,52 70,52 62,41" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_184)</title>
+			<polygon class=" (ctg7_184)" points="79,40 97,10 97,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg7_185)</title>
+			<polygon class=" (ctg7_185)" points="98,40 114,10 114,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SpoIIM (PF01944)
+"Stage II sporulation protein M"</title>
+				<polygon class="PF01944" points="101,40 108,28 113,28 113,52 108,52" stroke-linejoin="round" width="15" height="24" fill="rgb(96,132,207)" stroke="rgb(76,105,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_186)</title>
+			<polygon class=" (ctg7_186)" points="174,25 145,25 145,10 115,40 145,70 145,55 174,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg7_187)</title>
+			<polygon class=" (ctg7_187)" points="176,40 186,10 186,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Bacteriocin_IId (PF09221)
+"Bacteriocin class IId cyclical uberolysin-like"</title>
+				<polygon class="PF09221" points="179,40 182,32 182,48" stroke-linejoin="round" width="6" height="24" fill="rgb(200,220,70)" stroke="rgb(160,176,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_188)</title>
+			<polygon class=" (ctg7_188)" points="197,10 217,40 197,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_4 (PF13420)
+"Acetyltransferase (GNAT) domain"</title>
+				<polygon class="PF13420" points="198,28 205,28 213,40 213,40 205,52 198,52" stroke-linejoin="round" width="15" height="24" fill="rgb(162,66,181)" stroke="rgb(129,52,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_189)</title>
+			<polygon class=" (ctg7_189)" points="215,10 233,40 215,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg7_190)</title>
+			<polygon class=" (ctg7_190)" points="239,25 256,25 256,10 286,40 256,70 256,55 239,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF3298 (PF11738)
+"Protein of unknown function (DUF3298)"</title>
+				<rect class="PF11738" x="254" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(180,224,82)" stroke="rgb(144,179,65)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Polysacc_deac_1 (PF01522)
+"Polysaccharide deacetylase"</title>
+				<polygon class="PF01522" points="266,28 269,28 277,36 277,44 269,52 266,52" stroke-linejoin="round" width="11" height="24" fill="rgb(56,221,58)" stroke="rgb(44,176,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_191)</title>
+			<polygon class=" (ctg7_191)" points="289,10 296,40 289,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg7_192)</title>
+			<polygon class=" (ctg7_192)" points="304,10 318,40 304,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NUDIX (PF00293)
+"NUDIX domain"</title>
+				<polygon class="PF00293" points="304,28 309,28 314,40 309,52 304,52" stroke-linejoin="round" width="12" height="24" fill="rgb(92,56,187)" stroke="rgb(73,44,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_193)</title>
+			<polygon class=" (ctg7_193)" points="319,10 332,40 319,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Imm1 (PF14430)
+"Immunity protein Imm1"</title>
+				<polygon class="PF14430" points="319,28 323,28 329,40 323,52 319,52" stroke-linejoin="round" width="11" height="24" fill="rgb(80,227,198)" stroke="rgb(64,181,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg7_194)</title>
+			<polygon class=" (ctg7_194)" points="334,10 343,40 334,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF3986 (PF13143)
+"Protein of unknown function (DUF3986)"</title>
+				<polygon class="PF13143" points="334,28 336,28 340,40 336,52 334,52" stroke-linejoin="round" width="8" height="24" fill="rgb(100,175,214)" stroke="rgb(79,140,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

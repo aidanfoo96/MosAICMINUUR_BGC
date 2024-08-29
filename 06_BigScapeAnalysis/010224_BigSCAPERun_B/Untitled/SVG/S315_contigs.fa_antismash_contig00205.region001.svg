@@ -1,0 +1,74 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="227.3" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="217.3" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg205_1)</title>
+			<polygon class=" (ctg205_1)" points="16,40 43,10 43,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="22,38 31,28 41,28 41,52 31,52 22,42" stroke-linejoin="round" width="19" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg205_2)</title>
+			<polygon class=" (ctg205_2)" points="53,40 58,10 58,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg205_3)</title>
+			<polygon class=" (ctg205_3)" points="65,25 78,25 78,10 108,40 78,70 78,55 65,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NAD_binding_3 (PF03447)
+"Homoserine dehydrogenase, NAD binding domain"</title>
+				<rect class="PF03447" x="66" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(89,165,190)" stroke="rgb(71,131,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Homoserine_dh (PF00742)
+"Homoserine dehydrogenase"</title>
+				<polygon class="PF00742" points="78,28 92,28 95,31 95,49 92,52 78,52" stroke-linejoin="round" width="17" height="24" fill="rgb(219,100,144)" stroke="rgb(175,79,115)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ACT (PF01842)
+"ACT domain"</title>
+				<polygon class="PF01842" points="100,36 104,40 100,44" stroke-linejoin="round" width="6" height="24" fill="rgb(67,209,69)" stroke="rgb(53,167,55)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg205_4)</title>
+			<polygon class=" (ctg205_4)" points="108,25 113,25 113,10 143,40 113,70 113,55 108,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PALP (PF00291)
+"Pyridoxal-phosphate dependent enzyme"</title>
+				<polygon class="PF00291" points="110,28 127,28 139,40 139,40 127,52 110,52" stroke-linejoin="round" width="29" height="24" fill="rgb(180,55,145)" stroke="rgb(144,44,116)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg205_5)</title>
+			<polygon class=" (ctg205_5)" points="143,10 172,40 143,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GHMP_kinases_N (PF00288)
+"GHMP kinases N terminal domain"</title>
+				<rect class="PF00288" x="150" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(190,54,91)" stroke="rgb(152,43,72)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GHMP_kinases_C (PF08544)
+"GHMP kinases C terminal"</title>
+				<polygon class="PF08544" points="162,34 168,40 162,46" stroke-linejoin="round" width="7" height="24" fill="rgb(95,112,219)" stroke="rgb(76,89,175)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg205_6)</title>
+			<polygon class=" (ctg205_6)" points="212,25 210,25 210,10 180,40 210,70 210,55 212,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OTCace (PF00185)
+"Aspartate/ornithine carbamoyltransferase, Asp/Orn binding domain"</title>
+				<polygon class="PF00185" points="184,40 195,29 195,51" stroke-linejoin="round" width="15" height="24" fill="rgb(215,107,106)" stroke="rgb(172,85,84)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>OTCace_N (PF02729)
+"Aspartate/ornithine carbamoyltransferase, carbamoyl-P binding domain"</title>
+				<polygon class="PF02729" points="196,28 196,28 210,28 210,52 196,52 196,52" stroke-linejoin="round" width="14" height="24" fill="rgb(223,74,58)" stroke="rgb(178,59,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

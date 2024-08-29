@@ -1,0 +1,131 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="437.6333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="427.6333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg8_14)</title>
+			<polygon class=" (ctg8_14)" points="23,10 38,40 23,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Antirestrict (PF03230)
+"Antirestriction protein"</title>
+				<polygon class="PF03230" points="29,29 34,40 29,51" stroke-linejoin="round" width="9" height="24" fill="rgb(192,172,57)" stroke="rgb(153,137,45)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_15)</title>
+			<polygon class=" (ctg8_15)" points="39,10 55,40 39,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>RadC (PF04002)
+"RadC-like JAB domain"</title>
+				<polygon class="PF04002" points="42,28 45,28 51,40 45,52 42,52" stroke-linejoin="round" width="12" height="24" fill="rgb(114,211,73)" stroke="rgb(91,168,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_16)</title>
+			<polygon class=" (ctg8_16)" points="56,10 67,40 56,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CbeA_antitoxin (PF06154)
+"CbeA_antitoxin, type IV, cytoskeleton bundling-enhancing factor A"</title>
+				<polygon class="PF06154" points="56,28 59,28 64,40 59,52 56,52" stroke-linejoin="round" width="10" height="24" fill="rgb(68,103,216)" stroke="rgb(54,82,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_17)</title>
+			<polygon class=" (ctg8_17)" points="69,10 81,40 69,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CbtA_toxin (PF06755)
+"CbtA_toxin of type IV toxin-antitoxin system"</title>
+				<polygon class="PF06755" points="69,28 72,28 78,40 72,52 69,52" stroke-linejoin="round" width="11" height="24" fill="rgb(133,183,85)" stroke="rgb(106,146,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_18)</title>
+			<polygon class=" (ctg8_18)" points="88,40 93,10 93,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg8_19)</title>
+			<polygon class=" (ctg8_19)" points="95,10 122,40 95,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4942 (PF13708)
+"Domain of unknown function (DUF4942)"</title>
+				<polygon class="PF13708" points="103,28 107,28 118,40 107,52 103,52" stroke-linejoin="round" width="18" height="24" fill="rgb(87,90,215)" stroke="rgb(69,72,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_20)</title>
+			<polygon class=" (ctg8_20)" points="126,25 130,25 130,10 160,40 130,70 130,55 126,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Virulence_RhuM (PF13310)
+"Virulence protein RhuM family"</title>
+				<polygon class="PF13310" points="133,28 144,28 156,40 144,52 133,52" stroke-linejoin="round" width="25" height="24" fill="rgb(94,147,201)" stroke="rgb(75,117,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_21)</title>
+			<polygon class=" (ctg8_21)" points="167,40 175,10 175,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cloacin_immun (PF03513)
+"Cloacin immunity protein"</title>
+				<polygon class="PF03513" points="170,40 173,28 174,28 174,52 173,52" stroke-linejoin="round" width="7" height="24" fill="rgb(99,215,162)" stroke="rgb(79,172,129)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_22)</title>
+			<polygon class=" (ctg8_22)" points="260,25 206,25 206,10 176,40 206,70 206,55 260,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cytotoxic (PF09000)
+"Cytotoxic"</title>
+				<polygon class="PF09000" points="180,40 184,36 184,44" stroke-linejoin="round" width="8" height="24" fill="rgb(142,72,196)" stroke="rgb(113,57,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Pyocin_S (PF06958)
+"S-type Pyocin"</title>
+				<polygon class="PF06958" points="187,33 192,28 201,28 201,52 192,52 187,47" stroke-linejoin="round" width="14" height="24" fill="rgb(209,185,77)" stroke="rgb(167,148,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Cloacin (PF03515)
+"Colicin-like bacteriocin tRNase domain"</title>
+				<rect class="PF03515" x="228" y="28" stroke-linejoin="round" width="31" height="24" fill="rgb(192,126,69)" stroke="rgb(153,100,55)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_23)</title>
+			<polygon class=" (ctg8_23)" points="276,10 281,40 276,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg8_24)</title>
+			<polygon class=" (ctg8_24)" points="287,10 296,40 287,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg8_25)</title>
+			<polygon class=" (ctg8_25)" points="297,40 317,10 317,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF6216 (PF19723)
+"Family of unknown function (DUF6216)"</title>
+				<polygon class="PF19723" points="301,40 309,28 313,28 313,52 309,52" stroke-linejoin="round" width="16" height="24" fill="rgb(183,56,155)" stroke="rgb(146,44,124)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_26)</title>
+			<polygon class=" (ctg8_26)" points="359,25 359,25 359,10 329,40 359,70 359,55 359,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LysR_substrate (PF03466)
+"LysR substrate binding domain"</title>
+				<polygon class="PF03466" points="333,40 345,28 349,28 349,52 345,52" stroke-linejoin="round" width="20" height="24" fill="rgb(55,136,195)" stroke="rgb(44,108,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_1 (PF00126)
+"Bacterial regulatory helix-turn-helix protein, lysR family"</title>
+				<rect class="PF00126" x="352" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(125,227,79)" stroke="rgb(99,181,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg8_27)</title>
+			<polygon class=" (ctg8_27)" points="364,25 385,25 385,10 415,40 385,70 385,55 364,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="366,28 398,28 406,36 406,44 398,52 366,52" stroke-linejoin="round" width="40" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

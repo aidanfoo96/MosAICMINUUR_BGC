@@ -1,0 +1,25 @@
+#                                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+CD225                PF04505.15    68 SRR12517350.3.fa_antismash_k141_2128.region001_ORF1:gid::pid::loc:958:1273:strand:+ -            104   6.2e-17   61.6   2.6   1   1   3.2e-21   6.2e-17   61.6   2.6     1    67    19    85    19    88 0.95 Interferon-induced transmembrane protein
+DUF2752              PF10825.11    49 SRR12517350.3.fa_antismash_k141_2128.region001_ORF2:gid::pid::loc:1263:1650:strand:+ -            128   1.2e-23   83.0   1.2   1   1   6.2e-28   1.2e-23   83.0   1.2     1    47    40    86    40    88 0.98 Protein of unknown function (DUF2752)
+WG_beta_rep          PF14903.9     35 SRR12517350.3.fa_antismash_k141_2128.region001_ORF3:gid::pid::loc:1713:2439:strand:+ -            241   1.3e-11   44.7  13.4   1   2   1.1e-09   2.2e-05   24.7   0.0     1    25    47    71    47    74 0.96 WG containing repeat
+WG_beta_rep          PF14903.9     35 SRR12517350.3.fa_antismash_k141_2128.region001_ORF3:gid::pid::loc:1713:2439:strand:+ -            241   1.3e-11   44.7  13.4   2   2   4.7e-09   9.2e-05   22.8   0.4     1    34   184   221   184   221 0.84 WG containing repeat
+TonB_dep_Rec         PF00593.27   470 SRR12517350.3.fa_antismash_k141_2128.region001_ORF4:gid::pid::loc:2820:4929:strand:+ -            702   5.7e-32  112.3  46.5   1   1   8.7e-36   5.7e-32  112.3  46.5    10   470   226   700   210   700 0.69 TonB dependent receptor
+OMP_b-brl_3          PF14905.9    408 SRR12517350.3.fa_antismash_k141_2128.region001_ORF4:gid::pid::loc:2820:4929:strand:+ -            702   2.6e-10   40.0  21.9   1   1   3.9e-14   2.6e-10   40.0  21.9   148   390   444   686   378   694 0.70 Outer membrane protein beta-barrel family
+Plug                 PF07715.18   108 SRR12517350.3.fa_antismash_k141_2128.region001_ORF4:gid::pid::loc:2820:4929:strand:+ -            702   3.3e-06   27.8   2.5   1   1   1.3e-09   8.5e-06   26.4   2.5    13   106    47   143    37   145 0.84 TonB-dependent Receptor Plug Domain
+ABC_membrane         PF00664.26   274 SRR12517350.3.fa_antismash_k141_2128.region001_ORF5:gid::pid::loc:5000:7160:strand:- -            719   1.8e-49  169.0  20.7   1   1   6.6e-53   2.6e-49  168.5  20.7     4   274   166   433   163   433 0.98 ABC transporter transmembrane region
+Peptidase_C39        PF03412.18   133 SRR12517350.3.fa_antismash_k141_2128.region001_ORF5:gid::pid::loc:5000:7160:strand:- -            719   2.4e-36  124.6   0.0   1   1   1.4e-39   5.3e-36  123.5   0.0     5   132     7   137     4   138 0.97 Peptidase C39 family
+ABC_tran             PF00005.30   137 SRR12517350.3.fa_antismash_k141_2128.region001_ORF5:gid::pid::loc:5000:7160:strand:- -            719   1.3e-29  103.6   0.0   1   1   7.3e-33   2.9e-29  102.5   0.0     4   137   497   643   494   643 0.87 ABC transporter
+HlyD_3               PF13437.9    106 SRR12517350.3.fa_antismash_k141_2128.region001_ORF6:gid::pid::loc:7174:8257:strand:- -            360   3.5e-17   63.1   2.7   1   1   1.8e-17   1.8e-13   51.2   0.0     1   105   212   320   212   321 0.85 HlyD family secretion protein
+DUF3267              PF11667.11   108 SRR12517350.3.fa_antismash_k141_2128.region001_ORF8:gid::pid::loc:8584:9148:strand:- -            187   1.5e-21   76.9   8.1   1   1   7.7e-26   1.5e-21   76.9   8.1     2   102    67   166    66   171 0.95 Putative zincin peptidase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/SRR12517350.3.fa_antismash_k141_2128.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/SRR12517350.3.fa_antismash_k141_2128.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/SRR12517350.3.fa_antismash_k141_2128.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 23:07:56 2024
+# [ok]

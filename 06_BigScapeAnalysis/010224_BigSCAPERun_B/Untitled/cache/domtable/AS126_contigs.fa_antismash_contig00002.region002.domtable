@@ -1,0 +1,26 @@
+#                                                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF1349              PF07081.14   179 AS126_contigs.fa_antismash_contig00002.region002_ORF1:gid::pid::loc:10:607:strand:+ -            198   8.8e-61  204.9   0.1   1   1     5e-65   9.8e-61  204.7   0.1     1   176    14   186    14   189 0.98 Protein of unknown function (DUF1349)
+HNH                  PF01844.26    47 AS126_contigs.fa_antismash_contig00002.region002_ORF2:gid::pid::loc:699:1047:strand:+ -            115   4.9e-12   46.0   8.1   1   1   3.3e-16   6.5e-12   45.6   8.1     1    47    27    75    27    75 0.98 HNH endonuclease
+CSD                  PF00313.25    66 AS126_contigs.fa_antismash_contig00002.region002_ORF3:gid::pid::loc:1312:1525:strand:- -             70   1.2e-33  114.9   0.2   1   1   6.5e-38   1.3e-33  114.8   0.2     1    65     5    69     5    70 0.98 'Cold-shock' DNA-binding domain
+Pyridoxal_deC        PF00282.22   375 AS126_contigs.fa_antismash_contig00002.region002_ORF4:gid::pid::loc:2142:3696:strand:+ -            517   2.9e-62  210.7   0.0   1   1   3.6e-66   3.6e-62  210.4   0.0    37   373    99   436    67   438 0.90 Pyridoxal-dependent decarboxylase conserved domain
+SepSecS              PF05889.16   389 AS126_contigs.fa_antismash_contig00002.region002_ORF4:gid::pid::loc:2142:3696:strand:+ -            517   8.7e-06   24.8   0.0   1   1   1.3e-09   1.3e-05   24.3   0.0   109   246   212   351   200   376 0.78 O-phosphoseryl-tRNA(Sec) selenium transferase, SepSecS
+Lys_Orn_oxgnase      PF13434.9    341 AS126_contigs.fa_antismash_contig00002.region002_ORF5:gid::pid::loc:3706:4999:strand:+ -            430  6.6e-118  393.9   0.0   1   1  4.1e-122  8.1e-118  393.6   0.0     2   340     5   340     4   341 0.98 L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase
+IucA_IucC            PF04183.15   239 AS126_contigs.fa_antismash_contig00002.region002_ORF6:gid::pid::loc:5000:7355:strand:+ -            784   1.8e-79  266.8   0.9   1   1   4.8e-83   3.1e-79  266.0   0.4     1   239   332   582   332   582 0.98 IucA / IucC family
+Acetyltransf_8       PF13523.9    145 AS126_contigs.fa_antismash_contig00002.region002_ORF6:gid::pid::loc:5000:7355:strand:+ -            784   1.4e-46  157.9   0.1   1   1   5.8e-50   3.8e-46  156.5   0.1     3   144    23   164    22   165 0.98 Acetyltransferase (GNAT) domain
+FhuF                 PF06276.15   163 AS126_contigs.fa_antismash_contig00002.region002_ORF6:gid::pid::loc:5000:7355:strand:+ -            784   6.7e-43  147.1   1.3   1   1   1.9e-46   1.2e-42  146.2   0.5     2   161   604   760   603   762 0.98 Ferric iron reductase FhuF-like transporter
+MFS_1                PF07690.19   353 AS126_contigs.fa_antismash_contig00002.region002_ORF7:gid::pid::loc:7439:8675:strand:+ -            411   2.7e-36  125.4  67.5   1   1   5.6e-38   5.5e-34  117.8  40.6     4   345    24   360    21   367 0.83 Major Facilitator Superfamily
+Sugar_tr             PF00083.27   452 AS126_contigs.fa_antismash_contig00002.region002_ORF7:gid::pid::loc:7439:8675:strand:+ -            411   4.7e-07   29.1  19.9   1   1   1.3e-10   1.3e-06   27.7   7.9    48   194    53   194    48   195 0.88 Sugar (and other) transporter
+TonB_dep_Rec         PF00593.27   470 AS126_contigs.fa_antismash_contig00002.region002_ORF9:gid::pid::loc:8886:11004:strand:+ -            705   5.1e-46  158.6  37.4   1   1   5.2e-50   5.1e-46  158.6  37.4    36   469   267   703   239   704 0.69 TonB dependent receptor
+Plug                 PF07715.18   108 AS126_contigs.fa_antismash_contig00002.region002_ORF9:gid::pid::loc:8886:11004:strand:+ -            705   5.8e-21   75.2   0.3   1   1   1.4e-24   1.4e-20   74.0   0.3     4   107    64   167    61   168 0.93 TonB-dependent Receptor Plug Domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/AS126_contigs.fa_antismash_contig00002.region002.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/AS126_contigs.fa_antismash_contig00002.region002.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/AS126_contigs.fa_antismash_contig00002.region002.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 22:19:34 2024
+# [ok]

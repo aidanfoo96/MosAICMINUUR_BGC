@@ -1,0 +1,99 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="410.3" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="400.3" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg142_1)</title>
+			<polygon class=" (ctg142_1)" points="10,40 39,10 39,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg142_2)</title>
+			<polygon class=" (ctg142_2)" points="48,25 137,25 137,10 167,40 137,70 137,55 48,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MMPL (PF03176)
+"MMPL family"</title>
+				<rect class="PF03176" x="50" y="28" stroke-linejoin="round" width="36" height="24" fill="rgb(228,109,193)" stroke="rgb(182,87,154)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MMPL (PF03176)
+"MMPL family"</title>
+				<rect class="PF03176" x="109" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(228,109,193)" stroke="rgb(182,87,154)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Acyltransferase (PF01553)
+"Acyltransferase"</title>
+				<rect class="PF01553" x="132" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(87,176,216)" stroke="rgb(69,140,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg142_3)</title>
+			<polygon class=" (ctg142_3)" points="169,25 169,25 169,10 199,40 169,70 169,55 169,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg142_4)</title>
+			<polygon class=" (ctg142_4)" points="199,25 207,25 207,10 237,40 207,70 207,55 199,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Thiolase_N (PF00108)
+"Thiolase, N-terminal domain"</title>
+				<rect class="PF00108" x="204" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(82,90,195)" stroke="rgb(65,72,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ACP_syn_III_C (PF08541)
+"3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal"</title>
+				<polygon class="PF08541" points="227,35 232,40 227,45" stroke-linejoin="round" width="9" height="24" fill="rgb(146,207,81)" stroke="rgb(116,165,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg142_5)</title>
+			<polygon class=" (ctg142_5)" points="237,10 251,40 237,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg142_6)</title>
+			<polygon class=" (ctg142_6)" points="254,10 268,40 254,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg142_7)</title>
+			<polygon class=" (ctg142_7)" points="269,10 282,40 269,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg142_8)</title>
+			<polygon class=" (ctg142_8)" points="286,25 289,25 289,10 319,40 289,70 289,55 286,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BtrH_N (PF14399)
+"Butirosin biosynthesis protein H, N-terminal"</title>
+				<rect class="PF14399" x="287" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(159,218,73)" stroke="rgb(127,174,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF4872 (PF16169)
+"Domain of unknown function (DUF4872)"</title>
+				<polygon class="PF16169" points="301,28 302,28 314,40 302,52 301,52" stroke-linejoin="round" width="17" height="24" fill="rgb(63,228,88)" stroke="rgb(50,182,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg142_9)</title>
+			<polygon class=" (ctg142_9)" points="319,10 344,40 319,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="321,28 330,28 335,34 335,46 330,52 321,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg142_10)</title>
+			<polygon class=" (ctg142_10)" points="344,25 356,25 356,10 386,40 356,70 356,55 344,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC2_membrane_3 (PF12698)
+"ABC-2 family transporter protein"</title>
+				<polygon class="PF12698" points="345,28 369,28 381,40 369,52 345,52" stroke-linejoin="round" width="39" height="24" fill="rgb(151,189,55)" stroke="rgb(120,151,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg142_11)</title>
+			<polygon class=" (ctg142_11)" points="390,10 400,40 390,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PDDEXK_3 (PF13366)
+"PD-(D/E)XK nuclease superfamily"</title>
+				<polygon class="PF13366" points="390,28 392,28 396,40 392,52 390,52" stroke-linejoin="round" width="9" height="24" fill="rgb(103,187,211)" stroke="rgb(82,149,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

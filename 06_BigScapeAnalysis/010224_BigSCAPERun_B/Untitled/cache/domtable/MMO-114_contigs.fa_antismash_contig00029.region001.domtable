@@ -1,0 +1,24 @@
+#                                                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Condensation         PF00668.23   457 MMO-114_contigs.fa_antismash_contig00029.region001_ORF1:gid::pid::loc:1:1720:strand:+ -            572  4.9e-112  375.0   0.0   1   1  6.2e-116  6.1e-112  374.7   0.0     2   456   111   560   110   561 0.94 Condensation domain
+PP-binding           PF00550.28    67 MMO-114_contigs.fa_antismash_contig00029.region001_ORF1:gid::pid::loc:1:1720:strand:+ -            572     1e-17   64.3   0.0   1   1   2.8e-21   2.7e-17   62.9   0.0     2    67    35    97    34    97 0.96 Phosphopantetheine attachment site
+Condensation         PF00668.23   457 MMO-114_contigs.fa_antismash_contig00029.region001_ORF2:gid::pid::loc:1739:9347:strand:+ -           2536         0 1340.3   1.5   1   3  1.7e-134  8.5e-131  436.9   0.4     2   457     7   452     6   452 0.99 Condensation domain
+Condensation         PF00668.23   457 MMO-114_contigs.fa_antismash_contig00029.region001_ORF2:gid::pid::loc:1739:9347:strand:+ -           2536         0 1340.3   1.5   2   3  8.1e-140    4e-136  454.5   0.0     3   456  1051  1482  1049  1483 0.98 Condensation domain
+Condensation         PF00668.23   457 MMO-114_contigs.fa_antismash_contig00029.region001_ORF2:gid::pid::loc:1739:9347:strand:+ -           2536         0 1340.3   1.5   3   3  1.9e-137  9.3e-134  446.7   0.0     2   456  2095  2527  2094  2528 0.98 Condensation domain
+AMP-binding          PF00501.31   424 MMO-114_contigs.fa_antismash_contig00029.region001_ORF2:gid::pid::loc:1739:9347:strand:+ -           2536  1.1e-203  676.7   0.0   1   2    5e-106  2.5e-102  342.8   0.0     1   424   471   862   471   862 0.89 AMP-binding enzyme
+AMP-binding          PF00501.31   424 MMO-114_contigs.fa_antismash_contig00029.region001_ORF2:gid::pid::loc:1739:9347:strand:+ -           2536  1.1e-203  676.7   0.0   2   2  9.5e-103   4.7e-99  332.0   0.0     1   424  1503  1905  1503  1905 0.88 AMP-binding enzyme
+PP-binding           PF00550.28    67 MMO-114_contigs.fa_antismash_contig00029.region001_ORF2:gid::pid::loc:1739:9347:strand:+ -           2536   3.2e-31  107.5   0.0   1   2   6.8e-18   3.3e-14   53.0   0.0     3    67   971  1033   969  1033 0.95 Phosphopantetheine attachment site
+PP-binding           PF00550.28    67 MMO-114_contigs.fa_antismash_contig00029.region001_ORF2:gid::pid::loc:1739:9347:strand:+ -           2536   3.2e-31  107.5   0.0   2   2     2e-17     1e-13   51.5   0.0     2    65  2015  2076  2014  2078 0.94 Phosphopantetheine attachment site
+AMP-binding_C        PF13193.9     76 MMO-114_contigs.fa_antismash_contig00029.region001_ORF2:gid::pid::loc:1739:9347:strand:+ -           2536   1.4e-18   67.8   0.0   1   2   9.9e-13   4.8e-09   37.2   0.0     1    76   870   943   870   943 0.92 AMP-binding enzyme C-terminal domain
+AMP-binding_C        PF13193.9     76 MMO-114_contigs.fa_antismash_contig00029.region001_ORF2:gid::pid::loc:1739:9347:strand:+ -           2536   1.4e-18   67.8   0.0   2   2     8e-10   3.9e-06   27.9   0.0     1    76  1913  1986  1913  1986 0.93 AMP-binding enzyme C-terminal domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/MMO-114_contigs.fa_antismash_contig00029.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/MMO-114_contigs.fa_antismash_contig00029.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/MMO-114_contigs.fa_antismash_contig00029.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 18:40:48 2024
+# [ok]

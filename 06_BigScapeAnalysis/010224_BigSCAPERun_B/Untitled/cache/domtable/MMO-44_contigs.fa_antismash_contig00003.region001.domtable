@@ -1,0 +1,21 @@
+#                                                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Semialdhyde_dhC      PF02774.21   184 MMO-44_contigs.fa_antismash_contig00003.region001_ORF1:gid::pid::loc:3103:4219:strand:- -            371     9e-59  198.8   0.0   1   1   1.2e-62   1.1e-58  198.4   0.0     1   184   144   354   144   354 0.97 Semialdehyde dehydrogenase, dimerisation domain
+Semialdhyde_dh       PF01118.27   121 MMO-44_contigs.fa_antismash_contig00003.region001_ORF1:gid::pid::loc:3103:4219:strand:- -            371   5.3e-23   81.9   0.0   1   1   8.9e-27   8.8e-23   81.2   0.0     1   120     3   121     3   122 0.90 Semialdehyde dehydrogenase, NAD binding domain
+Multi_Drug_Res       PF00893.22    93 MMO-44_contigs.fa_antismash_contig00003.region001_ORF2:gid::pid::loc:4558:4873:strand:+ -            104   1.5e-29  102.5   6.5   1   1   8.8e-34   1.7e-29  102.3   6.5     1    93     1    93     1    93 0.99 Small Multidrug Resistance protein
+YcaO                 PF02624.19   322 MMO-44_contigs.fa_antismash_contig00003.region001_ORF3:gid::pid::loc:5000:6761:strand:+ -            586   1.1e-78  265.0   0.0   1   1   2.5e-82   2.5e-78  263.8   0.0     1   322    60   391    60   391 0.93 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+YcaO_C               PF18381.4    172 MMO-44_contigs.fa_antismash_contig00003.region001_ORF3:gid::pid::loc:5000:6761:strand:+ -            586   4.3e-65  218.9   1.6   1   1   6.2e-69     6e-65  218.4   1.6     1   171   407   581   407   582 0.99 YcaO cyclodehydratase C-terminal domain
+Form_Nir_trans       PF01226.20   236 MMO-44_contigs.fa_antismash_contig00003.region001_ORF4:gid::pid::loc:7141:7990:strand:+ -            282   1.5e-73  247.2  30.9   1   1   8.7e-78   1.7e-73  247.0  30.9     7   236    20   276    14   276 0.91 Formate/nitrite transporter
+PFL-like             PF02901.18   647 MMO-44_contigs.fa_antismash_contig00003.region001_ORF5:gid::pid::loc:8035:10318:strand:+ -            760  3.6e-201  670.3   2.2   1   1  5.1e-205    5e-201  669.8   2.2     7   647    26   614    17   614 0.98 Pyruvate formate lyase-like
+Gly_radical          PF01228.24   106 MMO-44_contigs.fa_antismash_contig00003.region001_ORF5:gid::pid::loc:8035:10318:strand:+ -            760   4.7e-43  146.2   0.0   1   1     1e-46     1e-42  145.1   0.0     1   106   630   741   630   741 0.98 Glycine radical
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/MMO-44_contigs.fa_antismash_contig00003.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/MMO-44_contigs.fa_antismash_contig00003.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/MMO-44_contigs.fa_antismash_contig00003.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 17:36:22 2024
+# [ok]

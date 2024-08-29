@@ -1,0 +1,108 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="452.6333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="442.6333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg16_1)</title>
+			<polygon class=" (ctg16_1)" points="10,40 12,10 12,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg16_2)</title>
+			<polygon class=" (ctg16_2)" points="108,25 52,25 52,10 22,40 52,70 52,55 108,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pkinase (PF00069)
+"Protein kinase domain"</title>
+				<rect class="PF00069" x="64" y="28" stroke-linejoin="round" width="21" height="24" fill="rgb(104,187,65)" stroke="rgb(83,149,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg16_3)</title>
+			<polygon class=" (ctg16_3)" points="111,40 115,10 115,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg16_4)</title>
+			<polygon class=" (ctg16_4)" points="120,40 142,10 142,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trypsin (PF00089)
+"Trypsin"</title>
+				<polygon class="PF00089" points="124,40 133,28 140,28 140,52 133,52 124,40" stroke-linejoin="round" width="16" height="24" fill="rgb(207,127,78)" stroke="rgb(165,101,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg16_5)</title>
+			<polygon class=" (ctg16_5)" points="167,25 170,25 170,10 200,40 170,70 170,55 167,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>rve (PF00665)
+"Integrase core domain"</title>
+				<polygon class="PF00665" points="183,28 183,28 193,38 193,42 183,52 183,52" stroke-linejoin="round" width="10" height="24" fill="rgb(93,64,200)" stroke="rgb(74,51,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>rve_2 (PF13333)
+"Integrase core domain"</title>
+				<polygon class="PF13333" points="194,39 195,40 194,41" stroke-linejoin="round" width="5" height="24" fill="rgb(97,193,73)" stroke="rgb(77,154,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg16_6)</title>
+			<polygon class=" (ctg16_6)" points="203,40 209,10 209,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PIN_8 (PF18476)
+"PIN like domain"</title>
+				<polygon class="PF18476" points="206,40 208,28 208,28 208,52 208,52" stroke-linejoin="round" width="4" height="24" fill="rgb(163,73,186)" stroke="rgb(130,58,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg16_7)</title>
+			<polygon class=" (ctg16_7)" points="210,40 220,10 220,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg16_8)</title>
+			<polygon class=" (ctg16_8)" points="220,40 241,10 241,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HlyIII (PF03006)
+"Haemolysin-III related"</title>
+				<polygon class="PF03006" points="224,40 233,28 240,28 240,52 233,52" stroke-linejoin="round" width="20" height="24" fill="rgb(158,201,78)" stroke="rgb(126,160,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg16_9)</title>
+			<polygon class=" (ctg16_9)" points="247,10 265,40 247,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1836 (PF08876)
+"Domain of unknown function (DUF1836)"</title>
+				<polygon class="PF08876" points="248,28 254,28 258,34 258,46 254,52 248,52" stroke-linejoin="round" width="10" height="24" fill="rgb(76,132,206)" stroke="rgb(60,105,164)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg16_10)</title>
+			<polygon class=" (ctg16_10)" points="311,25 300,25 300,10 270,40 300,70 300,55 311,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg16_11)</title>
+			<polygon class=" (ctg16_11)" points="368,25 350,25 350,10 320,40 350,70 350,55 368,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DbpA (PF03880)
+"DbpA RNA binding domain"</title>
+				<polygon class="PF03880" points="324,40 327,37 327,43" stroke-linejoin="round" width="7" height="24" fill="rgb(204,85,70)" stroke="rgb(163,68,56)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Helicase_C (PF00271)
+"Helicase conserved C-terminal domain"</title>
+				<polygon class="PF00271" points="334,30 336,28 344,28 344,52 336,52 334,50" stroke-linejoin="round" width="10" height="24" fill="rgb(104,224,158)" stroke="rgb(83,179,126)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DEAD (PF00270)
+"DEAD/DEAH box helicase"</title>
+				<rect class="PF00270" x="348" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(195,100,62)" stroke="rgb(156,80,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg16_12)</title>
+			<polygon class=" (ctg16_12)" points="384,25 386,25 386,10 416,40 386,70 386,55 384,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>IMPDH (PF00478)
+"IMP dehydrogenase / GMP reductase domain"</title>
+				<polygon class="PF00478" points="384,28 400,28 412,40 400,52 384,52" stroke-linejoin="round" width="31" height="24" fill="rgb(225,99,218)" stroke="rgb(180,79,174)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

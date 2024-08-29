@@ -1,0 +1,225 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="805.8" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="795.8" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg22_26)</title>
+			<polygon class=" (ctg22_26)" points="58,25 64,25 64,10 94,40 64,70 64,55 58,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MS_channel (PF00924)
+"Mechanosensitive ion channel"</title>
+				<polygon class="PF00924" points="71,28 78,28 90,40 78,52 71,52" stroke-linejoin="round" width="20" height="24" fill="rgb(177,58,210)" stroke="rgb(141,46,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg22_27)</title>
+			<polygon class=" (ctg22_27)" points="96,10 99,40 96,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg22_28)</title>
+			<polygon class=" (ctg22_28)" points="98,10 106,40 98,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MazE_antitoxin (PF04014)
+"Antidote-toxin recognition MazE, bacterial antitoxin"</title>
+				<polygon class="PF04014" points="98,28 99,28 102,37 102,43 99,52 98,52" stroke-linejoin="round" width="4" height="24" fill="rgb(226,108,170)" stroke="rgb(180,86,136)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg22_29)</title>
+			<polygon class=" (ctg22_29)" points="106,10 117,40 106,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PemK_toxin (PF02452)
+"PemK-like, MazF-like toxin of type II toxin-antitoxin system"</title>
+				<polygon class="PF02452" points="106,28 109,28 113,40 109,52 106,52" stroke-linejoin="round" width="10" height="24" fill="rgb(81,193,221)" stroke="rgb(64,154,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg22_30)</title>
+			<polygon class=" (ctg22_30)" points="119,40 126,10 126,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg22_31)</title>
+			<polygon class=" (ctg22_31)" points="129,40 145,10 145,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_1 (PF00583)
+"Acetyltransferase (GNAT) family"</title>
+				<polygon class="PF00583" points="132,40 139,28 143,28 143,52 139,52" stroke-linejoin="round" width="12" height="24" fill="rgb(121,183,50)" stroke="rgb(96,146,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg22_32)</title>
+			<polygon class=" (ctg22_32)" points="183,25 179,25 179,10 149,40 179,70 179,55 183,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GFO_IDH_MocA_C (PF02894)
+"Oxidoreductase family, C-terminal alpha/beta domain"</title>
+				<polygon class="PF02894" points="153,40 165,28 169,28 169,52 165,52" stroke-linejoin="round" width="20" height="24" fill="rgb(195,223,82)" stroke="rgb(155,178,65)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GFO_IDH_MocA (PF01408)
+"Oxidoreductase family, NAD-binding Rossmann fold"</title>
+				<rect class="PF01408" x="171" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(76,117,190)" stroke="rgb(60,93,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg22_33)</title>
+			<polygon class=" (ctg22_33)" points="226,25 217,25 217,10 187,40 217,70 217,55 226,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DAO (PF01266)
+"FAD dependent oxidoreductase"</title>
+				<polygon class="PF01266" points="191,40 203,28 225,28 225,52 203,52" stroke-linejoin="round" width="35" height="24" fill="rgb(123,179,59)" stroke="rgb(98,143,47)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg22_34)</title>
+			<polygon class=" (ctg22_34)" points="261,25 260,25 260,10 230,40 260,70 260,55 261,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>2-Hacid_dh_C (PF02826)
+"D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain"</title>
+				<polygon class="PF02826" points="234,40 246,28 250,28 250,52 246,52" stroke-linejoin="round" width="17" height="24" fill="rgb(192,197,93)" stroke="rgb(153,157,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg22_35)</title>
+			<polygon class=" (ctg22_35)" points="270,25 270,25 270,10 300,40 270,70 270,55 270,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>polyprenyl_synt (PF00348)
+"Polyprenyl synthetase"</title>
+				<polygon class="PF00348" points="273,28 283,28 295,40 283,52 273,52" stroke-linejoin="round" width="24" height="24" fill="rgb(61,206,65)" stroke="rgb(48,164,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg22_36)</title>
+			<polygon class=" (ctg22_36)" points="300,25 312,25 312,10 342,40 312,70 312,55 300,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UDPGT (PF00201)
+"UDP-glucoronosyl and UDP-glucosyl transferase"</title>
+				<polygon class="PF00201" points="319,28 326,28 338,40 338,40 326,52 319,52" stroke-linejoin="round" width="19" height="24" fill="rgb(225,150,107)" stroke="rgb(180,120,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg22_37)</title>
+			<polygon class=" (ctg22_37)" points="343,25 351,25 351,10 381,40 351,70 351,55 343,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lycopene_cycl (PF05834)
+"Lycopene cyclase protein"</title>
+				<polygon class="PF05834" points="343,28 365,28 377,40 365,52 343,52" stroke-linejoin="round" width="37" height="24" fill="rgb(212,80,200)" stroke="rgb(169,64,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg22_38)</title>
+			<polygon class=" (ctg22_38)" points="382,25 401,25 401,10 431,40 401,70 401,55 382,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="383,28 415,28 427,40 415,52 383,52" stroke-linejoin="round" width="47" height="24" fill="rgb(184,74,52)" stroke="rgb(147,59,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg22_39)</title>
+			<polygon class=" (ctg22_39)" points="431,25 432,25 432,10 462,40 432,70 432,55 431,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="432,28 445,28 457,40 445,52 432,52" stroke-linejoin="round" width="26" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg22_40)</title>
+			<polygon class=" (ctg22_40)" points="460,40 477,10 477,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg22_41)</title>
+			<polygon class=" (ctg22_41)" points="483,10 491,40 483,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CcdA (PF07362)
+"Post-segregation antitoxin CcdA"</title>
+				<polygon class="PF07362" points="483,28 484,28 487,40 484,52 483,52" stroke-linejoin="round" width="7" height="24" fill="rgb(54,114,192)" stroke="rgb(43,91,153)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg22_42)</title>
+			<polygon class=" (ctg22_42)" points="491,10 501,40 491,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CcdB (PF01845)
+"CcdB protein"</title>
+				<polygon class="PF01845" points="491,28 493,28 498,40 493,52 491,52" stroke-linejoin="round" width="9" height="24" fill="rgb(78,79,185)" stroke="rgb(62,63,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg22_43)</title>
+			<polygon class=" (ctg22_43)" points="505,25 514,25 514,10 544,40 514,70 514,55 505,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="506,28 528,28 539,39 539,41 528,52 506,52" stroke-linejoin="round" width="33" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg22_44)</title>
+			<polygon class=" (ctg22_44)" points="581,25 575,25 575,10 545,40 575,70 575,55 581,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Bac_luciferase (PF00296)
+"Luciferase-like monooxygenase"</title>
+				<polygon class="PF00296" points="549,40 561,28 580,28 580,52 561,52" stroke-linejoin="round" width="32" height="24" fill="rgb(180,112,78)" stroke="rgb(144,89,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg22_45)</title>
+			<polygon class=" (ctg22_45)" points="589,10 606,40 589,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg22_46)</title>
+			<polygon class=" (ctg22_46)" points="603,40 632,10 632,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LysR_substrate (PF03466)
+"LysR substrate binding domain"</title>
+				<polygon class="PF03466" points="607,40 619,28 623,28 623,52 619,52" stroke-linejoin="round" width="20" height="24" fill="rgb(55,136,195)" stroke="rgb(44,108,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_1 (PF00126)
+"Bacterial regulatory helix-turn-helix protein, lysR family"</title>
+				<rect class="PF00126" x="626" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(125,227,79)" stroke="rgb(99,181,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg22_47)</title>
+			<polygon class=" (ctg22_47)" points="637,10 665,40 637,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lactamase_B (PF00753)
+"Metallo-beta-lactamase superfamily"</title>
+				<polygon class="PF00753" points="642,28 649,28 661,40 649,52 642,52" stroke-linejoin="round" width="20" height="24" fill="rgb(206,198,96)" stroke="rgb(164,158,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg22_48)</title>
+			<polygon class=" (ctg22_48)" points="665,40 676,10 676,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_20 (PF12840)
+"Helix-turn-helix domain"</title>
+				<polygon class="PF12840" points="669,37 673,28 674,28 674,52 673,52 669,43" stroke-linejoin="round" width="5" height="24" fill="rgb(157,225,93)" stroke="rgb(125,180,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg22_49)</title>
+			<polygon class=" (ctg22_49)" points="711,25 710,25 710,10 680,40 710,70 710,55 711,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AP_endonuc_2 (PF01261)
+"Xylose isomerase-like TIM barrel"</title>
+				<polygon class="PF01261" points="684,40 696,28 709,28 709,52 696,52" stroke-linejoin="round" width="29" height="24" fill="rgb(69,222,207)" stroke="rgb(55,177,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg22_50)</title>
+			<polygon class=" (ctg22_50)" points="751,25 742,25 742,10 712,40 742,70 742,55 751,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GFO_IDH_MocA_C (PF02894)
+"Oxidoreductase family, C-terminal alpha/beta domain"</title>
+				<polygon class="PF02894" points="716,40 728,28 735,28 735,52 728,52" stroke-linejoin="round" width="23" height="24" fill="rgb(195,223,82)" stroke="rgb(155,178,65)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GFO_IDH_MocA (PF01408)
+"Oxidoreductase family, NAD-binding Rossmann fold"</title>
+				<rect class="PF01408" x="737" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(76,117,190)" stroke="rgb(60,93,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

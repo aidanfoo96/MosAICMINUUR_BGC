@@ -1,0 +1,29 @@
+#                                                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                              accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                    -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+MFS_1                PF07690.19   353 USMM047_contigs.fa_antismash_contig00017.region001_ORF1:gid::pid::loc:363:1548:strand:+ -            394   3.5e-33  115.1  65.2   1   1   5.4e-35   3.5e-31  108.5  51.0     2   336    11   324    10   331 0.81 Major Facilitator Superfamily
+MFS_4                PF06779.17   365 USMM047_contigs.fa_antismash_contig00017.region001_ORF1:gid::pid::loc:363:1548:strand:+ -            394   1.4e-10   41.1  45.7   1   1   2.9e-14   1.9e-10   40.8  45.7     3   364    15   373    13   374 0.78 Uncharacterised MFS-type transporter YbfB
+Sugar_tr             PF00083.27   452 USMM047_contigs.fa_antismash_contig00017.region001_ORF1:gid::pid::loc:363:1548:strand:+ -            394   2.8e-08   33.2  13.5   1   1   4.2e-12   2.8e-08   33.2  13.5    48   195    42   184    32   185 0.84 Sugar (and other) transporter
+3-dmu-9_3-mt         PF06983.16   116 USMM047_contigs.fa_antismash_contig00017.region001_ORF2:gid::pid::loc:1606:2089:strand:+ -            160   7.9e-47  158.7   0.0   1   1   5.5e-51   1.1e-46  158.3   0.0     2   115     4   118     3   119 0.98 3-demethylubiquinone-9 3-methyltransferase
+PALP                 PF00291.28   294 USMM047_contigs.fa_antismash_contig00017.region001_ORF3:gid::pid::loc:2338:3715:strand:+ -            458   1.1e-63  215.5   0.1   1   1   1.6e-67   1.6e-63  215.0   0.1     3   294    11   303     9   303 0.91 Pyridoxal-phosphate dependent enzyme
+CBS                  PF00571.31    57 USMM047_contigs.fa_antismash_contig00017.region001_ORF3:gid::pid::loc:2338:3715:strand:+ -            458   3.4e-15   56.4   1.5   1   2   1.1e-12   1.1e-08   35.6   0.3     8    55   344   391   332   393 0.83 CBS domain
+CBS                  PF00571.31    57 USMM047_contigs.fa_antismash_contig00017.region001_ORF3:gid::pid::loc:2338:3715:strand:+ -            458   3.4e-15   56.4   1.5   2   2   3.1e-07    0.0031   18.1   0.0     2    55   403   453   400   455 0.84 CBS domain
+Cys_Met_Meta_PP      PF01053.23   382 USMM047_contigs.fa_antismash_contig00017.region001_ORF4:gid::pid::loc:3711:4878:strand:+ -            388  1.9e-149  497.5   0.0   1   1  1.1e-153  2.2e-149  497.3   0.0     2   381    11   385    10   386 0.99 Cys/Met metabolism PLP-dependent enzyme
+YcaO_C               PF18381.4    172 USMM047_contigs.fa_antismash_contig00017.region001_ORF5:gid::pid::loc:5000:7199:strand:- -            732   1.6e-74  249.6   3.9   1   1     4e-78   2.6e-74  248.9   3.9     1   171   557   727   557   728 0.99 YcaO cyclodehydratase C-terminal domain
+YcaO                 PF02624.19   322 USMM047_contigs.fa_antismash_contig00017.region001_ORF5:gid::pid::loc:5000:7199:strand:- -            732   8.2e-71  239.1   0.0   1   1   1.9e-74   1.3e-70  238.5   0.0     1   321   205   540   205   541 0.92 YcaO cyclodehydratase, ATP-ad Mg2+-binding
+OsmC                 PF02566.22   100 USMM047_contigs.fa_antismash_contig00017.region001_ORF5:gid::pid::loc:5000:7199:strand:- -            732   3.8e-08   33.8   0.0   1   1     2e-11   1.3e-07   32.1   0.0     1    99    32   126    32   127 0.83 OsmC-like protein
+Isochorismatase      PF00857.23   175 USMM047_contigs.fa_antismash_contig00017.region001_ORF6:gid::pid::loc:7344:7905:strand:+ -            186   7.7e-37  127.3   0.0   1   1   4.3e-41   8.4e-37  127.1   0.0     2   164     9   170     8   181 0.91 Isochorismatase family
+NUDIX                PF00293.31   131 USMM047_contigs.fa_antismash_contig00017.region001_ORF7:gid::pid::loc:7967:8417:strand:- -            149   7.7e-16   58.5   0.4   1   1   4.9e-20   9.5e-16   58.1   0.4     3   117     4   129     2   143 0.72 NUDIX domain
+AAA_33               PF13671.9    143 USMM047_contigs.fa_antismash_contig00017.region001_ORF9:gid::pid::loc:9203:9683:strand:- -            159   8.2e-28   97.5   0.0   1   1   9.3e-32   9.2e-28   97.3   0.0     1   143     4   146     4   146 0.98 AAA domain
+DUF2231              PF09990.12   140 USMM047_contigs.fa_antismash_contig00017.region001_ORF10:gid::pid::loc:10398:10824:strand:+ -            141   3.8e-09   36.8  13.9   1   1   3.5e-13     7e-09   36.0  13.9     3   128    14   132    12   137 0.85 Predicted membrane protein (DUF2231)
+GSDH                 PF07995.14   332 USMM047_contigs.fa_antismash_contig00017.region001_ORF11:gid::pid::loc:10820:12113:strand:+ -            430   2.3e-11   43.7   0.3   1   1   2.7e-14   2.6e-10   40.2   0.3     3   260    76   339    74   356 0.71 Glucose / Sorbosone dehydrogenase
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      010224_BigSCAPERun_B/cache/fasta/USMM047_contigs.fa_antismash_contig00017.region001.fasta
+# Target file:     /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm
+# Option settings: hmmscan --domtblout 010224_BigSCAPERun_B/cache/domtable/USMM047_contigs.fa_antismash_contig00017.region001.domtable --cut_tc --cpu 0 /home/fooa/lstm_scratch/Chapter_4/BiG-SCAPE-1.1.5/Pfam-A.hmm 010224_BigSCAPERun_B/cache/fasta/USMM047_contigs.fa_antismash_contig00017.region001.fasta 
+# Current dir:     /home/fooa/lstm_scratch/Chapter_4/04_MosAICBigScape
+# Date:            Thu Feb  1 19:14:20 2024
+# [ok]

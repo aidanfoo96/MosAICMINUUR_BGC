@@ -1,0 +1,120 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="366.6333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="356.6333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg13_26)</title>
+			<polygon class=" (ctg13_26)" points="12,10 38,40 12,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MerR_1 (PF13411)
+"MerR HTH family regulatory protein"</title>
+				<rect class="PF13411" x="12" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(100,202,107)" stroke="rgb(80,161,85)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GyrI-like (PF06445)
+"GyrI-like small molecule binding domain"</title>
+				<polygon class="PF06445" points="22,28 24,28 34,40 24,52 22,52" stroke-linejoin="round" width="15" height="24" fill="rgb(61,183,118)" stroke="rgb(48,146,94)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_27)</title>
+			<polygon class=" (ctg13_27)" points="39,25 79,25 79,10 109,40 79,70 79,55 39,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DEAD (PF00270)
+"DEAD/DEAH box helicase"</title>
+				<rect class="PF00270" x="42" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(195,100,62)" stroke="rgb(156,80,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Helicase_C (PF00271)
+"Helicase conserved C-terminal domain"</title>
+				<rect class="PF00271" x="63" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(104,224,158)" stroke="rgb(83,179,126)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_28)</title>
+			<polygon class=" (ctg13_28)" points="115,10 132,40 115,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_1 (PF00583)
+"Acetyltransferase (GNAT) family"</title>
+				<polygon class="PF00583" points="117,28 121,28 128,39 128,41 121,52 117,52" stroke-linejoin="round" width="11" height="24" fill="rgb(121,183,50)" stroke="rgb(96,146,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_29)</title>
+			<polygon class=" (ctg13_29)" points="134,25 146,25 146,10 176,40 146,70 146,55 134,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_3 (PF00202)
+"Aminotransferase class-III"</title>
+				<polygon class="PF00202" points="135,28 159,28 171,40 159,52 135,52" stroke-linejoin="round" width="39" height="24" fill="rgb(49,163,189)" stroke="rgb(39,130,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_30)</title>
+			<polygon class=" (ctg13_30)" points="176,10 189,40 176,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ectoine_synth (PF06339)
+"Ectoine synthase"</title>
+				<polygon class="PF06339" points="176,28 180,28 186,40 180,52 176,52" stroke-linejoin="round" width="12" height="24" fill="rgb(225,176,81)" stroke="rgb(180,140,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_31)</title>
+			<polygon class=" (ctg13_31)" points="190,25 191,25 191,10 221,40 191,70 191,55 190,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>2-Hacid_dh_C (PF02826)
+"D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain"</title>
+				<polygon class="PF02826" points="199,28 204,28 216,40 216,40 204,52 199,52" stroke-linejoin="round" width="17" height="24" fill="rgb(192,197,93)" stroke="rgb(153,157,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_32)</title>
+			<polygon class=" (ctg13_32)" points="222,40 239,10 239,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyoxalase (PF00903)
+"Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily"</title>
+				<polygon class="PF00903" points="225,40 232,28 236,28 236,52 232,52" stroke-linejoin="round" width="12" height="24" fill="rgb(50,162,189)" stroke="rgb(40,129,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_33)</title>
+			<polygon class=" (ctg13_33)" points="241,10 269,40 241,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SIR2 (PF02146)
+"Sir2 family"</title>
+				<polygon class="PF02146" points="243,28 253,28 263,38 263,42 253,52 243,52" stroke-linejoin="round" width="20" height="24" fill="rgb(83,217,165)" stroke="rgb(66,173,132)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_34)</title>
+			<polygon class=" (ctg13_34)" points="305,25 299,25 299,10 269,40 299,70 299,55 305,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PUA (PF01472)
+"PUA domain"</title>
+				<polygon class="PF01472" points="273,40 277,36 277,44" stroke-linejoin="round" width="7" height="24" fill="rgb(203,171,67)" stroke="rgb(162,136,53)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AA_kinase (PF00696)
+"Amino acid kinase family"</title>
+				<polygon class="PF00696" points="281,32 285,28 303,28 303,52 285,52 281,48" stroke-linejoin="round" width="22" height="24" fill="rgb(148,78,224)" stroke="rgb(118,62,179)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_35)</title>
+			<polygon class=" (ctg13_35)" points="355,25 337,25 337,10 307,40 337,70 337,55 355,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1967 (PF09269)
+"Domain of unknown function (DUF1967)"</title>
+				<polygon class="PF09269" points="311,40 318,33 318,47 311,40" stroke-linejoin="round" width="7" height="24" fill="rgb(50,182,62)" stroke="rgb(39,145,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MMR_HSR1 (PF01926)
+"50S ribosome-binding GTPase"</title>
+				<rect class="PF01926" x="326" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(105,180,226)" stroke="rgb(83,143,180)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>GTP1_OBG (PF01018)
+"GTP1/OBG"</title>
+				<rect class="PF01018" x="339" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(159,183,68)" stroke="rgb(127,146,54)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

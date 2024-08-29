@@ -1,0 +1,158 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="731.2" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="721.2" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg13_25)</title>
+			<polygon class=" (ctg13_25)" points="89,25 72,25 72,10 42,40 72,70 72,55 89,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>6PGD (PF00393)
+"6-phosphogluconate dehydrogenase, C-terminal domain"</title>
+				<polygon class="PF00393" points="46,40 58,28 70,28 70,52 58,52" stroke-linejoin="round" width="28" height="24" fill="rgb(57,119,210)" stroke="rgb(45,95,168)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>NAD_binding_2 (PF03446)
+"NAD binding domain of 6-phosphogluconate dehydrogenase"</title>
+				<rect class="PF03446" x="71" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(205,164,98)" stroke="rgb(164,131,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_26)</title>
+			<polygon class=" (ctg13_26)" points="95,40 110,10 110,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SnoaL_2 (PF12680)
+"SnoaL-like domain"</title>
+				<polygon class="PF12680" points="98,40 104,28 107,28 107,52 104,52" stroke-linejoin="round" width="11" height="24" fill="rgb(184,69,155)" stroke="rgb(147,55,124)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_27)</title>
+			<polygon class=" (ctg13_27)" points="111,40 122,10 122,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg13_28)</title>
+			<polygon class=" (ctg13_28)" points="133,10 156,40 133,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="134,28 143,28 148,35 148,45 143,52 134,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_29)</title>
+			<polygon class=" (ctg13_29)" points="160,25 177,25 177,10 207,40 177,70 177,55 160,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF3526 (PF12040)
+"Domain of unknown function (DUF3526)"</title>
+				<polygon class="PF12040" points="188,28 191,28 202,39 202,41 191,52 188,52" stroke-linejoin="round" width="14" height="24" fill="rgb(179,178,52)" stroke="rgb(143,142,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_30)</title>
+			<polygon class=" (ctg13_30)" points="208,25 226,25 226,10 256,40 226,70 226,55 208,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC2_membrane_2 (PF12679)
+"ABC-2 family transporter protein"</title>
+				<polygon class="PF12679" points="208,28 240,28 246,34 246,46 240,52 208,52" stroke-linejoin="round" width="38" height="24" fill="rgb(70,194,214)" stroke="rgb(56,155,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_31)</title>
+			<polygon class=" (ctg13_31)" points="256,25 298,25 298,10 328,40 298,70 298,55 256,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Plug (PF07715)
+"TonB-dependent Receptor Plug Domain"</title>
+				<rect class="PF07715" x="261" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(99,133,214)" stroke="rgb(79,106,171)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TonB_dep_Rec (PF00593)
+"TonB dependent receptor"</title>
+				<polygon class="PF00593" points="276,28 312,28 324,40 312,52 276,52" stroke-linejoin="round" width="52" height="24" fill="rgb(171,200,51)" stroke="rgb(136,160,40)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_32)</title>
+			<polygon class=" (ctg13_32)" points="329,10 333,40 329,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg13_33)</title>
+			<polygon class=" (ctg13_33)" points="332,10 338,40 332,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg13_34)</title>
+			<polygon class=" (ctg13_34)" points="406,25 373,25 373,10 343,40 373,70 373,55 406,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LANC_like (PF05147)
+"Lanthionine synthetase C-like protein"</title>
+				<rect class="PF05147" x="365" y="28" stroke-linejoin="round" width="37" height="24" fill="rgb(129,182,79)" stroke="rgb(103,145,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_35)</title>
+			<polygon class=" (ctg13_35)" points="406,40 434,10 434,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lant_dehydr_C (PF14028)
+"Lantibiotic biosynthesis dehydratase C-term"</title>
+				<polygon class="PF14028" points="410,40 421,28 433,28 433,52 421,52" stroke-linejoin="round" width="27" height="24" fill="rgb(107,223,113)" stroke="rgb(85,178,90)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_36)</title>
+			<polygon class=" (ctg13_36)" points="523,25 465,25 465,10 435,40 465,70 465,55 523,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lant_dehydr_N (PF04738)
+"Lantibiotic dehydratase, N terminus"</title>
+				<polygon class="PF04738" points="442,37 451,28 508,28 508,52 451,52 442,43" stroke-linejoin="round" width="66" height="24" fill="rgb(219,60,229)" stroke="rgb(175,47,183)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_37)</title>
+			<polygon class=" (ctg13_37)" points="599,25 553,25 553,10 523,40 553,70 553,55 599,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="530,37 539,28 544,28 544,52 539,52 530,43" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="551" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Peptidase_C39 (PF03412)
+"Peptidase C39 family"</title>
+				<rect class="PF03412" x="583" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(214,226,77)" stroke="rgb(171,180,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_38)</title>
+			<polygon class=" (ctg13_38)" points="606,10 633,40 606,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF5829 (PF19147)
+"Family of unknown function (DUF5829)"</title>
+				<polygon class="PF19147" points="607,28 618,28 629,40 618,52 607,52" stroke-linejoin="round" width="25" height="24" fill="rgb(210,91,122)" stroke="rgb(168,72,97)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_39)</title>
+			<polygon class=" (ctg13_39)" points="639,10 668,40 639,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AraC_binding (PF02311)
+"AraC-like ligand binding domain"</title>
+				<polygon class="PF02311" points="641,28 652,28 654,30 654,50 652,52 641,52" stroke-linejoin="round" width="13" height="24" fill="rgb(81,203,213)" stroke="rgb(64,162,170)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_18 (PF12833)
+"Helix-turn-helix domain"</title>
+				<polygon class="PF12833" points="660,36 664,40 660,44" stroke-linejoin="round" width="7" height="24" fill="rgb(216,58,224)" stroke="rgb(172,46,179)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_40)</title>
+			<polygon class=" (ctg13_40)" points="671,10 700,40 671,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg13_41)</title>
+			<polygon class=" (ctg13_41)" points="704,40 720,10 720,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

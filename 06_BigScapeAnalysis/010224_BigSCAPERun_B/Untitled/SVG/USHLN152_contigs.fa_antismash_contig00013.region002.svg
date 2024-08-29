@@ -1,0 +1,87 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="364.3333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="354.3333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg13_82)</title>
+			<polygon class=" (ctg13_82)" points="27,25 45,25 45,10 75,40 45,70 45,55 27,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GntR (PF00392)
+"Bacterial regulatory proteins, gntR family"</title>
+				<rect class="PF00392" x="28" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(160,85,194)" stroke="rgb(127,68,155)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Aminotran_1_2 (PF00155)
+"Aminotransferase class I and II"</title>
+				<polygon class="PF00155" points="39,28 59,28 71,40 59,52 39,52" stroke-linejoin="round" width="35" height="24" fill="rgb(89,113,198)" stroke="rgb(71,90,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_83)</title>
+			<polygon class=" (ctg13_83)" points="75,25 75,25 75,10 105,40 75,70 75,55 75,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Dala_Dala_lig_N (PF01820)
+"D-ala D-ala ligase N-terminus"</title>
+				<rect class="PF01820" x="75" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(55,160,179)" stroke="rgb(44,127,143)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Dala_Dala_lig_C (PF07478)
+"D-ala D-ala ligase C-terminus"</title>
+				<polygon class="PF07478" points="84,28 89,28 101,40 89,52 84,52" stroke-linejoin="round" width="19" height="24" fill="rgb(202,54,160)" stroke="rgb(161,43,127)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_84)</title>
+			<polygon class=" (ctg13_84)" points="116,10 139,40 116,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TENA_THI-4 (PF03070)
+"TENA/THI-4/PQQC family"</title>
+				<polygon class="PF03070" points="116,28 126,28 135,40 126,52 116,52" stroke-linejoin="round" width="20" height="24" fill="rgb(95,149,219)" stroke="rgb(76,119,175)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_85)</title>
+			<polygon class=" (ctg13_85)" points="152,10 160,40 152,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF3937 (PF13073)
+"Protein of unknown function (DUF3937)"</title>
+				<polygon class="PF13073" points="152,28 153,28 157,40 153,52 152,52" stroke-linejoin="round" width="7" height="24" fill="rgb(221,84,154)" stroke="rgb(176,67,123)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_86)</title>
+			<polygon class=" (ctg13_86)" points="176,10 187,40 176,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg13_87)</title>
+			<polygon class=" (ctg13_87)" points="204,10 220,40 204,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (ctg13_88)</title>
+			<polygon class=" (ctg13_88)" points="230,25 279,25 279,10 309,40 279,70 279,55 230,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>pPIWI_RE_X (PF13111)
+"pPIWI_RE module N-terminal domain"</title>
+				<rect class="PF13111" x="231" y="28" stroke-linejoin="round" width="35" height="24" fill="rgb(146,74,184)" stroke="rgb(116,59,147)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MID_pPIWI_RE (PF18157)
+"MID domain of pPIWI_RE"</title>
+				<rect class="PF18157" x="270" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(216,220,98)" stroke="rgb(172,176,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>RNaseH_pPIWI_RE (PF13032)
+"RNaseH domain of pPIWI_RE"</title>
+				<polygon class="PF13032" points="283,28 293,28 300,35 300,45 293,52 283,52" stroke-linejoin="round" width="17" height="24" fill="rgb(95,210,207)" stroke="rgb(76,168,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg13_89)</title>
+			<polygon class=" (ctg13_89)" points="316,10 341,40 316,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF3959 (PF13105)
+"Protein of unknown function (DUF3959)"</title>
+				<polygon class="PF13105" points="317,28 327,28 337,40 327,52 317,52" stroke-linejoin="round" width="24" height="24" fill="rgb(80,78,207)" stroke="rgb(64,62,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

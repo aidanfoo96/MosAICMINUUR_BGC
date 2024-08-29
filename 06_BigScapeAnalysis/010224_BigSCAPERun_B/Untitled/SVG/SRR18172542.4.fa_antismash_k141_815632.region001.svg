@@ -1,0 +1,28 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="96.1" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="86.1" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (ctg208_1)</title>
+			<polygon class=" (ctg208_1)" points="53,25 40,25 40,10 10,40 40,70 40,55 53,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="14,40 14,40 14,40" stroke-linejoin="round" width="4" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<polygon class="PF04183" points="17,37 26,28 40,28 40,52 26,52 17,43" stroke-linejoin="round" width="23" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (ctg208_2)</title>
+			<polygon class=" (ctg208_2)" points="58,10 85,40 58,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="59,28 70,28 81,40 70,52 59,52" stroke-linejoin="round" width="25" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>
