@@ -1,0 +1,19 @@
+PopPUNK (POPulation Partitioning Using Nucleotide Kmers)
+	(with backend: sketchlib v2.1.1
+	 sketchlib: /home/fooa/miniconda3/envs/poppunk_env/lib/python3.10/site-packages/pp_sketchlib.cpython-310-x86_64-linux-gnu.so)
+
+Graph-tools OpenMP parallelisation enabled: with 1 threads
+Mode: Fitting bgmm model to reference database
+
+Assigning distances with BGMM model
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 252.46it/s]
+Traceback (most recent call last):
+  File "/home/fooa/miniconda3/envs/poppunk_env/bin/poppunk", line 11, in <module>
+    sys.exit(main())
+  File "/home/fooa/miniconda3/envs/poppunk_env/lib/python3.10/site-packages/PopPUNK/__main__.py", line 486, in main
+    assignments = model.fit(distMat, args.K)
+  File "/home/fooa/miniconda3/envs/poppunk_env/lib/python3.10/site-packages/PopPUNK/models.py", line 332, in fit
+    self.between_label = findWithinLabel(self.means, y, 1)
+  File "/home/fooa/miniconda3/envs/poppunk_env/lib/python3.10/site-packages/PopPUNK/bgmm.py", line 75, in findWithinLabel
+    return(sorted_dists[rank][0])
+IndexError: list index out of range

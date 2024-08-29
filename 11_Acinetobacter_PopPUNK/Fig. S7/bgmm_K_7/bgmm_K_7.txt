@@ -1,0 +1,34 @@
+PopPUNK (POPulation Partitioning Using Nucleotide Kmers)
+	(with backend: sketchlib v2.1.1
+	 sketchlib: /home/fooa/miniconda3/envs/poppunk_env/lib/python3.10/site-packages/pp_sketchlib.cpython-310-x86_64-linux-gnu.so)
+
+Graph-tools OpenMP parallelisation enabled: with 1 threads
+Mode: Fitting bgmm model to reference database
+
+Assigning distances with BGMM model
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 59.08it/s]
+Fit summary:
+	Avg. entropy of assignment	0.0217
+	Number of components used	6
+
+Scaled component means:
+	[0.75827326 0.78992319]
+	[0.01181733 0.0370286 ]
+	[0.37015516 0.7656152 ]
+	[0.96415182 0.27001312]
+	[0.15856465 0.43973809]
+	[0.4798194  0.64367901]
+	[1.01156641e-11 2.85750873e-11]
+
+Network summary:
+	Components				16
+	Density					0.0805
+	Transitivity				1.0000
+	Mean betweenness			0.0000
+	Weighted-mean betweenness		0.0000
+	Score					0.9195
+	Score (w/ betweenness)			0.9195
+	Score (w/ weighted-betweenness)		0.9195
+Removing 14 sequences
+
+Done
